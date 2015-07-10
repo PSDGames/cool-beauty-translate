@@ -1,0 +1,422 @@
+[
+    {
+        "id": "0400",
+        "line": {
+            "en": "'Let's wait a little longer.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "Anyway, I'll just hang on for now."
+        },
+        "name": ""
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "'Oh. Well, then, I'm going on ahead.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "Kotori said it with a composed face and really\\ndid go on ahead."
+        },
+        "name": ""
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "It can't be helped, so I give Ageha a quick shout\\nbefore chasing after Kotori."
+        },
+        "name": ""
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "'We can wait for a little while, can't we?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "'So why don't you?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "'...Are you really that against going with\\nAgeha?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "Without realizing, I sound anxious as I ask."
+        },
+        "name": ""
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "'I'm... not against it.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "'But I feel kind of nervous.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "'Or should I say I feel awkward? I just can't\\nstand it!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "It always felt like Kotori had trouble knowing\\nhow to be around Ageha."
+        },
+        "name": ""
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "'You're always acting so tough but really you're\\na bundle of nerves...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "'Stop analyzing me.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "'Yeah yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "She always puts up a front, and is wary of\\nstrangers."
+        },
+        "name": ""
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "This also affected her in that when she came to\\nthis school, she never got used to being part of\\nthe class."
+        },
+        "name": ""
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "'...If you want to go together with her that\\nmuch, then why don't you do that?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "'I can go by myself. There's an elevator too.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "'That's not what I'm saying! Stop crying!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "'I'm not crying!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "'Really? That's good.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "'...Sniff. Aoi, you think I'm a crybaby, don't\\nyou?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "'No I don't.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "'You're so annoying.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "I've annoyed her."
+        },
+        "name": ""
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "Kotori stops moving her wheelchair. Is she tired?"
+        },
+        "name": ""
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "'You want me to push you?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "Kotori shook her head."
+        },
+        "name": ""
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "'...I really want to get along with her.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "'But I don't know how.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "'And...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "'...maybe she already hates me.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "'Huh? Why do you think that?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "'I... said such nasty things to her! And also...\\nI have a bad attitude!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "If you realize that you have a bad attitude, why\\ndon't you do something about it?"
+        },
+        "name": ""
+    },
+    {
+        "id": "9800",
+        "line": {
+            "en": "'Hey, what do you think? She hates me, doesn't\\nshe? She wishes I was dead, doesn't she?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "'No, she doesn't.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "I simply stated that for the time being."
+        },
+        "name": ""
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "'How can you be so sure?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "'I've known her for a long time, so I know that\\nmuch about her.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "'Maybe.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "She's so paranoid."
+        },
+        "name": ""
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "Kotori puts her hand on her chin, and starts\\nthinking."
+        },
+        "name": ""
+    },
+    {
+        "id": "b800",
+        "line": {
+            "en": "'...How can I get along better with her?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "bc00",
+        "line": {
+            "en": "'Well, for example...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c000",
+        "line": {
+            "en": "'Yes?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c400",
+        "line": {
+            "en": "'Before going to club activities, if she says\\n'wait for me', why not wait for her?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c800",
+        "line": {
+            "en": "'But... She didn't say that to me.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "cc00",
+        "line": {
+            "en": "'Because I'm the one who called out to her.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d000",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "d400",
+        "line": {
+            "en": "'Shall we go back to the classroom?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d800",
+        "line": {
+            "en": "'No, it's fine.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "dc00",
+        "line": {
+            "en": "'...If I went back now, I'd be embarrassed.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "e000",
+        "line": {
+            "en": "She really did sound embarrassed as she spoke,\\nthen moved off in her wheelchair."
+        },
+        "name": ""
+    },
+    {
+        "id": "e400",
+        "line": {
+            "en": "Sure, I'm worried about the delicate situation\\nbetween the two of them, but..."
+        },
+        "name": ""
+    },
+    {
+        "id": "e800",
+        "line": {
+            "en": "'(There's no need to rush things. Things like\\nthis take time.)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ec00",
+        "line": {
+            "en": "Friendship is something that grows slowly."
+        },
+        "name": ""
+    },
+    {
+        "id": "f000",
+        "line": {
+            "en": "If there's anything I can do to help, then I\\nwill."
+        },
+        "name": ""
+    }
+]

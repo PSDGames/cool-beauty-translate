@@ -1,0 +1,422 @@
+[
+    {
+        "id": "0400",
+        "line": {
+            "en": "'She said she'd be finished soon, so I'll wait\\nhere.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "'I see. OK, I'm going on ahead.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "Kotori seemed a little disgruntled as she said\\nthat and went off without me."
+        },
+        "name": ""
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "'...So I made her mad, huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "Well, that happens all the time."
+        },
+        "name": ""
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "'Sorry to keep you waiting. Huh? Where's Kotori?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "'She went on ahead.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "'Oh...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "'Hey, Aoi.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "'Yeah?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "'About Kotori...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "'...What does she think of me?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "I said 'Ah...' without thinking."
+        },
+        "name": ""
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "'Does she really hate me, after all?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "'I don't think that's it. She replies when you\\ngreet her.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "In Kotori's case, I'm pretty sure she wouldn't do\\nthat if she hated Ageha."
+        },
+        "name": ""
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "'But she gets along really well with you, right?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "'Really?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "'Kotori's the one you get along with best.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "'Well, we live in the same dorm.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "'Ryouko lives in Flying Fish Manor too, but you\\nhardly speak to her at school.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "Ryouko is one of the boarders and is in the same\\ngrade as us. She's also Ageha's friend."
+        },
+        "name": ""
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "But I hardly ever speak to her at school."
+        },
+        "name": ""
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "'See?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "'...Yeah, maybe you have a point. But what is\\nthis all of a sudden?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "'Nothing really. I just wanted to say it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "'...Are you angry about it?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "'I might be.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "'...Is this jealousy or something?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "'What?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "'Well, you and I are childhood friends, and we've\\nbeen close ever since we were kids.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "'I think of you as one of my best friends.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "If we're talking about when we were kids, Ageha\\nwas my very best friend."
+        },
+        "name": ""
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "Even if there was a blank of five years, that\\nshouldn't have changed."
+        },
+        "name": ""
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "But in Ageha's eyes, recently, Kotori has been my\\nclosest friend."
+        },
+        "name": ""
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "Sure, we do spend a lot of time together."
+        },
+        "name": ""
+    },
+    {
+        "id": "9800",
+        "line": {
+            "en": "That must be why she's feeling jealous."
+        },
+        "name": ""
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "'You're so full of it!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "'...is what I want to say, but maybe it's also\\nbecause...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "'It feels like Kotori is taking you away from\\nme,'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "she says miserably."
+        },
+        "name": ""
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "'That's not really how I see it. I still think of\\nyou as my very best friend.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "'I'll help you when you're in trouble, the same\\nway you do for me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "'I want you to trust me a little more.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b800",
+        "line": {
+            "en": "Ageha looks at me like, 'How come we started\\ntalking about this?"
+        },
+        "name": ""
+    },
+    {
+        "id": "bc00",
+        "line": {
+            "en": "'Ah ha ha ha! What are you talking about?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c000",
+        "line": {
+            "en": "'Geez, you're full of enthusiasm as always! Yep,\\nthat's cheered me up!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c400",
+        "line": {
+            "en": "'Oh, yeah? I'm glad.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c800",
+        "line": {
+            "en": "'But when you say I'm jealous, you might be\\nright.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cc00",
+        "line": {
+            "en": "'I'm jealous of you.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d000",
+        "line": {
+            "en": "'Me?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d400",
+        "line": {
+            "en": "'My plan to win Kotori over failed but she's\\ngetting along really well with you.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d800",
+        "line": {
+            "en": "'Maybe I lack charm...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "dc00",
+        "line": {
+            "en": "'Yeah, sometimes.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e000",
+        "line": {
+            "en": "'Aoi, you have the kind of charm that attracts\\npeople...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e400",
+        "line": {
+            "en": "'Just kidding!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e800",
+        "line": {
+            "en": "'What the hell?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ec00",
+        "line": {
+            "en": "'How can I get along with Kotori better?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f000",
+        "line": {
+            "en": "Ageha put her hands on top of her head and let\\nout a sigh."
+        },
+        "name": ""
+    }
+]

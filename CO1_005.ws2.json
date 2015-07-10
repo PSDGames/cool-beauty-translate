@@ -1,0 +1,2585 @@
+[
+    {
+        "id": "0000",
+        "line": {
+            "en": "The scorching sun comes shining in."
+        },
+        "name": ""
+    },
+    {
+        "id": "0400",
+        "line": {
+            "en": "Up on the roof, with nothing to block the\\nsunlight, it feels even more like I'm being\\nburned."
+        },
+        "name": ""
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "'Today is hot as hell...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "I grumble as I wipe the sweat from my brow."
+        },
+        "name": ""
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "It's already seven o'clock."
+        },
+        "name": ""
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "It's just before the peak of summer, and the sun\\nis finally shining at full strength."
+        },
+        "name": ""
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "Today is Saturday, so there's no school."
+        },
+        "name": ""
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "Now is my chance to get some of the dorm mother\\nwork done."
+        },
+        "name": ""
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "This morning, I've climbed up on the roof and I'm\\nfixing leaks."
+        },
+        "name": ""
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "'This building is in pretty bad condition.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "I heard that the owner who collapsed a few days\\nago, and who was also the caretaker here, is an\\nelderly woman."
+        },
+        "name": ""
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "Because it was a girl's dormitory, with no guys\\naround, there were quite a few places that had\\nbeen left damaged."
+        },
+        "name": ""
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "This place is so old that I can't help wondering\\nif originally, it was aiming to be registered as\\na cultural heritage site."
+        },
+        "name": ""
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "The owner, who is a widow, opened the manor house\\nas a student dormitory before I was born."
+        },
+        "name": ""
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "Which means that when we were calling this place\\nthe 'Witch's Mansion', students from Keifuu\\nAcademy were already living here."
+        },
+        "name": ""
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "Since then, the owner had been taking care of the\\nboarding students like they were her own children\\nor grandchildren."
+        },
+        "name": ""
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "However, since the redevelopment plans were\\nbrought forward, land prices in Kazegaura have\\nbeen rising."
+        },
+        "name": ""
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "The owner's sons were hoping to let go of this\\nplace, which was one of the reasons why I was\\nbrought on to take the dorm mother's job in such\\na hurry."
+        },
+        "name": ""
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "It might be hard to avoid getting involved in\\nthose kinds of adult matters, so I will just\\nquietly get on with the work that I have to do."
+        },
+        "name": ""
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "'Alright, that should do it.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "Finishing the repairs to the roof, I climb down\\nthe ladder."
+        },
+        "name": ""
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "'Ok, next is...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "'Quack quack!'"
+        },
+        "name": "Hat"
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "Hat, who was pecking at the soil, had come closer\\nto where I was going to put my feet as I climbed\\ndown."
+        },
+        "name": ""
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "This is kind of besides the point, but ducks eat\\nweeds and bugs. So, it seems that if I just leave\\nhim to it, he will maintain the garden."
+        },
+        "name": ""
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "However, he will also peck at the flowers and so\\non too, so the person doing the gardening needs\\nto watch out for that."
+        },
+        "name": ""
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "'What's up, Hat? Where's your buddy?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "'Quaaack!'"
+        },
+        "name": "Hat"
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "I have no idea what he's saying but he definitely\\nlooks bored."
+        },
+        "name": ""
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "'Sorry but I've got work to do. When I get back,\\nI'll give you a bath.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "'Quack...'"
+        },
+        "name": "Hat"
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "The door to Kotori's room was closed."
+        },
+        "name": ""
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "I couldn't hear any sound, and there were no\\nsigns that she was awake."
+        },
+        "name": ""
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "'Still asleep, huh, sleepyhead?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "'Hey, Kotori!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "'Wake up, Allule!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "'Hey, Miss Allule!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "'Sh...shut up! What do you want!?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9800",
+        "line": {
+            "en": "'I'm going to do some shopping! Do you want to\\ncome with me?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "'Huh? ...Is that the reason why you disturbed my\\npeaceful sleep?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "'Her face seemed to say 'If this was America, and\\nI sued you, you would lose!"
+        },
+        "name": ""
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "'You're oversleeping. It's a nice sunny day, so\\nlet's go outside.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "'Why do I have do your shopping with you...?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "'It's shopping for the dormitory. You eat too,\\ndon't you?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "'...I'll get ready, so hold on a minute.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "b800",
+        "line": {
+            "en": "'Hi there, hey...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bc00",
+        "line": {
+            "en": "'Tsk!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c000",
+        "line": {
+            "en": "Seeing Ageha give a great big wave, Kotori makes\\nan annoyed face."
+        },
+        "name": ""
+    },
+    {
+        "id": "c400",
+        "line": {
+            "en": "'Hi, Ageha!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c800",
+        "line": {
+            "en": "'Sup, Aoi! Morning, Kotori!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cc00",
+        "line": {
+            "en": "'M...morning.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "d000",
+        "line": {
+            "en": "'(Hey, why is she here!? You said we were going\\nout to do shopping for the dormitory!)'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "d400",
+        "line": {
+            "en": "'(It's fine. There's something I need help\\nwith.)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d800",
+        "line": {
+            "en": "I had planned from the beginning to meet up with\\nAgeha."
+        },
+        "name": ""
+    },
+    {
+        "id": "dc00",
+        "line": {
+            "en": "That's because I want her as a special advisor\\nfor today's work."
+        },
+        "name": ""
+    },
+    {
+        "id": "e000",
+        "line": {
+            "en": "'Right, let's go.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e400",
+        "line": {
+            "en": "'Let's go! Let's go!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e800",
+        "line": {
+            "en": "'Unnh...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ec00",
+        "line": {
+            "en": "We arrived at the underground street of the\\nshopping mall."
+        },
+        "name": ""
+    },
+    {
+        "id": "f000",
+        "line": {
+            "en": "There are many stylish shops in the shopping\\narcade, and there is also a large supermarket."
+        },
+        "name": ""
+    },
+    {
+        "id": "f400",
+        "line": {
+            "en": "I push Kotori along in her wheelchair and go\\naround buying the food with Ageha."
+        },
+        "name": ""
+    },
+    {
+        "id": "f800",
+        "line": {
+            "en": "'What do we need?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fc00",
+        "line": {
+            "en": "'First, you need chicken thighs, then red\\npeppers, green peppers, onions...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0100",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0500",
+        "line": {
+            "en": "Kotori looks like she still doesn't agree with\\nthe fact that Ageha is with us."
+        },
+        "name": ""
+    },
+    {
+        "id": "0900",
+        "line": {
+            "en": "She looks at me like she's trying to put a curse\\non me."
+        },
+        "name": ""
+    },
+    {
+        "id": "0d00",
+        "line": {
+            "en": "'Ageha came to help come up with a menu for\\ntonight's dinner.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1100",
+        "line": {
+            "en": "'It seems that the meals that I make don't appeal\\nto the girls.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1500",
+        "line": {
+            "en": "'So... Why do I need to come with you?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "1900",
+        "line": {
+            "en": "'Because you can... carry the bags?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1d00",
+        "line": {
+            "en": "Kotori is doing a good job of carrying the green\\nsupermarket basket."
+        },
+        "name": ""
+    },
+    {
+        "id": "2100",
+        "line": {
+            "en": "Ageha and I keep slinging more and more\\ningredients into the basket."
+        },
+        "name": ""
+    },
+    {
+        "id": "2500",
+        "line": {
+            "en": "'Paprika powder, whole tomatoes, cured ham, then\\nthere's...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2900",
+        "line": {
+            "en": "Fwip! Fwip!"
+        },
+        "name": ""
+    },
+    {
+        "id": "2d00",
+        "line": {
+            "en": "'Don't sling them in like that!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3100",
+        "line": {
+            "en": "'I'll get some mineral water.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3500",
+        "line": {
+            "en": "BAM!"
+        },
+        "name": ""
+    },
+    {
+        "id": "3900",
+        "line": {
+            "en": "'Uh... It's so heavy.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3d00",
+        "line": {
+            "en": "'Hey, hey, can I buy some potato chips?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4100",
+        "line": {
+            "en": "'No. Oh, Pakkuriman chips! I remember these!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4500",
+        "line": {
+            "en": "'You're so stingy. I'll pay for them later, so\\nput them in the basket, will ya?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4900",
+        "line": {
+            "en": "She slings them in."
+        },
+        "name": ""
+    },
+    {
+        "id": "4d00",
+        "line": {
+            "en": "'Also, we'll soon be out of rice. Let's buy some\\nwhile we're here.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5100",
+        "line": {
+            "en": "BAM!"
+        },
+        "name": ""
+    },
+    {
+        "id": "5500",
+        "line": {
+            "en": "'Ungh...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5900",
+        "line": {
+            "en": "With all of the ingredients for all of the\\nboarders, before we knew it, the basket that\\nKotori was carrying was full."
+        },
+        "name": ""
+    },
+    {
+        "id": "5d00",
+        "line": {
+            "en": "'D... don't treat me like a shopping cart!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6100",
+        "line": {
+            "en": "As she complained, Kotori was very careful not to\\nlet the contents of the basket fall out."
+        },
+        "name": ""
+    },
+    {
+        "id": "6500",
+        "line": {
+            "en": "'Don't drop anything.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6900",
+        "line": {
+            "en": "'Dammit!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6d00",
+        "line": {
+            "en": "'Is there anything you want, Kotori?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7100",
+        "line": {
+            "en": "'Hmm... Ice cream.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7500",
+        "line": {
+            "en": "Today's shopping is being paid for with the\\noperating costs of the dormitory, so we can't\\nreally buy things we don't need."
+        },
+        "name": ""
+    },
+    {
+        "id": "7900",
+        "line": {
+            "en": "Having said that, she is helping me out..."
+        },
+        "name": ""
+    },
+    {
+        "id": "7d00",
+        "line": {
+            "en": "'You can get Bari-Bari-kun'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8100",
+        "line": {
+            "en": "'Whaaaat! I want something of a higher quality\\nthan that! The work I've put in and the reward I\\nget aren't balanced!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8500",
+        "line": {
+            "en": "'...Have it your way.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8900",
+        "line": {
+            "en": "I decide to treat her to Strawberry Hargen Darch\\nwith my own money."
+        },
+        "name": ""
+    },
+    {
+        "id": "8d00",
+        "line": {
+            "en": "'Is this one OK?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9100",
+        "line": {
+            "en": "'Hmmmm... yes, that's OK.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9500",
+        "line": {
+            "en": "We finish at the cash register."
+        },
+        "name": ""
+    },
+    {
+        "id": "9900",
+        "line": {
+            "en": "The food costs about 50 percent more than usual.\\nBut, tonight is a special occasion."
+        },
+        "name": ""
+    },
+    {
+        "id": "9d00",
+        "line": {
+            "en": "'Aw, geez. I forgot to buy ground meat.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a100",
+        "line": {
+            "en": "'Huh? But we don't need it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a500",
+        "line": {
+            "en": "'It's for tomorrow. It's a pain to have to keep\\ngoing to buy food all the time, you know?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a900",
+        "line": {
+            "en": "I leave them behind and go back to the store."
+        },
+        "name": ""
+    },
+    {
+        "id": "ad00",
+        "line": {
+            "en": "I search for the meat in the ground meat section."
+        },
+        "name": ""
+    },
+    {
+        "id": "b100",
+        "line": {
+            "en": "'If I can, I wanna get one with a discount\\nsticker. As I thought, there aren't any at this\\ntime.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b500",
+        "line": {
+            "en": "The costs for the boarders food is paid on a\\nmonthly basis."
+        },
+        "name": ""
+    },
+    {
+        "id": "b900",
+        "line": {
+            "en": "The dormitory is run as kind of a hobby by the\\nowner, so it's just a rough estimate, but there\\nis an upper limit established as part of the rent\\nagreement."
+        },
+        "name": ""
+    },
+    {
+        "id": "bd00",
+        "line": {
+            "en": "The dormitory's meals follow the creed of 'as\\ncheap as possible, as tasty as possible'."
+        },
+        "name": ""
+    },
+    {
+        "id": "c100",
+        "line": {
+            "en": "I look at the packs of beef that are lined up on\\nthe shelf."
+        },
+        "name": ""
+    },
+    {
+        "id": "c500",
+        "line": {
+            "en": "'2980 yen for 100 grams...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c900",
+        "line": {
+            "en": "This is a supermarket that celebrity women come\\nto, so sometimes the prices for the ingredients\\nare pretty steep."
+        },
+        "name": ""
+    },
+    {
+        "id": "cd00",
+        "line": {
+            "en": "'It's OK once in a while, so I'd like everyone to\\neat this kind of meat.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d100",
+        "line": {
+            "en": "I murmured to myself."
+        },
+        "name": ""
+    },
+    {
+        "id": "d500",
+        "line": {
+            "en": "'Is this one OK, I wonder?'"
+        },
+        "name": "Girl"
+    },
+    {
+        "id": "d900",
+        "line": {
+            "en": "Fwip!"
+        },
+        "name": ""
+    },
+    {
+        "id": "dd00",
+        "line": {
+            "en": "A girl reaches across from the side, and slings\\nthe luxury, marbled, 2980 yen for 100 grams meat\\ninto her basket."
+        },
+        "name": ""
+    },
+    {
+        "id": "e100",
+        "line": {
+            "en": "'...Will this be enough? We are having beef\\ncurry, after all... hmm...'"
+        },
+        "name": "Girl"
+    },
+    {
+        "id": "e500",
+        "line": {
+            "en": "The girl who took the pack showed signs of\\nhesitation but continued to sling more and more\\nof the luxury marbled meat into the basket."
+        },
+        "name": ""
+    },
+    {
+        "id": "e900",
+        "line": {
+            "en": "In the end, she took everything that was on the\\nshelf."
+        },
+        "name": ""
+    },
+    {
+        "id": "ed00",
+        "line": {
+            "en": "'That'll do it, alright!'"
+        },
+        "name": "Girl"
+    },
+    {
+        "id": "f100",
+        "line": {
+            "en": "'Are you going to use luxury marbled beef in a\\ncurry!!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f500",
+        "line": {
+            "en": "Not only that, it's thinly sliced!"
+        },
+        "name": ""
+    },
+    {
+        "id": "f900",
+        "line": {
+            "en": "'...Huh?'"
+        },
+        "name": "Girl"
+    },
+    {
+        "id": "fd00",
+        "line": {
+            "en": "'Ah!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0200",
+        "line": {
+            "en": "I was supposed to have said that on the inside\\nbut because of the shock, I came right out and\\nsaid it aloud."
+        },
+        "name": ""
+    },
+    {
+        "id": "0600",
+        "line": {
+            "en": "'...Umm... Ah...'"
+        },
+        "name": "Girl"
+    },
+    {
+        "id": "0a00",
+        "line": {
+            "en": "'I mean... If you're making curry, they have meat\\nfor curry over here, see?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0e00",
+        "line": {
+            "en": "'B...but when you eat curry, you don't see such\\nbig pieces of meat, do you?'"
+        },
+        "name": "Girl"
+    },
+    {
+        "id": "1200",
+        "line": {
+            "en": "'Well, when you stew meat this size, it becomes\\nmore tender and much smaller.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1600",
+        "line": {
+            "en": "If you use that kind of thin meat, the fat will\\nmelt away and you won't have a trace of it left."
+        },
+        "name": ""
+    },
+    {
+        "id": "1a00",
+        "line": {
+            "en": "'Huh? Huh?'"
+        },
+        "name": "Girl"
+    },
+    {
+        "id": "1e00",
+        "line": {
+            "en": "In her basket was about a kilogram of marbled\\nmeat to be used in sukiyaki."
+        },
+        "name": ""
+    },
+    {
+        "id": "2200",
+        "line": {
+            "en": "'(Are you going to stew all of that in a\\ncurry...?)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2600",
+        "line": {
+            "en": "What a waste of good meat."
+        },
+        "name": ""
+    },
+    {
+        "id": "2a00",
+        "line": {
+            "en": "'Ah... umm...'"
+        },
+        "name": "Girl"
+    },
+    {
+        "id": "2e00",
+        "line": {
+            "en": "As I stare at the basket, she looks at me in\\ndisbelief."
+        },
+        "name": ""
+    },
+    {
+        "id": "3200",
+        "line": {
+            "en": "'...I'm so sorry!'"
+        },
+        "name": "Girl"
+    },
+    {
+        "id": "3600",
+        "line": {
+            "en": "She seemed embarrassed as she said that and moved\\nover to the fresh fish section."
+        },
+        "name": ""
+    },
+    {
+        "id": "3a00",
+        "line": {
+            "en": "Did I scare her off...?"
+        },
+        "name": ""
+    },
+    {
+        "id": "3e00",
+        "line": {
+            "en": "'...Th... there's also seafood curry, so maybe I\\nshould buy some fish too...?'"
+        },
+        "name": "Girl"
+    },
+    {
+        "id": "4200",
+        "line": {
+            "en": "she said as I watch from a distance her throwing\\nsea bream, with the head and tail still on, into\\nthe basket, while I reach for a pack of the cheap\\npork and beef ground meat."
+        },
+        "name": ""
+    },
+    {
+        "id": "4600",
+        "line": {
+            "en": "'Yum...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4a00",
+        "line": {
+            "en": "'Hee hee, it's delicious!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4e00",
+        "line": {
+            "en": "'Kotori, you like Strawberry, do you? I like\\nCookies and Cream.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5200",
+        "line": {
+            "en": "'Oh, really?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5600",
+        "line": {
+            "en": "'Is that tasty?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5a00",
+        "line": {
+            "en": "'...Of course.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5e00",
+        "line": {
+            "en": "'Say...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6200",
+        "line": {
+            "en": "'No.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6600",
+        "line": {
+            "en": "'I haven't said anything yet.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6a00",
+        "line": {
+            "en": "'Yum, yum...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6e00",
+        "line": {
+            "en": "'One spoonful! Just one spoonful!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7200",
+        "line": {
+            "en": "'No! There's only one spoon!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7600",
+        "line": {
+            "en": "'It's OK, we're both girls.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7a00",
+        "line": {
+            "en": "'No' means 'No'!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7e00",
+        "line": {
+            "en": "'Don't be so stingy!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8200",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8600",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8a00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8e00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9200",
+        "line": {
+            "en": "'Alright! Just one spoonful!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9600",
+        "line": {
+            "en": "'Yay, thanks Kotori!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9a00",
+        "line": {
+            "en": "'Aaaaah...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9e00",
+        "line": {
+            "en": "'Oh, my Hargen Darch...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a200",
+        "line": {
+            "en": "'Munch... It's delicious!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a600",
+        "line": {
+            "en": "'What are you doing?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "aa00",
+        "line": {
+            "en": "'Erk!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ae00",
+        "line": {
+            "en": "I'd finished paying and had come back and Kotori\\nwas letting Ageha eat her ice cream."
+        },
+        "name": ""
+    },
+    {
+        "id": "b200",
+        "line": {
+            "en": "I felt like I'd seen something I wasn't supposed\\nto see."
+        },
+        "name": ""
+    },
+    {
+        "id": "b600",
+        "line": {
+            "en": "'It's... it's not what it looks like!' She said\\nthat she really wanted to eat it, so I just let\\nher have one spoonful!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ba00",
+        "line": {
+            "en": "'I see. Well, it's nice that you two are getting\\nalong.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "be00",
+        "line": {
+            "en": "'No... no, it's not like that!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c200",
+        "line": {
+            "en": "'Hmm... Strawberry is nice too. Hey, hey, can I\\nhave another spoonful?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c600",
+        "line": {
+            "en": "'No, that's all! There won't be any left for\\nme...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ca00",
+        "line": {
+            "en": "Blushing as she spoke, Kotori continued to wolf\\ndown the Hargen Darch."
+        },
+        "name": ""
+    },
+    {
+        "id": "ce00",
+        "line": {
+            "en": "'OK, let's go. Here, take this bag.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d200",
+        "line": {
+            "en": "BAM!"
+        },
+        "name": ""
+    },
+    {
+        "id": "d600",
+        "line": {
+            "en": "'Huuuuh!?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "da00",
+        "line": {
+            "en": "'Hey, this is... heavy!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "de00",
+        "line": {
+            "en": "'I'll help too. To say 'thank you' for the ice\\ncream!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e200",
+        "line": {
+            "en": "I push Kotori's wheelchair and we leave the\\nshopping mall."
+        },
+        "name": ""
+    },
+    {
+        "id": "e600",
+        "line": {
+            "en": "'...Hey, how do you cut this?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ea00",
+        "line": {
+            "en": "'Pass that to me. I'll show you how it's done.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ee00",
+        "line": {
+            "en": "'Her face seemed to say 'I get annoyed when\\npeople get on their high horse' as she obediently\\npassed me the knife."
+        },
+        "name": ""
+    },
+    {
+        "id": "f200",
+        "line": {
+            "en": "In a way that Kotori could see easily, I cut the\\nvegetables."
+        },
+        "name": ""
+    },
+    {
+        "id": "f600",
+        "line": {
+            "en": "Chop chop chop."
+        },
+        "name": ""
+    },
+    {
+        "id": "fa00",
+        "line": {
+            "en": "'Like this.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fe00",
+        "line": {
+            "en": "'How about this green pepper?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0300",
+        "line": {
+            "en": "'Wouldn't it be best to cut it in half down the\\nmiddle?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0700",
+        "line": {
+            "en": "'OK, I'll try that.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0b00",
+        "line": {
+            "en": "We had come back to the dormitory and had begun\\ncooking in the dining hall."
+        },
+        "name": ""
+    },
+    {
+        "id": "0f00",
+        "line": {
+            "en": "I got Kotori, who couldn't reach the stove, to\\ncut the vegetables."
+        },
+        "name": ""
+    },
+    {
+        "id": "1300",
+        "line": {
+            "en": "I'm cooking, while Ageha helps and tells me how\\nto do it."
+        },
+        "name": ""
+    },
+    {
+        "id": "1700",
+        "line": {
+            "en": "'Hey, this is pretty easy.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1b00",
+        "line": {
+            "en": "'See? You just cut the vegetables and stew them\\nwith the chicken thighs.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1f00",
+        "line": {
+            "en": "said Ageha, who had brought the recipe."
+        },
+        "name": ""
+    },
+    {
+        "id": "2300",
+        "line": {
+            "en": "'Basque-style chicken stew'"
+        },
+        "name": ""
+    },
+    {
+        "id": "2700",
+        "line": {
+            "en": "I couldn't guess what kind of food it would be\\nfrom just the name but it is really easy to make."
+        },
+        "name": ""
+    },
+    {
+        "id": "2b00",
+        "line": {
+            "en": "First, you grill the chicken thighs, then fry\\nthem with the cut vegetables, and after that, add\\nthe canned tomato and broth and leave it to stew."
+        },
+        "name": ""
+    },
+    {
+        "id": "2f00",
+        "line": {
+            "en": "It's a stew that doesn't need to be done\\nprecisely."
+        },
+        "name": ""
+    },
+    {
+        "id": "3300",
+        "line": {
+            "en": "That's the main dish, next we prepare the salad\\nand the soup."
+        },
+        "name": ""
+    },
+    {
+        "id": "3700",
+        "line": {
+            "en": "'Quack quaaack!'"
+        },
+        "name": "Hat"
+    },
+    {
+        "id": "3b00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3f00",
+        "line": {
+            "en": "Even as Hat walks around her feet, quacking,\\nKotori doesn't seem to notice as she is quietly\\nimmersed in what she's doing."
+        },
+        "name": ""
+    },
+    {
+        "id": "4300",
+        "line": {
+            "en": "'(She's really concentrating.)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4700",
+        "line": {
+            "en": "'(Surprisingly, she's the enthusiastic type,\\nisn't she?)'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4b00",
+        "line": {
+            "en": "Despite complaining at first, once she gets\\nstarted, she becomes very serious."
+        },
+        "name": ""
+    },
+    {
+        "id": "4f00",
+        "line": {
+            "en": "'Whew... It's quite hard to cut them evenly.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5300",
+        "line": {
+            "en": "'Well, it doesn't need to be exact. If there's\\nvariety in the thickness, it gives a difference\\nin texture.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5700",
+        "line": {
+            "en": "'...Cut them unevenly? Got it.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5b00",
+        "line": {
+            "en": "she said as she thought about this and that, and\\nstarted intentionally cutting the vegetables\\nunevenly."
+        },
+        "name": ""
+    },
+    {
+        "id": "5f00",
+        "line": {
+            "en": "I guess that's what people look like when they\\nget serious."
+        },
+        "name": ""
+    },
+    {
+        "id": "6300",
+        "line": {
+            "en": "'Ageha, how does this soup taste to you?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6700",
+        "line": {
+            "en": "'Hmm... the flavor is a little too mild.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6b00",
+        "line": {
+            "en": "'I'll add salt and pepper.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6f00",
+        "line": {
+            "en": "And so, the preparations for dinner continued\\nsmoothly."
+        },
+        "name": ""
+    },
+    {
+        "id": "7300",
+        "line": {
+            "en": "'Wow! It looks so tasty!'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "7700",
+        "line": {
+            "en": "One after another, the boarders came into the\\ndining hall. They were surprised at how different\\nthe food was to the usual"
+        },
+        "name": ""
+    },
+    {
+        "id": "7b00",
+        "line": {
+            "en": "There is a general idea of meal times for the\\nboarders."
+        },
+        "name": ""
+    },
+    {
+        "id": "7f00",
+        "line": {
+            "en": "Although I usually make meals on a consistent\\nschedule, the time when everybody comes to eat is\\nnot set."
+        },
+        "name": ""
+    },
+    {
+        "id": "8300",
+        "line": {
+            "en": "It's OK if you come late, and it's OK if you\\ndon't eat."
+        },
+        "name": ""
+    },
+    {
+        "id": "8700",
+        "line": {
+            "en": "That's why, we often eat at different times."
+        },
+        "name": ""
+    },
+    {
+        "id": "8b00",
+        "line": {
+            "en": "This is the first time since I came here that\\nwe've all gathered at the same time like this."
+        },
+        "name": ""
+    },
+    {
+        "id": "8f00",
+        "line": {
+            "en": "Today was the only time that I had told them in\\nadvance."
+        },
+        "name": ""
+    },
+    {
+        "id": "9300",
+        "line": {
+            "en": "'OK, everyone, please take a seat. You too,\\nAgeha.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9700",
+        "line": {
+            "en": "'Heh heh, excuse me!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9b00",
+        "line": {
+            "en": "'Today's dinner looks amazing...'"
+        },
+        "name": "Sanae"
+    },
+    {
+        "id": "9f00",
+        "line": {
+            "en": "'Hey, can we start eating? I'm starving!'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "a300",
+        "line": {
+            "en": "'Go ahead, enjoy your meal.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a700",
+        "line": {
+            "en": "The boarders, looking at each other, cautiously\\nmove the food towards their mouths."
+        },
+        "name": ""
+    },
+    {
+        "id": "ab00",
+        "line": {
+            "en": "'...It's delicious.'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "af00",
+        "line": {
+            "en": "'It really is delicious!!'"
+        },
+        "name": "Sanae"
+    },
+    {
+        "id": "b300",
+        "line": {
+            "en": "I can hear the word 'delicious' coming from the\\nboarders."
+        },
+        "name": ""
+    },
+    {
+        "id": "b700",
+        "line": {
+            "en": "'What is...? It's true, it really is tasty!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bb00",
+        "line": {
+            "en": "'Basque-style chicken stew'"
+        },
+        "name": ""
+    },
+    {
+        "id": "bf00",
+        "line": {
+            "en": "I was the one that had made it but I didn't know\\nhow it would taste, and I imagined that it\\nwouldn't be very good."
+        },
+        "name": ""
+    },
+    {
+        "id": "c300",
+        "line": {
+            "en": "It was different to the western or Chinese food\\nthat I usually make, in that I normally don't use\\nspices that make it easy to understand the\\nflavor."
+        },
+        "name": ""
+    },
+    {
+        "id": "c700",
+        "line": {
+            "en": "The meat stewed in the tomato soup was tender,\\nand was surprisingly refreshing."
+        },
+        "name": ""
+    },
+    {
+        "id": "cb00",
+        "line": {
+            "en": "Most importantly, the flavor of the meat had\\nreally been drawn out, so I had no complaints at\\nall about the taste."
+        },
+        "name": ""
+    },
+    {
+        "id": "cf00",
+        "line": {
+            "en": "It's the kind of thing that you eat on a hot\\nsummer's day, when you don't have much of an\\nappetite."
+        },
+        "name": ""
+    },
+    {
+        "id": "d300",
+        "line": {
+            "en": "'This is great!'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "d700",
+        "line": {
+            "en": "'Please, have some salad too!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "db00",
+        "line": {
+            "en": "The salad served in a big bowl was divided\\nbetween everyone."
+        },
+        "name": ""
+    },
+    {
+        "id": "df00",
+        "line": {
+            "en": "There were cucumbers, tomatoes and lettuce, and\\nalso avocado and mozzarella cheese."
+        },
+        "name": ""
+    },
+    {
+        "id": "e300",
+        "line": {
+            "en": "Even though it was just an elaborate salad,\\nagain, the reaction was..."
+        },
+        "name": ""
+    },
+    {
+        "id": "e700",
+        "line": {
+            "en": "'This salad is delicious.'"
+        },
+        "name": "Ryouko"
+    },
+    {
+        "id": "eb00",
+        "line": {
+            "en": "'It's kind of fancy.'"
+        },
+        "name": "Sanae"
+    },
+    {
+        "id": "ef00",
+        "line": {
+            "en": "Ryouko, a second-year like me, and Sanae, the\\nthird-year with the trademark glasses, both\\nseemed to really like it."
+        },
+        "name": ""
+    },
+    {
+        "id": "f300",
+        "line": {
+            "en": "'Ha ha ha! This was 'produced' by me,\\nAgeha-chan!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f700",
+        "line": {
+            "en": "Everyone made a face that kind of showed they\\nknew that."
+        },
+        "name": ""
+    },
+    {
+        "id": "fb00",
+        "line": {
+            "en": "'The truth is that today's meal was made under\\nthe advice of Miss Himegi here!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ff00",
+        "line": {
+            "en": "'So that's why Ageha's here...'"
+        },
+        "name": "Ryouko"
+    },
+    {
+        "id": "0004",
+        "line": {
+            "en": "'I thought I'd get him to make the food that I\\nlike for me!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0404",
+        "line": {
+            "en": "By the way, it seems that Ageha and Ryouko were\\nfriends from before."
+        },
+        "name": ""
+    },
+    {
+        "id": "0804",
+        "line": {
+            "en": "'The thing is, it seems the food that I made\\ndidn't really go down too well with everyone.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0c04",
+        "line": {
+            "en": "Apart from Kanako, all of the boarders looked\\naway for a moment, awkwardly."
+        },
+        "name": ""
+    },
+    {
+        "id": "1004",
+        "line": {
+            "en": "'...It's not that it didn't taste good...'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "1404",
+        "line": {
+            "en": "'Yes, yes. But, the portions were very big...'"
+        },
+        "name": "Sanae"
+    },
+    {
+        "id": "1804",
+        "line": {
+            "en": "'Yeah...'"
+        },
+        "name": "Ryouko"
+    },
+    {
+        "id": "1c04",
+        "line": {
+            "en": "'That's why, if there's something you want to\\nsay, please talk to me about it, OK?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2004",
+        "line": {
+            "en": "It's a little scary, but I thought I'd try to\\ntalk them about it."
+        },
+        "name": ""
+    },
+    {
+        "id": "2404",
+        "line": {
+            "en": "'How should I put this... It's all the same\\ncolor.'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "2804",
+        "line": {
+            "en": "'Yes, I know what you mean! That's exactly it,\\nYuka!'"
+        },
+        "name": "Sanae"
+    },
+    {
+        "id": "2c04",
+        "line": {
+            "en": "'But today's food is... colorful.'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "3004",
+        "line": {
+            "en": "It sure is."
+        },
+        "name": ""
+    },
+    {
+        "id": "3404",
+        "line": {
+            "en": "There's red, green, yellow and white and many\\nother colors and looks vivid and colorful."
+        },
+        "name": ""
+    },
+    {
+        "id": "3804",
+        "line": {
+            "en": "The food I usually make is:"
+        },
+        "name": ""
+    },
+    {
+        "id": "3c04",
+        "line": {
+            "en": "Ginger pork = brown"
+        },
+        "name": ""
+    },
+    {
+        "id": "4004",
+        "line": {
+            "en": "Fried rice = brown"
+        },
+        "name": ""
+    },
+    {
+        "id": "4404",
+        "line": {
+            "en": "Curry = yellow"
+        },
+        "name": ""
+    },
+    {
+        "id": "4804",
+        "line": {
+            "en": "Yakisoba = brown"
+        },
+        "name": ""
+    },
+    {
+        "id": "4c04",
+        "line": {
+            "en": "Neapolitan pasta = red"
+        },
+        "name": ""
+    },
+    {
+        "id": "5004",
+        "line": {
+            "en": "and so on, but it's all basically comprised of a\\nsingle color."
+        },
+        "name": ""
+    },
+    {
+        "id": "5404",
+        "line": {
+            "en": "'Aoi's food is hearty and I quite like it.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "5804",
+        "line": {
+            "en": "'Yes, it's not that it doesn't taste good! But...\\nyou see, recently, it's been really hot and we\\ndon't have much of an appetite.'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "5c04",
+        "line": {
+            "en": "'...So we get tired of it halfway through.'"
+        },
+        "name": "Ryouko"
+    },
+    {
+        "id": "6004",
+        "line": {
+            "en": "Everyone's really kind aren't they?"
+        },
+        "name": ""
+    },
+    {
+        "id": "6404",
+        "line": {
+            "en": "They really care about my feelings."
+        },
+        "name": ""
+    },
+    {
+        "id": "6804",
+        "line": {
+            "en": "'(Just because of that, I was unnecessarily\\nworried...!)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6c04",
+        "line": {
+            "en": "For a guy like me, who went to a sports-focused\\nboys school, and lived together with his dad in a\\nkind of bachelor pad, that was always enough."
+        },
+        "name": ""
+    },
+    {
+        "id": "7004",
+        "line": {
+            "en": "I never even thought about the color of food."
+        },
+        "name": ""
+    },
+    {
+        "id": "7404",
+        "line": {
+            "en": "Somehow, that kind of detail's really important\\nin a girls' dormitory."
+        },
+        "name": ""
+    },
+    {
+        "id": "7804",
+        "line": {
+            "en": "'But this is really delicious.'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "7c04",
+        "line": {
+            "en": "'Can I have seconds?'"
+        },
+        "name": "Sanae"
+    },
+    {
+        "id": "8004",
+        "line": {
+            "en": "Everyone seems satisfied."
+        },
+        "name": ""
+    },
+    {
+        "id": "8404",
+        "line": {
+            "en": "It feels like this is the most they've opened up\\nto me so far."
+        },
+        "name": ""
+    },
+    {
+        "id": "8804",
+        "line": {
+            "en": "'(If I'm going to say it, now's my chance!)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8c04",
+        "line": {
+            "en": "'Umm... can I just say something?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9004",
+        "line": {
+            "en": "I stand up and get everyone's attention."
+        },
+        "name": ""
+    },
+    {
+        "id": "9404",
+        "line": {
+            "en": "'Please listen as you eat.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9804",
+        "line": {
+            "en": "'This is about the boarders' chores. Would it be\\nalright to increase them a little?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9c04",
+        "line": {
+            "en": "'I'm a student too, so it's pretty tough for me.\\nFor example, if I could just get you guys to\\nclean the bathroom, that would really be a big\\nhelp...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a004",
+        "line": {
+            "en": "Everyone looked at each other as if they were\\ntrying to figure out what the others were\\nthinking."
+        },
+        "name": ""
+    },
+    {
+        "id": "a404",
+        "line": {
+            "en": "To be honest, no one's going to be happy about\\nincreasing their chores."
+        },
+        "name": ""
+    },
+    {
+        "id": "a804",
+        "line": {
+            "en": "But..."
+        },
+        "name": ""
+    },
+    {
+        "id": "ac04",
+        "line": {
+            "en": "'OK, I understand.'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "b004",
+        "line": {
+            "en": "As Yuka, the oldest, responded, the others nodded\\nin agreement."
+        },
+        "name": ""
+    },
+    {
+        "id": "b404",
+        "line": {
+            "en": "'It must be tough for Aoi, you can tell that just\\nby looking.'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "b804",
+        "line": {
+            "en": "'...The truth is, I was kind of worried about\\nit.'"
+        },
+        "name": "Ryouko"
+    },
+    {
+        "id": "bc04",
+        "line": {
+            "en": "'He even fixed the leaky roof.'"
+        },
+        "name": "Sanae"
+    },
+    {
+        "id": "c004",
+        "line": {
+            "en": "'In return, I will try harder than ever to make\\ngood food for you!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c404",
+        "line": {
+            "en": "'...We can eat this kind of delicious food every\\nday!'"
+        },
+        "name": "Ryouko"
+    },
+    {
+        "id": "c804",
+        "line": {
+            "en": "'Sounds good, doesn't it, Ryouko? I might live\\nhere too!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cc04",
+        "line": {
+            "en": "'Is that all we have to do?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "d004",
+        "line": {
+            "en": "'That and one other thing.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d404",
+        "line": {
+            "en": "This is what I really wanted to say."
+        },
+        "name": ""
+    },
+    {
+        "id": "d804",
+        "line": {
+            "en": "'I think that we should get Kotori to do some\\nthings too.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "dc04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "e004",
+        "line": {
+            "en": "Kotori, who was sitting at the end of the table,\\nthe furthest away from everyone, who looked\\nuncomfortable while she ate, was surprised to\\nhear her name called."
+        },
+        "name": ""
+    },
+    {
+        "id": "e404",
+        "line": {
+            "en": "Everybody looked round at Kotori."
+        },
+        "name": ""
+    },
+    {
+        "id": "e804",
+        "line": {
+            "en": "'But Kotori is...'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "ec04",
+        "line": {
+            "en": "'She has a walking disability but she can use her\\nhands. There are things that she can do.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f004",
+        "line": {
+            "en": "'Like today's dinner, she helped us with that.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f404",
+        "line": {
+            "en": "'...Yeah, only because you guys made me do it.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "f804",
+        "line": {
+            "en": "This had a big impact on everyone, who until just\\nnow had been eating the food and saying how\\ndelicious it was."
+        },
+        "name": ""
+    },
+    {
+        "id": "fc04",
+        "line": {
+            "en": "They looked at her like they were impressed but\\nKotori seemed kind of embarrassed."
+        },
+        "name": ""
+    },
+    {
+        "id": "0104",
+        "line": {
+            "en": "'Thanks to Kotori helping us, we were able to get\\nthe dinner preparations done easily.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0504",
+        "line": {
+            "en": "'If that's the case, then maybe we can add\\nanother chore.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0904",
+        "line": {
+            "en": "I don't dislike cooking."
+        },
+        "name": ""
+    },
+    {
+        "id": "0d04",
+        "line": {
+            "en": "But to prepare food for several people is\\nphysically quite demanding."
+        },
+        "name": ""
+    },
+    {
+        "id": "1104",
+        "line": {
+            "en": "'If that's OK with Kotori. Could you help me\\nprepare the meals?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1504",
+        "line": {
+            "en": "'Yeah, I guess. If that's what it's like.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "1904",
+        "line": {
+            "en": "'Thank you.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1d04",
+        "line": {
+            "en": "I say, while Kotori looks away and quietly nods,\\nwithout saying anything."
+        },
+        "name": ""
+    },
+    {
+        "id": "2104",
+        "line": {
+            "en": "'It's a little different than the other chores.\\nBut, in order to be fair, I want Kotori to help\\nout where she can from now on.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2504",
+        "line": {
+            "en": "Everyone still had their reservations about the\\nwhole thing, so for now, they just quietly looked\\nat each other."
+        },
+        "name": ""
+    },
+    {
+        "id": "2904",
+        "line": {
+            "en": "Even so, until now, Kotori and the other boards\\nhave had quite a distant relationship."
+        },
+        "name": ""
+    },
+    {
+        "id": "2d04",
+        "line": {
+            "en": "However, I'm the one who understands the\\nsituation the least... or rather, the one who\\nunderstands it the most."
+        },
+        "name": ""
+    },
+    {
+        "id": "3104",
+        "line": {
+            "en": "'Excuse me!'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "3504",
+        "line": {
+            "en": "Kanako raised her hand, then the others followed."
+        },
+        "name": ""
+    },
+    {
+        "id": "3904",
+        "line": {
+            "en": "'If she can do that, it would be really good.'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "3d04",
+        "line": {
+            "en": "'I think so too, Yuka!'"
+        },
+        "name": "Sanae"
+    },
+    {
+        "id": "4104",
+        "line": {
+            "en": "'...I always thought it was a little strange.'"
+        },
+        "name": "Ryouko"
+    },
+    {
+        "id": "4504",
+        "line": {
+            "en": "'So, from tomorrow, let's do our best.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4904",
+        "line": {
+            "en": "'You too, dorm mother.'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "4d04",
+        "line": {
+            "en": "'You too, Kotori!'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "5104",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5504",
+        "line": {
+            "en": "Kotori was moody until the end. But, she kept\\nherself from shouting abuse at me, which I know\\nshe's good at. She seemed to understand my\\nintentions."
+        },
+        "name": ""
+    },
+    {
+        "id": "5904",
+        "line": {
+            "en": "'Thanks for today, Ageha. You really helped me\\nout.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5d04",
+        "line": {
+            "en": "'Don't mention it. When you're in trouble, I'll\\ncome to your rescue. That's how it always is,\\nright?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6104",
+        "line": {
+            "en": "'Same goes for you too.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6504",
+        "line": {
+            "en": "'Quack!'"
+        },
+        "name": "Hat"
+    },
+    {
+        "id": "6904",
+        "line": {
+            "en": "Hat came waddling from down the corridor."
+        },
+        "name": ""
+    },
+    {
+        "id": "6d04",
+        "line": {
+            "en": "'Oh, Mr. Duck. What's up? Have you come to see me\\noff?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7104",
+        "line": {
+            "en": "'Quack!'"
+        },
+        "name": "Hat"
+    },
+    {
+        "id": "7504",
+        "line": {
+            "en": "Hat flapped his wing towards Ageha."
+        },
+        "name": ""
+    },
+    {
+        "id": "7904",
+        "line": {
+            "en": "'Maybe he's saying thanks for helping Kotori.\\nThose are his feelings as her housemate.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7d04",
+        "line": {
+            "en": "'OK, tell her this when you go back to her room:\\n'I had fun today.''"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8104",
+        "line": {
+            "en": "'Quaaaack!'"
+        },
+        "name": "Hat"
+    },
+    {
+        "id": "8504",
+        "line": {
+            "en": "The way he replied made it seem like he\\ncompletely understood what Ageha had said, and\\nHat wiggled his tail as he waddled off."
+        },
+        "name": ""
+    },
+    {
+        "id": "8904",
+        "line": {
+            "en": "'Hmmmm... He's so cute.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8d04",
+        "line": {
+            "en": "'OK, take care on your way back.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9104",
+        "line": {
+            "en": "'Sure, see you later.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9504",
+        "line": {
+            "en": "'Quack quack'"
+        },
+        "name": "Hat"
+    },
+    {
+        "id": "9904",
+        "line": {
+            "en": "'Hat, where did you go? OK, here's a cucumber\\nsnack.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9d04",
+        "line": {
+            "en": "'Quack!'"
+        },
+        "name": "Hat"
+    },
+    {
+        "id": "a104",
+        "line": {
+            "en": "'Hey, listen Hat. Today, I helped make dinner.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a504",
+        "line": {
+            "en": "'It was something-or-other style chicken stew.\\nEveryone said it was delicious.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a904",
+        "line": {
+            "en": "'I ate it too. It really was delicious.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ad04",
+        "line": {
+            "en": "'Isn't that great?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "b104",
+        "line": {
+            "en": "'Quack! Quack!'"
+        },
+        "name": "Hat"
+    },
+    {
+        "id": "b504",
+        "line": {
+            "en": "'Hee hee!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "b904",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "bd04",
+        "line": {
+            "en": "'...Today will soon be over.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c104",
+        "line": {
+            "en": "'...But it was fun.'"
+        },
+        "name": "Kotori"
+    }
+]

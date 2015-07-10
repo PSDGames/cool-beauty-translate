@@ -1,0 +1,5595 @@
+[
+    {
+        "id": "0000",
+        "line": {
+            "en": "Once we began work on building the main wings,\\nthe Soaring Club garage suddenly came to life."
+        },
+        "name": ""
+    },
+    {
+        "id": "0400",
+        "line": {
+            "en": "Everyone had their own tasks, and was able to\\nfind an outlet for their increased motivation."
+        },
+        "name": ""
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "This also had an effect on things outside the\\ngarage too."
+        },
+        "name": ""
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "For example, at lunchtime one day..."
+        },
+        "name": ""
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "'Hey, what's the difference between glass mats\\nand glass cloth...?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "'The size. Were there any other differences?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "'Glass cloth is thinner, but the fibers are\\nlonger, so it's stronger when pulled.'"
+        },
+        "name": "Girl in class A"
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "'Oh, that's right.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "'So, when making the wings, glass cloth would be\\nmore suitable.'"
+        },
+        "name": "Class girl B"
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "'So, when making the wings, glass cloth would be\\nmore suitable.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "'They're big, wide, and also strong.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "'That's true.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "Recently, it's been like this, with Kotori and\\nAgeha having lunch together."
+        },
+        "name": ""
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "Kotori is always reading an introductory book for\\nFRP, and if there is anything that she doesn't\\nunderstand, she asks Ageha."
+        },
+        "name": ""
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "When Ageha has free time, she is studying thick\\ntechnical books about glider construction that\\nshe took from the bookshelf in the garage."
+        },
+        "name": ""
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "She would even read while eating her lunch."
+        },
+        "name": ""
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "As Kotori spent more time with Ageha, she also\\nbegan to feel more at home in the class. This\\ncould be called a welcome byproduct."
+        },
+        "name": ""
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "'Hey, Aoi. Stop eyeing up the girls!'"
+        },
+        "name": "Boy in class"
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "'I-I'm not!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "I made a few friends from class too, and started\\nhaving lunch with them sometimes."
+        },
+        "name": ""
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "'(Hmm... I wonder what they're talking about)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "As far as building the main wings goes, I can't\\nbe of much help. I'm still interested, though."
+        },
+        "name": ""
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "Well, I mean, I wanna chat about the glider too."
+        },
+        "name": ""
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "'But you're doing well, aren't you?'"
+        },
+        "name": "Boy in class"
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "'Why's that?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "'Since you transferred, you've managed to get\\nalong with Kotori, and even get close to\\nMochizuki-senpai, haven't you?'"
+        },
+        "name": "Boy in class"
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "'It's all just by chance.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "Kotori used to have a difficult relationship with\\nthe girls, but at least she's being treated\\ndifferently by the boys."
+        },
+        "name": ""
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "They had found her a bit unapproachable but\\nshowed a certain kind of respect when they spoke\\nof her."
+        },
+        "name": ""
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "'Just by chance, huh?'"
+        },
+        "name": "Boy in class"
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "Since I became the dorm mother, maybe I've been\\nspeaking about her with a similar respect."
+        },
+        "name": ""
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "'Ageha is the one who allowed me to settle into\\nthe class so quickly, anyway.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "'I've gotta tell you this. We all envy you\\nbecause of that too...'"
+        },
+        "name": "Boy in class"
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "'Whadya mean, you two were childhood friends!?'"
+        },
+        "name": "Boy in class"
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "'Yeah, it's true but...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "This is kind of off-topic, but it seems like\\nAgeha is rather popular with the boys."
+        },
+        "name": ""
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "Somewhat predictably, some of the boys are a\\nlittle jealous of my position."
+        },
+        "name": ""
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "I can hardly blame them - If the situation were\\nreversed, I'd be envious of them."
+        },
+        "name": ""
+    },
+    {
+        "id": "9800",
+        "line": {
+            "en": "'Yeah, I wanna join the Soaring Club too...'"
+        },
+        "name": "Boy in class"
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "'That's too bad. We're already full.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "'Bullshit, stop hogging all the girls to\\nyourself, dude.'"
+        },
+        "name": "Boy in class"
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "In one corner of the classroom, Ageha and the\\nothers were talking enthusiastically about\\ngliders. Contrary, the other boys and I\\nenthusiastically talked about typical high school\\nboy stuff."
+        },
+        "name": ""
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "Speaking of which, when I was at the all-boys\\nschool, these kinds of conversations were a lot\\nless enjoyable. So, I'm glad I transferred after\\nall."
+        },
+        "name": ""
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "That's an average day for me now."
+        },
+        "name": ""
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "After school, we all head to the garage and\\nengross ourselves in the work we have to do."
+        },
+        "name": ""
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "Ageha is also in the Robotics Club, so some days\\nshe spends some time there. Once she's finished,\\nshe shows her face at the Soaring Club."
+        },
+        "name": ""
+    },
+    {
+        "id": "b800",
+        "line": {
+            "en": "Whenever she shows up, she checks up on Kotori's\\nwork, and dishes critique..."
+        },
+        "name": ""
+    },
+    {
+        "id": "bc00",
+        "line": {
+            "en": "'That's no good!'"
+        },
+        "name": ""
+    },
+    {
+        "id": "c000",
+        "line": {
+            "en": "or..."
+        },
+        "name": ""
+    },
+    {
+        "id": "c400",
+        "line": {
+            "en": "'Looks great!'"
+        },
+        "name": ""
+    },
+    {
+        "id": "c800",
+        "line": {
+            "en": "and so on."
+        },
+        "name": ""
+    },
+    {
+        "id": "cc00",
+        "line": {
+            "en": "Then, finally, a few days ago..."
+        },
+        "name": ""
+    },
+    {
+        "id": "d000",
+        "line": {
+            "en": "'Gently... Peel it off gently...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d400",
+        "line": {
+            "en": "'O...OK...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "d800",
+        "line": {
+            "en": "'...(Gulp!)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "dc00",
+        "line": {
+            "en": "'...Wow.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "e000",
+        "line": {
+            "en": "'...Alright, we got it off!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "e400",
+        "line": {
+            "en": "'Look, look, see?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "e800",
+        "line": {
+            "en": "Kotori, having peeled the FRP plate from the\\nmold, grinned as she held it out to show us."
+        },
+        "name": ""
+    },
+    {
+        "id": "ec00",
+        "line": {
+            "en": "'Alright!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f000",
+        "line": {
+            "en": "'You did it!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f400",
+        "line": {
+            "en": "'...Whew.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "f800",
+        "line": {
+            "en": "Our elation at the success caused us all to punch\\nthe air triumphantly."
+        },
+        "name": ""
+    },
+    {
+        "id": "fc00",
+        "line": {
+            "en": "The smooth surface revealed a glossy shine, as\\nthe dim light of the garage shone across it."
+        },
+        "name": ""
+    },
+    {
+        "id": "0100",
+        "line": {
+            "en": "This 200 by 40 centimeter plate was one of the\\npieces that would become the main wings."
+        },
+        "name": ""
+    },
+    {
+        "id": "0500",
+        "line": {
+            "en": "The main wings are eight meters long."
+        },
+        "name": ""
+    },
+    {
+        "id": "0900",
+        "line": {
+            "en": "The pieces are made separately, since it's more\\nprone to damage it's constructed as one. The\\npieces are joined later."
+        },
+        "name": ""
+    },
+    {
+        "id": "0d00",
+        "line": {
+            "en": "'Hey, look at this, it's really smooth!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "1100",
+        "line": {
+            "en": "'You're right. This is very different to when I\\nmade it.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "1500",
+        "line": {
+            "en": "'But, won't the connection point become weaker?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1900",
+        "line": {
+            "en": "'That's no problem. The place where it joins has\\nmore layers, and is actually even stronger.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1d00",
+        "line": {
+            "en": "'Now we polish it, and add the color, right?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2100",
+        "line": {
+            "en": "'We can connect them once they're all finished.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2500",
+        "line": {
+            "en": "'Hmm... So, it will still be a while before it's\\ncomplete, then?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2900",
+        "line": {
+            "en": "The first plate was experimental, to prove that\\nthe manufacturing process works."
+        },
+        "name": ""
+    },
+    {
+        "id": "2d00",
+        "line": {
+            "en": "Now we need to make ten additional, identical\\nplates."
+        },
+        "name": ""
+    },
+    {
+        "id": "3100",
+        "line": {
+            "en": "'It's so smooth already, does it really need to\\nbe polished?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3500",
+        "line": {
+            "en": "'There's release agent on the surface. Iif we\\ndon't clean it off, the paint won't adhere to it\\nproperly.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3900",
+        "line": {
+            "en": "As Ageha explains, she checks all over the\\nsurface of the plate."
+        },
+        "name": ""
+    },
+    {
+        "id": "3d00",
+        "line": {
+            "en": "'Yes, this is really well made!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4100",
+        "line": {
+            "en": "'Of course! I put in a lot of effort into this!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4500",
+        "line": {
+            "en": "'It really is well made... That's great...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "4900",
+        "line": {
+            "en": "As we chatted among ourselves, standing before\\nthe first result of our efforts, we all kind of\\nfelt a sense of excitement and unity."
+        },
+        "name": ""
+    },
+    {
+        "id": "4d00",
+        "line": {
+            "en": "It was taking time, but we knew we would finish\\nthe glider."
+        },
+        "name": ""
+    },
+    {
+        "id": "5100",
+        "line": {
+            "en": "Sunday."
+        },
+        "name": ""
+    },
+    {
+        "id": "5500",
+        "line": {
+            "en": "Tomorrow, our end-of-term tests will begin. So,\\nall club activities have been stopped for the\\ntime being."
+        },
+        "name": ""
+    },
+    {
+        "id": "5900",
+        "line": {
+            "en": "If we secretly work on the glider and get busted,\\nit could put the club in danger. So, we stick\\nfirmly to the rules."
+        },
+        "name": ""
+    },
+    {
+        "id": "5d00",
+        "line": {
+            "en": "That's why we are meeting at the garage on\\nSunday."
+        },
+        "name": ""
+    },
+    {
+        "id": "6100",
+        "line": {
+            "en": "The cicadas are giving their delightful 'song' as\\nloud as ever."
+        },
+        "name": ""
+    },
+    {
+        "id": "6500",
+        "line": {
+            "en": "That's to be expected for this time of year, of\\ncourse. It's now the peak of summer."
+        },
+        "name": ""
+    },
+    {
+        "id": "6900",
+        "line": {
+            "en": "Once the end of term exams are over, our long\\nawaited summer holiday can begin."
+        },
+        "name": ""
+    },
+    {
+        "id": "6d00",
+        "line": {
+            "en": "'Hey, Aoi!'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "7100",
+        "line": {
+            "en": "'Is that you, Amane-senpai?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7500",
+        "line": {
+            "en": "On my way to the school, I hear Amane-senpai\\ncalling from behind."
+        },
+        "name": ""
+    },
+    {
+        "id": "7900",
+        "line": {
+            "en": "'This is unusual. Are you alone?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "7d00",
+        "line": {
+            "en": "'I had some work at the dorm. The others couldn't\\nwait, so they left without me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8100",
+        "line": {
+            "en": "Early this morning, Ageha appeared at the\\ndormitory. She took Kotori and left."
+        },
+        "name": ""
+    },
+    {
+        "id": "8500",
+        "line": {
+            "en": "'Those two have been getting along well recently.\\nGuess they finally opened up to each other.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8900",
+        "line": {
+            "en": "'You're right, when it's just the two of them,\\nthey both look like they're having fun.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "8d00",
+        "line": {
+            "en": "'Yeah? In what way?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9100",
+        "line": {
+            "en": "They must be talking about the glider."
+        },
+        "name": ""
+    },
+    {
+        "id": "9500",
+        "line": {
+            "en": "'They mostly talk about you.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "9900",
+        "line": {
+            "en": "'Really? I wonder what kind of rumors they've\\nbeen spreading about me...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9d00",
+        "line": {
+            "en": "I can somehow imagine it and it would definitely\\nbe something stupid."
+        },
+        "name": ""
+    },
+    {
+        "id": "a100",
+        "line": {
+            "en": "'Do you want to know?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "a500",
+        "line": {
+            "en": "'Nah, it's fine.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a900",
+        "line": {
+            "en": "Just knowing that those two are getting along is\\nenough."
+        },
+        "name": ""
+    },
+    {
+        "id": "ad00",
+        "line": {
+            "en": "Besides..."
+        },
+        "name": ""
+    },
+    {
+        "id": "b100",
+        "line": {
+            "en": "'Hmm? What is it?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "b500",
+        "line": {
+            "en": "'Well, you're not in your uniform today, Amane. I\\nthink this is the first time I've seen you in\\nsomething else.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b900",
+        "line": {
+            "en": "'Oh, you mean this? Yesterday, I went back home\\nfor the first time in ages. I went to go and help\\nmy dad with his job.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "bd00",
+        "line": {
+            "en": "'Your dad's job? What kind of job does he do?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c100",
+        "line": {
+            "en": "'He's an inventor.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "c500",
+        "line": {
+            "en": "'An inventor...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c900",
+        "line": {
+            "en": "For a moment, I imagine a middle-aged man. With\\nbig, thick glasses and a white coat, he talks in\\na strange voice while pouring chemicals into a\\ntest tube. An explosion follows."
+        },
+        "name": ""
+    },
+    {
+        "id": "cd00",
+        "line": {
+            "en": "It's not like the days of Edison. Now. it has\\nbecome a proper profession."
+        },
+        "name": ""
+    },
+    {
+        "id": "d100",
+        "line": {
+            "en": "'(...Wait a sec, she said she's been home for the\\nfirst time in ages, so does that mean she usually\\nlives alone?)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d500",
+        "line": {
+            "en": "I can't help but wonder, but it seems there could\\nbe some family issues. So, I don't really know if\\nI should ask."
+        },
+        "name": ""
+    },
+    {
+        "id": "d900",
+        "line": {
+            "en": "'It's not just Kotori and Ageha, I've been having\\nfun too.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "dd00",
+        "line": {
+            "en": "'What do you mean?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e100",
+        "line": {
+            "en": "'With the club.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "e500",
+        "line": {
+            "en": "'Everyone's been great. Ageha is a genius when it\\ncomes to making things. She's quick-witted and\\nhas an abundance of knowledge.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "e900",
+        "line": {
+            "en": "'Kotori is patient and keen. I think she wants to\\nfly more than anyone.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "ed00",
+        "line": {
+            "en": "'Aoi, you do a good job of bringing those two\\ntogether. You're already better than me when it\\ncomes to the simulator.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "f100",
+        "line": {
+            "en": "'If they heard you say that about them, they'd be\\nreally happy.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f500",
+        "line": {
+            "en": "'You think so?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "f900",
+        "line": {
+            "en": "'Yeah, I guarantee it.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fd00",
+        "line": {
+            "en": "The reason why everyone can put so much into\\nthis, without hesitation, is because someone\\namazing like Amane is here."
+        },
+        "name": ""
+    },
+    {
+        "id": "0200",
+        "line": {
+            "en": "Amane brushes back her long hair and smiles as if\\nreminiscing about something."
+        },
+        "name": ""
+    },
+    {
+        "id": "0600",
+        "line": {
+            "en": "'Ever since you guys came, the place has been\\nbustling with activity.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "0a00",
+        "line": {
+            "en": "'It's like Isuka has returned.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "0e00",
+        "line": {
+            "en": "There's that name, Isuka, again."
+        },
+        "name": ""
+    },
+    {
+        "id": "1200",
+        "line": {
+            "en": "The person who wrote the flight log."
+        },
+        "name": ""
+    },
+    {
+        "id": "1600",
+        "line": {
+            "en": "What sort of person was she?"
+        },
+        "name": ""
+    },
+    {
+        "id": "1a00",
+        "line": {
+            "en": "Also, why does Amane-senpai always talk about her\\nin the past tense?"
+        },
+        "name": ""
+    },
+    {
+        "id": "1e00",
+        "line": {
+            "en": "'Haha, I want to do another test flight soon.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "2200",
+        "line": {
+            "en": "Amane looks off to the distance, at a big column\\nof cloud. It's as if she can hardly wait."
+        },
+        "name": ""
+    },
+    {
+        "id": "2600",
+        "line": {
+            "en": "'Wassup!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2a00",
+        "line": {
+            "en": "'Wassssup!'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "2e00",
+        "line": {
+            "en": "'Wh...what's up.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3200",
+        "line": {
+            "en": "'Huh, are you alone, Kotori?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3600",
+        "line": {
+            "en": "I enter the garage with Amane to see Kotori\\nsitting alone in front of the air conditioner,\\nlooking bored."
+        },
+        "name": ""
+    },
+    {
+        "id": "3a00",
+        "line": {
+            "en": "'If you're looking for Ageha, she was called away\\nby one of the members of the Robotics Club.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3e00",
+        "line": {
+            "en": "'Robot Club?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4200",
+        "line": {
+            "en": "Recently, Ageha has been coming to the Soaring\\nClub more often than the Robotics Club."
+        },
+        "name": ""
+    },
+    {
+        "id": "4600",
+        "line": {
+            "en": "Could that be the reason why they called for her?"
+        },
+        "name": ""
+    },
+    {
+        "id": "4a00",
+        "line": {
+            "en": "'The person who came to get her had a looked\\nreeeeeeeeeally serious.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4e00",
+        "line": {
+            "en": "said Kotori lazily."
+        },
+        "name": ""
+    },
+    {
+        "id": "5200",
+        "line": {
+            "en": "Her face also seemed to say, 'I don't even wanna\\nthink about it'."
+        },
+        "name": ""
+    },
+    {
+        "id": "5600",
+        "line": {
+            "en": "As Kotori spoke, Ageha returned."
+        },
+        "name": ""
+    },
+    {
+        "id": "5a00",
+        "line": {
+            "en": "'Hi, I'm back!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5e00",
+        "line": {
+            "en": "'Hey, Ageha. Did you get called away by the\\nRobotics Club?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6200",
+        "line": {
+            "en": "'Yeah, ahh...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6600",
+        "line": {
+            "en": "'?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "6a00",
+        "line": {
+            "en": "'What's wrong?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6e00",
+        "line": {
+            "en": "'There was a bit of a problem. I should be happy\\nabout it though.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7200",
+        "line": {
+            "en": "'...Well, I also have to think about how the\\nseniors feel.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7600",
+        "line": {
+            "en": "'What happened?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7a00",
+        "line": {
+            "en": "'...I have to focus on the Robotics Club for a\\nlittle while.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7e00",
+        "line": {
+            "en": "'Huh...?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "8200",
+        "line": {
+            "en": "'What's that supposed to mean?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8600",
+        "line": {
+            "en": "'Amane, just for a little while, could you let me\\ntake a break from the club?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8a00",
+        "line": {
+            "en": "'That's fine, but...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "8e00",
+        "line": {
+            "en": "'You say 'a little while', but how long is that?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9200",
+        "line": {
+            "en": "'Until the start of the summer holidays at the\\nearliest. At the latest, up until the Obon\\nfestival...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9600",
+        "line": {
+            "en": "That's about halfway through our summer holiday."
+        },
+        "name": ""
+    },
+    {
+        "id": "9a00",
+        "line": {
+            "en": "'It's the qualifying round for the Robotics\\nContest, isn't it?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "9e00",
+        "line": {
+            "en": "Ageha nods."
+        },
+        "name": ""
+    },
+    {
+        "id": "a200",
+        "line": {
+            "en": "'The underclassman team that I'm a member of was\\njust the reserve team, so there were no plans for\\nus to enter but...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a600",
+        "line": {
+            "en": "'...it seems there was a problem with the\\nsenior's robot, and they won't be ready in time.\\nSo, all of sudden, it's been decided that we will\\nenter.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "aa00",
+        "line": {
+            "en": "The Robotics Club is really popular."
+        },
+        "name": ""
+    },
+    {
+        "id": "ae00",
+        "line": {
+            "en": "There are many members and they are divided into\\nseveral teams, all trying to produce a robot that\\nmeets the regulations for this year's contest."
+        },
+        "name": ""
+    },
+    {
+        "id": "b200",
+        "line": {
+            "en": "According to Ageha, the juniors not only help the\\nseniors with their work, but they also practice\\nmake their own robots."
+        },
+        "name": ""
+    },
+    {
+        "id": "b600",
+        "line": {
+            "en": "However, that's only for practice -- helping the\\nseniors is the priority. It seems that it's\\nusually time constraints that stop them from\\nfinishing their robots, but..."
+        },
+        "name": ""
+    },
+    {
+        "id": "ba00",
+        "line": {
+            "en": "This year, Ageha got really fired up, and said\\nthey could do it anyway."
+        },
+        "name": ""
+    },
+    {
+        "id": "be00",
+        "line": {
+            "en": "When the problem occurred with the seniors'\\nrobot, they were no longer able to enter the\\ncontest. It was decided that Ageha's team would\\nenter."
+        },
+        "name": ""
+    },
+    {
+        "id": "c200",
+        "line": {
+            "en": "'So, what about making the gliders wings?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c600",
+        "line": {
+            "en": "'I won't have time to work on them directly...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ca00",
+        "line": {
+            "en": "'I'll come round once I'm done with the Robotics\\nClub, so could you do it, Kotori...?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ce00",
+        "line": {
+            "en": "'Hmph! No way, I'm all by myself!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "d200",
+        "line": {
+            "en": "'I'll help.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d600",
+        "line": {
+            "en": "If this means that the main wings can't be\\ncompleted, now is not the time for me to be doing\\npilot training."
+        },
+        "name": ""
+    },
+    {
+        "id": "da00",
+        "line": {
+            "en": "'Yes, please.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "de00",
+        "line": {
+            "en": "'I'm really sorry. Well then, I have to head back\\nnow.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e200",
+        "line": {
+            "en": "Ageha made her apologies and left the garage."
+        },
+        "name": ""
+    },
+    {
+        "id": "e600",
+        "line": {
+            "en": "There was an awkward silence in the garage."
+        },
+        "name": ""
+    },
+    {
+        "id": "ea00",
+        "line": {
+            "en": "'What is it with her? She just says whatever she\\nlikes!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ee00",
+        "line": {
+            "en": "'...She doesn't mean it. She was a member of the\\nRobotics Club to begin with.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f200",
+        "line": {
+            "en": "'But things were going so well...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "f600",
+        "line": {
+            "en": "'Senpai, while Ageha is away, can I help Kotori?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fa00",
+        "line": {
+            "en": "'Huh? Y-...Yeah...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "fe00",
+        "line": {
+            "en": "'Senpai?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0300",
+        "line": {
+            "en": "'No, I think that'll be OK. Let's do that.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "0700",
+        "line": {
+            "en": "Amane-senpai seemed kind of annoyed, then went\\nback to her usual spot, sitting in front of the\\ndrawing board. After that, she didn't say\\nanything."
+        },
+        "name": ""
+    },
+    {
+        "id": "1300",
+        "line": {
+            "en": "On the first day of the first-term exams, the\\nsunshine that we'd had for the last few days\\nchanged quite unbelievably, into really heavy\\nrain."
+        },
+        "name": ""
+    },
+    {
+        "id": "0f00",
+        "line": {
+            "en": "This would be my first exam since I'd come to\\nthis school."
+        },
+        "name": ""
+    },
+    {
+        "id": "1300",
+        "line": {
+            "en": "I've never been against studying, so I felt quite\\nconfident. However, when it came to the\\nspecialist subjects, I struggled because I didn't\\neven know what kind of questions would come up."
+        },
+        "name": ""
+    },
+    {
+        "id": "1700",
+        "line": {
+            "en": "'OK, time's up. Put down your pencils.'"
+        },
+        "name": "Teacher"
+    },
+    {
+        "id": "1b00",
+        "line": {
+            "en": "The answer sheets were collected."
+        },
+        "name": ""
+    },
+    {
+        "id": "1f00",
+        "line": {
+            "en": "That's the end of today's exams."
+        },
+        "name": ""
+    },
+    {
+        "id": "2300",
+        "line": {
+            "en": "'Go straight home, don't play about. You have\\nexams tomorrow too.'"
+        },
+        "name": "Teacher"
+    },
+    {
+        "id": "2700",
+        "line": {
+            "en": "That's what the teacher said, but I had brought\\nmy lunchbox."
+        },
+        "name": ""
+    },
+    {
+        "id": "2b00",
+        "line": {
+            "en": "'How'd you do, Ageha?'"
+        },
+        "name": "Girl in class A"
+    },
+    {
+        "id": "2f00",
+        "line": {
+            "en": "'Well, it was OK.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3300",
+        "line": {
+            "en": "'I scraped through. I'm betting it all on\\ntomorrow's English exam.'"
+        },
+        "name": "Girl in class A"
+    },
+    {
+        "id": "3700",
+        "line": {
+            "en": "'Ah ha ha, I'm no good at English.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3b00",
+        "line": {
+            "en": "As always, Ageha was chatting with our\\nclassmates. She grabbed her bag and followed them\\nout the classroom."
+        },
+        "name": ""
+    },
+    {
+        "id": "3f00",
+        "line": {
+            "en": "'Ageha.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4300",
+        "line": {
+            "en": "I followed her out to the hallway and called out."
+        },
+        "name": ""
+    },
+    {
+        "id": "4700",
+        "line": {
+            "en": "'Hmm?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4b00",
+        "line": {
+            "en": "'Are you going home?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4f00",
+        "line": {
+            "en": "'Yeah. There's something I need to do. How about\\nyou?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5300",
+        "line": {
+            "en": "'I'm gonna swing by the garage.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5700",
+        "line": {
+            "en": "'I see.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5b00",
+        "line": {
+            "en": "'Ageha, are you...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5f00",
+        "line": {
+            "en": "'Ageha, what are you doing?'"
+        },
+        "name": "Girl in class A"
+    },
+    {
+        "id": "6300",
+        "line": {
+            "en": "'Sorry, you go ahead.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6700",
+        "line": {
+            "en": "'What is it, Aoi?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6b00",
+        "line": {
+            "en": "'...No, nothing. See ya.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6f00",
+        "line": {
+            "en": "'OK. I'll do my best in tomorrow's exam!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7300",
+        "line": {
+            "en": "She exclaimed this cheerfully, and waved her\\ncolorful orange umbrella around as she chased\\nafter her friends."
+        },
+        "name": ""
+    },
+    {
+        "id": "7700",
+        "line": {
+            "en": "'Aren't you going with her?'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "7b00",
+        "line": {
+            "en": "'Whoa... It's you Ma-bou. It doesn't matter, does\\nit? Whether we leave together or not?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7f00",
+        "line": {
+            "en": "'Yes it does matter! Lately, you guys have been\\ntogether all the time. You're getting so clingy,\\nit almost makes me feel sick!'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "8300",
+        "line": {
+            "en": "'We're not getting clingy.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8700",
+        "line": {
+            "en": "'You are! Yes, you are! You said something about\\nthe something-or-other Club, didn't you?'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "8b00",
+        "line": {
+            "en": "'What are you sulking about? The fact that you\\ncan't join us?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8f00",
+        "line": {
+            "en": "'Huh!? Who'd wanna hang out with you guys? Ptoo!\\nPtoo!'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "9300",
+        "line": {
+            "en": "'Don't spit in the hallway.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9700",
+        "line": {
+            "en": "'I thought there was something strange going\\non...'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "9b00",
+        "line": {
+            "en": "'In the past, you confessed to Ageha, but she\\nturned you down, didn't she?'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "9f00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a300",
+        "line": {
+            "en": "I felt myself stiffen unconsciously."
+        },
+        "name": ""
+    },
+    {
+        "id": "a700",
+        "line": {
+            "en": "'...How do you know about that?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ab00",
+        "line": {
+            "en": "'I heard it from Ageha.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "af00",
+        "line": {
+            "en": "Why that little..."
+        },
+        "name": ""
+    },
+    {
+        "id": "b300",
+        "line": {
+            "en": "'Despite that, you're hanging out again. If you\\nwere to ask someone who's experienced in romance,\\nlike me, I'd say it was definitely strange.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "b700",
+        "line": {
+            "en": "'Umm, I think you're a bit confused. That was\\nback when we were kids...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bb00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "bf00",
+        "line": {
+            "en": "'...Huh!?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c300",
+        "line": {
+            "en": "'K-Kotori! How long have you been there!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c700",
+        "line": {
+            "en": "'I-I don't know! I didn't listen in or anything!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "cb00",
+        "line": {
+            "en": "She denied it in a really obvious way, then\\nzoomed off down the hallway at top speed in her\\nwheelchair."
+        },
+        "name": ""
+    },
+    {
+        "id": "cf00",
+        "line": {
+            "en": "'...Ma-bou, you asshole!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d300",
+        "line": {
+            "en": "'So long!'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "d700",
+        "line": {
+            "en": "'Hey, hold it!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "db00",
+        "line": {
+            "en": "Masatsugu skips away as I try to retaliate."
+        },
+        "name": ""
+    },
+    {
+        "id": "df00",
+        "line": {
+            "en": "'Hey, Kotori.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e300",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "e700",
+        "line": {
+            "en": "'...I didn't hear anything. Even if you ask me\\nabout what it was that I didn't hear, I won't be\\nable to answer.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "eb00",
+        "line": {
+            "en": "'Is that so...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ef00",
+        "line": {
+            "en": "Going against what our teacher had said, Kotori\\nand I headed towards the Soaring Club garage."
+        },
+        "name": ""
+    },
+    {
+        "id": "f300",
+        "line": {
+            "en": "It'd been raining all day today, and the humidity\\nin the garage was stifling."
+        },
+        "name": ""
+    },
+    {
+        "id": "f700",
+        "line": {
+            "en": "Sitting down in front of the air conditioner, we\\nopened up the textbooks for the subjects for\\ntomorrow's exams while we ate our lunch."
+        },
+        "name": ""
+    },
+    {
+        "id": "fb00",
+        "line": {
+            "en": "'(...Damn you, Ma-bou.)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ff00",
+        "line": {
+            "en": "The thing that Ma-bou had let slip just now\\nreally was something that happened when we were\\njust kids. I think that Ageha has probably\\nforgotten all about it."
+        },
+        "name": ""
+    },
+    {
+        "id": "0004",
+        "line": {
+            "en": "Even if she did remember, there are many other\\nembarrassing or uncomfortable memories she could\\nuse."
+        },
+        "name": ""
+    },
+    {
+        "id": "0404",
+        "line": {
+            "en": "At that time, we didn't really understand the\\ndifferences between boys and girls, and you could\\nsay they were 'youthful indiscretions'."
+        },
+        "name": ""
+    },
+    {
+        "id": "0804",
+        "line": {
+            "en": "That's why I don't think it has any special\\nmeaning."
+        },
+        "name": ""
+    },
+    {
+        "id": "0c04",
+        "line": {
+            "en": "'Amane, how was the exam?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1004",
+        "line": {
+            "en": "'Hmm? I didn't take it.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "1404",
+        "line": {
+            "en": "'Huh!? ...Ah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1804",
+        "line": {
+            "en": "That's right, she's deliberately dropping\\ncredits."
+        },
+        "name": ""
+    },
+    {
+        "id": "1c04",
+        "line": {
+            "en": "Also, if she took the test like everyone else,\\nshe's so smart that she'd be top of the class\\nwithout even trying."
+        },
+        "name": ""
+    },
+    {
+        "id": "2004",
+        "line": {
+            "en": "By the way, strangely, Amane isn't hungry today,\\nso it seems that the lunchbox I brought for her\\nwill go to waste."
+        },
+        "name": ""
+    },
+    {
+        "id": "2404",
+        "line": {
+            "en": "I'll put it in the fridge, so she can eat it\\nlater when she gets hungry."
+        },
+        "name": ""
+    },
+    {
+        "id": "2804",
+        "line": {
+            "en": "'...Aoi?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2c04",
+        "line": {
+            "en": "'Yes?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3004",
+        "line": {
+            "en": "'...It's about Ageha.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3404",
+        "line": {
+            "en": "'What's this? I thought you weren't listening.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3804",
+        "line": {
+            "en": "Kotori ignores my sarcasm as she continues."
+        },
+        "name": ""
+    },
+    {
+        "id": "3c04",
+        "line": {
+            "en": "'You were talking with her in the hallway.\\n...What was she saying?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4004",
+        "line": {
+            "en": "'Oh... Nothing really. She said she had to do\\nsomething and went home.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4404",
+        "line": {
+            "en": "'Don't you think that Ageha is avoiding us? She's\\nnot coming here either...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4804",
+        "line": {
+            "en": "Since Ageha said that she was going to focus on\\nthe Robotics Club, she hasn't come to the garage\\nonce."
+        },
+        "name": ""
+    },
+    {
+        "id": "4c04",
+        "line": {
+            "en": "'Well, club activities are suspended during the\\nexams. Aren't we the ones breaking the rules in\\ncoming here?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5004",
+        "line": {
+            "en": "'Perhaps...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5404",
+        "line": {
+            "en": "'Hey, I guess that thing...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5804",
+        "line": {
+            "en": "'Yeah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5c04",
+        "line": {
+            "en": "The truth is, it was annoying me, so I asked\\nsomeone I knew in the Robotics Club about it."
+        },
+        "name": ""
+    },
+    {
+        "id": "6004",
+        "line": {
+            "en": "I asked about what the situation was on the day\\nthat Ageha was called for."
+        },
+        "name": ""
+    },
+    {
+        "id": "6404",
+        "line": {
+            "en": "At the time, Ageha said it was decided that her\\nteam would enter the contest, but she had kind of\\na sad look about her."
+        },
+        "name": ""
+    },
+    {
+        "id": "6804",
+        "line": {
+            "en": "I wonder if they said something... else to her?"
+        },
+        "name": ""
+    },
+    {
+        "id": "6c04",
+        "line": {
+            "en": "Could it be that because she's in two clubs at\\nthe same time, she's losing her position?"
+        },
+        "name": ""
+    },
+    {
+        "id": "7004",
+        "line": {
+            "en": "That's what I was worried about, so I asked about\\nit. But apparently, there haven't really been any\\ncomplaints from the other club members."
+        },
+        "name": ""
+    },
+    {
+        "id": "7404",
+        "line": {
+            "en": "They said that there aren't many people in the\\nRobotics Club who are as enthusiastic as her."
+        },
+        "name": ""
+    },
+    {
+        "id": "7804",
+        "line": {
+            "en": "Anyway, the advisor to the Robot Club is\\nTobioka-sensei, who I'd heard rumors about when\\nwe were looking for members for our club."
+        },
+        "name": ""
+    },
+    {
+        "id": "7c04",
+        "line": {
+            "en": "He has a grudge against Amane, and it's said that\\nhe sees the Soaring Club as enemies."
+        },
+        "name": ""
+    },
+    {
+        "id": "8004",
+        "line": {
+            "en": "It's just a rumor, but it seems that this is what\\nTobioka-sensei said to Ageha when she was called\\nfor that day:"
+        },
+        "name": ""
+    },
+    {
+        "id": "8404",
+        "line": {
+            "en": "...We do not allow our members to hold positions\\nin other clubs, you must quit one of them."
+        },
+        "name": ""
+    },
+    {
+        "id": "8804",
+        "line": {
+            "en": "'...Then she stopped coming.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8c04",
+        "line": {
+            "en": "Clatter..."
+        },
+        "name": ""
+    },
+    {
+        "id": "9004",
+        "line": {
+            "en": "Staring at the plans, Amane dropped her pen."
+        },
+        "name": ""
+    },
+    {
+        "id": "9404",
+        "line": {
+            "en": "'...Sorry.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "9804",
+        "line": {
+            "en": "Apologizing to no one in particular, she picks up\\nthe pen."
+        },
+        "name": ""
+    },
+    {
+        "id": "9c04",
+        "line": {
+            "en": "Amane has also been acting a little strangely\\nsince Ageha stopped coming."
+        },
+        "name": ""
+    },
+    {
+        "id": "a004",
+        "line": {
+            "en": "She's been fidgeting and seems restless."
+        },
+        "name": ""
+    },
+    {
+        "id": "a404",
+        "line": {
+            "en": "'Ageha said this would last until the local\\nqualifiers for the Robotics Contest.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a804",
+        "line": {
+            "en": "'It sucks that the production of the main wings\\nhas been slowed down, but let's wait until then.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ac04",
+        "line": {
+            "en": "'But, if she's really thinking about quitting...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "b004",
+        "line": {
+            "en": "'...I'd want her to tell us soon. We'll have to\\nsearch for another member, after all.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "b404",
+        "line": {
+            "en": "While she listlessly poked at her omelet, Kotori\\nvoiced her complaints."
+        },
+        "name": ""
+    },
+    {
+        "id": "b804",
+        "line": {
+            "en": "'What are you doing here?'"
+        },
+        "name": "Man's voice"
+    },
+    {
+        "id": "bc04",
+        "line": {
+            "en": "Suddenly, a man's deep voice called out."
+        },
+        "name": ""
+    },
+    {
+        "id": "c004",
+        "line": {
+            "en": "Surprised, we turned to look at the door and saw\\na middle-aged man standing there."
+        },
+        "name": ""
+    },
+    {
+        "id": "c404",
+        "line": {
+            "en": "From the open door, we hear the patter of the\\nrain pouring down, and feel the humidity coming\\ninside."
+        },
+        "name": ""
+    },
+    {
+        "id": "c804",
+        "line": {
+            "en": "'Tsk! It's him...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "cc04",
+        "line": {
+            "en": "Speak of the devil..."
+        },
+        "name": ""
+    },
+    {
+        "id": "d004",
+        "line": {
+            "en": "It's the Robotics Club advisor, Kujira\\nTobioka-sensei."
+        },
+        "name": ""
+    },
+    {
+        "id": "d404",
+        "line": {
+            "en": "'We are in the middle of the exams. Don't you\\nknow that club activities are forbidden?'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "d804",
+        "line": {
+            "en": "'We know. That's why we're not doing club\\nactivities.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "dc04",
+        "line": {
+            "en": "'What was that?'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "e004",
+        "line": {
+            "en": "'(Hey, don't get snarky with him like that!)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e404",
+        "line": {
+            "en": "'(But he's really irritating!)'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "e804",
+        "line": {
+            "en": "'We're eating our lunch and studying for\\ntomorrow's exams.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ec04",
+        "line": {
+            "en": "Tobioka-sensei stares straight at me."
+        },
+        "name": ""
+    },
+    {
+        "id": "f004",
+        "line": {
+            "en": "He looks like he would never believe the words of\\na student."
+        },
+        "name": ""
+    },
+    {
+        "id": "f404",
+        "line": {
+            "en": "But I'm not lying."
+        },
+        "name": ""
+    },
+    {
+        "id": "f804",
+        "line": {
+            "en": "'I've just transferred here, so there are many\\nthings I don't know in the specialist subjects,\\nso Mochizuki-senpai was teaching me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fc04",
+        "line": {
+            "en": "Kotori is also not too great with these\\nspecialist subjects."
+        },
+        "name": ""
+    },
+    {
+        "id": "0104",
+        "line": {
+            "en": "So the fact that we are here studying for our\\nexams is a valid reason."
+        },
+        "name": ""
+    },
+    {
+        "id": "0504",
+        "line": {
+            "en": "...Of course, having air conditioning is another\\nreason."
+        },
+        "name": ""
+    },
+    {
+        "id": "0904",
+        "line": {
+            "en": "'So you are the new members of the Soaring Club?'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "0d04",
+        "line": {
+            "en": "He seems to have been convinced by what I said,\\nbut now he's changed the question."
+        },
+        "name": ""
+    },
+    {
+        "id": "1104",
+        "line": {
+            "en": "'Don't take this the wrong way, but you should\\ngive up on this club.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "1504",
+        "line": {
+            "en": "'What the hell are you trying to say?!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "1904",
+        "line": {
+            "en": "'If you want to be involved in something, you\\nshould join the Robotics Club.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "1d04",
+        "line": {
+            "en": "'Sir, why do you have to say something like\\nthat?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2104",
+        "line": {
+            "en": "While trying to hold back Kotori, without\\nthinking, I answered back angrily."
+        },
+        "name": ""
+    },
+    {
+        "id": "2504",
+        "line": {
+            "en": "I was pretty annoyed though."
+        },
+        "name": ""
+    },
+    {
+        "id": "2904",
+        "line": {
+            "en": "'Hmph. It is a teacher's duty to guide the\\nstudents. I said the same thing to Miss Himegi.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "2d04",
+        "line": {
+            "en": "'(As I thought! He threatened Ageha!)'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3104",
+        "line": {
+            "en": "'(I won't forgive him for this!)'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3504",
+        "line": {
+            "en": "'(Hold it, calm down.)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3904",
+        "line": {
+            "en": "Kotori looked like she would charge her\\nwheelchair into Tobioka if it wasn't for me\\nholding her back."
+        },
+        "name": ""
+    },
+    {
+        "id": "3d04",
+        "line": {
+            "en": "'So what did she say?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4104",
+        "line": {
+            "en": "'That she would think about it for a while. Well,\\nprovided that she isn't a complete idiot, there's\\nonly one answer.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "4504",
+        "line": {
+            "en": "'Even so, I'm keeping an eye on her. Among the\\nmembers of our club, she is outstanding.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "4904",
+        "line": {
+            "en": "'She won't quit! She's been working so hard on\\nthis!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4d04",
+        "line": {
+            "en": "'That is exactly why. If you're going to get\\nseriously involved in something, it's better to\\nchoose something that has a future.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "5104",
+        "line": {
+            "en": "'That is to say, she should not choose a club\\nthat has no goals, like this one.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "5504",
+        "line": {
+            "en": "We have no goals!?"
+        },
+        "name": ""
+    },
+    {
+        "id": "5904",
+        "line": {
+            "en": "'We do have goals. We have clear objectives.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5d04",
+        "line": {
+            "en": "'Yeah!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6104",
+        "line": {
+            "en": "As we answer back, Tobioka scoffs at us."
+        },
+        "name": ""
+    },
+    {
+        "id": "6504",
+        "line": {
+            "en": "We don't take part in competitions, and we don't\\nmake announcements of our work. Perhaps to a\\nteacher like him, it looks like we're just doing\\nthis for fun."
+        },
+        "name": ""
+    },
+    {
+        "id": "6904",
+        "line": {
+            "en": "'Also, it's useless for you to even try.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "6d04",
+        "line": {
+            "en": "'The Soaring Club will have its club status\\nrepealed this summer.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "7104",
+        "line": {
+            "en": "'Huh!!?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7504",
+        "line": {
+            "en": "'Isn't that right, Mochizuki?'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "7904",
+        "line": {
+            "en": "'Wasn't that only if I was the only member?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "7d04",
+        "line": {
+            "en": "'Now, as you can see, Aoi and Kotori are here\\ntoo...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "8104",
+        "line": {
+            "en": "'A promise is a promise.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "8504",
+        "line": {
+            "en": "As Amane tries to explain calmly, Tobioka\\nforcefully interrupts her."
+        },
+        "name": ""
+    },
+    {
+        "id": "8904",
+        "line": {
+            "en": "Then,"
+        },
+        "name": ""
+    },
+    {
+        "id": "8d04",
+        "line": {
+            "en": "'I will have you keep that promise.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "9104",
+        "line": {
+            "en": "He states, as if reminding her of something, then\\nstorms out of the garage."
+        },
+        "name": ""
+    },
+    {
+        "id": "9504",
+        "line": {
+            "en": "'What was that about, Amane?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9904",
+        "line": {
+            "en": "'Is it true that the club will lose its status?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9d04",
+        "line": {
+            "en": "Once Tobioka had left, we both went over to\\nAmane."
+        },
+        "name": ""
+    },
+    {
+        "id": "a104",
+        "line": {
+            "en": "'Hmm... Tobioka-sensei has misunderstood the main\\npoint of the promise.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "a504",
+        "line": {
+            "en": "'Having the club close would be more like a side\\neffect of keeping the promise.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "a904",
+        "line": {
+            "en": "'What is this promise?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ad04",
+        "line": {
+            "en": "'I'm leaving this summer.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "b104",
+        "line": {
+            "en": "'Eh...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "b504",
+        "line": {
+            "en": "'Leaving...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b904",
+        "line": {
+            "en": "We were stunned."
+        },
+        "name": ""
+    },
+    {
+        "id": "bd04",
+        "line": {
+            "en": "Stunned to hear about this so suddenly."
+        },
+        "name": ""
+    },
+    {
+        "id": "c104",
+        "line": {
+            "en": "'But Amane, weren't you going to stay here for a\\nlong time to come?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c504",
+        "line": {
+            "en": "That's what I thought too."
+        },
+        "name": ""
+    },
+    {
+        "id": "c904",
+        "line": {
+            "en": "I thought she was going to stay here even after\\nwe leave."
+        },
+        "name": ""
+    },
+    {
+        "id": "cd04",
+        "line": {
+            "en": "'I've already repeated the year more times than\\nthe school allows. It's because I received\\nspecial permission from the school.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "d104",
+        "line": {
+            "en": "'Because of this, several promises were made.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "d504",
+        "line": {
+            "en": "'The first is, that I would quit club activities\\nthis summer, then graduate the following spring.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "d904",
+        "line": {
+            "en": "'Quit... then graduate...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "dd04",
+        "line": {
+            "en": "'What about the club being closed...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e104",
+        "line": {
+            "en": "'As I just said, that wasn't part of the promise.\\nThat's Tobioka-sensei's misunderstanding.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "e504",
+        "line": {
+            "en": "'For years, I've been doing this by myself. No\\nnew members joined.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "e904",
+        "line": {
+            "en": "'That's why the school is planning to close the\\nSoaring Club the same year that I leave.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "ed04",
+        "line": {
+            "en": "Hearing about these things all of a sudden left\\nme slightly confused."
+        },
+        "name": ""
+    },
+    {
+        "id": "f104",
+        "line": {
+            "en": "'...Is that OK? For you to quit?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f504",
+        "line": {
+            "en": "'It's not a question of whether it's OK or not.\\nThe school won't allow it, and I also made a\\npromise to my father.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "f904",
+        "line": {
+            "en": "The teachers, her father... all these promises\\nshe's made with adults."
+        },
+        "name": ""
+    },
+    {
+        "id": "fd04",
+        "line": {
+            "en": "I don't know what all of those people were\\nthinking when they made those promises."
+        },
+        "name": ""
+    },
+    {
+        "id": "0204",
+        "line": {
+            "en": "But I do know that there are things that will be\\nlost because of them."
+        },
+        "name": ""
+    },
+    {
+        "id": "0604",
+        "line": {
+            "en": "'That's why, before then...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "0a04",
+        "line": {
+            "en": "Amane picked up the photo frame that was placed\\non her desk."
+        },
+        "name": ""
+    },
+    {
+        "id": "0e04",
+        "line": {
+            "en": "The frame was once empty, but now has displays\\nthe beautiful photograph of the passage of clouds\\nbathed in the morning sun."
+        },
+        "name": ""
+    },
+    {
+        "id": "1204",
+        "line": {
+            "en": "'...Before then, I want to go to this place.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "1604",
+        "line": {
+            "en": "Amane stared at the photograph as if she were\\nlooking at something far, far away."
+        },
+        "name": ""
+    },
+    {
+        "id": "1a04",
+        "line": {
+            "en": "'Since you came here, I started to think... that\\njust maybe...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "1e04",
+        "line": {
+            "en": "'...this time, I would be able to reach it.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "2204",
+        "line": {
+            "en": "...just maybe."
+        },
+        "name": ""
+    },
+    {
+        "id": "2604",
+        "line": {
+            "en": "...this time."
+        },
+        "name": ""
+    },
+    {
+        "id": "2a04",
+        "line": {
+            "en": "Thinking of all the many months that Amane had\\nspent in this garage, her words felt so full of\\nmeaning."
+        },
+        "name": ""
+    },
+    {
+        "id": "2e04",
+        "line": {
+            "en": "Listening to her words, beside me, Kotori was\\nquietly biting her lip."
+        },
+        "name": ""
+    },
+    {
+        "id": "3204",
+        "line": {
+            "en": "'Aoi, what's up?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "3604",
+        "line": {
+            "en": "'Is Ageha here?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3a04",
+        "line": {
+            "en": "'Ageha? She went to the convenience store.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "3e04",
+        "line": {
+            "en": "'OK, thanks.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4204",
+        "line": {
+            "en": "'Why don't you call her?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "4604",
+        "line": {
+            "en": "'No, it's OK. I want to speak to her face to\\nface.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4a04",
+        "line": {
+            "en": "'Hee hee hee! I have to give myself a little\\ntreat for studying so hard!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4e04",
+        "line": {
+            "en": "'By treat, I mean Hargen Darch Cookies & Cream!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5204",
+        "line": {
+            "en": "'Here I go!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5604",
+        "line": {
+            "en": "'You look like you're enjoying that.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5a04",
+        "line": {
+            "en": "'Pfff!! Cough, cough!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5e04",
+        "line": {
+            "en": "She let down her guard as she opened her mouth\\nwide to stuff ice cream into it. Ageha choked\\nfrom the force of spitting it out."
+        },
+        "name": ""
+    },
+    {
+        "id": "6204",
+        "line": {
+            "en": "'A-...Aoi! Don't jump out at me!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6604",
+        "line": {
+            "en": "'Sorry. You should eat it at home.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6a04",
+        "line": {
+            "en": "'It'll melt. Besides, it's luxurious to eat it\\noutside like this. You want a spoonful, Aoi?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6e04",
+        "line": {
+            "en": "'OK, I'll have a little.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7204",
+        "line": {
+            "en": "'OK, say 'Aaah...'!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7604",
+        "line": {
+            "en": "'Stop talking like that, will ya? It's\\nembarrassing!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7a04",
+        "line": {
+            "en": "I say that as I bite down on the spoon Ageha\\noffers."
+        },
+        "name": ""
+    },
+    {
+        "id": "7e04",
+        "line": {
+            "en": "'Oh, that's nice. What flavor is this?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8204",
+        "line": {
+            "en": "'Cookies & Cream & Ageha Indirect Kiss flavor.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8604",
+        "line": {
+            "en": "'Sounds like there are some unneeded things in\\nthere, but it tastes good.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8a04",
+        "line": {
+            "en": "I'll try buying some of this next time."
+        },
+        "name": ""
+    },
+    {
+        "id": "8e04",
+        "line": {
+            "en": "'You could at least act a little embarrased. This\\nis because we're childhood friends, isn't it?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9204",
+        "line": {
+            "en": "When we were kids, it was normal for us to share\\njuice boxes and the like."
+        },
+        "name": ""
+    },
+    {
+        "id": "9604",
+        "line": {
+            "en": "Now, it's more embarrassing to act shy about\\nsharing something like ice cream."
+        },
+        "name": ""
+    },
+    {
+        "id": "9a04",
+        "line": {
+            "en": "In other words, I pretended to not be shy about\\nit."
+        },
+        "name": ""
+    },
+    {
+        "id": "9e04",
+        "line": {
+            "en": "'So what are you doing here? Don't you need to\\nstudy for tomorrow's exam?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a204",
+        "line": {
+            "en": "'I heard from Hotaru that you'd be here.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a604",
+        "line": {
+            "en": "'You went all the way to my house?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "aa04",
+        "line": {
+            "en": "'You mind if I have a bit more?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ae04",
+        "line": {
+            "en": "'...Sure, go ahead.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b204",
+        "line": {
+            "en": "The rain that had been falling since this morning\\nhas stopped in the evening. The stars shone\\nbeautifully in the night sky."
+        },
+        "name": ""
+    },
+    {
+        "id": "b604",
+        "line": {
+            "en": "It was humid but the breeze was cool."
+        },
+        "name": ""
+    },
+    {
+        "id": "ba04",
+        "line": {
+            "en": "We walked along the empty lakeside promenade, and\\nI changed to another topic."
+        },
+        "name": ""
+    },
+    {
+        "id": "be04",
+        "line": {
+            "en": "'I heard from someone in the Robotics Club.\\nTobioka said something to you, didn't he?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c204",
+        "line": {
+            "en": "'Oh, you heard about that...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c604",
+        "line": {
+            "en": "'It's nothing. The school doesn't prohibit being\\na member of two clubs at the same time. I don't\\nthink it's anything to worry about.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ca04",
+        "line": {
+            "en": "'I know, but...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ce04",
+        "line": {
+            "en": "It's said that Tobioka is a pretty imposing guy,\\neven amongst the teachers."
+        },
+        "name": ""
+    },
+    {
+        "id": "d204",
+        "line": {
+            "en": "Being put in his sights is definitely bad."
+        },
+        "name": ""
+    },
+    {
+        "id": "d604",
+        "line": {
+            "en": "'Well, I misjudged things a little.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "da04",
+        "line": {
+            "en": "'Amane is in the Soaring Club, and I thought it\\nwould be OK to sit back and watch, helping out\\njust a little.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "de04",
+        "line": {
+            "en": "'So that's why you thought it would be alright to\\nbe in both clubs?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e204",
+        "line": {
+            "en": "Ageha nods."
+        },
+        "name": ""
+    },
+    {
+        "id": "e604",
+        "line": {
+            "en": "'But I never thought she'd be that clumsy...\\nAlso, Amane is kind of cute, so I like her!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ea04",
+        "line": {
+            "en": "'Tobioka is the advisor to the Robotics Club,\\nright? If you don't quit the Soaring Club, he'll\\nforce you to leave the Robotics Club, won't he?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ee04",
+        "line": {
+            "en": "'I guess that's how things will turn out. Ah\\njeez, he told me to choose one or the other.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f204",
+        "line": {
+            "en": "'Ageha.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f604",
+        "line": {
+            "en": "'?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fa04",
+        "line": {
+            "en": "'Please, don't quit.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fe04",
+        "line": {
+            "en": "'...Which one?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0304",
+        "line": {
+            "en": "'The Soaring Club.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0704",
+        "line": {
+            "en": "'...of course.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0b04",
+        "line": {
+            "en": "Ageha seems troubled by me bringing this up."
+        },
+        "name": ""
+    },
+    {
+        "id": "0f04",
+        "line": {
+            "en": "Holding onto the railing of the promenade, I lean\\ntowards the lake."
+        },
+        "name": ""
+    },
+    {
+        "id": "1304",
+        "line": {
+            "en": "Now that the rain has stopped, countless stars\\nare projected on the calm surface of the lake."
+        },
+        "name": ""
+    },
+    {
+        "id": "1704",
+        "line": {
+            "en": "'Hey, do you remember? Our secret base?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1b04",
+        "line": {
+            "en": "'Huh? Oh, I remember.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1f04",
+        "line": {
+            "en": "When I lived here before, outside Kazami Shopping\\nStreet, in an alley that was hard for people to\\nsee down, was a building that had been abandoned."
+        },
+        "name": ""
+    },
+    {
+        "id": "2304",
+        "line": {
+            "en": "We made it our secret base, and we would all\\ngather there and play."
+        },
+        "name": ""
+    },
+    {
+        "id": "2704",
+        "line": {
+            "en": "'That was fun, wasn't it?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2b04",
+        "line": {
+            "en": "'Yeah, we took all sorts of toys there, and we\\ndecided to remodel the place.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2f04",
+        "line": {
+            "en": "I think that most people must have made secret\\nbases as kids."
+        },
+        "name": ""
+    },
+    {
+        "id": "3304",
+        "line": {
+            "en": "But we were proud of our base because it was much\\nbigger and better, well, anyway, it was cool."
+        },
+        "name": ""
+    },
+    {
+        "id": "3704",
+        "line": {
+            "en": "One day, some bullies from the next neighborhood\\ncame to take it away from us. We fought together\\nto ward them off... And various other things\\nhappened there."
+        },
+        "name": ""
+    },
+    {
+        "id": "3b04",
+        "line": {
+            "en": "'Speaking of which, what happened to that\\nabandoned building?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3f04",
+        "line": {
+            "en": "'Windy Kazegaura was built on top of it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4304",
+        "line": {
+            "en": "So that means it was swallowed in the first wave\\nof redevelopment."
+        },
+        "name": ""
+    },
+    {
+        "id": "4704",
+        "line": {
+            "en": "'What about it?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4b04",
+        "line": {
+            "en": "'The atmosphere in the Soaring Club's garage.\\nThey're similar, aren't they?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4f04",
+        "line": {
+            "en": "'...It is, now that you mention it.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5304",
+        "line": {
+            "en": "Standing the back of the school grounds, it feels\\nlike it's been forgotten by everyone. Inside,\\nAmane and the other Soaring Club members from\\nyears gone by redecorated it as they saw fit."
+        },
+        "name": ""
+    },
+    {
+        "id": "5704",
+        "line": {
+            "en": "It's a jumble of things that no one understands,\\nit looks so chaotic. Yet, you really feel the\\npresence of the people who have been there."
+        },
+        "name": ""
+    },
+    {
+        "id": "5b04",
+        "line": {
+            "en": "'That's why it's been so much fun lately.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5f04",
+        "line": {
+            "en": "'It's been too much fun, so much that I've\\ncompletely lost myself in it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6304",
+        "line": {
+            "en": "'But I joined the Robotics Club because I enjoy\\nit, and I'm really happy to enter the contest.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6704",
+        "line": {
+            "en": "'Yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6b04",
+        "line": {
+            "en": "I heard that Ageha has inspired the juniors who\\nlacked motivation, and had helped their\\nconstruction of their robot to proceed."
+        },
+        "name": ""
+    },
+    {
+        "id": "6f04",
+        "line": {
+            "en": "She has a responsibility to them too."
+        },
+        "name": ""
+    },
+    {
+        "id": "7304",
+        "line": {
+            "en": "'I also want to do what I can for the sake of the\\nseniors who are no longer able to enter.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7704",
+        "line": {
+            "en": "'That's my way of taking responsibility.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7b04",
+        "line": {
+            "en": "'So, you're...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7f04",
+        "line": {
+            "en": "'Yes. I'm going to quit after the contest.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8304",
+        "line": {
+            "en": "'...Is it OK for you to do that?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8704",
+        "line": {
+            "en": "This is what she wants, and it might sound a\\nlittle strange to say this, but she looked like\\nshe still had some kind of lingering attachment."
+        },
+        "name": ""
+    },
+    {
+        "id": "8b04",
+        "line": {
+            "en": "'It's fine. I enjoyed making robots though.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8f04",
+        "line": {
+            "en": "'But I can't help it if I enjoy making gliders\\ntoo, though!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9304",
+        "line": {
+            "en": "'Being able to make things alongside Amane really\\nmotivates me!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9704",
+        "line": {
+            "en": "'You think so?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9b04",
+        "line": {
+            "en": "'Yeah, I do. You should be a little more\\nimpressed.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9f04",
+        "line": {
+            "en": "Somehow, my first impression of her was so\\nstrong, that rather of thinking of her as a\\n'great' person, the impression of her being an\\n'interesting' person wins in the end."
+        },
+        "name": ""
+    },
+    {
+        "id": "a304",
+        "line": {
+            "en": "'The truth is... there's something else.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a704",
+        "line": {
+            "en": "This is what I really wanted to talk about."
+        },
+        "name": ""
+    },
+    {
+        "id": "ab04",
+        "line": {
+            "en": "'It looks like Amane's going to quit this\\nsummer.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "af04",
+        "line": {
+            "en": "'What...?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b304",
+        "line": {
+            "en": "'Today at lunchtime, Tobioka came to the garage.\\nThen...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b704",
+        "line": {
+            "en": "I tell Ageha everything that happened at the\\ngarage at lunchtime."
+        },
+        "name": ""
+    },
+    {
+        "id": "bb04",
+        "line": {
+            "en": "Our exchange with Tobioka, and about the promise\\nwith Amane."
+        },
+        "name": ""
+    },
+    {
+        "id": "bf04",
+        "line": {
+            "en": "'Amane's gonna quit...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c304",
+        "line": {
+            "en": "'But she's been the Super Repeat Student for\\nages! From now on, I thought she'd...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c704",
+        "line": {
+            "en": "'She said it was a promise to the teachers. Amane\\nis planning to quit this summer.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cb04",
+        "line": {
+            "en": "'But...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cf04",
+        "line": {
+            "en": "'...If you don't come back soon, I don't think\\nwe'll make it in time.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d304",
+        "line": {
+            "en": "After the incident that day, Kotori and I wrote\\nout the work schedule."
+        },
+        "name": ""
+    },
+    {
+        "id": "d704",
+        "line": {
+            "en": "Based on the assumption that Ageha would come\\nback on the day we agreed on, we would just\\nbarely be able to make it in time to do a test\\nflight during the summer holiday."
+        },
+        "name": ""
+    },
+    {
+        "id": "db04",
+        "line": {
+            "en": "Never mind going to the 'passage of cloud'..."
+        },
+        "name": ""
+    },
+    {
+        "id": "df04",
+        "line": {
+            "en": "'I'm sorry. I know that what I'm saying is\\nunreasonable.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e304",
+        "line": {
+            "en": "'But, I can't just keep quiet and tell you about\\nit later.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e704",
+        "line": {
+            "en": "'Yeah...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "eb04",
+        "line": {
+            "en": "I'm aware that she's faced with a difficult\\nchoice."
+        },
+        "name": ""
+    },
+    {
+        "id": "ef04",
+        "line": {
+            "en": "However, telling her when it is too late will\\nonly make her feel worse."
+        },
+        "name": ""
+    },
+    {
+        "id": "f304",
+        "line": {
+            "en": "That's why it's better to talk about it while\\nthere is still hope."
+        },
+        "name": ""
+    },
+    {
+        "id": "f704",
+        "line": {
+            "en": "'I see, so Amane's going to quit...?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fb04",
+        "line": {
+            "en": "Ageha mumbled quietly while she tapped her\\nfingers on her chin, deep in thought."
+        },
+        "name": ""
+    },
+    {
+        "id": "ff04",
+        "line": {
+            "en": "She paced one lap around the place, and then\\nremembered her Hargen Darch and went back to eat\\nit."
+        },
+        "name": ""
+    },
+    {
+        "id": "0008",
+        "line": {
+            "en": "'Aww... It's melted...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0408",
+        "line": {
+            "en": "Ageha put the empty ice cream cup on top of the\\nrailing, leaned over and looked down."
+        },
+        "name": ""
+    },
+    {
+        "id": "0808",
+        "line": {
+            "en": "'...Well, Aoi, it's your turn.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0c08",
+        "line": {
+            "en": "'Me?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1008",
+        "line": {
+            "en": "'Don't you want to talk about yourself, Aoi?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1408",
+        "line": {
+            "en": "'I don't think so... What is it?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1808",
+        "line": {
+            "en": "I was a little puzzled by this unexpected turn of\\nevents."
+        },
+        "name": ""
+    },
+    {
+        "id": "1c08",
+        "line": {
+            "en": "Ageha looked up, straight at me. It was almost\\nlike she was glaring at me."
+        },
+        "name": ""
+    },
+    {
+        "id": "2008",
+        "line": {
+            "en": "'Aoi, why did you quit cycling?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2408",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2808",
+        "line": {
+            "en": "Being asked out of the blue like that meant I\\ncouldn't think of my 'model answer' right away."
+        },
+        "name": ""
+    },
+    {
+        "id": "2c08",
+        "line": {
+            "en": "'...That's... because there's no Cycle Racing\\nClub here.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3008",
+        "line": {
+            "en": "'You don't need a club to get on a bike. You're\\nstill interested in it, aren't you?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3408",
+        "line": {
+            "en": "'But you don't ride at all now.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3808",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3c08",
+        "line": {
+            "en": "Ageha looks at me though she can see right\\nthrough me. She knows I'm at a loss for an\\nanswer."
+        },
+        "name": ""
+    },
+    {
+        "id": "4008",
+        "line": {
+            "en": "'...Does it have anything to do with the accident\\nyou had during your last race?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4408",
+        "line": {
+            "en": "'How do you know...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4808",
+        "line": {
+            "en": "'I can check the results of the race on the\\nInternet, you know.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4c08",
+        "line": {
+            "en": "'I heard about your race from An-chan, and felt\\nawful about not being able to go.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5008",
+        "line": {
+            "en": "'You were up on the podium, weren't you...?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5408",
+        "line": {
+            "en": "'That's why I was always checking the results of\\nyour races on the Internet.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5808",
+        "line": {
+            "en": "That's what Masatsugu was talking about before."
+        },
+        "name": ""
+    },
+    {
+        "id": "5c08",
+        "line": {
+            "en": "...Ageha felt bad about it. ...That she couldn't\\nsee you... at your best."
+        },
+        "name": ""
+    },
+    {
+        "id": "6008",
+        "line": {
+            "en": "...You knew about that, didn't you?"
+        },
+        "name": ""
+    },
+    {
+        "id": "6408",
+        "line": {
+            "en": "At the time, I thought it was strange."
+        },
+        "name": ""
+    },
+    {
+        "id": "6808",
+        "line": {
+            "en": "That Ageha hadn't asked me anything about my\\ncycling."
+        },
+        "name": ""
+    },
+    {
+        "id": "6c08",
+        "line": {
+            "en": "If she felt bad about not being able to come and\\nwatch, she should have been able to ask me, 'Why\\ndon't you carry on?' like she is now."
+        },
+        "name": ""
+    },
+    {
+        "id": "7008",
+        "line": {
+            "en": "'It said that there was an accident, and that you\\nretired from the race.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7408",
+        "line": {
+            "en": "'So, why did you quit cycling? Why?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7808",
+        "line": {
+            "en": "Ageha, still looking up at me, stepped over a\\npuddle and kept coming towards me."
+        },
+        "name": ""
+    },
+    {
+        "id": "7c08",
+        "line": {
+            "en": "'I was... injured. My knee...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8008",
+        "line": {
+            "en": "'That's why I couldn't carry on.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8408",
+        "line": {
+            "en": "'...Just as I thought.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8808",
+        "line": {
+            "en": "It wasn't just cycling."
+        },
+        "name": ""
+    },
+    {
+        "id": "8c08",
+        "line": {
+            "en": "She didn't really question whether or not that\\nwas the reason for me changing school."
+        },
+        "name": ""
+    },
+    {
+        "id": "9008",
+        "line": {
+            "en": "She knew that I don't want to talk about it, so\\nshe didn't ask me."
+        },
+        "name": ""
+    },
+    {
+        "id": "9408",
+        "line": {
+            "en": "'Why didn't you tell me?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9808",
+        "line": {
+            "en": "'I thought it was kinda lame. That I got injured\\nand then came running back here...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9c08",
+        "line": {
+            "en": "'It isn't lame.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a008",
+        "line": {
+            "en": "'It is lame.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a408",
+        "line": {
+            "en": "'It just sounds like I'm whining. I didn't want\\nyou guys... to see that uncool side of me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a808",
+        "line": {
+            "en": "'Oh, I think you're cool!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ac08",
+        "line": {
+            "en": "'...What? Are you making fun of me?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b008",
+        "line": {
+            "en": "'Yep.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b408",
+        "line": {
+            "en": "'Why you...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b808",
+        "line": {
+            "en": "She doesn't know how I felt about quitting\\ncycling, or why I came back here..."
+        },
+        "name": ""
+    },
+    {
+        "id": "bc08",
+        "line": {
+            "en": "'But you showed Kotori, didn't you? That 'lame'\\nside of you?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c008",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c408",
+        "line": {
+            "en": "'...Wh-...Why did you have to bring that up?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c808",
+        "line": {
+            "en": "'That was kind of a wild guess. But it looks like\\nyou did talk to her about it after all.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cc08",
+        "line": {
+            "en": "'Well, that's...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d008",
+        "line": {
+            "en": "I don't know what to say, and Ageha gives me a\\nsideways glare."
+        },
+        "name": ""
+    },
+    {
+        "id": "d408",
+        "line": {
+            "en": "It's true that I hadn't told Ageha and the\\nothers. When I told Kotori, I thought it was\\nstrange."
+        },
+        "name": ""
+    },
+    {
+        "id": "d808",
+        "line": {
+            "en": "Funnily enough, that conversation took place\\nright where we are now."
+        },
+        "name": ""
+    },
+    {
+        "id": "dc08",
+        "line": {
+            "en": "Perhaps I told her because she had suffered a\\nmuch worse injury than me. She had lost so much,\\nand had felt so much despair."
+        },
+        "name": ""
+    },
+    {
+        "id": "e008",
+        "line": {
+            "en": "Then, she couldn't stand it any more, and started\\nto crack under the strain of it all."
+        },
+        "name": ""
+    },
+    {
+        "id": "e408",
+        "line": {
+            "en": "As I felt myself getting even just a little\\ncloser to her, I showed her the weakest side of\\nmyself."
+        },
+        "name": ""
+    },
+    {
+        "id": "e808",
+        "line": {
+            "en": "'I'm really sorry!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ec08",
+        "line": {
+            "en": "PAH!"
+        },
+        "name": ""
+    },
+    {
+        "id": "f008",
+        "line": {
+            "en": "I gave a great big bow."
+        },
+        "name": ""
+    },
+    {
+        "id": "f408",
+        "line": {
+            "en": "'Hmm? I can't hear you... I thought you were a\\nsportsman!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f808",
+        "line": {
+            "en": "'I had my reasons! It's true, please believe me!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fc08",
+        "line": {
+            "en": "'She said that she wanted to drop out of school,\\nand I couldn't think of a way to persuade her to\\nstay!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0108",
+        "line": {
+            "en": "'So in order to make her change her mind, you\\nopened up and told her something that you\\ncouldn't even tell me, your best friend?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0508",
+        "line": {
+            "en": "'Yes, that's right.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0908",
+        "line": {
+            "en": "'...Hey, Aoi.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0d08",
+        "line": {
+            "en": "'Yes, what is it?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1108",
+        "line": {
+            "en": "'Are you and Kotori dating?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1508",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1908",
+        "line": {
+            "en": "'You're always together, so that's how it looks.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1d08",
+        "line": {
+            "en": "'If you're secretly dating, that would make me\\nfeel kind of awkward. I might even have to quit\\nthe Soaring Club.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2108",
+        "line": {
+            "en": "'You're wrong! That's not it at all!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2508",
+        "line": {
+            "en": "'So, do you like her?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2908",
+        "line": {
+            "en": "'Wh-...Wh-...Wh-...What are you talking about?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2d08",
+        "line": {
+            "en": "'Your voice is breaking. That's suspicious.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3108",
+        "line": {
+            "en": "'If I didn't like her, I wouldn't spend so much\\ntime with her.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3508",
+        "line": {
+            "en": "'Do you mean that girls and boys can't be\\nfriends?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3908",
+        "line": {
+            "en": "I answered back like a child."
+        },
+        "name": ""
+    },
+    {
+        "id": "3d08",
+        "line": {
+            "en": "But I really don't see her that way."
+        },
+        "name": ""
+    },
+    {
+        "id": "4108",
+        "line": {
+            "en": "'If you're asking about me and Kotori, then the\\nsame goes for us two doesn't it?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4508",
+        "line": {
+            "en": "Actually, there are some people who do mistakenly\\nthink that we are dating."
+        },
+        "name": ""
+    },
+    {
+        "id": "4908",
+        "line": {
+            "en": "'Then what about you and Kotori? Just friends?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4d08",
+        "line": {
+            "en": "'Yeah, just friends.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5108",
+        "line": {
+            "en": "'She's your number one closest friend these\\ndays.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5508",
+        "line": {
+            "en": "I can't deny that."
+        },
+        "name": ""
+    },
+    {
+        "id": "5908",
+        "line": {
+            "en": "'So you and I being best friends, is all in the\\npast?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5d08",
+        "line": {
+            "en": "'When it comes to friends, there is no number\\none.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6108",
+        "line": {
+            "en": "'You don't get it, do you?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6508",
+        "line": {
+            "en": "'To me, the fact that you are my number one best\\nfriend is very special to me.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6908",
+        "line": {
+            "en": "'That's how it's been since we were kids.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6d08",
+        "line": {
+            "en": "'There's a big difference between being number\\none or not.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7108",
+        "line": {
+            "en": "'If I were your number one best friend, you\\ndefinitely would've told me about your injury.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7508",
+        "line": {
+            "en": "'To you perhaps... that wouldn't be embarassing,\\nbut...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7908",
+        "line": {
+            "en": "'A guy who isn't shy about 'indirect kissing'\\nlike you can't say anything. Could it be that you\\ndon't even think of me as a girl?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7d08",
+        "line": {
+            "en": "'Well, it's not that I wasn't shy... I was just\\nembarrassed to show it, that's all.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8108",
+        "line": {
+            "en": "Is it possible that Ageha was the same?"
+        },
+        "name": ""
+    },
+    {
+        "id": "8508",
+        "line": {
+            "en": "'It would be better if you two started going out.\\nThat way, I could make a big comeback as your\\nnumber one best friend!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8908",
+        "line": {
+            "en": "'Call it what you like.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8d08",
+        "line": {
+            "en": "'More importantly, let's talk about the club.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9108",
+        "line": {
+            "en": "I try to force the conversation back to the topic\\nat hand after getting hugely sidetracked."
+        },
+        "name": ""
+    },
+    {
+        "id": "9508",
+        "line": {
+            "en": "'Alright.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9908",
+        "line": {
+            "en": "'We're all worried that you are just going to\\nquit if things carry on like this.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9d08",
+        "line": {
+            "en": "'Kotori's angry about it, isn't she? Because I've\\nbecome like this all of a sudden.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a108",
+        "line": {
+            "en": "'Yeah, a little.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a508",
+        "line": {
+            "en": "'But she said to Tobioka 'There's no way she\\nwould quit!', speaking quite angrily.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a908",
+        "line": {
+            "en": "'No way, really? I wish I could've seen it for\\nmyself.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ad08",
+        "line": {
+            "en": "'Amane-senpai has also been acting weird. She's\\nlost all her motivation since you stopped\\ncoming.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b108",
+        "line": {
+            "en": "'Even Amane-senpai...?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b508",
+        "line": {
+            "en": "'That's why, even if you can't do it now, you've\\ngotta come back.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b908",
+        "line": {
+            "en": "'...OK, thanks.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bd08",
+        "line": {
+            "en": "Ageha looked kind of timid and embarrassed."
+        },
+        "name": ""
+    },
+    {
+        "id": "c108",
+        "line": {
+            "en": "The final day of the end of term exams..."
+        },
+        "name": ""
+    },
+    {
+        "id": "c508",
+        "line": {
+            "en": "We feel a sense of liberation as the exam ends.\\nThe mood in the classroom suddenly becomes bright\\nand cheerful."
+        },
+        "name": ""
+    },
+    {
+        "id": "c908",
+        "line": {
+            "en": "There's one more day left of the first term."
+        },
+        "name": ""
+    },
+    {
+        "id": "cd08",
+        "line": {
+            "en": "After the closing ceremony tomorrow, the summer\\nholiday will finally begin."
+        },
+        "name": ""
+    },
+    {
+        "id": "d108",
+        "line": {
+            "en": "'Aoi!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d508",
+        "line": {
+            "en": "Ageha, who was chatting with the girls in the\\nclass about their plans for the summer holidays,\\nstopped talking to come over to me."
+        },
+        "name": ""
+    },
+    {
+        "id": "d908",
+        "line": {
+            "en": "'What's up?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "dd08",
+        "line": {
+            "en": "'There's something I want to talk to you about\\nlater.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e108",
+        "line": {
+            "en": "'Can't talk now?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e508",
+        "line": {
+            "en": "'I've gotta do something after this.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e908",
+        "line": {
+            "en": "'Oh, the Robotics Club?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ed08",
+        "line": {
+            "en": "'No. I was given a love letter. I have to respond\\nto it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f108",
+        "line": {
+            "en": "'What?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f508",
+        "line": {
+            "en": "Without thinking, my face stiffens up, and Ageha\\ngrins delightedly in response."
+        },
+        "name": ""
+    },
+    {
+        "id": "f908",
+        "line": {
+            "en": "'You should see your face! Are you worried that\\nsomeone is going to take your childhood friend\\naway from you?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fd08",
+        "line": {
+            "en": "'Ugh...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0208",
+        "line": {
+            "en": "'See, now you know how I feel, don't you?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0608",
+        "line": {
+            "en": "'...How are you going to respond?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0a08",
+        "line": {
+            "en": "I ask cautiously..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0e08",
+        "line": {
+            "en": "'Well now, I don't know until I hear what he has\\nto say.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1208",
+        "line": {
+            "en": "'O-Okay... I wish you all the best!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1608",
+        "line": {
+            "en": "I decide to not get in her way any more than I\\nalready have, and quickly leave the classroom."
+        },
+        "name": ""
+    },
+    {
+        "id": "1a08",
+        "line": {
+            "en": "'Well well, I'm more popular than I thought!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1e08",
+        "line": {
+            "en": "'...Sorry to keep you waiting.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2208",
+        "line": {
+            "en": "'No, I just got here! Just kidding!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2608",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2a08",
+        "line": {
+            "en": "'What a surprise! When I got here this morning,\\nthere was a love letter in my desk.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2e08",
+        "line": {
+            "en": "'Love letter?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3208",
+        "line": {
+            "en": "'Huh? That's not it? I thought someone was going\\nto confess their love for me, and I was waiting\\nhere, all excited.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3608",
+        "line": {
+            "en": "'...That's right.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3a08",
+        "line": {
+            "en": "'Huh? Seriously?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3e08",
+        "line": {
+            "en": "'Heee... hooo... heee... hooo... heee...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4208",
+        "line": {
+            "en": "'...Ageha, I know that you don't like me.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4608",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4a08",
+        "line": {
+            "en": "'If you tell me that you can't stand the sight of\\nme, I'll leave.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4e08",
+        "line": {
+            "en": "'But please don't quit the Soaring Club!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5208",
+        "line": {
+            "en": "'What!? What are you talking about?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5608",
+        "line": {
+            "en": "'Amane going through a lot! She made a promise to\\nthat annoying teacher, Tobioka, and she has to\\nquit the club this summer!!!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5a08",
+        "line": {
+            "en": "'That's why we have to be able to fly before\\nthen! No, not just fly, we have to fly above the\\nclouds!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5e08",
+        "line": {
+            "en": "'That's why we need your help!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6208",
+        "line": {
+            "en": "'It won't make much difference if I'm there or\\nnot, but you're different.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6608",
+        "line": {
+            "en": "'If you're not there, we can't finish the wings!\\nWe can't fly!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6a08",
+        "line": {
+            "en": "'Amane has been trying so hard all this time...\\nTo keep her promise to Isuka.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6e08",
+        "line": {
+            "en": "'What that is, I don't know, but...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7208",
+        "line": {
+            "en": "'But, even so, aaaaaahhh...!!!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7608",
+        "line": {
+            "en": "'Anyway! I'm saying that if Amane can't fly, I\\nwould feel so sorry for her!!!!!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7a08",
+        "line": {
+            "en": "'Well, even if you get angry with me about it...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7e08",
+        "line": {
+            "en": "'If you don't want me there, I'll quit right now!\\nI won't go there anymore!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8208",
+        "line": {
+            "en": "'I'll even quit the school if need be!!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8608",
+        "line": {
+            "en": "'But, in return... I'd like you to stay in the\\nSoaring Club...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8a08",
+        "line": {
+            "en": "'Kotori...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8e08",
+        "line": {
+            "en": "'Please.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9208",
+        "line": {
+            "en": "'I don't want to.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9608",
+        "line": {
+            "en": "'Wh-...Whaaaaaaat!!!?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9a08",
+        "line": {
+            "en": "'Listen, I don't hate you, Kotori.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9e08",
+        "line": {
+            "en": "'Well, sometimes you can be pretty annoying...\\nAhem! Ahem!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a208",
+        "line": {
+            "en": "'Annoying...?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a608",
+        "line": {
+            "en": "'If you're saying that I should stay and you'll\\nquit, then I refuse.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "aa08",
+        "line": {
+            "en": "'So, so... What should we do!?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ae08",
+        "line": {
+            "en": "'You should stay and make the wings. I will help\\nyou.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b208",
+        "line": {
+            "en": "'But... the problem is that we can't do that!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "b608",
+        "line": {
+            "en": "'Kotori, do you hate me?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ba08",
+        "line": {
+            "en": "'Huh...?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "be08",
+        "line": {
+            "en": "'You can't stand the sight of me?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c208",
+        "line": {
+            "en": "'No, I don't think that. I guess you can\\nsometimes be a pain in the... Ahem! No, it's\\nnothing.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c608",
+        "line": {
+            "en": "'You were gonna say that I'm a pain in the ass,\\nright?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ca08",
+        "line": {
+            "en": "'I...I wasn't! I don't hate you as much as I did\\nbefore. No, now I... like you.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ce08",
+        "line": {
+            "en": "'You see, I can be kind of horrible, right? Don't\\nyou think?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "d208",
+        "line": {
+            "en": "'When I get like that, you can give me a karate\\nchop. If it doesn't hurt, I won't remember.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "d608",
+        "line": {
+            "en": "'OW!!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "da08",
+        "line": {
+            "en": "'That hurts...!! What are you doing!!!?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "de08",
+        "line": {
+            "en": "'Ah, you just told to me do it...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e208",
+        "line": {
+            "en": "'Only when I'm being horrible! If you do that\\nwhen I haven't done anything, you're just being\\nviolent!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "e608",
+        "line": {
+            "en": "'OK, I'll remember that.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ea08",
+        "line": {
+            "en": "'...Ugh... Why are the all the people who were\\nraised in this town so violent?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ee08",
+        "line": {
+            "en": "'What were we talking about?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f208",
+        "line": {
+            "en": "'The Soaring Club!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "f608",
+        "line": {
+            "en": "'Oh right. OK, let's go.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fa08",
+        "line": {
+            "en": "'Huh? Where?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "fe08",
+        "line": {
+            "en": "'To the garage. I have a little suggestion.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0308",
+        "line": {
+            "en": "'Waaaaasup!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0708",
+        "line": {
+            "en": "'Waaaaasup!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0b08",
+        "line": {
+            "en": "The two second-year girls came bursting in."
+        },
+        "name": ""
+    },
+    {
+        "id": "0f08",
+        "line": {
+            "en": "'Hey there.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1308",
+        "line": {
+            "en": "'Hey there, buddy.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1708",
+        "line": {
+            "en": "Ageha grins as she looks at me."
+        },
+        "name": ""
+    },
+    {
+        "id": "1b08",
+        "line": {
+            "en": "'What is it, Ageha? Don't you have to go to the\\nRobotics Club?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "1f08",
+        "line": {
+            "en": "'Before that, there's something I want to talk to\\nyou about.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2308",
+        "line": {
+            "en": "'(Kotori, did something happen?)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2708",
+        "line": {
+            "en": "'(I'm not sure. She has some sort of\\nsuggestion...)'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2b08",
+        "line": {
+            "en": "'Ahem.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2f08",
+        "line": {
+            "en": "Ageha clears her throat while glaring at Kotori\\nand I whispering to each other."
+        },
+        "name": ""
+    },
+    {
+        "id": "3308",
+        "line": {
+            "en": "'I heard that Amane will be leaving. There's not\\nmuch time left.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3708",
+        "line": {
+            "en": "'Yeah...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "3b08",
+        "line": {
+            "en": "'But as I said a few days ago, I have to focus on\\nthe Robotics Club for a while.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3f08",
+        "line": {
+            "en": "'From today onwards, we'll be doing the last job\\nfor preparing to go to the contest.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4308",
+        "line": {
+            "en": "'With the extension of club activity hours, we'll\\nbe working as late as possible - right up until 8\\nPM, probably every day.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4708",
+        "line": {
+            "en": "'So after you finish at the Robotics Club, you\\ncan't even come and see us here?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4b08",
+        "line": {
+            "en": "Ageha gives a solemn nod."
+        },
+        "name": ""
+    },
+    {
+        "id": "4f08",
+        "line": {
+            "en": "I guess this really is a hopeless situation for\\nus."
+        },
+        "name": ""
+    },
+    {
+        "id": "5308",
+        "line": {
+            "en": "'But I have a suggestion!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5708",
+        "line": {
+            "en": "'Let's have a camp!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5b08",
+        "line": {
+            "en": "'Camp...?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "5f08",
+        "line": {
+            "en": "'That's right, camp!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6308",
+        "line": {
+            "en": "We don't see where she's going with this."
+        },
+        "name": ""
+    },
+    {
+        "id": "6708",
+        "line": {
+            "en": "'Where are we gonna do that?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6b08",
+        "line": {
+            "en": "'Here, of course!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6f08",
+        "line": {
+            "en": "'We're going to stay here and work?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7308",
+        "line": {
+            "en": "Even though we live within walking distance?"
+        },
+        "name": ""
+    },
+    {
+        "id": "7708",
+        "line": {
+            "en": "'We don't actually have to stay here. All we have\\nto do is submit a request to the student\\ncouncil.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7b08",
+        "line": {
+            "en": "'Then what are we going to do?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7f08",
+        "line": {
+            "en": "Ageha grins and snickers."
+        },
+        "name": ""
+    },
+    {
+        "id": "8308",
+        "line": {
+            "en": "'We can stay at school as long as we want!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8708",
+        "line": {
+            "en": "With that, it was like the light bulbs above our\\nheads had finally lit up."
+        },
+        "name": ""
+    },
+    {
+        "id": "8b08",
+        "line": {
+            "en": "'I can come after eight o'clock but...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8f08",
+        "line": {
+            "en": "'That'll be enough!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9308",
+        "line": {
+            "en": "'Yeah, we'll be able to work longer too, so the\\nschedule will be much shorter!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9708",
+        "line": {
+            "en": "'Ah ha ha, you guys are the best. Usually people\\nwould complain like 'My summer holiday is\\nruined!''"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9b08",
+        "line": {
+            "en": "'In the summer holidays, there's nothing to do\\nexcept homework!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9f08",
+        "line": {
+            "en": "'Why would we complain when we can do what we\\nwant every day?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a308",
+        "line": {
+            "en": "'Uh-huh. What do you think, senpai?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a708",
+        "line": {
+            "en": "'Yeah, it's a good idea. But is that alright with\\nyou...?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "ab08",
+        "line": {
+            "en": "'?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "af08",
+        "line": {
+            "en": "'You're in two clubs at once, so you'll be busier\\nthan any of us.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "b308",
+        "line": {
+            "en": "'That's why I agree with what Aoi said. I can do\\nall the things I want at the same time, so if I\\nget a little worn out, I'm completely fine with\\nthat.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b708",
+        "line": {
+            "en": "'So it's decided!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "bb08",
+        "line": {
+            "en": "'Let's submit our request to camp here to the\\nstudent council right away!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bf08",
+        "line": {
+            "en": "'Yeah, let's do that. While we're there, we can\\nsubmit our notification of who will be second in\\ncharge.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "c308",
+        "line": {
+            "en": "Everyone looked like 'Oh yeah, there was that\\ntoo...'."
+        },
+        "name": ""
+    },
+    {
+        "id": "c708",
+        "line": {
+            "en": "'So, it's gonna be Aoi...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "cb08",
+        "line": {
+            "en": "'I think it should be you, Kotori.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cf08",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "d308",
+        "line": {
+            "en": "'Yeah, that's what I thought too.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d708",
+        "line": {
+            "en": "'Wait, wait, what makes you think that?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "db08",
+        "line": {
+            "en": "'I'm in two clubs at once, aren't I?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "df08",
+        "line": {
+            "en": "'I've got my dorm mother's job to do, so I'll\\npass.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e308",
+        "line": {
+            "en": "'Let's cast a vote. All those who think it should\\nbe Kotori...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e708",
+        "line": {
+            "en": "Everyone except Kotori quickly raised their\\nhands."
+        },
+        "name": ""
+    },
+    {
+        "id": "eb08",
+        "line": {
+            "en": "'What? No way!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ef08",
+        "line": {
+            "en": "'I'm the least useful, and I can't do anything by\\nmyself...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "f308",
+        "line": {
+            "en": "'That's alright, isn't it?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "f708",
+        "line": {
+            "en": "'We humans were born without wings - but still,\\nwe yearn to fly freely through the sky. It may\\nseem impossible, but...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "fb08",
+        "line": {
+            "en": "'At times like this, the solution is not\\ntechnology or talent... it's passion, I think.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "ff08",
+        "line": {
+            "en": "'The person second in charge must be someone who\\nwants to fly through the sky. Someone who will\\ntake everyone else with them.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "000c",
+        "line": {
+            "en": "'Amane...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "040c",
+        "line": {
+            "en": "'...But, isn't that your role, Amane? After all,\\nyou are the club leader.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "080c",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "0c0c",
+        "line": {
+            "en": "'Well, it's already been decided.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "100c",
+        "line": {
+            "en": "'OK, first things first, let's hand in those\\nnotices to the student council.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "140c",
+        "line": {
+            "en": "'Uhhh... You're just making me do all the stuff\\nthat you guys don't wanna do, aren't you...?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "180c",
+        "line": {
+            "en": "And in one fell swoop, we decided that we would\\n'camp' in the garage. We even got a second in\\ncommand."
+        },
+        "name": ""
+    },
+    {
+        "id": "1c0c",
+        "line": {
+            "en": "'Ok, we'll be back soon.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "200c",
+        "line": {
+            "en": "'See you soon.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "240c",
+        "line": {
+            "en": "Kotori and Amane headed to the student council to\\nsubmit the notices."
+        },
+        "name": ""
+    },
+    {
+        "id": "280c",
+        "line": {
+            "en": "'OK then, I'm off to Robotics Club.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2c0c",
+        "line": {
+            "en": "'Ageha?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "300c",
+        "line": {
+            "en": "'Hmm?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "340c",
+        "line": {
+            "en": "'Thanks for sticking with us.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "380c",
+        "line": {
+            "en": "'No problem. I'm doing it because I want to.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3c0c",
+        "line": {
+            "en": "'A-...Anyway, how was it?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "400c",
+        "line": {
+            "en": "'What?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "440c",
+        "line": {
+            "en": "'Y'know, that thing you were talking about... the\\nlove letter?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "480c",
+        "line": {
+            "en": "'Oh...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4c0c",
+        "line": {
+            "en": "She grins again."
+        },
+        "name": ""
+    },
+    {
+        "id": "500c",
+        "line": {
+            "en": "'He totally confessed his feelings for me!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "540c",
+        "line": {
+            "en": "'Totally, you say... what kind of feelings?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "580c",
+        "line": {
+            "en": "'That he likes me!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5c0c",
+        "line": {
+            "en": "'Well, that person was really forward. Nothing\\nwrong with that, though.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "600c",
+        "line": {
+            "en": "'So, did you agree to go out with him?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "640c",
+        "line": {
+            "en": "'Yeah.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "680c",
+        "line": {
+            "en": "'Oh... really? I'll be cheering for you!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6c0c",
+        "line": {
+            "en": "'Thanks! Well then, I'll be off now.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "700c",
+        "line": {
+            "en": "'Yeah, good luck!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "740c",
+        "line": {
+            "en": "And that's how our summer holiday began."
+        },
+        "name": ""
+    },
+    {
+        "id": "780c",
+        "line": {
+            "en": "'...I wonder what kind of person he is?'"
+        },
+        "name": "Aoi"
+    }
+]

@@ -1,0 +1,79 @@
+[
+    {
+        "id": "0400",
+        "line": {
+            "en": "'...Maybe Ageha.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "'...Something seems weird.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "'You wouldn't normally do something like praise a\\ngirl's swimsuit so easily.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "'... I've never praised something like that\\nbefore. I don't know anything about that.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "'That can't be true! As a test, try praising\\nAmane's swimsuit!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "'Uh... umm... It really suits you, Amane.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "'Thanks.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "'See, he's totally embarrassed! Why weren't you\\nembarrassed when you said it to me!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "'I don't know! Because we're childhood friends!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "'Uh... being childhood friends can be a\\ndrawback.'"
+        },
+        "name": "Ageha"
+    }
+]

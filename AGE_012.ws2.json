@@ -1,0 +1,562 @@
+[
+    {
+        "id": "0000",
+        "line": {
+            "en": "And then... in the evening of that day."
+        },
+        "name": ""
+    },
+    {
+        "id": "0400",
+        "line": {
+            "en": "'Well, I guess it's about time.'"
+        },
+        "name": "Ageha's mother"
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "'Yeah it is... ah, there it is!'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "'Now for the local news.'"
+        },
+        "name": "Anchorwoman"
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "'This morning, local students succeeded in taking\\npictures of an extremely rare cloud.'"
+        },
+        "name": "Anchorwoman"
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "'This is the picture they took.'"
+        },
+        "name": "Anchorwoman"
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "'Why aren't Ageha and Aoi in it?'"
+        },
+        "name": "Ageha's mother"
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "'After that...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "'This is so amazing.'"
+        },
+        "name": "Anchorwoman"
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "'This long, horizontal cloud is known as the\\n\"Morning Glory\", and while it's been known to\\nappear in Australia, it's appearance in Japan\\ncomes as quite rare.'"
+        },
+        "name": "Meteorologist"
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "'Enough with the explanation, show our kids\\nalready!'"
+        },
+        "name": "Ageha's mother"
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "'Quiet mother!'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "'This is an extremely valuable picture.'"
+        },
+        "name": "Meteorologist"
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "'It's said that the students who took this\\npicture flew on a glider that they made\\nthemselves.'"
+        },
+        "name": "Anchorwoman"
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "'Also, the glider's pilot is disabled and\\nnormally has to get around in a wheel chair.'"
+        },
+        "name": "Anchorwoman"
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "'I guess that's Kotori. What a lovely child. Oh,\\nand there's Aoi in the back! Look! That's\\ndefinitely Aoi!'"
+        },
+        "name": "Ageha's mother"
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "'No matter how you see it, he's one handsome guy\\nthat'll make a great husband someday. I'm looking\\nforward to that day. I wonder if he'll marry\\nright after graduating?'"
+        },
+        "name": "Ageha's mother"
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "'I told you to be quiet mom!'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "'... I still haven't given up hope yet.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "... The hot summer began to cool and a new school\\nterm began."
+        },
+        "name": ""
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "'I saw the news! How does it feel to be a big TV\\ncelebrity, Habane?'"
+        },
+        "name": "Girl in class A"
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "'You're a famous member of the Soaring Club!'"
+        },
+        "name": "Class girl B"
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "'Oh... thanks.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "'What? Is something wrong?'"
+        },
+        "name": "Girl in class A"
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "'What can I say... I guess I'm a bit burned\\nout... I feel kind of sluggish...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "'Ah hah.'"
+        },
+        "name": "Class girl B"
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "'And... I just feel as if the life's been sucked\\nout of me...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "'... It's those guys.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "'Heeey! Long time no see! I saw the news!'"
+        },
+        "name": "Boy in class A"
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "'The Soaring Club sure is something!'"
+        },
+        "name": "Boy in class B"
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "'Nah, it's nothing special really.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "'I saw Himegi on the news too!'"
+        },
+        "name": "Boy in class A"
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "'It was nothing, don't mention it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "'So, I heard you and Minase are close.'"
+        },
+        "name": "Boy in class B"
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "'Ugh, you're one lucky son of a bitch, Aoi!'"
+        },
+        "name": "Boy in class A"
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "'Nah, ahaha.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "'Well, I guess that means I've got a boyfriend.\\nThank you!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "'Hey hey, don't say that so loud!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9800",
+        "line": {
+            "en": "'Whatever, you know you like it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "'... This is too sweet. I think I'm getting a\\nheartburn.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "'Uhh...'"
+        },
+        "name": "Girl in class A"
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "'You look great together. Maybe I'll try to find\\na boyfriend too.'"
+        },
+        "name": "Class girl B"
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "'The Soaring Club has flying practice every\\nSaturday! Anybody interested should check it out!\\nWe're always looking for new members!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "'... A firecracker as always.'"
+        },
+        "name": "Girl in class A"
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "'What did you call me!? But yeah! No shortage of\\nenergy here!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "'Oh, this is just the beginning! We're going to\\nbe flying for a long time! Listen up, everyone!\\nThe sky is wonderful!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b800",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "bc00",
+        "line": {
+            "en": "'How about that gap in level of enthusiasm?'"
+        },
+        "name": "Class girl B"
+    },
+    {
+        "id": "c000",
+        "line": {
+            "en": "'It's nothing. It's just that he has a new goal,\\nthat's all.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c400",
+        "line": {
+            "en": "'Right Ageha... so when is it going to be?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c800",
+        "line": {
+            "en": "'Here we go again...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "cc00",
+        "line": {
+            "en": "'What are you talking about?'"
+        },
+        "name": "Girl in class A"
+    },
+    {
+        "id": "d000",
+        "line": {
+            "en": "'Just listen to this. No matter how long I wait,\\nshe refuses to tell me that she likes me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d400",
+        "line": {
+            "en": "'At this point, I feel like saying it would mean\\nadmitting defeat.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d800",
+        "line": {
+            "en": "'... Eh!? Does that mean you're still not going\\nto say it?'"
+        },
+        "name": "Class girl B"
+    },
+    {
+        "id": "dc00",
+        "line": {
+            "en": "'Ridiculous! You have to at least give him that!'"
+        },
+        "name": "Girl in class A"
+    },
+    {
+        "id": "e000",
+        "line": {
+            "en": "'Ooo... Ageha...'"
+        },
+        "name": "Ageha's father"
+    },
+    {
+        "id": "e400",
+        "line": {
+            "en": "'You're always watching her. It's all you do.'"
+        },
+        "name": "Ageha's mother"
+    },
+    {
+        "id": "e800",
+        "line": {
+            "en": "'Am I supposed to just sit by and watch as\\nsomeone takes my daughter away?'"
+        },
+        "name": "Ageha's father"
+    },
+    {
+        "id": "ec00",
+        "line": {
+            "en": "'At least it's Aoi and not some weirdo.'"
+        },
+        "name": "Ageha's mother"
+    },
+    {
+        "id": "f000",
+        "line": {
+            "en": "'This glider was improved thanks to the help of\\neveryone in the Keifuu Academy...'"
+        },
+        "name": "Anchorwoman"
+    },
+    {
+        "id": "f400",
+        "line": {
+            "en": "'Oh... this! This!'"
+        },
+        "name": "Meteorologist"
+    },
+    {
+        "id": "f800",
+        "line": {
+            "en": "'It's like a scene from a movie.'"
+        },
+        "name": "Anchorwoman"
+    },
+    {
+        "id": "fc00",
+        "line": {
+            "en": "'It's way too late to be showing something this\\ngreat on TV!'"
+        },
+        "name": "Boy in class A"
+    },
+    {
+        "id": "0100",
+        "line": {
+            "en": "'It'll blow you all away!'"
+        },
+        "name": "Boy in class B"
+    },
+    {
+        "id": "0500",
+        "line": {
+            "en": "'Ageha! Say it!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0900",
+        "line": {
+            "en": "'I'll say it when the world only has one day\\nleft.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0d00",
+        "line": {
+            "en": "'No, now! Say it right now!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1100",
+        "line": {
+            "en": "'...Aoi, I li...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1500",
+        "line": {
+            "en": "'Li!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1900",
+        "line": {
+            "en": "'Li...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1d00",
+        "line": {
+            "en": "'Li...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2100",
+        "line": {
+            "en": "'Licked a toad when I was younger. I felt really\\nweird afterward.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2500",
+        "line": {
+            "en": "'Argh! How cruel can you be!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2900",
+        "line": {
+            "en": "'Hehehe. You're cute when you make that face.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2d00",
+        "line": {
+            "en": "'So, don't say that. L and I and K!!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3100",
+        "line": {
+            "en": "'L- Lithium and I- Iodine, K- Kalium and E-\\nEthanol...like the periodic table'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3500",
+        "line": {
+            "en": "'Sigh! At least I can say it. You know, that I\\nlove you. I can say it anytime and anywhere...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3900",
+        "line": {
+            "en": "'Ahaha! We'll be together forever!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3d00",
+        "line": {
+            "en": "'Give me a break you two!!'"
+        },
+        "name": "Kotori"
+    }
+]

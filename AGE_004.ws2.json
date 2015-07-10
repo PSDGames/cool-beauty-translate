@@ -1,0 +1,3705 @@
+[
+    {
+        "id": "0000",
+        "line": {
+            "en": "'Well, Ageha, see you tomorrow.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0400",
+        "line": {
+            "en": "'I'm back!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "Ageha's yell fills me to the brim."
+        },
+        "name": ""
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "Looks like the dormitory work will come first."
+        },
+        "name": ""
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "But I'll be sidestepping everyone today so few\\nare here today."
+        },
+        "name": ""
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "Asa and Yoru spend their weekends at home, while\\nKotori is eating out with Hibari."
+        },
+        "name": ""
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "'I'm baaaaack... And I'm huuuuungry!'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "'Okay okay, I'll get right on it.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "'Did everything go okay with Ageha?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "'Barely avoided a witch hunt, but whose fault do\\nyou think it was?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "'Ugh, aren't you just the lady-killer, Aoi.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "'I wonder if it's okay for me to get angry now?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "'Welcome home.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "'Hey, here I am.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "Huh... Now..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "Umm, I think I'll wash the potatoes and carrots\\nfirst..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "'I'll get to work on the chicken over here.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "'Oh, you're a lifesaver.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "'Mmm, smells good.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "'I'm so hungry.'"
+        },
+        "name": "Sanae"
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "'Isn't the rice ready yet?'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "I swung the pot around to deliver a pile of food\\non to a large plate, a giant cloud of steam\\nfollowing it all the way to the table."
+        },
+        "name": ""
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "'Looks good.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "'How many pairs of chopsticks?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "'We need 7.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "'Are we all here? Well then...'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "'Let's eat!'"
+        },
+        "name": "Everyone"
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "'Chomp chomp, munch much.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "'Mmm, this really turned out well.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "'The smell and the food... So good...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "'Umm, Kanako-san, is okay if I ask a question?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "'Sure, go ahead.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "'These two on my right and left... How long have\\nthey been with me?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "'Ah, one has been with you from the start, and\\nthe other has always clung to you from behind.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "'I see, I see.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9800",
+        "line": {
+            "en": "'Right! And what could it mean?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "'Umm, hasn't it already been said?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "'And that aside, aren't you going to eat?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "'We did bring you ingredients after all.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "'We also helped you cook.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "'It's fine. I got my permission, so eating here's\\nnot a problem.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "'The problem is... why this seat?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "One side of the table was Kanako and everyone\\nelse from the dorm."
+        },
+        "name": ""
+    },
+    {
+        "id": "b800",
+        "line": {
+            "en": "And then there was me."
+        },
+        "name": ""
+    },
+    {
+        "id": "bc00",
+        "line": {
+            "en": "Sitting in the middle on the side opposite from\\nher."
+        },
+        "name": ""
+    },
+    {
+        "id": "c000",
+        "line": {
+            "en": "Ageha on my right and Hotaru on my left."
+        },
+        "name": ""
+    },
+    {
+        "id": "c400",
+        "line": {
+            "en": "'Looks like you have a flower in each hand.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "c800",
+        "line": {
+            "en": "'Must be nice to be surrounded such cuties.'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "cc00",
+        "line": {
+            "en": "'Aoi's sure living the dream, isn't he?'"
+        },
+        "name": "Sanae"
+    },
+    {
+        "id": "d000",
+        "line": {
+            "en": "'Trust me! It's not all it's cracked up to be!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d400",
+        "line": {
+            "en": "'If you're not going to eat your food, I will.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d800",
+        "line": {
+            "en": "'Aoi, do you need seconds?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "dc00",
+        "line": {
+            "en": "'I'll give him this instead.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e000",
+        "line": {
+            "en": "'Ah, I guess I'll do the same.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "e400",
+        "line": {
+            "en": "'Nuu...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e800",
+        "line": {
+            "en": "'Open wide Aoi, the airplane's coming in for a\\nlanding.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ec00",
+        "line": {
+            "en": "'Who's eating?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f000",
+        "line": {
+            "en": "'Aoi, say AAAAHHHHH.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "f400",
+        "line": {
+            "en": "'No, I mean...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f800",
+        "line": {
+            "en": "'No?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "fc00",
+        "line": {
+            "en": "'Oooo...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0100",
+        "line": {
+            "en": "'C'mon Aoi, you need to work on being a better\\nhost. So turn this way, and say AAAAAHHHHH.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0500",
+        "line": {
+            "en": "'Ryouko, take a good one.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0900",
+        "line": {
+            "en": "'Yes, of course, I've got this.'"
+        },
+        "name": "Ryouko"
+    },
+    {
+        "id": "0d00",
+        "line": {
+            "en": "'What are you doing with that camera?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1100",
+        "line": {
+            "en": "'Umm... we're going to sell it to the Newspaper\\nClub to earn funds for the club, right?'"
+        },
+        "name": "Ryouko"
+    },
+    {
+        "id": "1500",
+        "line": {
+            "en": "'No, no, send it to Aunt Minase. Aoi can't afford\\nto take his 'lady friend' out on a date, so we\\nneed to get him some money.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1900",
+        "line": {
+            "en": "'If we go ahead with this, it may have the bonus\\nof adding to the club's chest!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1d00",
+        "line": {
+            "en": "'We'll rip them off for the whole sum!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2100",
+        "line": {
+            "en": "'That's Ageha for ya... one nasty girl.'"
+        },
+        "name": "Ryouko"
+    },
+    {
+        "id": "2500",
+        "line": {
+            "en": "'C'mon... give me a bit more credit...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2900",
+        "line": {
+            "en": "'You sure are something, Ageha.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "2d00",
+        "line": {
+            "en": "'I don't want to drag everyone into this right\\nnow, so we'll have a long talk about it later.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3100",
+        "line": {
+            "en": "'Aoi will fight on my behalf.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "3500",
+        "line": {
+            "en": "'No fair! Not while I'm around!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3900",
+        "line": {
+            "en": "'I'd kind of like to eat, but...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3d00",
+        "line": {
+            "en": "'Good idea! Eat before it gets cold. '"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "4100",
+        "line": {
+            "en": "'Please stop already!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4500",
+        "line": {
+            "en": "'The tears of others taste sweet...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "4900",
+        "line": {
+            "en": "'Your sister has some harsh lessons to teach.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4d00",
+        "line": {
+            "en": "'Aoi's tears taste like iron...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5100",
+        "line": {
+            "en": "'Ah, right, that's because blood is full of iron.\\nSo is that cause enough for us to show\\nrestraint!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5500",
+        "line": {
+            "en": "'Aoi looks like he's about to shed tears of his\\nown.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "5900",
+        "line": {
+            "en": "'Jeez, I wonder who's to blame!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5d00",
+        "line": {
+            "en": "'It's you Aoi, right Hotaru?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6100",
+        "line": {
+            "en": "'Yes.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "6500",
+        "line": {
+            "en": "'What's this sudden collusion!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6900",
+        "line": {
+            "en": "'It's like I said already. Just stop looking at\\nme like that with those grins on your faces!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6d00",
+        "line": {
+            "en": "'Nah, I mean, look, it's like, are you trying to\\nsay that we're in your way?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "7100",
+        "line": {
+            "en": "'In a perfect world...'"
+        },
+        "name": "Yuka"
+    },
+    {
+        "id": "7500",
+        "line": {
+            "en": "'They're sisters. Or should I say sister sandwich\\nwith Aoi here?'"
+        },
+        "name": "Sanae"
+    },
+    {
+        "id": "7900",
+        "line": {
+            "en": "'It's not like that!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7d00",
+        "line": {
+            "en": "Ah... I've had about enough of this for one\\nday..."
+        },
+        "name": ""
+    },
+    {
+        "id": "8100",
+        "line": {
+            "en": "'Well then, thanks for the food! I'll see you all\\nlater!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8500",
+        "line": {
+            "en": "'Okay, great job today. Are you coming too? I'll\\nprepare some notes for you if you do.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "8900",
+        "line": {
+            "en": "'Thanks in advance!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8d00",
+        "line": {
+            "en": "'Going to cram for exams... huh?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "9100",
+        "line": {
+            "en": "'Yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9500",
+        "line": {
+            "en": "'Can I... join too?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "9900",
+        "line": {
+            "en": "'Hmm? Well, I don't mind, but...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9d00",
+        "line": {
+            "en": "'I'll go then.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "a100",
+        "line": {
+            "en": "Hotaru spoke with unusual intensity."
+        },
+        "name": ""
+    },
+    {
+        "id": "a500",
+        "line": {
+            "en": "'C'mon, Hotaru, you're not even in the same\\ngrade.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a900",
+        "line": {
+            "en": "She has a point. With us in year 3 and the\\nKazato\\sisters in year 1, there isn't much for\\nHotaru to gain as the only 2nd year student."
+        },
+        "name": ""
+    },
+    {
+        "id": "ad00",
+        "line": {
+            "en": "'But if she wants to come, she's welcome.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b100",
+        "line": {
+            "en": "'I'm going.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "b500",
+        "line": {
+            "en": "Hotaru again spoke with unusual intensity."
+        },
+        "name": ""
+    },
+    {
+        "id": "b900",
+        "line": {
+            "en": "'Okay...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bd00",
+        "line": {
+            "en": "After that... I saw the sisters off and returned\\nhome..."
+        },
+        "name": ""
+    },
+    {
+        "id": "c100",
+        "line": {
+            "en": "'I'm back.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c500",
+        "line": {
+            "en": "'Weeeee'rrrrreeeee baaaaaaack!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "c900",
+        "line": {
+            "en": "'I'm here too. Man, after hanging at home for a\\nwhile, this place really starts to look like a\\ndump.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "cd00",
+        "line": {
+            "en": "'Ah, get me some dessert. Fruits would be nice. I\\nwonder what you all have.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "d100",
+        "line": {
+            "en": "'Ooo...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d500",
+        "line": {
+            "en": "Overtaken by a new source of fatigue, I felt my\\nshoulders buckle beneath an invisible weight."
+        },
+        "name": ""
+    },
+    {
+        "id": "d900",
+        "line": {
+            "en": "Uh... It's morning... I have to get up..."
+        },
+        "name": ""
+    },
+    {
+        "id": "dd00",
+        "line": {
+            "en": "I wake up and start cramming for exams. I need to\\nmake up some notes for everyone soon..."
+        },
+        "name": ""
+    },
+    {
+        "id": "e100",
+        "line": {
+            "en": "But first, I need to clean the bathroom and do\\nsome errands for my dorm mother..."
+        },
+        "name": ""
+    },
+    {
+        "id": "e500",
+        "line": {
+            "en": "'Hmm...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e900",
+        "line": {
+            "en": "This is bad. I managed to get up but I'm still\\nsleepy..."
+        },
+        "name": ""
+    },
+    {
+        "id": "ed00",
+        "line": {
+            "en": "However, the sleepiness I feel is pleasant and I\\nam unable to resist it..."
+        },
+        "name": ""
+    },
+    {
+        "id": "f100",
+        "line": {
+            "en": "..."
+        },
+        "name": ""
+    },
+    {
+        "id": "f500",
+        "line": {
+            "en": "'Look, he's asleep.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f900",
+        "line": {
+            "en": "'He sure is.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "fd00",
+        "line": {
+            "en": "'If we're going to do it, now's our chance.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0200",
+        "line": {
+            "en": "'Yeah, let's do it.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "0600",
+        "line": {
+            "en": "'Okay 'meat' is no good. We need some other word\\nthat suits Aoi.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0a00",
+        "line": {
+            "en": "'Okay. Leave it to me.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "0e00",
+        "line": {
+            "en": "Hmm... It's like... I think I just heard a\\nfamiliar voice."
+        },
+        "name": ""
+    },
+    {
+        "id": "1200",
+        "line": {
+            "en": "Is someone here...?"
+        },
+        "name": ""
+    },
+    {
+        "id": "1600",
+        "line": {
+            "en": "I felt something warm and soft inch closer to\\nme..."
+        },
+        "name": ""
+    },
+    {
+        "id": "1a00",
+        "line": {
+            "en": "'...Mmm...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1e00",
+        "line": {
+            "en": "'Hya!?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "2200",
+        "line": {
+            "en": "Ah, it's even softer than I thought... incredibly\\nsoft and sweet and aromatic... and it's more hot\\nthan warm..."
+        },
+        "name": ""
+    },
+    {
+        "id": "2600",
+        "line": {
+            "en": "I wrap myself tightly around it."
+        },
+        "name": ""
+    },
+    {
+        "id": "2a00",
+        "line": {
+            "en": "'Aaaaah... No! S-stop! Aoi...!'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "2e00",
+        "line": {
+            "en": "'Ugh... No good... Ah...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "3200",
+        "line": {
+            "en": "Ahhh, this is heaven."
+        },
+        "name": ""
+    },
+    {
+        "id": "3600",
+        "line": {
+            "en": "'Haaaaaaaaaaaaaaaaaaa!!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3a00",
+        "line": {
+            "en": "Huh, what an intense voice."
+        },
+        "name": ""
+    },
+    {
+        "id": "3e00",
+        "line": {
+            "en": "With vision blurred from sleep, I see what\\nappears to be someone flying through air. The\\nelbow is bent. Just when I thought it was at a\\ndangerous angle, it came crashing down on my\\nstomach."
+        },
+        "name": ""
+    },
+    {
+        "id": "4200",
+        "line": {
+            "en": "'Oof!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4600",
+        "line": {
+            "en": "Having received the sudden shock... I lapsed back\\ninto unconsciousness."
+        },
+        "name": ""
+    },
+    {
+        "id": "4a00",
+        "line": {
+            "en": "'Phew...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4e00",
+        "line": {
+            "en": "Oh no, I overslept."
+        },
+        "name": ""
+    },
+    {
+        "id": "5200",
+        "line": {
+            "en": "Everybody else must be up already."
+        },
+        "name": ""
+    },
+    {
+        "id": "5600",
+        "line": {
+            "en": "'You're late.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5a00",
+        "line": {
+            "en": "'Sorry.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5e00",
+        "line": {
+            "en": "'Ah, you're finally awake.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6200",
+        "line": {
+            "en": "'Oh, so you came.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6600",
+        "line": {
+            "en": "'Ugh... so now he's up.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6a00",
+        "line": {
+            "en": "'?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6e00",
+        "line": {
+            "en": "Which reminds me, why is it that, whenever I look\\nat Ageha... I feel a sharp pain in my stomach?"
+        },
+        "name": ""
+    },
+    {
+        "id": "7200",
+        "line": {
+            "en": "'G-good morning... Aoi...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "7600",
+        "line": {
+            "en": "'Oh, you're here. Let's have fun... another day.\\nThis day is reserved for studying.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7a00",
+        "line": {
+            "en": "'No problem!'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "7e00",
+        "line": {
+            "en": "'Huh, what's wrong? Do you have a fever or\\nsomething? Your face is kind of red.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8200",
+        "line": {
+            "en": "'Uh, no... this is... something else...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "8600",
+        "line": {
+            "en": "'Hmm.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8a00",
+        "line": {
+            "en": "Ageha belt her elbow in a show of support."
+        },
+        "name": ""
+    },
+    {
+        "id": "8e00",
+        "line": {
+            "en": "Just seeing her pointed elbow was enough to send\\nshivers down my spine."
+        },
+        "name": ""
+    },
+    {
+        "id": "9200",
+        "line": {
+            "en": "What is going on here?"
+        },
+        "name": ""
+    },
+    {
+        "id": "9600",
+        "line": {
+            "en": "We've got more enough chairs to jump right into\\nstudying."
+        },
+        "name": ""
+    },
+    {
+        "id": "9a00",
+        "line": {
+            "en": "'Okay everyone. Let's do everyone in our power to\\nnot fail these exams.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9e00",
+        "line": {
+            "en": "A failing grade would mean supplementary lessons\\nthat seriously threaten the 'break' part of\\nsummer break."
+        },
+        "name": ""
+    },
+    {
+        "id": "a200",
+        "line": {
+            "en": "In that case, the teachers who are forced to be\\npresent for those lessons lose their summers too."
+        },
+        "name": ""
+    },
+    {
+        "id": "a600",
+        "line": {
+            "en": "Teachers who lose time for holidays, family and\\nhobbies tend to reveal a more sinister form, not\\noften seen during normal classes."
+        },
+        "name": ""
+    },
+    {
+        "id": "aa00",
+        "line": {
+            "en": "'Failure means death! So declares your leader!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ae00",
+        "line": {
+            "en": "We, too, could not stand the idea of losing\\nprecious working hours."
+        },
+        "name": ""
+    },
+    {
+        "id": "b200",
+        "line": {
+            "en": "That's why all of us got together to study for\\nthese exams as if our lives depended on it."
+        },
+        "name": ""
+    },
+    {
+        "id": "b600",
+        "line": {
+            "en": "Our school is fairly industrial in nature with an\\nunusually high number of marks awarded for\\npractical skills."
+        },
+        "name": ""
+    },
+    {
+        "id": "ba00",
+        "line": {
+            "en": "On the other hand, general classes are not taken\\nas seriously."
+        },
+        "name": ""
+    },
+    {
+        "id": "be00",
+        "line": {
+            "en": "However, that doesn't mean those classes can be\\nneglected..."
+        },
+        "name": ""
+    },
+    {
+        "id": "c200",
+        "line": {
+            "en": "More than anything, I'm just glad that normal\\nclasses can be studied the night before."
+        },
+        "name": ""
+    },
+    {
+        "id": "c600",
+        "line": {
+            "en": "'Hmm, I don't get this!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ca00",
+        "line": {
+            "en": "'I guess it might be...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ce00",
+        "line": {
+            "en": "Kotori was the expert when it came to written\\nsubjects."
+        },
+        "name": ""
+    },
+    {
+        "id": "d200",
+        "line": {
+            "en": "Ageha has skillful hands and a quick mind, but\\nunfortunately for her, neither of these seemed to\\ntranslate to the test sheet."
+        },
+        "name": ""
+    },
+    {
+        "id": "d600",
+        "line": {
+            "en": "That's why, in a complete reversal of what\\nhappens when they're making the glider, Ageha\\nlistened intently to Kotori's instruction."
+        },
+        "name": ""
+    },
+    {
+        "id": "da00",
+        "line": {
+            "en": "'Okay, what about this one?'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "de00",
+        "line": {
+            "en": "'Draw a red line from this point to that one, and\\njust try to commit this much to your memory.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "e200",
+        "line": {
+            "en": "'That teacher tends to recycle tests, so there's\\nan 80 percent chance the new test will be an old\\none.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "e600",
+        "line": {
+            "en": "'Got it.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "ea00",
+        "line": {
+            "en": "'If only Yoru could take my test for me...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "ee00",
+        "line": {
+            "en": "'Well, you're doing this, because you know I\\ncan't! Ugh, you're completely hopeless!'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "f200",
+        "line": {
+            "en": "'Calm down, calm down.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "f600",
+        "line": {
+            "en": "'For whose benefit are we doing this?!'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "fa00",
+        "line": {
+            "en": "...Well, I suppose we should just leave those two\\nto their own stuff."
+        },
+        "name": ""
+    },
+    {
+        "id": "fe00",
+        "line": {
+            "en": "On the other hand, I could really use some of\\nYoru's instruction myself..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0300",
+        "line": {
+            "en": "Well, I've held my own in information-based\\nsubjects in the past. While an easy victory by no\\nmeans, I don't see a particular need to panic for\\nthe time being."
+        },
+        "name": ""
+    },
+    {
+        "id": "0700",
+        "line": {
+            "en": "'Hmm...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "0b00",
+        "line": {
+            "en": "Which means I at least have enough wiggle room to\\nsee to the studies of a second year student in\\nneed."
+        },
+        "name": ""
+    },
+    {
+        "id": "0f00",
+        "line": {
+            "en": "'Do you need any help with anything?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1300",
+        "line": {
+            "en": "'Yes... This one...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "1700",
+        "line": {
+            "en": "'Ah, physics... I see. Start by memorizing this\\nformula.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1b00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "1f00",
+        "line": {
+            "en": "'Keep both this and this in mind. Remember\\nwhatever you can. If you can apply them, you\\nshould get the main point one way or another.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2300",
+        "line": {
+            "en": "'Okay...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "2700",
+        "line": {
+            "en": "'Give it a try for yourself. I think you can use\\nthat formula on questions 2 and 3.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2b00",
+        "line": {
+            "en": "'Hmm...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "2f00",
+        "line": {
+            "en": "'Hotaru?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3300",
+        "line": {
+            "en": "'Yes?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "3700",
+        "line": {
+            "en": "'What's wrong? You seem hesitant...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3b00",
+        "line": {
+            "en": "'No, I don't think it's that...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "3f00",
+        "line": {
+            "en": "'Well then, look.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4300",
+        "line": {
+            "en": "'Okay...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "4700",
+        "line": {
+            "en": "I slowly move Hotaru's hand over the notebook."
+        },
+        "name": ""
+    },
+    {
+        "id": "4b00",
+        "line": {
+            "en": "Her hands sure are small..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4f00",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "5300",
+        "line": {
+            "en": "'What's wrong?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5700",
+        "line": {
+            "en": "'Aoi... your arms... you have so much muscle...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "5b00",
+        "line": {
+            "en": "'Ah, that's from all the biking I did. I'd be\\nworried if you had thought the same back when I\\nwas a skinny little runt.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5f00",
+        "line": {
+            "en": "'Wow... you're just so powerful, so strong.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "6300",
+        "line": {
+            "en": "'Ah. ...did you say... powerful?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6700",
+        "line": {
+            "en": "Have I ever shown Hotaru a display of strength\\\\nbefore?"
+        },
+        "name": ""
+    },
+    {
+        "id": "6b00",
+        "line": {
+            "en": "'Your grip. It was so strong.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "6f00",
+        "line": {
+            "en": "'Grip...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7300",
+        "line": {
+            "en": "A huge question mark appeared above my head."
+        },
+        "name": ""
+    },
+    {
+        "id": "7700",
+        "line": {
+            "en": "'That was dangerous.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "7b00",
+        "line": {
+            "en": "'What was?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7f00",
+        "line": {
+            "en": "'That was... for me.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "8300",
+        "line": {
+            "en": "'?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8700",
+        "line": {
+            "en": "'It would have been far worse if I hadn't been\\nable to stop Ageha in time.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "8b00",
+        "line": {
+            "en": "'Umm... What are you talking about?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8f00",
+        "line": {
+            "en": "'Your grip.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "9300",
+        "line": {
+            "en": "'Umm... I really have no idea what you're getting\\non about, but...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9700",
+        "line": {
+            "en": "'Look. How about this?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9b00",
+        "line": {
+            "en": "'Wow... This one is tough.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9f00",
+        "line": {
+            "en": "The two of them over there are looking this way\\nas they smile and exchange whispers."
+        },
+        "name": ""
+    },
+    {
+        "id": "a300",
+        "line": {
+            "en": "'What are you up to over there?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a700",
+        "line": {
+            "en": "'Nothing, nothing at all.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ab00",
+        "line": {
+            "en": "'Nope, not a thing. Heheheh.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "af00",
+        "line": {
+            "en": "'Uh-huh.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b300",
+        "line": {
+            "en": "I overlooked the open reference book, notebook...\\nand my cell phone, which was placed under the\\ncover of their shadows."
+        },
+        "name": ""
+    },
+    {
+        "id": "b700",
+        "line": {
+            "en": "'That. What is that?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bb00",
+        "line": {
+            "en": "'Don't worry, it's nothing.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bf00",
+        "line": {
+            "en": "'I told you nothing's going on... hehehehe.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c300",
+        "line": {
+            "en": "'You two are being incredibly suspicious.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c700",
+        "line": {
+            "en": "'Ageha, did you already delete the one from\\nbefore?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "cb00",
+        "line": {
+            "en": "'You fool, Hotaru!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cf00",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d300",
+        "line": {
+            "en": "I reached out my arm and grabbed hold of Ageha's\\ncell phone."
+        },
+        "name": ""
+    },
+    {
+        "id": "d700",
+        "line": {
+            "en": "Ageha tried to guard against my advance, but I\\nwas faster. I'd be concerned if my reaction speed\\nwere to have lost out considering the days of\\nhard training I'd dedicated myself to."
+        },
+        "name": ""
+    },
+    {
+        "id": "db00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "df00",
+        "line": {
+            "en": "'Stop! Don't look!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e300",
+        "line": {
+            "en": "'Ageha Himegi, I have a question for you.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e700",
+        "line": {
+            "en": "'This screen is displaying what appears from\\nbelow to be nostrils in a picture that seems like\\nit was taken at a deliberately awkward angle.\\nWho, if I may ask, is the sleeping boy in this\\npicture?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "eb00",
+        "line": {
+            "en": "'It's Aoi Minase! Haha! Hoohoo! Don't kill me!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ef00",
+        "line": {
+            "en": "'Hotaru, I'll leave this with you. Take as many\\nphotos of the insidious life form over there as\\nyou can while it's still here.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f300",
+        "line": {
+            "en": "'Roger that.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "f700",
+        "line": {
+            "en": "'Traitor!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fb00",
+        "line": {
+            "en": "'Sorry Ageha. I have no choice.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "ff00",
+        "line": {
+            "en": "'Ah, no pictures, no pictures please. You'll need\\nto ask my manager. No. Don't. The sheer beauty of\\nmy face'll break the lens.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0004",
+        "line": {
+            "en": "'Do you even understand what you're saying?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0404",
+        "line": {
+            "en": "'That I'm the best of the best?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0804",
+        "line": {
+            "en": "'Well, you get an F for language.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0c04",
+        "line": {
+            "en": "'You can pose for the camera, you know.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1004",
+        "line": {
+            "en": "'Well, aren't I versatile?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1404",
+        "line": {
+            "en": "'Or maybe you mean volatile.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "1804",
+        "line": {
+            "en": "'Either-or!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1c04",
+        "line": {
+            "en": "'There's no room for leniency.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2004",
+        "line": {
+            "en": "'Understood.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "2404",
+        "line": {
+            "en": "'Ah, you've come to take my picture! Such beauty!\\nSuch style! You won't want to miss an inch of\\nit!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2804",
+        "line": {
+            "en": "'She's sure in high spirits, isn't she?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2c04",
+        "line": {
+            "en": "'Hey sister. Don't grow up to be like that.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "3004",
+        "line": {
+            "en": "'She's definitely not a good role model. I'll do\\nmy best Yoru.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "3404",
+        "line": {
+            "en": "'It seems the value has inadvertently shot\\ndownward! It's falling!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3804",
+        "line": {
+            "en": "'It'll shoot back up the day after tomorrow,\\nbecause you're trying to avoid the issue of the\\noriginal picture.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3c04",
+        "line": {
+            "en": "'Have I been exposed!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4004",
+        "line": {
+            "en": "'Hotaru, where did this picture come from?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4404",
+        "line": {
+            "en": "'I took it earlier.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "4804",
+        "line": {
+            "en": "'Hey!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4c04",
+        "line": {
+            "en": "'Which reminds me, you were already here when I\\nwoke up.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5004",
+        "line": {
+            "en": "'Hmm. The door was unlocked.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "5404",
+        "line": {
+            "en": "'Huh!? The front door!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5804",
+        "line": {
+            "en": "'The rear window.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "5c04",
+        "line": {
+            "en": "'What!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6004",
+        "line": {
+            "en": "'Yesterday, Kanako-san said I should sneak in on\\nthe way home.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "6404",
+        "line": {
+            "en": "'She did...!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6804",
+        "line": {
+            "en": "'What did you plan to do after sneaking in?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "6c04",
+        "line": {
+            "en": "'Hotaru, it's best if you don't know.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7004",
+        "line": {
+            "en": "'Can you take a hint that those two probably\\nshouldn't know either?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7404",
+        "line": {
+            "en": "'Hey, what did you plan to do after sneaking in?'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "7804",
+        "line": {
+            "en": "'Maybe she wanted to crawl through the darkness.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "7c04",
+        "line": {
+            "en": "'Ah, so she was launching a surprise attack of\\nsome kind.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "8004",
+        "line": {
+            "en": "'...Maybe I should try phrasing it another way.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8404",
+        "line": {
+            "en": "'I think you're close enough.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8804",
+        "line": {
+            "en": "'... Well then, what did the two Himegi sisters\\nplan to do after sneaking into my room?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8c04",
+        "line": {
+            "en": "'Nothing, we just wanted to hit the books early.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9004",
+        "line": {
+            "en": "'The Aoi observation diary.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "9404",
+        "line": {
+            "en": "'No way!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9804",
+        "line": {
+            "en": "'First, we wanted to write something on your\\nforehead.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9c04",
+        "line": {
+            "en": "'Meat?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a004",
+        "line": {
+            "en": "'We wrote both Ageha's and my name.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "a404",
+        "line": {
+            "en": "'Graffiti!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a804",
+        "line": {
+            "en": "'We didn't have enough room to write all of the\\nletters, so combined them into a single nickname\\nto represent us.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "ac04",
+        "line": {
+            "en": "'Ah, so you wrote 'stupid'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b004",
+        "line": {
+            "en": "'Ahhhhhhhhhh!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b404",
+        "line": {
+            "en": "'It's fine! We used water-based markers, it faded\\nquickly and is already gone.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b804",
+        "line": {
+            "en": "'Obviously!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bc04",
+        "line": {
+            "en": "'Maybe we should have used oil-based?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c004",
+        "line": {
+            "en": "'That's not what I'm getting at!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c404",
+        "line": {
+            "en": "'You're a wild one, Aoi.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "c804",
+        "line": {
+            "en": "'Sorry, just be quiet for a second.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cc04",
+        "line": {
+            "en": "'But doesn't your attack on Hotaru cancel out the\\nwhole picture fiasco?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d004",
+        "line": {
+            "en": "'...Who attacked who?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d404",
+        "line": {
+            "en": "'Hotaru was attacked by...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d804",
+        "line": {
+            "en": "'Aoi.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "dc04",
+        "line": {
+            "en": "'Gyahh...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "e004",
+        "line": {
+            "en": "'...I wonder if he's trying to feign surprise.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "e404",
+        "line": {
+            "en": "Gee, thanks for your trust, friend."
+        },
+        "name": ""
+    },
+    {
+        "id": "e804",
+        "line": {
+            "en": "'What are you talking about!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ec04",
+        "line": {
+            "en": "'I was grabbed.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "f004",
+        "line": {
+            "en": "'That's right. As if she were passing prey, he\\njumped up and grabbed her like a trapdoor\\nspider... so irrational.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f404",
+        "line": {
+            "en": "'I think you mean 'irritating', but...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "f804",
+        "line": {
+            "en": "'That's right, his arm shot up and caught\\nHotaru.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fc04",
+        "line": {
+            "en": "'I can't say anything.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0104",
+        "line": {
+            "en": "'What do you mean?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "0504",
+        "line": {
+            "en": "'Hairiness.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0904",
+        "line": {
+            "en": "'I find it to be rude, creepy, and extremely\\nscary.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0d04",
+        "line": {
+            "en": "'I see...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "1104",
+        "line": {
+            "en": "'Your senior has no dignity...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "1504",
+        "line": {
+            "en": "'That's why I sprung into action! My sister was\\nin danger! I immediately unleashed an elbow drop\\non him!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1904",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1d04",
+        "line": {
+            "en": "I remembered what I saw from behind my eyelids.\\nAgeha floating in air. Her pointed elbow. I can\\nstill see her falling down on me..."
+        },
+        "name": ""
+    },
+    {
+        "id": "2104",
+        "line": {
+            "en": "'That really happened!!!!!!!!!!!!!!!!!!!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2504",
+        "line": {
+            "en": "'Well, it turned out that an elbow was the\\ncorrect response.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2904",
+        "line": {
+            "en": "'Heeeeeeeeeeey!!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2d04",
+        "line": {
+            "en": "'I've had it up to here with you Ageha!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3104",
+        "line": {
+            "en": "I took a bathroom break to try to get my head on\\nstraight."
+        },
+        "name": ""
+    },
+    {
+        "id": "3504",
+        "line": {
+            "en": "'What a busy day.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "3904",
+        "line": {
+            "en": "'I have something I need to talk to you about\\nlater. I'm going to need to put you on the spot.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3d04",
+        "line": {
+            "en": "'Ah, you found out?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "4104",
+        "line": {
+            "en": "'Crime prevention and public morals are serious\\nissues!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4504",
+        "line": {
+            "en": "'Ah, so you're angry.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "4904",
+        "line": {
+            "en": "'I am!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4d04",
+        "line": {
+            "en": "'You're lucky that it was only the sisters that\\ncame in today. What am I going to do if a\\nstranger comes in!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5104",
+        "line": {
+            "en": "'Well, okay, I'm sorry. It won't happen again.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "5504",
+        "line": {
+            "en": "'If you want to sneak into my place, just call\\nand I'll be sure to leave the door unlocked.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "5904",
+        "line": {
+            "en": "'That's not what this is about!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5d04",
+        "line": {
+            "en": "'I'm so very sorry. I hope you'll accept my\\nhumble apology.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "6104",
+        "line": {
+            "en": "'Ugh! Stop already!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6504",
+        "line": {
+            "en": "'Hehehe, catch me if you caaaaan.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "6904",
+        "line": {
+            "en": "'... I guess I wouldn't chase you... so you'd\\nprobably escape. Ah, enough already.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6d04",
+        "line": {
+            "en": "My stomach felt as if the Morning Glory was\\nwinding through it."
+        },
+        "name": ""
+    },
+    {
+        "id": "7104",
+        "line": {
+            "en": "I took that as a sign that I should grab\\nnotebooks from other subjects and head back to my\\nroom."
+        },
+        "name": ""
+    },
+    {
+        "id": "7504",
+        "line": {
+            "en": "'This... This is... Hmm.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7904",
+        "line": {
+            "en": "Feeling a presence, I turned around."
+        },
+        "name": ""
+    },
+    {
+        "id": "7d04",
+        "line": {
+            "en": "'Hotaru?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8104",
+        "line": {
+            "en": "'Sorry about Ageha.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "8504",
+        "line": {
+            "en": "'It's fine. It's not your place to apologize.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8904",
+        "line": {
+            "en": "'But I didn't stop her, because seeing you asleep\\nmade my heart race.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "8d04",
+        "line": {
+            "en": "'Hey now...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9104",
+        "line": {
+            "en": "Hotaru's eyes were oddly wet, her eyes turned to\\nthe\\ bed behind me."
+        },
+        "name": ""
+    },
+    {
+        "id": "9504",
+        "line": {
+            "en": "'You caught me and grabbed me in your arms.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "9904",
+        "line": {
+            "en": "'Sorry. It didn't hurt, did it? I have a feeling\\nI used all of my strength.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9d04",
+        "line": {
+            "en": "'Nope. It really didn't hurt at all.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "a104",
+        "line": {
+            "en": "'It was a little tight... but it was also really\\nhot, my heart raced, and I was close enough to\\nsmell you.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "a504",
+        "line": {
+            "en": "'Wow... I've heard enough... that was bad. That\\nwas really really bad!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a904",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "ad04",
+        "line": {
+            "en": "As if she had just eaten something delicious,\\nHotaru's cheeks turned red, and put out her hands\\nin a trance."
+        },
+        "name": ""
+    },
+    {
+        "id": "b104",
+        "line": {
+            "en": "Wha, What are you thinking about?"
+        },
+        "name": ""
+    },
+    {
+        "id": "b504",
+        "line": {
+            "en": "'... Aoi, have you done the same to Ageha too?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "b904",
+        "line": {
+            "en": "'Wha!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bd04",
+        "line": {
+            "en": "By done... Is she referring to what she just told\\nme about?"
+        },
+        "name": ""
+    },
+    {
+        "id": "c104",
+        "line": {
+            "en": "Half-asleep, I pulled Ageha in and..."
+        },
+        "name": ""
+    },
+    {
+        "id": "c504",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c904",
+        "line": {
+            "en": "For a moment, I forgot where I was."
+        },
+        "name": ""
+    },
+    {
+        "id": "cd04",
+        "line": {
+            "en": "I was filled with a strange imagination,\\ndelusions and consciousness."
+        },
+        "name": ""
+    },
+    {
+        "id": "d104",
+        "line": {
+            "en": "'No no no no no no no!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d504",
+        "line": {
+            "en": "Feeling as if I were flying in a strange\\ndirection, I suddenly came back to my senses with\\na crash landing."
+        },
+        "name": ""
+    },
+    {
+        "id": "d904",
+        "line": {
+            "en": "'No never! I'd never do that! Never!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "dd04",
+        "line": {
+            "en": "'So you haven't done it to her yet...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "e104",
+        "line": {
+            "en": "'And I won't ever do it!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e504",
+        "line": {
+            "en": "'You won't?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "e904",
+        "line": {
+            "en": "'I won't!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ed04",
+        "line": {
+            "en": "I state it assertively. I would collapse and die\\nif it happened."
+        },
+        "name": ""
+    },
+    {
+        "id": "f104",
+        "line": {
+            "en": "'Haa, haa... You shouldn't mock adults.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f504",
+        "line": {
+            "en": "'You and I are only separated by year.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "f904",
+        "line": {
+            "en": "'A year is a year.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fd04",
+        "line": {
+            "en": "'Mmm... I'll be just like Ageha this time next\\nyear...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "0204",
+        "line": {
+            "en": "Umm... Hotaru, you're giving me a massage?"
+        },
+        "name": ""
+    },
+    {
+        "id": "0604",
+        "line": {
+            "en": "'Well, Aoi... are you saying you don't want a\\nmassage from me?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "0a04",
+        "line": {
+            "en": "'From you?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0e04",
+        "line": {
+            "en": "Hotaru nodded."
+        },
+        "name": ""
+    },
+    {
+        "id": "1204",
+        "line": {
+            "en": "'Or maybe I should go meet up with Ageha?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "1604",
+        "line": {
+            "en": "'No... You don't have to... do that...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1a04",
+        "line": {
+            "en": "'I just wanted to spend some time with you\\none-on-one.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "1e04",
+        "line": {
+            "en": "'We were never able to do that in the past...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "2204",
+        "line": {
+            "en": "'Right now, I'm older than Ageha was back then.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "2604",
+        "line": {
+            "en": "'Well, that's true I suppose.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2a04",
+        "line": {
+            "en": "'I'm a great older sister...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "2e04",
+        "line": {
+            "en": "'So you say... But really?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3204",
+        "line": {
+            "en": "'Mmm.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "3604",
+        "line": {
+            "en": "'Sorry sorry. You're absolutely right.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3a04",
+        "line": {
+            "en": "'Mmm.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "3e04",
+        "line": {
+            "en": "'Well then, accept this massage from your older\\nsister.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "4204",
+        "line": {
+            "en": "'No complaints here.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4604",
+        "line": {
+            "en": "'It's just like we're adults or something.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "4a04",
+        "line": {
+            "en": "'I'll let you do your thing.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4e04",
+        "line": {
+            "en": "Basically, this is going to get windy."
+        },
+        "name": ""
+    },
+    {
+        "id": "5204",
+        "line": {
+            "en": "Maybe I should take up cycling again soon?"
+        },
+        "name": ""
+    },
+    {
+        "id": "5604",
+        "line": {
+            "en": "Being with Hotaru really takes the load off of my\\nleg."
+        },
+        "name": ""
+    },
+    {
+        "id": "5a04",
+        "line": {
+            "en": "'However...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5e04",
+        "line": {
+            "en": "After exams are over, I'm going to have to put\\nall of my energy into making the glider and\\nfinishing it as soon as possible. And then the\\ntest flights will begin..."
+        },
+        "name": ""
+    },
+    {
+        "id": "6204",
+        "line": {
+            "en": "Even if I hung out with Hotaru, it'd probably\\nalways turn out the same."
+        },
+        "name": ""
+    },
+    {
+        "id": "6604",
+        "line": {
+            "en": "... Just when I thought I'd try to tell her that."
+        },
+        "name": ""
+    },
+    {
+        "id": "6a04",
+        "line": {
+            "en": "'Hotaru? Aoi?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6e04",
+        "line": {
+            "en": "'!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7204",
+        "line": {
+            "en": "Hearing that voice was enough to know who was\\ncoming."
+        },
+        "name": ""
+    },
+    {
+        "id": "7604",
+        "line": {
+            "en": "And here I was. With Hotaru. In my room. Just the\\ntwo of us."
+        },
+        "name": ""
+    },
+    {
+        "id": "7a04",
+        "line": {
+            "en": "'Oh, Oooh! What's wrong!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7e04",
+        "line": {
+            "en": "'I was just taking a break and thought some\\nwatermelon would be nice. Do you mind if I carve\\none up?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8204",
+        "line": {
+            "en": "'That sounds great. I'm on my way.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8604",
+        "line": {
+            "en": "Replying through the door, I turned toward\\nHotaru."
+        },
+        "name": ""
+    },
+    {
+        "id": "8a04",
+        "line": {
+            "en": "'Well then, let's go.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8e04",
+        "line": {
+            "en": "Though it was my own voice, it sounded strangely\\nhollow."
+        },
+        "name": ""
+    },
+    {
+        "id": "9204",
+        "line": {
+            "en": "'Okay...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "9604",
+        "line": {
+            "en": "Hotaru, as if she were looking in the opposite\\ndirection, nodded without looking at me."
+        },
+        "name": ""
+    },
+    {
+        "id": "9a04",
+        "line": {
+            "en": "I had never seen Hotaru's face like that before\\nand I remember having the uncomfortable feeling\\nof not being able to say anything."
+        },
+        "name": ""
+    },
+    {
+        "id": "9e04",
+        "line": {
+            "en": "'Ah, there you are. Everyone was worried that you\\nmight have gotten stuck in the toilet.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a204",
+        "line": {
+            "en": "'Nope! And besides, girls hardly have the right\\nto complain about long bathroom breaks!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a604",
+        "line": {
+            "en": "'I suppose you'll be returning to a boys' school\\nthen.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "aa04",
+        "line": {
+            "en": "'Don't talk to me like that!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ae04",
+        "line": {
+            "en": "'Then stop having such silly illusions about\\ngirls!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b204",
+        "line": {
+            "en": "'You with no illusions have no right to say\\nthat.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b604",
+        "line": {
+            "en": "'Oh, that hurt... looks like somebody needs\\nanother angry elbow!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ba04",
+        "line": {
+            "en": "'I've already seen that technique!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "be04",
+        "line": {
+            "en": "Ageha's diving elbow landed square in the palm of\\nmy hand."
+        },
+        "name": ""
+    },
+    {
+        "id": "c204",
+        "line": {
+            "en": "'Ouch!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c604",
+        "line": {
+            "en": "'That's right. It's the hardest part of the body\\nand feels as such.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ca04",
+        "line": {
+            "en": "'My hand. What am I going to do if it's hurt?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ce04",
+        "line": {
+            "en": "'Tie a wire between your mouth and the flying\\nequipment. I'll start working on it immediately.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d204",
+        "line": {
+            "en": "'I'm not string puppet, you know.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d604",
+        "line": {
+            "en": "'I'll carve the watermelon, but where's Hotaru?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "da04",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "de04",
+        "line": {
+            "en": "I looked behind me, but she wasn't there."
+        },
+        "name": ""
+    },
+    {
+        "id": "e204",
+        "line": {
+            "en": "'That's strange. I thought she was...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e604",
+        "line": {
+            "en": "'I'm here.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "ea04",
+        "line": {
+            "en": "'Wha!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ee04",
+        "line": {
+            "en": "Oh, that took me by surprise."
+        },
+        "name": ""
+    },
+    {
+        "id": "f204",
+        "line": {
+            "en": "'Where were you?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f604",
+        "line": {
+            "en": "'I was rotating.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "fa04",
+        "line": {
+            "en": "'Wha-...?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fe04",
+        "line": {
+            "en": "'Well, anyway, we're going to have some\\nwatermelon. Give me a hand.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0304",
+        "line": {
+            "en": "'Okay.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "0704",
+        "line": {
+            "en": "I guess I was already used to her crazy speech\\nand conduct, but Ageha quickly abandoned her\\ninvestigation and went off with Hotaru."
+        },
+        "name": ""
+    },
+    {
+        "id": "0b04",
+        "line": {
+            "en": "'... Rotating...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0f04",
+        "line": {
+            "en": "Did Hotaru stay in the room after I left?"
+        },
+        "name": ""
+    },
+    {
+        "id": "1304",
+        "line": {
+            "en": "Was she... rotating there?"
+        },
+        "name": ""
+    },
+    {
+        "id": "1704",
+        "line": {
+            "en": "Maybe she was doing ballet?"
+        },
+        "name": ""
+    },
+    {
+        "id": "1b04",
+        "line": {
+            "en": "Or perhaps gymnastics. A forward handstand would\\ninvolved rotating... Oh stop already, it's\\nimpossible to imagine Hotaru doing something like\\nthat."
+        },
+        "name": ""
+    },
+    {
+        "id": "1f04",
+        "line": {
+            "en": "'Hmm...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2304",
+        "line": {
+            "en": "The more I thought about it, the less it made\\nsense."
+        },
+        "name": ""
+    },
+    {
+        "id": "2704",
+        "line": {
+            "en": "When I was asked in front of everyone what I was\\ndoing in my room, I didn't have an answer... next\\ntime it's just the two of us, I guess I should\\ntry to ask her."
+        },
+        "name": ""
+    },
+    {
+        "id": "2b04",
+        "line": {
+            "en": "The extremely long study session finally came to\\nan end."
+        },
+        "name": ""
+    },
+    {
+        "id": "2f04",
+        "line": {
+            "en": "'Phew, I knew I'd be tired at after that.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3304",
+        "line": {
+            "en": "'Ooo, I can see comparative past-tense words\\ncircling around my head like a whirlpool.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3704",
+        "line": {
+            "en": "'Calm down. You know what you want to say.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3b04",
+        "line": {
+            "en": "'Get Amane for me. I think I'm going to have her\\ntake the test in my place.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3f04",
+        "line": {
+            "en": "'She's a teacher now, you know.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4304",
+        "line": {
+            "en": "'Aoi and I both share a fool's umbrella...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "4704",
+        "line": {
+            "en": "Ah, it seems like Hotaru broke her silence."
+        },
+        "name": ""
+    },
+    {
+        "id": "4b04",
+        "line": {
+            "en": "'Please take them home.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4f04",
+        "line": {
+            "en": "'I know.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5304",
+        "line": {
+            "en": "'Eheheheh... send them off with their escort...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5704",
+        "line": {
+            "en": "'Ha ha... you can doooo it Aooiiii.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "5b04",
+        "line": {
+            "en": "I honestly don't know how much more I can take of\\nthese two."
+        },
+        "name": ""
+    },
+    {
+        "id": "5f04",
+        "line": {
+            "en": "'Well, here is fine. Thank you.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6304",
+        "line": {
+            "en": "'Oooh.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6704",
+        "line": {
+            "en": "'Thank you Aoi.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "6b04",
+        "line": {
+            "en": "'... Don't forget the promise.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "6f04",
+        "line": {
+            "en": "'Promise?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7304",
+        "line": {
+            "en": "'It's a secret.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "7704",
+        "line": {
+            "en": "'Ah, you're clever, aren't you?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7b04",
+        "line": {
+            "en": "'Sometimes I am.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7f04",
+        "line": {
+            "en": "'That aside, do you know if Ageha deleted the\\npicture?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8304",
+        "line": {
+            "en": "'Of course!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8704",
+        "line": {
+            "en": "'That was quick. Can I see your cell phone?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8b04",
+        "line": {
+            "en": "'Nope! That would be a violation of my privacy!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8f04",
+        "line": {
+            "en": "'Hotaru, please take a pic of Ageha looking\\nstupid and send it to me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9304",
+        "line": {
+            "en": "'Eeek, you're a creep! A creep I tell you!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9704",
+        "line": {
+            "en": "'I understand.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "9b04",
+        "line": {
+            "en": "'Traitor!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9f04",
+        "line": {
+            "en": "'I've been Aoi's ally from the start.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "a304",
+        "line": {
+            "en": "'Thank you, Hotaru.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a704",
+        "line": {
+            "en": "I patted her head."
+        },
+        "name": ""
+    },
+    {
+        "id": "ab04",
+        "line": {
+            "en": "'Mmm.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "af04",
+        "line": {
+            "en": "'Ah, me too...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b304",
+        "line": {
+            "en": "'I think you're a bit old for that.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b704",
+        "line": {
+            "en": "'Are you saying I'm old!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bb04",
+        "line": {
+            "en": "'You're older than me, big sis.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bf04",
+        "line": {
+            "en": "'Hmph, I know. I know that you like older women,\\nAoi.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c304",
+        "line": {
+            "en": "'Oh, do you?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "c704",
+        "line": {
+            "en": "'He is always tugging at Amane's skirt.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cb04",
+        "line": {
+            "en": "'How many times do I have to tell you. That was\\nan accident.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cf04",
+        "line": {
+            "en": "'Hotaru, never forget. You can control a man with\\nyour eyes.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d304",
+        "line": {
+            "en": "'I understand what you're getting at, but...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d704",
+        "line": {
+            "en": "'I get it. Aoi likes girls with big eyes.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "db04",
+        "line": {
+            "en": "'You don't have to remember that!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "df04",
+        "line": {
+            "en": "'I... don't...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "e304",
+        "line": {
+            "en": "'They'll give up if you do! '"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e704",
+        "line": {
+            "en": "'It's okay. It's just status.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "eb04",
+        "line": {
+            "en": "'Hmph, don't you understand your own value!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ef04",
+        "line": {
+            "en": "'Can I go?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f304",
+        "line": {
+            "en": "'Thank you Aoi. I'll see you again tomorrow.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "f704",
+        "line": {
+            "en": "'Oh. Say hi to your aunt and uncle for me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fb04",
+        "line": {
+            "en": "'Sure thing! '"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "ff04",
+        "line": {
+            "en": "'See you. Good luck on the test tomorrow.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0008",
+        "line": {
+            "en": "'Thanks. You too. Good luck.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "0408",
+        "line": {
+            "en": "'Oh.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0808",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0c08",
+        "line": {
+            "en": "'Hmm? What's wrong, Ageha?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1008",
+        "line": {
+            "en": "'Hmph!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1408",
+        "line": {
+            "en": "And just like that she disappeared into her\\nhouse."
+        },
+        "name": ""
+    },
+    {
+        "id": "1808",
+        "line": {
+            "en": "She stuck out her tongue as far as she could."
+        },
+        "name": ""
+    },
+    {
+        "id": "1c08",
+        "line": {
+            "en": "'What's with Ageha... making a fool out of me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2008",
+        "line": {
+            "en": "'I wonder if most of the pictures were deleted. I\\ncould never live with the embarrassment if those\\nwere to get around.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2408",
+        "line": {
+            "en": "Angry... is how I guess I should feel."
+        },
+        "name": ""
+    },
+    {
+        "id": "2808",
+        "line": {
+            "en": "'... Hehehe.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2c08",
+        "line": {
+            "en": "I can't help but smile for some reason."
+        },
+        "name": ""
+    },
+    {
+        "id": "3008",
+        "line": {
+            "en": "I have a feeling that 'hmph' washed everything\\nelse away."
+        },
+        "name": ""
+    },
+    {
+        "id": "3408",
+        "line": {
+            "en": "I rotated my neck and shoulders as I hopped\\nlightly around the place."
+        },
+        "name": ""
+    },
+    {
+        "id": "3808",
+        "line": {
+            "en": "'Okay! Time to head home!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3c08",
+        "line": {
+            "en": "I jogged lightly back to my dorm."
+        },
+        "name": ""
+    },
+    {
+        "id": "4008",
+        "line": {
+            "en": "Exams start tomorrow. Let's do this!"
+        },
+        "name": ""
+    }
+]

@@ -1,0 +1,5210 @@
+[
+    {
+        "id": "0000",
+        "line": {
+            "en": "'You're late!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0400",
+        "line": {
+            "en": "Ageha scolded me when I joined everyone again."
+        },
+        "name": ""
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "'You said you'd come right back, so what were you\\ndoing? You're pretty late!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "'Ah, umm... Sorry.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "'...Where's Yoru?'"
+        },
+        "name": "Yoru pretending to be Asa"
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "'Huh? She's not back yet?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "Apparently she'd just run off somewhere."
+        },
+        "name": ""
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "'Wasn't she with you?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "'On the way back... Ummm, yeah. I had another\\nerrand to run, so I asked to go on back without\\nme.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "'Hmm. I guess Yoru stopped somewhere along the\\nway too.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "Where had Asa gone?"
+        },
+        "name": ""
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "I was worried, so I wanted to look for her,\\nbut... If I went to find her..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru pretending to be Asa"
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "'Well then, let's stop here for today.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "'Sounds good. It's getting late. We'd better\\nhurry home to beat the typhoon.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "'Aah, you're right. We'd better finish up and\\ngo.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "'...It'd definitely be bad if we were unable to\\nget home.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "'Hmm, Yoru never came back.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "Even when we finished up our club activities for\\nthe day, Asa still hadn't returned."
+        },
+        "name": ""
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "'Well, she always does everything at her own\\npace. She probably remembered something she had\\nto do and went home.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "'You don't know anything, Aoi?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "'Ah, um, no.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "I tried to figure out how to cover it up."
+        },
+        "name": ""
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "'She looked a little bit sick, so maybe she went\\nhome early.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "So that's how I answered."
+        },
+        "name": ""
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "'Aah, I see.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "'She definitely wasn't acting like herself,\\noffering to help you and stuff...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "'Maybe she was... sick...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru pretending to be Asa"
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "'Hey, Aoi. Did something happen?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "'No, it's just, I thought maybe you noticed\\nsomething, and then something happened... Umm...'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "Could it be..."
+        },
+        "name": ""
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "Now that I thought about it, Kanako had been\\nacting strange since morning."
+        },
+        "name": ""
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "And she'd said she had a plan to help out, so\\nmaybe she'd started all of this."
+        },
+        "name": ""
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "'Aaah... Yeah, I noticed. Asa and Yoru, right?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "'Aaah, so you did notice, then. It is you, after\\nall.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "'And yeah, something happened...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9800",
+        "line": {
+            "en": "Kanako gave a slightly pained-looking smile."
+        },
+        "name": ""
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "'I'm sorry. This was all my idea.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "'Ah. I thought so.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "It was all Kanako's prank."
+        },
+        "name": ""
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "Apparently this was her way of helping."
+        },
+        "name": ""
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "I'm not sure how getting the twins to switch\\nplaces was supposed to help, but maybe she was\\njust trying to cheer them up with something fun."
+        },
+        "name": ""
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "'But I think the fact that Asa's not here...\\ndoesn't really have much to do with that.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "'Huh? Really?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "b800",
+        "line": {
+            "en": "'Yeah. That is, something really did happen...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bc00",
+        "line": {
+            "en": "'...Hmmm... I'm kinda worried, but it seems like\\nit might be better not to ask...'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "c000",
+        "line": {
+            "en": "'Yeah... It's a little hard to explain...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c400",
+        "line": {
+            "en": "'Ooooh... kay then. I see. I'll try not to ask\\ntoo much.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "c800",
+        "line": {
+            "en": "She looked a little unsatisfied, but whether or\\nnot she'd guessed what had happened, Kanako\\nagreed not to push the issue."
+        },
+        "name": ""
+    },
+    {
+        "id": "cc00",
+        "line": {
+            "en": "Usually, I'd like to explain what was going on to\\nKanako... But I couldn't this time."
+        },
+        "name": ""
+    },
+    {
+        "id": "d000",
+        "line": {
+            "en": "'I hope...Yoru... is back in her room.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "d400",
+        "line": {
+            "en": "'Yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d800",
+        "line": {
+            "en": "I kept an eye out for Asa on the way home."
+        },
+        "name": ""
+    },
+    {
+        "id": "dc00",
+        "line": {
+            "en": "I hoped she was already back there, but if not..."
+        },
+        "name": ""
+    },
+    {
+        "id": "e000",
+        "line": {
+            "en": "'Um, Aoi.'"
+        },
+        "name": "Yoru pretending to be Asa"
+    },
+    {
+        "id": "e400",
+        "line": {
+            "en": "'...Yeah?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e800",
+        "line": {
+            "en": "'...Did something happen?'"
+        },
+        "name": "Yoru pretending to be Asa"
+    },
+    {
+        "id": "ec00",
+        "line": {
+            "en": "Still pretending to be Asa, Yoru was definitely\\nworried about her older sister."
+        },
+        "name": ""
+    },
+    {
+        "id": "f000",
+        "line": {
+            "en": "Yoru was pretty sharp, and seemed to have guessed\\nthat something was going on."
+        },
+        "name": ""
+    },
+    {
+        "id": "f400",
+        "line": {
+            "en": "'Something?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f800",
+        "line": {
+            "en": "'Did something happen between you and Yoru?'"
+        },
+        "name": "Yoru pretending to be Asa"
+    },
+    {
+        "id": "fc00",
+        "line": {
+            "en": "...Looking at her like this, I really couldn't\\ntell the difference."
+        },
+        "name": ""
+    },
+    {
+        "id": "0100",
+        "line": {
+            "en": "If I listened very closely to her voice and way\\nof speaking, I could tell, but if I was only\\nlooking at her pretending to be Asa, it was easy\\nto ignore the slight sense that something was\\noff."
+        },
+        "name": ""
+    },
+    {
+        "id": "0500",
+        "line": {
+            "en": "..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0900",
+        "line": {
+            "en": "'Nothing happened.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0d00",
+        "line": {
+            "en": "'...You're lying.'"
+        },
+        "name": "Yoru pretending to be Asa"
+    },
+    {
+        "id": "1100",
+        "line": {
+            "en": "'Why do you think so?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1500",
+        "line": {
+            "en": "'Because you look like you're hiding something,\\nand also, Yoru isn't the type to go home without\\nsaying something...'"
+        },
+        "name": "Yoru pretending to be Asa"
+    },
+    {
+        "id": "1900",
+        "line": {
+            "en": "'At least, without saying something to me.'"
+        },
+        "name": "Yoru pretending to be Asa"
+    },
+    {
+        "id": "1d00",
+        "line": {
+            "en": "..."
+        },
+        "name": ""
+    },
+    {
+        "id": "2100",
+        "line": {
+            "en": "It might be better to just blow her cover."
+        },
+        "name": ""
+    },
+    {
+        "id": "2500",
+        "line": {
+            "en": "'You're right, Asa's not like that at all.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2900",
+        "line": {
+            "en": "'Huh...?'"
+        },
+        "name": "Yoru pretending to be Asa"
+    },
+    {
+        "id": "2d00",
+        "line": {
+            "en": "'Right, Yoru?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3100",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Yoru pretending to be Asa"
+    },
+    {
+        "id": "3500",
+        "line": {
+            "en": "Yoru looked startled."
+        },
+        "name": ""
+    },
+    {
+        "id": "3900",
+        "line": {
+            "en": "She realized that I knew who she really was."
+        },
+        "name": ""
+    },
+    {
+        "id": "3d00",
+        "line": {
+            "en": "'... Did Sis tell you?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4100",
+        "line": {
+            "en": "'I guess you could say that... A lot of stuff\\nhappened.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4500",
+        "line": {
+            "en": "'...And that's why she's not here now?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4900",
+        "line": {
+            "en": "'Mmm...Yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4d00",
+        "line": {
+            "en": "I wondered if I should tell Yoru what happened."
+        },
+        "name": ""
+    },
+    {
+        "id": "5100",
+        "line": {
+            "en": "But no, it was the same as with Kanako..."
+        },
+        "name": ""
+    },
+    {
+        "id": "5500",
+        "line": {
+            "en": "'Did she tell you she likes you?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "5900",
+        "line": {
+            "en": "'...Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5d00",
+        "line": {
+            "en": "What did Yoru just say?"
+        },
+        "name": ""
+    },
+    {
+        "id": "6100",
+        "line": {
+            "en": "'That's what your expression seems to imply. It\\nlooks like I was right.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "6500",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6900",
+        "line": {
+            "en": "'Well, I never actually confirmed Sis's feelings\\ndirectly, so that was just a guess too.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "6d00",
+        "line": {
+            "en": "I was really impressed by Yoru's skills of\\ndeduction."
+        },
+        "name": ""
+    },
+    {
+        "id": "7100",
+        "line": {
+            "en": "But they were twins, after all. Yoru must have\\nnoticed Asa's feelings."
+        },
+        "name": ""
+    },
+    {
+        "id": "7500",
+        "line": {
+            "en": "'She didn't exactly tell me her feelings. But it\\nwas kind of like that...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7900",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "7d00",
+        "line": {
+            "en": "'I think I have a pretty good guess. A general\\none.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8100",
+        "line": {
+            "en": "'I see. Huh... So that's what Sis did.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8500",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8900",
+        "line": {
+            "en": "'She must have been in a hurry.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8d00",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9100",
+        "line": {
+            "en": "In a hurry? Asa? What for?"
+        },
+        "name": ""
+    },
+    {
+        "id": "9500",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9900",
+        "line": {
+            "en": "'Aoi. Can I ask you something dumb?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9d00",
+        "line": {
+            "en": "'Something dumb?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a100",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "a500",
+        "line": {
+            "en": "'If... If...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "a900",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "ad00",
+        "line": {
+            "en": "'...Never mind.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "b100",
+        "line": {
+            "en": "'...What is it? If there's something you want to\\nsay...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b500",
+        "line": {
+            "en": "'No, it's nothing. Really.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "b900",
+        "line": {
+            "en": "...Yoru?"
+        },
+        "name": ""
+    },
+    {
+        "id": "bd00",
+        "line": {
+            "en": "What was she trying to say?"
+        },
+        "name": ""
+    },
+    {
+        "id": "c100",
+        "line": {
+            "en": "We arrived back at Flying Fish Manor, but Asa\\nwasn't there."
+        },
+        "name": ""
+    },
+    {
+        "id": "c500",
+        "line": {
+            "en": "Where could she be...?"
+        },
+        "name": ""
+    },
+    {
+        "id": "c900",
+        "line": {
+            "en": "'...Aoi.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "cd00",
+        "line": {
+            "en": "I was starting to hear the wind blowing hard\\noutside the windows."
+        },
+        "name": ""
+    },
+    {
+        "id": "d100",
+        "line": {
+            "en": "The sun hadn't yet set, but it was already dark\\noutside, and it looked like the storm could start\\nat any moment."
+        },
+        "name": ""
+    },
+    {
+        "id": "d500",
+        "line": {
+            "en": "'Can you think of where she might be?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d900",
+        "line": {
+            "en": "'We just came back from all the places I could\\nthink to look.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "dd00",
+        "line": {
+            "en": "Of course."
+        },
+        "name": ""
+    },
+    {
+        "id": "e100",
+        "line": {
+            "en": "We'd come back to Flying Fish Manor from the\\nsecret base, by way of Windmill Hill."
+        },
+        "name": ""
+    },
+    {
+        "id": "e500",
+        "line": {
+            "en": "We'd already been to the places where we could\\nexpect to find Asa."
+        },
+        "name": ""
+    },
+    {
+        "id": "e900",
+        "line": {
+            "en": "'...Sis...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "ed00",
+        "line": {
+            "en": "'Yeah?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f100",
+        "line": {
+            "en": "'Sis has what I don't. And I can trust her.\\nThat's why...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "f500",
+        "line": {
+            "en": "'That's why...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "f900",
+        "line": {
+            "en": "Yoru?"
+        },
+        "name": ""
+    },
+    {
+        "id": "fd00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0200",
+        "line": {
+            "en": "Is she struggling about whether or not to say\\nsomething?"
+        },
+        "name": ""
+    },
+    {
+        "id": "0600",
+        "line": {
+            "en": "What could she be trying to say?"
+        },
+        "name": ""
+    },
+    {
+        "id": "0a00",
+        "line": {
+            "en": "'...You'd better not turn my sister down.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0e00",
+        "line": {
+            "en": "..."
+        },
+        "name": ""
+    },
+    {
+        "id": "1200",
+        "line": {
+            "en": "'...At any rate, we've got to prepare for the\\ntyphoon. I haven't put the shutters up on all the\\nwindows yet.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1600",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "1a00",
+        "line": {
+            "en": "'...I'll help.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "1e00",
+        "line": {
+            "en": "Clatter clatter"
+        },
+        "name": ""
+    },
+    {
+        "id": "2200",
+        "line": {
+            "en": "The windows were rattling, making noises that\\nwere bad for the heart."
+        },
+        "name": ""
+    },
+    {
+        "id": "2600",
+        "line": {
+            "en": "Flying Fish Manor was an old wooden building, and\\nrough wind made it shake so hard it was almost\\ncomical. Inside, we couldn't help but worry that\\nit would break down."
+        },
+        "name": ""
+    },
+    {
+        "id": "2a00",
+        "line": {
+            "en": "'Hmm... I guess it's finally hit, now, right?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2e00",
+        "line": {
+            "en": "According to the news, this was right when the\\nroughest part of the storm was supposed to reach\\nus."
+        },
+        "name": ""
+    },
+    {
+        "id": "3200",
+        "line": {
+            "en": "The wind and rain outside had both grown\\nstronger."
+        },
+        "name": ""
+    },
+    {
+        "id": "3600",
+        "line": {
+            "en": "'But is this dorm really safe...?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3a00",
+        "line": {
+            "en": "'I've just reinforced all the places that looked\\nlike they needed it, so it should be fine.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3e00",
+        "line": {
+            "en": "My experience from the last typhoon helped, too."
+        },
+        "name": ""
+    },
+    {
+        "id": "4200",
+        "line": {
+            "en": "I put up boards over the thin glass doors to\\nprotect them."
+        },
+        "name": ""
+    },
+    {
+        "id": "4600",
+        "line": {
+            "en": "Dinner was ready, and now all we had to do was\\neat it together and wait for the storm to pass.\\nBut..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4a00",
+        "line": {
+            "en": "'...Sis still isn't back.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4e00",
+        "line": {
+            "en": "Asa still hadn't returned."
+        },
+        "name": ""
+    },
+    {
+        "id": "5200",
+        "line": {
+            "en": "'Can you get through to her phone?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5600",
+        "line": {
+            "en": "'She's turned it off. She sent one mail, that\\njust said to eat without her.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "5a00",
+        "line": {
+            "en": "'...I'll go look for her.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5e00",
+        "line": {
+            "en": "'Now?! The storm's coming!!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6200",
+        "line": {
+            "en": "'That's why I've gotta go now. Yoru might not be\\nable to get back by herself.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6600",
+        "line": {
+            "en": "'I don't think you have so much to worry about...\\nShe probably just went somewhere on a whim.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6a00",
+        "line": {
+            "en": "'No, I think...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6e00",
+        "line": {
+            "en": "'You said she looked sick, too. ...Ah, maybe she\\nwent to the hospital?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7200",
+        "line": {
+            "en": "'Umm...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7600",
+        "line": {
+            "en": "'A, anyway, I'm worried because she hasn't\\ncontacted us, so I'll go look for her!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7a00",
+        "line": {
+            "en": "'Aoi, are you hiding something...?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7e00",
+        "line": {
+            "en": "'Something seems strange.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8200",
+        "line": {
+            "en": "'It's nothing!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8600",
+        "line": {
+            "en": "And it would take too long to explain. I didn't\\nhave time now."
+        },
+        "name": ""
+    },
+    {
+        "id": "8a00",
+        "line": {
+            "en": "'Then I'll come too.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8e00",
+        "line": {
+            "en": "'No, Asa, you wait here. Kanako, can I borrow\\nyour bicycle?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9200",
+        "line": {
+            "en": "'Huh? Uh, yeah.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "9600",
+        "line": {
+            "en": "'That's why. If we walk, it'll take too long, and\\nif you ride with me it'll slow me down too.\\nOkay?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9a00",
+        "line": {
+            "en": "'But...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9e00",
+        "line": {
+            "en": "'I can handle this wind. And I can't just leave\\nthis up to you girls.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a200",
+        "line": {
+            "en": "'There you go again, Aoi. Being the big boy.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a600",
+        "line": {
+            "en": "'Shut up.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "aa00",
+        "line": {
+            "en": "'...I see.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "ae00",
+        "line": {
+            "en": "'So I've gotta go. Kanako, I need the key.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b200",
+        "line": {
+            "en": "'Okay, I'll go get it, so wait just a minute.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "b600",
+        "line": {
+            "en": "'Do you have any idea of where to look?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ba00",
+        "line": {
+            "en": "'Just a guess. If she's not there, I'll go around\\nonce more and then come straight back.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "be00",
+        "line": {
+            "en": "'Uh, um, Aoi...I...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "c200",
+        "line": {
+            "en": "'Yeah?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c600",
+        "line": {
+            "en": "'I'm counting on you. To find Yoru.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "ca00",
+        "line": {
+            "en": "'... Right!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ce00",
+        "line": {
+            "en": "'If it gets dangerous, come straight home, okay?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "d200",
+        "line": {
+            "en": "'Yeah, I'll do that. Don't worry.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d600",
+        "line": {
+            "en": "So I rode down the road to go find Asa."
+        },
+        "name": ""
+    },
+    {
+        "id": "da00",
+        "line": {
+            "en": "I had a guess as to where she'd gone."
+        },
+        "name": ""
+    },
+    {
+        "id": "de00",
+        "line": {
+            "en": "I'd had a similar experience myself."
+        },
+        "name": ""
+    },
+    {
+        "id": "e200",
+        "line": {
+            "en": "One time when I was very young, I'd gotten in a\\nfight with my parents, and even though it was\\nalready night, I went out wandering through town."
+        },
+        "name": ""
+    },
+    {
+        "id": "e600",
+        "line": {
+            "en": "I didn't have anywhere in particular to go, but I\\njust didn't want to see my parents' faces, so I\\nwalked all over."
+        },
+        "name": ""
+    },
+    {
+        "id": "ea00",
+        "line": {
+            "en": "At first I wanted to go to my favorite park, but\\nI figured my parents would expect to find me\\nthere, so I went somewhere else."
+        },
+        "name": ""
+    },
+    {
+        "id": "ee00",
+        "line": {
+            "en": "But finally I went to that park after all. I\\nwaited until my parents had probably already\\nchecked there, and when there in the end."
+        },
+        "name": ""
+    },
+    {
+        "id": "f200",
+        "line": {
+            "en": "Eventually they came back to the park and found\\nme anyway... But that's not the point."
+        },
+        "name": ""
+    },
+    {
+        "id": "f600",
+        "line": {
+            "en": "When people are upset or uneasy, they tend to\\ngravitate to places that make them feel\\ncomfortable. That's how I felt."
+        },
+        "name": ""
+    },
+    {
+        "id": "fa00",
+        "line": {
+            "en": "And in the midst of this storm, it was likely\\nthat she'd want to be somewhere she could stay\\nwithout imposing, safe inside."
+        },
+        "name": ""
+    },
+    {
+        "id": "fe00",
+        "line": {
+            "en": "So she should be..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0300",
+        "line": {
+            "en": "'So you were here, after all.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0700",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "0b00",
+        "line": {
+            "en": "She was just where I'd expected her."
+        },
+        "name": ""
+    },
+    {
+        "id": "0f00",
+        "line": {
+            "en": "She'd waited until we'd gone home, and then came\\nback here."
+        },
+        "name": ""
+    },
+    {
+        "id": "1300",
+        "line": {
+            "en": "'How did you...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "1700",
+        "line": {
+            "en": "'I figured this is where you'd come.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1b00",
+        "line": {
+            "en": "I couldn't think of anywhere else to look."
+        },
+        "name": ""
+    },
+    {
+        "id": "1f00",
+        "line": {
+            "en": "A place inside, where Asa could be alone and feel\\nsafe."
+        },
+        "name": ""
+    },
+    {
+        "id": "2300",
+        "line": {
+            "en": "'...The storm's already coming. It's dangerous.\\nCan we go home?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2700",
+        "line": {
+            "en": "'...Umm, I...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "2b00",
+        "line": {
+            "en": "Asa looked away from me with a guilty expression."
+        },
+        "name": ""
+    },
+    {
+        "id": "2f00",
+        "line": {
+            "en": "'I'm not worried about that.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3300",
+        "line": {
+            "en": "'...But Yoru.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "3700",
+        "line": {
+            "en": "'I don't know how to face Yoru... I was\\npretending to be her when I did it.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "3b00",
+        "line": {
+            "en": "'It's okay. I knew it was you already. I was\\nsurprised, but...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3f00",
+        "line": {
+            "en": "'It's not okay!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "4300",
+        "line": {
+            "en": "Asa suddenly shouted."
+        },
+        "name": ""
+    },
+    {
+        "id": "4700",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "4b00",
+        "line": {
+            "en": "She looked startled to hear her own voice so\\nloud, and clasped her hands over her mouth."
+        },
+        "name": ""
+    },
+    {
+        "id": "4f00",
+        "line": {
+            "en": "'I'm... not okay... Because, because... I...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "5300",
+        "line": {
+            "en": "'I... don't know how to face Yoru. I'd noticed\\nhow she felt, but...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "5700",
+        "line": {
+            "en": "'You'd noticed what?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5b00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "5f00",
+        "line": {
+            "en": "'I... I...!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "6300",
+        "line": {
+            "en": "'?!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6700",
+        "line": {
+            "en": "Asa surprised me by raising her voice again."
+        },
+        "name": ""
+    },
+    {
+        "id": "6b00",
+        "line": {
+            "en": "'... I...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "6f00",
+        "line": {
+            "en": "...Asa?"
+        },
+        "name": ""
+    },
+    {
+        "id": "7300",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "7700",
+        "line": {
+            "en": "'I like you, Aoi.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "7b00",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7f00",
+        "line": {
+            "en": "She... confessed to me..."
+        },
+        "name": ""
+    },
+    {
+        "id": "8300",
+        "line": {
+            "en": "I'd already realized it when she kissed me, but I\\nstill felt a twinge when she said it out loud."
+        },
+        "name": ""
+    },
+    {
+        "id": "8700",
+        "line": {
+            "en": "'I'm really not sure when it started, but at some\\npoint I fell for you.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "8b00",
+        "line": {
+            "en": "'Once I realized how I felt, I couldn't stop it.\\nBut I also knew.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "8f00",
+        "line": {
+            "en": "'It wasn't just me who felt that way about you.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "9300",
+        "line": {
+            "en": "'...Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9700",
+        "line": {
+            "en": "Not just Asa?"
+        },
+        "name": ""
+    },
+    {
+        "id": "9b00",
+        "line": {
+            "en": "Who liked me?"
+        },
+        "name": ""
+    },
+    {
+        "id": "9f00",
+        "line": {
+            "en": "'Wh, what do you mean...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a300",
+        "line": {
+            "en": "I was confused by Asa's unexpected announcement."
+        },
+        "name": ""
+    },
+    {
+        "id": "a700",
+        "line": {
+            "en": "Someone other than Asa... also liked me?"
+        },
+        "name": ""
+    },
+    {
+        "id": "ab00",
+        "line": {
+            "en": "'And she's so much more amazing than me. I even\\nthink you'd be so much better off with her.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "af00",
+        "line": {
+            "en": "'But when I think about it that way, I get so\\nconfused. So I asked you.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "b300",
+        "line": {
+            "en": "'What you thought about me... and her.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "b700",
+        "line": {
+            "en": "...Could she me... No..."
+        },
+        "name": ""
+    },
+    {
+        "id": "bb00",
+        "line": {
+            "en": "'What do you think of me, Aoi?'"
+        },
+        "name": "Asa dressed up as Yoru"
+    },
+    {
+        "id": "bf00",
+        "line": {
+            "en": "'And what do you think of Sis?'"
+        },
+        "name": "Asa dressed up as Yoru"
+    },
+    {
+        "id": "c300",
+        "line": {
+            "en": "'Yoru likes you too! So I thought, you should\\ndate Yoru.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "c700",
+        "line": {
+            "en": "...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "cb00",
+        "line": {
+            "en": "'So I thought I should kiss you, as Yoru, and\\njust leave it at that - that you and Yoru\\nkissed.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "cf00",
+        "line": {
+            "en": "'I didn't really know what I was doing, but I did\\nit. But! It was me who kissed you!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "d300",
+        "line": {
+            "en": "'...But of course that wouldn't make Yoru happy\\nat all, and I still had my own feelings for you,\\nand... It hurt so much to hear that you thought\\nof me like a sister, and I... I...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "d700",
+        "line": {
+            "en": "'(hic) I- I don't know what's going on. I'm just\\nso upset, and I did something so awful, and...\\n(hic)'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "db00",
+        "line": {
+            "en": "'...Asa...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "df00",
+        "line": {
+            "en": "'Even though everyone else was working so hard, I\\nwas only thinking about you, just selfishly\\nthinking my own thoughts instead of joining in.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "e300",
+        "line": {
+            "en": "'And then I caused even more trouble today. And I\\nmade you come out in the middle of this storm\\njust to find me...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "e700",
+        "line": {
+            "en": "'I... I... Why am I always this horrible,\\nawful... Why... Uwaaaaaaahhhh!!!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "eb00",
+        "line": {
+            "en": "Asa broke down sobbing."
+        },
+        "name": ""
+    },
+    {
+        "id": "ef00",
+        "line": {
+            "en": "She was so sensitive."
+        },
+        "name": ""
+    },
+    {
+        "id": "f300",
+        "line": {
+            "en": "She just wasn't very good at... living."
+        },
+        "name": ""
+    },
+    {
+        "id": "f700",
+        "line": {
+            "en": "I sensed a weak side of her, like a baby that\\ncouldn't control itself."
+        },
+        "name": ""
+    },
+    {
+        "id": "fb00",
+        "line": {
+            "en": "'But Asa. If you just stay here crying by\\nyourself in the storm, you'll just make everyone\\nworried.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ff00",
+        "line": {
+            "en": "'I... know...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "0004",
+        "line": {
+            "en": "..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0404",
+        "line": {
+            "en": "I stepped closer to Asa, and wrapped my arm\\naround her back."
+        },
+        "name": ""
+    },
+    {
+        "id": "0804",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "0c04",
+        "line": {
+            "en": "'So we've got to go home.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1004",
+        "line": {
+            "en": "'Unnnghh... Nnnmmnn...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "1404",
+        "line": {
+            "en": "Asa seemed even more fragile than I'd thought."
+        },
+        "name": ""
+    },
+    {
+        "id": "1804",
+        "line": {
+            "en": "Even more than I'd imagined."
+        },
+        "name": ""
+    },
+    {
+        "id": "1c04",
+        "line": {
+            "en": "'Let's just go home, Asa. The storm's getting\\nworse.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2004",
+        "line": {
+            "en": "'...Okay...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "2404",
+        "line": {
+            "en": "I took the trembling Asa with me, and returned\\nhome to Flying Fish Manor."
+        },
+        "name": ""
+    },
+    {
+        "id": "2804",
+        "line": {
+            "en": "'...Ah.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "2c04",
+        "line": {
+            "en": "'You're late, Asa.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "3004",
+        "line": {
+            "en": "'...Sis...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "3404",
+        "line": {
+            "en": "When we got back to Flying Fish Manor, the two of\\nthem were waiting for us."
+        },
+        "name": ""
+    },
+    {
+        "id": "3804",
+        "line": {
+            "en": "'Here, have a towel.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "3c04",
+        "line": {
+            "en": "'Ah, thank you.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4004",
+        "line": {
+            "en": "Kanako handed towels to me and Asa, and we dried\\nourselves off."
+        },
+        "name": ""
+    },
+    {
+        "id": "4404",
+        "line": {
+            "en": "They'd realized that we'd come home soaking wet."
+        },
+        "name": ""
+    },
+    {
+        "id": "4804",
+        "line": {
+            "en": "'You were both waiting for us?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4c04",
+        "line": {
+            "en": "'We were worried. You said you'd come right back,\\nAoi. And besides, we don't want you guys dripping\\nall over the floor in here.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "5004",
+        "line": {
+            "en": "'...Sis!'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "5404",
+        "line": {
+            "en": "Yoru practically leapt onto Asa in her hurry to\\nhug her."
+        },
+        "name": ""
+    },
+    {
+        "id": "5804",
+        "line": {
+            "en": "'Yoru?!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "5c04",
+        "line": {
+            "en": "'I was so worried! The storm was so bad, and you\\nhadn't come back! Why would you do something like\\nthat?! ...Uwaah...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "6004",
+        "line": {
+            "en": "'...Yoru...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "6404",
+        "line": {
+            "en": "'...I'm sorry... Yoru... I'm sorry...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "6804",
+        "line": {
+            "en": "'Uuuuuunnngh...!'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "6c04",
+        "line": {
+            "en": "'So what happened? Asa's eyes look red.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "7004",
+        "line": {
+            "en": "'A lot of things.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7404",
+        "line": {
+            "en": "'Hmmm. Well anyway, I'm hungry, so let's eat.\\nEveryone's waiting.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "7804",
+        "line": {
+            "en": "'Eh? You didn't eat without us?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7c04",
+        "line": {
+            "en": "'Dinner tastes better when you eat it all\\ntogether!'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "8004",
+        "line": {
+            "en": "I see."
+        },
+        "name": ""
+    },
+    {
+        "id": "8404",
+        "line": {
+            "en": "'...Thank you.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8804",
+        "line": {
+            "en": "'Hm? We haven't done anything you need to thank\\nus for.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "8c04",
+        "line": {
+            "en": "'...And besides, this all started because of my\\nmeddling in the first place.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "9004",
+        "line": {
+            "en": "'...That might actually be the case...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9404",
+        "line": {
+            "en": "'So we're all even.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "9804",
+        "line": {
+            "en": "Kanako smiled ironically."
+        },
+        "name": ""
+    },
+    {
+        "id": "9c04",
+        "line": {
+            "en": "'I really am sorry, Yoru...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "a004",
+        "line": {
+            "en": "Yoru liked me too. If what Asa said was true."
+        },
+        "name": ""
+    },
+    {
+        "id": "a404",
+        "line": {
+            "en": "What should I do now?"
+        },
+        "name": ""
+    },
+    {
+        "id": "a804",
+        "line": {
+            "en": "I was the type who usually just adjusted to other\\npeople's opinions."
+        },
+        "name": ""
+    },
+    {
+        "id": "ac04",
+        "line": {
+            "en": "Because I had no self confidence. And I was\\nafraid, more than anything, of people hating me."
+        },
+        "name": ""
+    },
+    {
+        "id": "b004",
+        "line": {
+            "en": "The only reason I got decent grades on tests was\\nbecause I studied really hard, and tried to\\nappear smarter than I was."
+        },
+        "name": ""
+    },
+    {
+        "id": "b404",
+        "line": {
+            "en": "I didn't want to look bad to others. I had no\\nconfidence that I'd be okay if that happened."
+        },
+        "name": ""
+    },
+    {
+        "id": "b804",
+        "line": {
+            "en": "But that was what limited me."
+        },
+        "name": ""
+    },
+    {
+        "id": "bc04",
+        "line": {
+            "en": "I appeared to have great manners, and to be\\nreally cooperative, but that was just a side\\neffect of my lack of confidence."
+        },
+        "name": ""
+    },
+    {
+        "id": "c004",
+        "line": {
+            "en": "I can't make my own rules like Yoru does, or be\\nupfront about what I want like Yoru does, or be\\nstrong like Yoru does."
+        },
+        "name": ""
+    },
+    {
+        "id": "c404",
+        "line": {
+            "en": "Strangers were jealous of my family's money, and\\nhated me over things that didn't matter, and I\\nwasn't strong enough to bounce back from their\\nhatred."
+        },
+        "name": ""
+    },
+    {
+        "id": "c804",
+        "line": {
+            "en": "At home, my own parents laughed at my ineptitude."
+        },
+        "name": ""
+    },
+    {
+        "id": "cc04",
+        "line": {
+            "en": "And no one, not even a stronger person than I,\\ncould ignore those twisted smiles."
+        },
+        "name": ""
+    },
+    {
+        "id": "d004",
+        "line": {
+            "en": "I simply wasn't at their level."
+        },
+        "name": ""
+    },
+    {
+        "id": "d404",
+        "line": {
+            "en": "The next day."
+        },
+        "name": ""
+    },
+    {
+        "id": "d804",
+        "line": {
+            "en": "By morning the typhoon had passed, and calm\\nreturned to Kazegaura."
+        },
+        "name": ""
+    },
+    {
+        "id": "dc04",
+        "line": {
+            "en": "School started at the usual time."
+        },
+        "name": ""
+    },
+    {
+        "id": "e004",
+        "line": {
+            "en": "And Soaring Club also carried on as usual."
+        },
+        "name": ""
+    },
+    {
+        "id": "e404",
+        "line": {
+            "en": "'It's kinda lonely when we're missing a member.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "e804",
+        "line": {
+            "en": "Kotori suddenly mumbled her thoughts."
+        },
+        "name": ""
+    },
+    {
+        "id": "ec04",
+        "line": {
+            "en": "'Yeah, Asa's not here. It's hard to get\\ncomfortable.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f004",
+        "line": {
+            "en": "'That's right; Asa's the one who softens up the\\natmosphere around here. It's just a little too\\ntense without her...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "f404",
+        "line": {
+            "en": "Asa stayed home from both school and club that\\nday."
+        },
+        "name": ""
+    },
+    {
+        "id": "f804",
+        "line": {
+            "en": "Because of the rain last night, she'd caught a\\ncold."
+        },
+        "name": ""
+    },
+    {
+        "id": "fc04",
+        "line": {
+            "en": "'...Yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0104",
+        "line": {
+            "en": "'She's been really trying hard lately. She's been\\npracticing a lot on the simulator too. Maybe the\\ntyphoon just brought out all her exhaustion.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0504",
+        "line": {
+            "en": "'Little Kazato, you shouldn't worry your big\\nsister so much, you know? She was really\\nconcerned when you went missing last night.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0904",
+        "line": {
+            "en": "'...You're right. I'm sorry.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0d04",
+        "line": {
+            "en": "'Ahaha, but Yoru, going to the bookstore on a\\nnight like that? Did you really want a new book\\nthat badly?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1104",
+        "line": {
+            "en": "'Yes, I did. But the store was closed, so I\\ncouldn't get it anyway.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "1504",
+        "line": {
+            "en": "'Well, yeah, a bookstore wouldn't be open. Not\\nduring that typhoon.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "1904",
+        "line": {
+            "en": "We'd thought it best not to tell Ageha and Kotori\\nabout the switch yesterday."
+        },
+        "name": ""
+    },
+    {
+        "id": "1d04",
+        "line": {
+            "en": "Instead, Yoru said that she'd gone to the\\nbookstore to get a book she'd been wanting."
+        },
+        "name": ""
+    },
+    {
+        "id": "2104",
+        "line": {
+            "en": "And I said that since I knew she wanted a new\\nbook, I'd gone to Windy's to find her."
+        },
+        "name": ""
+    },
+    {
+        "id": "2504",
+        "line": {
+            "en": "'From now on, you stay in your room when there's\\na typhoon! Since you're living in a dorm, you owe\\nit to the rest of us not to worry everyone!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2904",
+        "line": {
+            "en": "'...I apologize for what I did yesterday. I'm\\nsorry. I'll be careful next time.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "2d04",
+        "line": {
+            "en": "'Ahaha! Please do be careful not to worry us.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "3104",
+        "line": {
+            "en": "Yoru was doing a great job putting up with all of\\nthis."
+        },
+        "name": ""
+    },
+    {
+        "id": "3504",
+        "line": {
+            "en": "Even though it wasn't her fault, she was acting\\nas though it was, and apologizing to everyone."
+        },
+        "name": ""
+    },
+    {
+        "id": "3904",
+        "line": {
+            "en": "..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3d04",
+        "line": {
+            "en": "'Thank you for yesterday, Aoi.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4104",
+        "line": {
+            "en": "'...Hmm?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4504",
+        "line": {
+            "en": "'I just wanted to thank you again.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4904",
+        "line": {
+            "en": "'I didn't really do anything you need to thank me\\nfor. Don't worry about it.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4d04",
+        "line": {
+            "en": "'I suppose...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "5104",
+        "line": {
+            "en": "Yoru must have been thanking me for going out to\\nfind Asa, but that whole problem was partly my\\nfault as well."
+        },
+        "name": ""
+    },
+    {
+        "id": "5504",
+        "line": {
+            "en": "There was nothing for her to be concerned about."
+        },
+        "name": ""
+    },
+    {
+        "id": "5904",
+        "line": {
+            "en": "'I wonder if Asa's okay.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5d04",
+        "line": {
+            "en": "'I hope she gets better by tomorrow.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "6104",
+        "line": {
+            "en": "'...Why don't we get her something on the way\\nhome? If she's got a fever, she'd probably like\\nsome ice cream.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6504",
+        "line": {
+            "en": "'True. I'm sure she'll be happy to get that...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "6904",
+        "line": {
+            "en": "Hargen Darch might be a good idea."
+        },
+        "name": ""
+    },
+    {
+        "id": "6d04",
+        "line": {
+            "en": "..."
+        },
+        "name": ""
+    },
+    {
+        "id": "7104",
+        "line": {
+            "en": "I still couldn't tell Yoru what I'd heard from\\nAsa."
+        },
+        "name": ""
+    },
+    {
+        "id": "7504",
+        "line": {
+            "en": "That Yoru liked me."
+        },
+        "name": ""
+    },
+    {
+        "id": "7904",
+        "line": {
+            "en": "There was no real need to tell Yoru anyway, and\\neven if I did, I don't know what I'd do next."
+        },
+        "name": ""
+    },
+    {
+        "id": "7d04",
+        "line": {
+            "en": "But for some reason it felt really bad to pretend\\nthat I didn't know, even though I did."
+        },
+        "name": ""
+    },
+    {
+        "id": "8104",
+        "line": {
+            "en": "'...Should I buy it for her on the way home? I\\ncan pretend I bought it with you, and we can give\\nit to her together later.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8504",
+        "line": {
+            "en": "'Huh? Are you going home already, Yoru?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8904",
+        "line": {
+            "en": "'Yes. I'm worried about my sister.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8d04",
+        "line": {
+            "en": "'I see.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9104",
+        "line": {
+            "en": "She had seemed very upset."
+        },
+        "name": ""
+    },
+    {
+        "id": "9504",
+        "line": {
+            "en": "'Aoi, why don't you go home a little early?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9904",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9d04",
+        "line": {
+            "en": "'You're worried too, aren't you? About Asa.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a104",
+        "line": {
+            "en": "'Yeah, I am, but what about the club?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a504",
+        "line": {
+            "en": "'It's okay. I'll do your share of the work today.\\nSo go ahead and check up on her, okay?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "a904",
+        "line": {
+            "en": "'It's hard for me to say, but I think Asa would\\nbe happier to see you than me.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "ad04",
+        "line": {
+            "en": "Kanako had showed up to Soaring again today, and\\nnow she was recommending that I go home."
+        },
+        "name": ""
+    },
+    {
+        "id": "b104",
+        "line": {
+            "en": "Actually the reason Kanako had given for showing\\nup in the first place was to do Asa's share of\\nthe work."
+        },
+        "name": ""
+    },
+    {
+        "id": "b504",
+        "line": {
+            "en": "'But...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b904",
+        "line": {
+            "en": "'Don't worry about, Aoi. We've made up the loss\\nfrom last week, and we can afford to carry on\\nwithout you for the rest of the day. Kanako's\\nhere helping too.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bd04",
+        "line": {
+            "en": "'That's right. And you're in charge of Asa, so\\nyou should go back and take care of her.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c104",
+        "line": {
+            "en": "'I'm... in charge of her?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c504",
+        "line": {
+            "en": "'Well, you two are always together lately. So I\\nfigured you were in charge of her at times like\\nthis. Right?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c904",
+        "line": {
+            "en": "'Umm... I guess. I suppose we are together a\\nlot.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cd04",
+        "line": {
+            "en": "But the words 'in charge' still sounded a little\\nstrange."
+        },
+        "name": ""
+    },
+    {
+        "id": "d104",
+        "line": {
+            "en": "'Well then. Go back to the dorm with her sister,\\nokay?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "d504",
+        "line": {
+            "en": "I see..."
+        },
+        "name": ""
+    },
+    {
+        "id": "d904",
+        "line": {
+            "en": "'Besides, if you keep working with your mind\\nsomewhere else, you won't get much done here\\nanyway. You're worried, right?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "dd04",
+        "line": {
+            "en": "'Ah, err... I...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e104",
+        "line": {
+            "en": "It's true that I was worried about Asa, but\\nthat's not what I'd been brooding about."
+        },
+        "name": ""
+    },
+    {
+        "id": "e504",
+        "line": {
+            "en": "But I couldn't exactly explain, either."
+        },
+        "name": ""
+    },
+    {
+        "id": "e904",
+        "line": {
+            "en": "'...Okay. Well then, I'll take your advice and go\\nback. Thanks for finishing up here.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ed04",
+        "line": {
+            "en": "'No problem! Leave it to us!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f104",
+        "line": {
+            "en": "'Let's go, Yoru.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f504",
+        "line": {
+            "en": "'Eh... Uh, yeah.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "f904",
+        "line": {
+            "en": "Instead of going straight back to the dorm, we\\nheaded to Windy's first to pick up Hargen Darch\\nfor Asa."
+        },
+        "name": ""
+    },
+    {
+        "id": "fd04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0204",
+        "line": {
+            "en": "On the surface, everything seemed normal, but I\\ncould tell that things were actually extremely\\nuncomfortable as they were."
+        },
+        "name": ""
+    },
+    {
+        "id": "0604",
+        "line": {
+            "en": "Yoru likes me."
+        },
+        "name": ""
+    },
+    {
+        "id": "0a04",
+        "line": {
+            "en": "But was what Asa said really, really true?"
+        },
+        "name": ""
+    },
+    {
+        "id": "0e04",
+        "line": {
+            "en": "After all, Yoru certainly didn't usually act like\\nshe liked me."
+        },
+        "name": ""
+    },
+    {
+        "id": "1204",
+        "line": {
+            "en": "'Um, Aoi...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "1604",
+        "line": {
+            "en": "'...Yeah?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1a04",
+        "line": {
+            "en": "'Is it okay with you? Going shopping together\\nwith me.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "1e04",
+        "line": {
+            "en": "'What do you mean? I have nothing against\\nshopping with you, Yoru.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2204",
+        "line": {
+            "en": "'It doesn't feel uncomfortable to you?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "2604",
+        "line": {
+            "en": "...Eh?"
+        },
+        "name": ""
+    },
+    {
+        "id": "2a04",
+        "line": {
+            "en": "'...Why?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2e04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "3204",
+        "line": {
+            "en": "'I just wondered. You seem to feel that way\\ntoday.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "3604",
+        "line": {
+            "en": "Apparently Yoru was able to tell how confused and\\nawkward I felt."
+        },
+        "name": ""
+    },
+    {
+        "id": "3a04",
+        "line": {
+            "en": "'...It's okay. There's nothing to worry about.\\nAnd there's no reason for you to think there is,\\nright?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3e04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4204",
+        "line": {
+            "en": "'Well, okay then.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4604",
+        "line": {
+            "en": "'One strawberry, one super-spicy Szechuan\\nvanilla, and one chocolate chip, please.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4a04",
+        "line": {
+            "en": "I ordered one ice cream for each of us."
+        },
+        "name": ""
+    },
+    {
+        "id": "4e04",
+        "line": {
+            "en": "The chocolate chip was for me, the strawberry for\\nYoru, and the super-spicy Szechuan vanilla for\\nAsa."
+        },
+        "name": ""
+    },
+    {
+        "id": "5204",
+        "line": {
+            "en": "I got the ice cream, and went back to where Yoru\\nwas waiting."
+        },
+        "name": ""
+    },
+    {
+        "id": "5604",
+        "line": {
+            "en": "'Sorry to keep you waiting. Let's go.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5a04",
+        "line": {
+            "en": "'Yes.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "5e04",
+        "line": {
+            "en": "After collecting Yoru outside of the shop, we\\nheaded for the exit from Windy's. We didn't have\\nany other errands, so we were going to go home."
+        },
+        "name": ""
+    },
+    {
+        "id": "6204",
+        "line": {
+            "en": "'They make really strange flavors, don't they?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6604",
+        "line": {
+            "en": "'You mean super-spicy Szechuan vanilla? Yeah,\\nit's pretty crazy.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "6a04",
+        "line": {
+            "en": "'I wonder who even wants this stuff.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6e04",
+        "line": {
+            "en": "'My sister?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "7204",
+        "line": {
+            "en": "Oh, right."
+        },
+        "name": ""
+    },
+    {
+        "id": "7604",
+        "line": {
+            "en": "Yoru was the one who told me that Asa liked this\\nflavor."
+        },
+        "name": ""
+    },
+    {
+        "id": "7a04",
+        "line": {
+            "en": "'Have you ever eaten it, Yoru?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7e04",
+        "line": {
+            "en": "'Of course not. Sis recommended it, but I didn't\\ntake her up on the offer.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8204",
+        "line": {
+            "en": "'I don't blame you.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8604",
+        "line": {
+            "en": "I wouldn't want to try it either."
+        },
+        "name": ""
+    },
+    {
+        "id": "8a04",
+        "line": {
+            "en": "'Sis said it was like a combination of salt and\\nvanilla.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8e04",
+        "line": {
+            "en": "There's no way that could be true."
+        },
+        "name": ""
+    },
+    {
+        "id": "9204",
+        "line": {
+            "en": "'She said it was a balance of heat and cold.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9604",
+        "line": {
+            "en": "That was... interesting."
+        },
+        "name": ""
+    },
+    {
+        "id": "9a04",
+        "line": {
+            "en": "It seemed that Asa had a... different point of\\nview."
+        },
+        "name": ""
+    },
+    {
+        "id": "9e04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "a204",
+        "line": {
+            "en": "I just remembered, Yoru knew about Asa's feelings\\nfor me too."
+        },
+        "name": ""
+    },
+    {
+        "id": "a604",
+        "line": {
+            "en": "And if it was true what Asa said, she still liked\\nme."
+        },
+        "name": ""
+    },
+    {
+        "id": "aa04",
+        "line": {
+            "en": "And of course she knew that I knew about Asa's\\nfeelings."
+        },
+        "name": ""
+    },
+    {
+        "id": "ae04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "b204",
+        "line": {
+            "en": "I wonder how Yoru felt about being with me now."
+        },
+        "name": ""
+    },
+    {
+        "id": "b604",
+        "line": {
+            "en": "Was it uncomfortable?"
+        },
+        "name": ""
+    },
+    {
+        "id": "ba04",
+        "line": {
+            "en": "Thinking of it that way, maybe I was really\\nbothering Yoru by walking home with her."
+        },
+        "name": ""
+    },
+    {
+        "id": "be04",
+        "line": {
+            "en": "'By the way, Aoi.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "c204",
+        "line": {
+            "en": "'...Yeah?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c604",
+        "line": {
+            "en": "'...What are you going to do about Sis?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "ca04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ce04",
+        "line": {
+            "en": "...Yeah, of course she'd be wondering about it."
+        },
+        "name": ""
+    },
+    {
+        "id": "d204",
+        "line": {
+            "en": "My response to Asa. My answer."
+        },
+        "name": ""
+    },
+    {
+        "id": "d604",
+        "line": {
+            "en": "I had to give an answer to her kiss."
+        },
+        "name": ""
+    },
+    {
+        "id": "da04",
+        "line": {
+            "en": "'I like my sister, and I don't want you to do\\nsomething that would make her sad.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "de04",
+        "line": {
+            "en": "'I think she really, truly likes you.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "e204",
+        "line": {
+            "en": "Asa liked me."
+        },
+        "name": ""
+    },
+    {
+        "id": "e604",
+        "line": {
+            "en": "Given how Asa was acting yesterday, I was sure\\nthat was true."
+        },
+        "name": ""
+    },
+    {
+        "id": "ea04",
+        "line": {
+            "en": "So Yoru was telling me that she wanted me to date\\nher sister, whom she cared about."
+        },
+        "name": ""
+    },
+    {
+        "id": "ee04",
+        "line": {
+            "en": "But..."
+        },
+        "name": ""
+    },
+    {
+        "id": "f204",
+        "line": {
+            "en": "But if I did, what about Yoru?"
+        },
+        "name": ""
+    },
+    {
+        "id": "f604",
+        "line": {
+            "en": "If Yoru really did like me, like Asa said she\\ndid."
+        },
+        "name": ""
+    },
+    {
+        "id": "fa04",
+        "line": {
+            "en": "And if Asa had really done what she did yesterday\\nbecause of knowing about Yoru."
+        },
+        "name": ""
+    },
+    {
+        "id": "fe04",
+        "line": {
+            "en": "..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0304",
+        "line": {
+            "en": "'...That wouldn't be enough for Asa.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0704",
+        "line": {
+            "en": "'What do you mean?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0b04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi\u0000d\u00003st03\u0000BG00_01S.PNG\u0000\u0001\u0001\u0004LAYER_ORDER\u0000Fst03\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Fst03\u0000\u0006\u0000\u0000\u0000\u0000\u0080?\u0000\u0000\u0080?\u0000\u0000\u0080?\u009a\u0099\u0099>3st04\u0000EST_1022.PNG\u0000\u0001\u0001\u0004LAYER_ORDER\u0000Fst04\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000e\u0000\u0000\u0000\u0000\u0000\u0000?\u0000\u0000\u0000\u0000\u0000"
+    },
+    {
+        "id": "0f04",
+        "line": {
+            "en": "I made up my mind."
+        },
+        "name": ""
+    },
+    {
+        "id": "1304",
+        "line": {
+            "en": "Brooding didn't suit me. I'd always preferred to\\nmeet problems head on."
+        },
+        "name": ""
+    },
+    {
+        "id": "1704",
+        "line": {
+            "en": "I wasn't such a skilled guy that I could take\\ncare of everyone's sensitivities, or choose the\\nmost discreet course of action."
+        },
+        "name": ""
+    },
+    {
+        "id": "1b04",
+        "line": {
+            "en": "So I just..."
+        },
+        "name": ""
+    },
+    {
+        "id": "1f04",
+        "line": {
+            "en": "'Aoi?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "2304",
+        "line": {
+            "en": "'Yoru, what do you think about me?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2704",
+        "line": {
+            "en": "'Eh...?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "2b04",
+        "line": {
+            "en": "'Yesterday, Asa told me that you liked me too.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2f04",
+        "line": {
+            "en": "'Eeeeh?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "3304",
+        "line": {
+            "en": "I decided I should just ask."
+        },
+        "name": ""
+    },
+    {
+        "id": "3704",
+        "line": {
+            "en": "'That's what I heard from Asa yesterday.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3b04",
+        "line": {
+            "en": "'Ah... Sis...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "3f04",
+        "line": {
+            "en": "'...I see... Sis noticed... So that's why she\\nasked me that...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4304",
+        "line": {
+            "en": "'So Asa's also unsure of what to do. She was so\\nconfused, that she went and did what she did...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4704",
+        "line": {
+            "en": "'She...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4b04",
+        "line": {
+            "en": "'Asa said she thought that you were more suitable\\nfor me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4f04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "5304",
+        "line": {
+            "en": "... Yoru."
+        },
+        "name": ""
+    },
+    {
+        "id": "5704",
+        "line": {
+            "en": "Maybe Yoru had been keeping her feelings to\\nherself for Asa's sake."
+        },
+        "name": ""
+    },
+    {
+        "id": "5b04",
+        "line": {
+            "en": "She really did care about her sister."
+        },
+        "name": ""
+    },
+    {
+        "id": "5f04",
+        "line": {
+            "en": "'...(sigh) That's so like her.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "6304",
+        "line": {
+            "en": "'Unlike me, she's never sure of herself.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "6704",
+        "line": {
+            "en": "'...Yeah. I can see that.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6b04",
+        "line": {
+            "en": "And that's why she did what she did yesterday."
+        },
+        "name": ""
+    },
+    {
+        "id": "6f04",
+        "line": {
+            "en": "'But I respect her for that. ...Can I say\\nsomething a bit conceited, Aoi?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "7304",
+        "line": {
+            "en": "'Sure?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7704",
+        "line": {
+            "en": "'I've never really gone through much hardship. I\\nwork hard, but I've never found it to be a\\ntrial.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "7b04",
+        "line": {
+            "en": "'So I don't really understand what hardship feels\\nlike for most people.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "7f04",
+        "line": {
+            "en": "'I was born with many talents, and to a rich\\nhome. I really can do anything. 'Cause I'm a\\ngenius.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8304",
+        "line": {
+            "en": "'...You really are conceited, Yoru.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8704",
+        "line": {
+            "en": "'I said I was going to say something\\nconceited...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8b04",
+        "line": {
+            "en": "'Yes, you did.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8f04",
+        "line": {
+            "en": "But I didn't think she meant it quite that much."
+        },
+        "name": ""
+    },
+    {
+        "id": "9304",
+        "line": {
+            "en": "'She's an average person born to an extraordinary\\nfamily. She's totally worthless. That's how my\\nrelatives feel about my sister.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9704",
+        "line": {
+            "en": "'Eh...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9b04",
+        "line": {
+            "en": "Worthless? Asa?"
+        },
+        "name": ""
+    },
+    {
+        "id": "9f04",
+        "line": {
+            "en": "'She's never been really accepted by our\\nrelatives. Deep down in their hearts, they all\\nlook down on her. She's got such great genes but\\nshe's just average, they think.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "a304",
+        "line": {
+            "en": "'She's looked down upon by her relatives... And\\nthe others around her are unkind as well. At\\nschool, and in the neighborhood. Because she's\\nrich, and in a good family. That's what comes\\nwith being rich.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "a704",
+        "line": {
+            "en": "'Such...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ab04",
+        "line": {
+            "en": "'Even if she worked herself to the bone and\\nmanaged to get top scores on the test, the family\\nwould just take it for granted.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "af04",
+        "line": {
+            "en": "'And for some reason, even her friends are mean\\nto her.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "b304",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b704",
+        "line": {
+            "en": "'Sis was born into the wrong world.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "bb04",
+        "line": {
+            "en": "Wow..."
+        },
+        "name": ""
+    },
+    {
+        "id": "bf04",
+        "line": {
+            "en": "I'd known already that rich kids were looked upon\\nwith jealousy by the people around them."
+        },
+        "name": ""
+    },
+    {
+        "id": "c304",
+        "line": {
+            "en": "I suppose the standards were higher in an\\nextraordinary family like theirs."
+        },
+        "name": ""
+    },
+    {
+        "id": "c704",
+        "line": {
+            "en": "'...Can we take a slight detour?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "cb04",
+        "line": {
+            "en": "'A detour?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cf04",
+        "line": {
+            "en": "'Just a little one. I want to go to Windmill Hill\\none more time. If we keep up this pace we'll\\narrive at the dorm too soon.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "d304",
+        "line": {
+            "en": "'The ice pack will keep the ice cream from\\nmelting right away.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "d704",
+        "line": {
+            "en": "'I see... Okay.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "db04",
+        "line": {
+            "en": "We went back the way we'd come, back towards\\nWindmill Hill."
+        },
+        "name": ""
+    },
+    {
+        "id": "df04",
+        "line": {
+            "en": "'But Sis kept on going, always struggling not to\\nbe crushed by all that pressure. She never ran\\naway, or became selfish, or complained.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "e304",
+        "line": {
+            "en": "'I'm talented. My sister is not.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "e704",
+        "line": {
+            "en": "'So... Don't you think she must have more\\nproblems than I do?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "eb04",
+        "line": {
+            "en": "Yoru was unbelievably frank, saying just what she\\nthought with no excuses."
+        },
+        "name": ""
+    },
+    {
+        "id": "ef04",
+        "line": {
+            "en": "She was completely straightforward."
+        },
+        "name": ""
+    },
+    {
+        "id": "f304",
+        "line": {
+            "en": "'My sister is strong. She didn't give up, or\\ndecide to just let people hate her, or stop\\ntrying to make connections with people.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "f704",
+        "line": {
+            "en": "'She always tries as hard as she can. And I\\nreally respect her for it.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "fb04",
+        "line": {
+            "en": "'She lives her life fighting against so many\\nobstacles. Desperately struggling to survive.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "ff04",
+        "line": {
+            "en": "'How could I not respect that?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0008",
+        "line": {
+            "en": "'...Yoru...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0408",
+        "line": {
+            "en": "'I can relax around her. Because she has so many\\nthings that I don't.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0808",
+        "line": {
+            "en": "'When I'm around her, I don't turn too much into\\nmyself...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0c08",
+        "line": {
+            "en": "'If I'm left alone too long, I grow even more\\nconceited.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "1008",
+        "line": {
+            "en": "Yoru was already much more conceited than I'd\\nthought."
+        },
+        "name": ""
+    },
+    {
+        "id": "1408",
+        "line": {
+            "en": "And also, perhaps, more mature."
+        },
+        "name": ""
+    },
+    {
+        "id": "1808",
+        "line": {
+            "en": "'But I think maybe Sis is a little weaker than I\\nthought.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "1c08",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2008",
+        "line": {
+            "en": "'Weaker, and much more human.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "2408",
+        "line": {
+            "en": "'I knew, of course, that she was a little jealous\\nof me. But that's true of every average person.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "2808",
+        "line": {
+            "en": "'But I never thought she'd let something\\nmeaningless like that get in her way.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "2c08",
+        "line": {
+            "en": "'Meaningless...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3008",
+        "line": {
+            "en": "'Yes, it's meaningless. That she might lose to\\nme. That I'm better for you. They're all just\\nexcuses, right?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "3408",
+        "line": {
+            "en": "'She wanted something, but couldn't get it,\\nbecause she lost the courage to get it herself,\\nand she's just sulking about it.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "3808",
+        "line": {
+            "en": "'That's...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3c08",
+        "line": {
+            "en": "I suppose that might be a bit true, in Asa's\\ncase."
+        },
+        "name": ""
+    },
+    {
+        "id": "4008",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4408",
+        "line": {
+            "en": "'Alright then.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4808",
+        "line": {
+            "en": "Yoru nodded, as though she'd just decided\\nsomething."
+        },
+        "name": ""
+    },
+    {
+        "id": "4c08",
+        "line": {
+            "en": "'What is?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5008",
+        "line": {
+            "en": "'If it was okay with you, I was planning to give\\nup your love to my sister. But I think I've\\nchanged my mind.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "5408",
+        "line": {
+            "en": "'Aoi, can you look down for just a moment?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "5808",
+        "line": {
+            "en": "'...Down?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5c08",
+        "line": {
+            "en": "I did so, and then she squeezed up against me."
+        },
+        "name": ""
+    },
+    {
+        "id": "6008",
+        "line": {
+            "en": "And then I felt something warm against my lips."
+        },
+        "name": ""
+    },
+    {
+        "id": "6408",
+        "line": {
+            "en": "It was Yoru's lips."
+        },
+        "name": ""
+    },
+    {
+        "id": "6808",
+        "line": {
+            "en": "'...Eh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6c08",
+        "line": {
+            "en": "Ba-dump."
+        },
+        "name": ""
+    },
+    {
+        "id": "7008",
+        "line": {
+            "en": "I couldn't help but make a noise."
+        },
+        "name": ""
+    },
+    {
+        "id": "7408",
+        "line": {
+            "en": "I was confused."
+        },
+        "name": ""
+    },
+    {
+        "id": "7808",
+        "line": {
+            "en": "By this unexpected kiss."
+        },
+        "name": ""
+    },
+    {
+        "id": "7c08",
+        "line": {
+            "en": "By this expression of her feelings."
+        },
+        "name": ""
+    },
+    {
+        "id": "8008",
+        "line": {
+            "en": "'...I like you.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8408",
+        "line": {
+            "en": "When I looked down, I saw Yoru, standing on her\\ntiptoes to kiss me."
+        },
+        "name": ""
+    },
+    {
+        "id": "8808",
+        "line": {
+            "en": "And she'd confessed her feelings to me."
+        },
+        "name": ""
+    },
+    {
+        "id": "8c08",
+        "line": {
+            "en": "'It's true. I like you, Aoi. So I'm telling you\\nnow.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9008",
+        "line": {
+            "en": "Yoru... confessed... to me?"
+        },
+        "name": ""
+    },
+    {
+        "id": "9408",
+        "line": {
+            "en": "First Asa, and now Yoru..."
+        },
+        "name": ""
+    },
+    {
+        "id": "9808",
+        "line": {
+            "en": "'Now it's up to you to decide the course of your\\nlove. I think that's how you can help my sister.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9c08",
+        "line": {
+            "en": "And she gave me a choice."
+        },
+        "name": ""
+    },
+    {
+        "id": "a008",
+        "line": {
+            "en": "'You can choose her, or choose me, or turn us\\nboth down. Whatever you decide.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "a408",
+        "line": {
+            "en": "'Aoi, please answer.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "a808",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "ac08",
+        "line": {
+            "en": "We visited Asa's room, bringing the ice cream."
+        },
+        "name": ""
+    },
+    {
+        "id": "b008",
+        "line": {
+            "en": "'Aoi... And Yoru.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "b408",
+        "line": {
+            "en": "'We're home. How are you feeling, Sis?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "b808",
+        "line": {
+            "en": "'H, hi. I'm much better. My fever's gone, too.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "bc08",
+        "line": {
+            "en": "'We brought you something.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c008",
+        "line": {
+            "en": "'F, for me?'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "c408",
+        "line": {
+            "en": "Asa sounded nervous."
+        },
+        "name": ""
+    },
+    {
+        "id": "c808",
+        "line": {
+            "en": "I hadn't seen Asa since dinner last night, after\\nI brought her home."
+        },
+        "name": ""
+    },
+    {
+        "id": "cc08",
+        "line": {
+            "en": "So it was the first time we'd seen each other\\nsince she'd confessed her feelings to me."
+        },
+        "name": ""
+    },
+    {
+        "id": "d008",
+        "line": {
+            "en": "'...Oh, it's Hargen Darch ice cream! And even\\nsuper-spicy Szechuan vanilla!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "d408",
+        "line": {
+            "en": "'Yoru said you liked that flavor.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d808",
+        "line": {
+            "en": "'Th, thank you, Yoru.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "dc08",
+        "line": {
+            "en": "'You're welcome.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "e008",
+        "line": {
+            "en": "Asa opened the lid of the ice cream, stabbed into\\nit with the attached spoon, and brought it to her\\nmouth."
+        },
+        "name": ""
+    },
+    {
+        "id": "e408",
+        "line": {
+            "en": "'Yeah. It's cold, spicy, and delicious...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "e808",
+        "line": {
+            "en": "..."
+        },
+        "name": ""
+    },
+    {
+        "id": "ec08",
+        "line": {
+            "en": "'...B, by the way, aren't... Aren't you early?'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "f008",
+        "line": {
+            "en": "'We were worried about you, and the club seemed\\nto be wrapping up pretty quickly, so we came home\\na little early.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f408",
+        "line": {
+            "en": "'Ah... I caused trouble for everyone again...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "f808",
+        "line": {
+            "en": "'No, no, no trouble at all.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fc08",
+        "line": {
+            "en": "'B, but...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "0108",
+        "line": {
+            "en": "'Listen to him, Sis. You're overthinking it.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0508",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "0908",
+        "line": {
+            "en": "Asa looked troubled."
+        },
+        "name": ""
+    },
+    {
+        "id": "0d08",
+        "line": {
+            "en": "She must be confused about what was going on."
+        },
+        "name": ""
+    },
+    {
+        "id": "1108",
+        "line": {
+            "en": "'Was everyone well today?'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "1508",
+        "line": {
+            "en": "'Yeah. They're all fine.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1908",
+        "line": {
+            "en": "'They were all happily working on the glider.\\nBut...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "1d08",
+        "line": {
+            "en": "'...But?'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "2108",
+        "line": {
+            "en": "'They were muttering that it felt like something\\nwas missing without you there.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "2508",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "2908",
+        "line": {
+            "en": "'So hurry up and get better, Sis.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "2d08",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "3108",
+        "line": {
+            "en": "'...Yeah.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "3508",
+        "line": {
+            "en": "...Well then."
+        },
+        "name": ""
+    },
+    {
+        "id": "3908",
+        "line": {
+            "en": "'Well, I'll be going. As long as I'm home early,\\nI may as well work extra hard on tonight's\\ndinner.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3d08",
+        "line": {
+            "en": "'I've gotta make a lot of food to give Asa energy\\nso she can get better!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4108",
+        "line": {
+            "en": "'Th, thank you, Aoi.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "4508",
+        "line": {
+            "en": "'Take care of yourself.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4908",
+        "line": {
+            "en": "I went back to my room."
+        },
+        "name": ""
+    },
+    {
+        "id": "4d08",
+        "line": {
+            "en": "Asa would probably be too nervous around me to\\nreally rest."
+        },
+        "name": ""
+    },
+    {
+        "id": "5108",
+        "line": {
+            "en": "So I decided to eat my ice cream in my own room."
+        },
+        "name": ""
+    },
+    {
+        "id": "5508",
+        "line": {
+            "en": "...Or rather, that was my excuse."
+        },
+        "name": ""
+    },
+    {
+        "id": "5908",
+        "line": {
+            "en": "'Aoi, please answer.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "5d08",
+        "line": {
+            "en": "The truth was, it was a little hard for me to be\\nwith them right now."
+        },
+        "name": ""
+    },
+    {
+        "id": "6108",
+        "line": {
+            "en": "It made my stomach hurt, and my chest tighten up."
+        },
+        "name": ""
+    },
+    {
+        "id": "6508",
+        "line": {
+            "en": "So... What should I do?"
+        },
+        "name": ""
+    },
+    {
+        "id": "6908",
+        "line": {
+            "en": "What should I say to them?"
+        },
+        "name": ""
+    },
+    {
+        "id": "6d08",
+        "line": {
+            "en": "..."
+        },
+        "name": ""
+    },
+    {
+        "id": "7108",
+        "line": {
+            "en": "Asa, or Yoru."
+        },
+        "name": ""
+    },
+    {
+        "id": "7508",
+        "line": {
+            "en": "Twins, and complete opposites."
+        },
+        "name": ""
+    },
+    {
+        "id": "7908",
+        "line": {
+            "en": "My precious underclassmen."
+        },
+        "name": ""
+    },
+    {
+        "id": "7d08",
+        "line": {
+            "en": "I had to give them an answer."
+        },
+        "name": ""
+    },
+    {
+        "id": "8108",
+        "line": {
+            "en": "'(sigh)...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8508",
+        "line": {
+            "en": "'(I did something very unlike myself.)'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8908",
+        "line": {
+            "en": "'I wonder why I said that.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8d08",
+        "line": {
+            "en": "'(I never intended to acknowledge it. I thought\\nthese feelings for Aoi, this love, was just my\\nimagination.)'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9108",
+        "line": {
+            "en": "'But...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9508",
+        "line": {
+            "en": "'(These feelings must be...)'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9908",
+        "line": {
+            "en": "'I feel so much better now that Sis has gone to\\nthe bath.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9d08",
+        "line": {
+            "en": "'(It was so awkward and suffocating... I'm sure\\nSis doesn't know yet what I said to him, but...)'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "a108",
+        "line": {
+            "en": "'This is a first for me.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "a508",
+        "line": {
+            "en": "'(I guess I've got to acknowledge it...)'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "a908",
+        "line": {
+            "en": "I still couldn't think of an answer."
+        },
+        "name": ""
+    },
+    {
+        "id": "ad08",
+        "line": {
+            "en": "I was still searching for one as I cooked, and\\nall through dinner."
+        },
+        "name": ""
+    },
+    {
+        "id": "b108",
+        "line": {
+            "en": "And now, as I sat in the bath, I was still\\nbrooding."
+        },
+        "name": ""
+    },
+    {
+        "id": "b508",
+        "line": {
+            "en": "When was the last time I'd spent so long thinking\\nover one thing?"
+        },
+        "name": ""
+    },
+    {
+        "id": "b908",
+        "line": {
+            "en": "It must have been last year, when I was\\nregretting not being able to reach Morning Glory."
+        },
+        "name": ""
+    },
+    {
+        "id": "bd08",
+        "line": {
+            "en": "...And before that, it was the accident."
+        },
+        "name": ""
+    },
+    {
+        "id": "c108",
+        "line": {
+            "en": "'Aaah, this is no good.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c508",
+        "line": {
+            "en": "I muttered to myself."
+        },
+        "name": ""
+    },
+    {
+        "id": "c908",
+        "line": {
+            "en": "I'm not used to all this brooding."
+        },
+        "name": ""
+    },
+    {
+        "id": "cd08",
+        "line": {
+            "en": "During dinner, Asa and Yoru and I had only spoken\\nto each other two or three times, with just a few\\nforced phrases."
+        },
+        "name": ""
+    },
+    {
+        "id": "d108",
+        "line": {
+            "en": "...I was so nervous."
+        },
+        "name": ""
+    },
+    {
+        "id": "d508",
+        "line": {
+            "en": "Clatter"
+        },
+        "name": ""
+    },
+    {
+        "id": "d908",
+        "line": {
+            "en": "'(sigh)... It's not good. I still feel like I'm\\nsuffocating in my own room. And it's hard to talk\\nto Yoru...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "dd08",
+        "line": {
+            "en": "'Uuurgh... I know it's my own fault, but why is\\nthis happening to me?'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "e108",
+        "line": {
+            "en": "'Aaaah, I'm so stupid, stupid, stupid!!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "e508",
+        "line": {
+            "en": "... Eh?"
+        },
+        "name": ""
+    },
+    {
+        "id": "e908",
+        "line": {
+            "en": "Why is Asa coming in here...?"
+        },
+        "name": ""
+    },
+    {
+        "id": "ed08",
+        "line": {
+            "en": "This was definitely my time to be in the bath,\\nand I'd put up a sign on the door."
+        },
+        "name": ""
+    },
+    {
+        "id": "f108",
+        "line": {
+            "en": "So... Why...?"
+        },
+        "name": ""
+    },
+    {
+        "id": "f508",
+        "line": {
+            "en": "'Uuuuunnhh... I hate this type of thing. I've\\nalways, ALWAYS hated it! Why was I born so\\ndumb?!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "f908",
+        "line": {
+            "en": "'Waaaaahhh! I can't do anything right at all,\\neven though my family's so great! Uunngh,\\nwaaah... I just keep making idiotic mistakes!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "fd08",
+        "line": {
+            "en": "'Idiotic... mistakes...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "0208",
+        "line": {
+            "en": "My clothes were even in the changing area."
+        },
+        "name": ""
+    },
+    {
+        "id": "0608",
+        "line": {
+            "en": "How could anyone make... such an idiotic...\\nmistake..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0a08",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "0e08",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1208",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "1608",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1a08",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "1e08",
+        "line": {
+            "en": "'Uwaaaaaaaahhh!! Aoi! Why are you here?!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "2208",
+        "line": {
+            "en": "'N, no, that's what I want to know! That's my\\nline right now! It's my turn to use the bath!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2608",
+        "line": {
+            "en": "'Eeeeeh?! R, really?!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "2a08",
+        "line": {
+            "en": "Why was Asa in the bathroom, with me?!"
+        },
+        "name": ""
+    },
+    {
+        "id": "2e08",
+        "line": {
+            "en": "'I, I... I thought I didn't need a bath, so I\\nskipped it... But then I felt sweaty so I came\\nhere after all...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "3208",
+        "line": {
+            "en": "'There were clothes out there, right? In the\\nchanging area? My clothes!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3608",
+        "line": {
+            "en": "'Eh, eh, ah, aaaaaaah, you're right! There were!\\nAaah, I was so preoccupied I didn't even\\nnotice?!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "3a08",
+        "line": {
+            "en": "C- come on, Asa...?!"
+        },
+        "name": ""
+    },
+    {
+        "id": "3e08",
+        "line": {
+            "en": "'Uh, um...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "4208",
+        "line": {
+            "en": "'I, I'm sorry!!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "4608",
+        "line": {
+            "en": "Asa ran out of the bathroom, her face bright red."
+        },
+        "name": ""
+    },
+    {
+        "id": "4a08",
+        "line": {
+            "en": "I'd been hoping to have a long think in the\\nbathtub, but I hadn't been able to think at all."
+        },
+        "name": ""
+    },
+    {
+        "id": "4e08",
+        "line": {
+            "en": "I never imagined that Asa would accidentally come\\ninto the bathroom."
+        },
+        "name": ""
+    },
+    {
+        "id": "5208",
+        "line": {
+            "en": "After I got out, I left hot water for Asa and\\ntold her the bath was free, so she was probably\\nin there now."
+        },
+        "name": ""
+    },
+    {
+        "id": "5608",
+        "line": {
+            "en": "..."
+        },
+        "name": ""
+    },
+    {
+        "id": "5a08",
+        "line": {
+            "en": "My mind kept rewinding the film of Asa trembling,\\nbut not quite covering herself."
+        },
+        "name": ""
+    },
+    {
+        "id": "5e08",
+        "line": {
+            "en": "The image was taking over my whole mind."
+        },
+        "name": ""
+    },
+    {
+        "id": "6208",
+        "line": {
+            "en": "This was no good."
+        },
+        "name": ""
+    },
+    {
+        "id": "6608",
+        "line": {
+            "en": "I was trying to decide what to do about Asa, but\\nall I could do now was picture her naked, and I\\ncouldn't think at all."
+        },
+        "name": ""
+    },
+    {
+        "id": "6a08",
+        "line": {
+            "en": "But I really did need to make a decision. Things\\nwere already bad enough as they were!!"
+        },
+        "name": ""
+    },
+    {
+        "id": "6e08",
+        "line": {
+            "en": "'(sigh)...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7208",
+        "line": {
+            "en": "But really."
+        },
+        "name": ""
+    },
+    {
+        "id": "7608",
+        "line": {
+            "en": "What should I do?"
+        },
+        "name": ""
+    },
+    {
+        "id": "7a08",
+        "line": {
+            "en": "'Oh, I've found a brooding boy!'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "7e08",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8208",
+        "line": {
+            "en": "Kanako..."
+        },
+        "name": ""
+    },
+    {
+        "id": "8608",
+        "line": {
+            "en": "'What's up? Out of the bath and in a place like\\nthis. Thinking about something?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "8a08",
+        "line": {
+            "en": "'What about you, Kanako? What are you up to?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8e08",
+        "line": {
+            "en": "'I came to look at the stars. I love stargazing.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "9208",
+        "line": {
+            "en": "'Hmmm...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9608",
+        "line": {
+            "en": "It may be rude of me, but I was surprised to hear\\nthat."
+        },
+        "name": ""
+    },
+    {
+        "id": "9a08",
+        "line": {
+            "en": "'The sky is wonderful. This may not be the same\\ncolor as the sky you guys are aiming for, but I\\nlove the sky too.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "9e08",
+        "line": {
+            "en": "'...Why do you like the night sky, Kanako?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a208",
+        "line": {
+            "en": "'It's beautiful.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "a608",
+        "line": {
+            "en": "She answered so casually."
+        },
+        "name": ""
+    },
+    {
+        "id": "aa08",
+        "line": {
+            "en": "'As simple as that.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ae08",
+        "line": {
+            "en": "'I don't think about things too deeply. It's\\nbeautiful, so I like it. Isn't that good enough?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "b208",
+        "line": {
+            "en": "'I think that's very like you.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b608",
+        "line": {
+            "en": "'...If you overthink things too much, you might\\ntrip yourself up, don't you think?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "ba08",
+        "line": {
+            "en": "That may have been what happened to Asa\\nyesterday."
+        },
+        "name": ""
+    },
+    {
+        "id": "be08",
+        "line": {
+            "en": "'So I like the beautiful sky, that I don't have\\nto think about. I can just feel moved... and\\ncomforted...'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "c208",
+        "line": {
+            "en": "'...That's kind of unexpected, coming from you.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c608",
+        "line": {
+            "en": "'What do you mean... You got a problem with me?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "ca08",
+        "line": {
+            "en": "'No, not at all...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ce08",
+        "line": {
+            "en": "I guess she was just a little more of a romantic\\nthan I'd thought."
+        },
+        "name": ""
+    },
+    {
+        "id": "d208",
+        "line": {
+            "en": "'People are thinking creatures, and so they're\\nmoved by things that they find themselves liking\\nwithout a reason. Love is like that too.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "d608",
+        "line": {
+            "en": "Love."
+        },
+        "name": ""
+    },
+    {
+        "id": "da08",
+        "line": {
+            "en": "Just like the sky, love didn't need a reason."
+        },
+        "name": ""
+    },
+    {
+        "id": "de08",
+        "line": {
+            "en": "'...Is there someone you love, Kanako?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e208",
+        "line": {
+            "en": "'Hm? No, I don't think so.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "e608",
+        "line": {
+            "en": "'I see.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ea08",
+        "line": {
+            "en": "I thought she might be able to tell me something\\nthat might work as an example, but I guess not."
+        },
+        "name": ""
+    },
+    {
+        "id": "ee08",
+        "line": {
+            "en": "'...Hmmm...'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "f208",
+        "line": {
+            "en": "'But I might be able to help, just talking things\\nover with you. After all, I'm a girl, and I'm\\nolder than you.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "f608",
+        "line": {
+            "en": "'...Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fa08",
+        "line": {
+            "en": "'You're worrying about girls, right?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "fe08",
+        "line": {
+            "en": "'Eeeh? How did you...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0308",
+        "line": {
+            "en": "'It's obvious. You and Asa and Yoru. I can tell.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "0708",
+        "line": {
+            "en": "Aaah."
+        },
+        "name": ""
+    },
+    {
+        "id": "0b08",
+        "line": {
+            "en": "Apparently Kanako had figured out what I was\\nworrying about."
+        },
+        "name": ""
+    },
+    {
+        "id": "0f08",
+        "line": {
+            "en": "After all, Kanako was close with both Asa and\\nYoru."
+        },
+        "name": ""
+    },
+    {
+        "id": "1308",
+        "line": {
+            "en": "'It's pretty tough to choose between them, isn't\\nit?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "1708",
+        "line": {
+            "en": "'I'm not exactly comparing them to each other...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1b08",
+        "line": {
+            "en": "'I'm just saying as an example. I think they're\\nboth cute, myself. And both important.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "1f08",
+        "line": {
+            "en": "'... Yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2308",
+        "line": {
+            "en": "That's right."
+        },
+        "name": ""
+    },
+    {
+        "id": "2708",
+        "line": {
+            "en": "They were both important to me, so I couldn't\\nmake a decision."
+        },
+        "name": ""
+    },
+    {
+        "id": "2b08",
+        "line": {
+            "en": "'Hmm... I see.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "2f08",
+        "line": {
+            "en": "'Why don't you just choose, without thinking too\\nhard?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "3308",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3708",
+        "line": {
+            "en": "'I feel like you're trying desperately to think\\nof a way not to hurt either of them. You're\\nlooking for the best compromise, the correct\\nresult.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "3b08",
+        "line": {
+            "en": "'But that doesn't exist. And even if it did...\\nYou probably couldn't choose it.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "3f08",
+        "line": {
+            "en": "'So I don't think you should worry about it too\\nmuch.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "4308",
+        "line": {
+            "en": "'That's...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4708",
+        "line": {
+            "en": "She was right."
+        },
+        "name": ""
+    },
+    {
+        "id": "4b08",
+        "line": {
+            "en": "I'd been trying to think of how to solve this\\nproblem."
+        },
+        "name": ""
+    },
+    {
+        "id": "4f08",
+        "line": {
+            "en": "But surely there was no point in thinking of it\\nthat way."
+        },
+        "name": ""
+    },
+    {
+        "id": "5308",
+        "line": {
+            "en": "That's why I should just take responsibility for\\nmy own decision, and decide what I really wanted."
+        },
+        "name": ""
+    },
+    {
+        "id": "5708",
+        "line": {
+            "en": "'How does that sound?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "5b08",
+        "line": {
+            "en": "'...It helps, I think.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5f08",
+        "line": {
+            "en": "'The more you dither around on things like this,\\nthe more it hurts. If you're a man, Aoi, then\\njust go for it and settle things!'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "6308",
+        "line": {
+            "en": "'...You're talking like it's not your problem.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6708",
+        "line": {
+            "en": "'Well, it's not!'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "6b08",
+        "line": {
+            "en": "She had a point."
+        },
+        "name": ""
+    },
+    {
+        "id": "6f08",
+        "line": {
+            "en": "...And maybe she was right again."
+        },
+        "name": ""
+    },
+    {
+        "id": "7308",
+        "line": {
+            "en": "'Anyway, if things don't work out and you're in\\ntrouble again, you can come talk to me again. In\\nfact, I'd be happy if you did.'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "7708",
+        "line": {
+            "en": "'Okay?'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "7b08",
+        "line": {
+            "en": "'...Thank you, Kanako.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7f08",
+        "line": {
+            "en": "'After all, I am your senior!'"
+        },
+        "name": "Kanako"
+    },
+    {
+        "id": "8308",
+        "line": {
+            "en": "She didn't tell me what to do, or give me the\\nanswer to this difficult problem."
+        },
+        "name": ""
+    },
+    {
+        "id": "8708",
+        "line": {
+            "en": "But Kanako's words really made me feel better,\\nand helped me make my decision."
+        },
+        "name": ""
+    },
+    {
+        "id": "8b08",
+        "line": {
+            "en": "She was right. It was up to me."
+        },
+        "name": ""
+    },
+    {
+        "id": "8f08",
+        "line": {
+            "en": "I had to come up with my own answer."
+        },
+        "name": ""
+    },
+    {
+        "id": "9308",
+        "line": {
+            "en": "I had to think. And to wonder."
+        },
+        "name": ""
+    },
+    {
+        "id": "9708",
+        "line": {
+            "en": "But just brooding wouldn't get me anywhere."
+        },
+        "name": ""
+    },
+    {
+        "id": "9b08",
+        "line": {
+            "en": "I had to really go for it."
+        },
+        "name": ""
+    },
+    {
+        "id": "9f08",
+        "line": {
+            "en": "And choose the answer that felt right to me."
+        },
+        "name": ""
+    }
+]

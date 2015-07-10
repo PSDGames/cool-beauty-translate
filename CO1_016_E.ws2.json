@@ -1,0 +1,324 @@
+[
+    {
+        "id": "0000",
+        "line": {
+            "en": "'OK, everyone, for rather a long time, I have\\ncaused you a lot of inconvenience but...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0400",
+        "line": {
+            "en": "'As of today, I, Ageha Himegi, will be making a\\nfull return to the Soaring Club!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "Clap clap clap."
+        },
+        "name": ""
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "A small round of applause echoes around the\\ngarage."
+        },
+        "name": ""
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "'You were so close. If you'd won two more\\nmatches, you would've gotten through the\\nprefectural qualifiers.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "'No, I think that would be aiming a little too\\nhigh.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "In the local qualifiers of the Robot Contest that\\nwere held yesterday, Ageha and her team of\\njuniors lost in the third match."
+        },
+        "name": ""
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "If a team wins in the fourth match, they gain the\\nright to enter the national championship."
+        },
+        "name": ""
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "Losing in the third round is the kind of result\\nthat makes it hard to say whether they came close\\nor not, but in the next match, the team that beat\\nAgeha's team won."
+        },
+        "name": ""
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "'Thanks to Kotori too, for coming to watch us.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "'Yeah... It really was close.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "Since Ageha was in two clubs at the same time,\\nwhen we had any time to spare, we would go and\\nhelp the Robot Club."
+        },
+        "name": ""
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "On the day of the contest, we helped carry the\\nequipment and went to the contest venue."
+        },
+        "name": ""
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "It was the first time I'd been to see the Robot\\nContest but it was pretty interesting."
+        },
+        "name": ""
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "The teams weren't just there to win, they also\\nwanted to do their best to show their ideas and\\nhow great their robots were."
+        },
+        "name": ""
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "Even when they gave a performance that might put\\nthem at a disadvantage in the match, they didn't\\nease up."
+        },
+        "name": ""
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "When I saw this, I felt I had begun to understand\\nhow Ageha could become so obsessed with it."
+        },
+        "name": ""
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "'Also, thank you Amane, for coming to help us.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "'Huh? What did Amane do?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "'I... I didn't really do anything...!'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "'You came to see us on several occasions,\\nimproved the weak points in the design and gave\\nus lots of ideas.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "'Amane, you're amazing! You really do have\\ndifferent ideas!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "'Wow, Amane! You did all that and managed to keep\\nit a secret from us!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "I had no idea. When on earth did she do that?"
+        },
+        "name": ""
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "'I... I didn't think there was anything I could\\ndo to help...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "'Everyone was able to make something with you,\\nand they were so happy because it gave us a lot\\nof motivation!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "'They all really wanted to win, and said they\\nwere full of confidence and that they would win\\nnext time!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "'Oh... that's good...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "It's good that they want to win. If you don't aim\\nfor the top, you can't win in the matches."
+        },
+        "name": ""
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "'There is also one other important announcement.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "Ageha spoke in a formal tone."
+        },
+        "name": ""
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "'Yesterday, I quit the Robot Club!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "'Whaaaaat!!?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "'Really?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "'The truth is, I had already decided it. I like\\nmaking robots but now, I think that building the\\nglider is more fun.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "'Which is why, from now on, I will only be a\\nmember of this club. Let's do our best!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "'We all let out a big cheer and the garage was\\nfilled with a much more rapturous applause this\\ntime."
+        },
+        "name": ""
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "'...So that means we can finally start the last\\nspurt of making the main wings!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9800",
+        "line": {
+            "en": "'Aoi, please return to your pilot training.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "'No, it's OK, I can help too.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "'No no, once the main wings are complete, we will\\nperform a test flight straight away.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "'Before that, you need to learn how pilot it\\nperfectly.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "'I let you be the pilot, so you must carry out\\nyour duties!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "'I will!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "I have a role to fulfill."
+        },
+        "name": ""
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "Finally, the first test flight is just around the\\ncorner."
+        },
+        "name": ""
+    }
+]

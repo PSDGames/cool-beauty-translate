@@ -1,0 +1,5406 @@
+[
+    {
+        "id": "0000",
+        "line": {
+            "en": "And so... the days flew by in an instant."
+        },
+        "name": ""
+    },
+    {
+        "id": "0400",
+        "line": {
+            "en": "The everyday coming and going to and from our\\nsecret base."
+        },
+        "name": ""
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "Creating our glider and practicing how to fly it."
+        },
+        "name": ""
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "I even visited An-chan's factory once..."
+        },
+        "name": ""
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "I exhausted the earnings I had saved from my\\npart-time job on numerous sessions of actual\\nflight training at the gliding field."
+        },
+        "name": ""
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "And before I know it, it's August again."
+        },
+        "name": ""
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "It's already halfway over."
+        },
+        "name": ""
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "'The day has finally come.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "'C'mon let's get a move on!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "'Good morning.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "'Morning.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "'Where's Ageha? Is she absent again...?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "'Yep. She said that we should just take a video\\nfor her if she doesn't show up.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "It had been more days than I can remember since\\nAgeha last showed her face."
+        },
+        "name": ""
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "At first, I had tried called and mailing her."
+        },
+        "name": ""
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "But response was limited... according to Hotaru,\\nshe was spending her days running errands and\\nheading straight to bed after returning home in\\nthe evenings..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "In time, my willpower waned..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "I simply resigned myself to silently taking care\\nof my day-to-day business."
+        },
+        "name": ""
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "'By the way, Aoi... what's wrong with you? You\\nhaven't been yourself lately.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "I had been racking up failure after failure in\\nthe simulator."
+        },
+        "name": ""
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "Misreading the wind, failing to adjust."
+        },
+        "name": ""
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "On the other hand, Kotori was starting to leave\\nme in the dust with diligent, daily practice."
+        },
+        "name": ""
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "'The day has finally come. Get your head on\\nstraight.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "'I know... I got it...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "'So, Aoi, shall we be off?'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "'Ah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "I had already gotten used to Hotaru walking close\\nto me long ago."
+        },
+        "name": ""
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "She would hold my hand and grab onto my arm."
+        },
+        "name": ""
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "'Ah, you came.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "'Yo.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "'An-chan?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "'It's about time you hear.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "'I'm here too.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "'Oh, long time no see.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "'No need for such words.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "'I can't help it! I've been busy making the most\\nof my vacation!'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "9800",
+        "line": {
+            "en": "'The most?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "'...Hello'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "'Oh, president!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "'He opens his mouth a lot, but not a lot of truth\\ncomes out. He needs to get his facts straight.'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "'But I haven't even said anything yet!'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "'Well, I'm sure you will say something soon, so I\\nthought I should beat you to the punch.'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "'I see. Well the truth is that we're in love.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "'Understood, president.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b800",
+        "line": {
+            "en": "'You're awful, Akari!'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "bc00",
+        "line": {
+            "en": "'Let's do it already!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "c000",
+        "line": {
+            "en": "We all moved on Kotori's command."
+        },
+        "name": ""
+    },
+    {
+        "id": "c400",
+        "line": {
+            "en": "An-chan, Masatsugu, and everyone else who was\\nwilling lends a hand."
+        },
+        "name": ""
+    },
+    {
+        "id": "c800",
+        "line": {
+            "en": "'3, 2, 1...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cc00",
+        "line": {
+            "en": "Pull the long, white wings onto the flatcars and\\npush them to the body...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "d000",
+        "line": {
+            "en": "Do the same on the opposite side."
+        },
+        "name": ""
+    },
+    {
+        "id": "d400",
+        "line": {
+            "en": "And..."
+        },
+        "name": ""
+    },
+    {
+        "id": "d800",
+        "line": {
+            "en": "'We did it!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "dc00",
+        "line": {
+            "en": "'It's done!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e000",
+        "line": {
+            "en": "'Yes!'"
+        },
+        "name": "All present"
+    },
+    {
+        "id": "e400",
+        "line": {
+            "en": "The gorgeous, pure white structure of a glider\\nappeared in the middle of the garage."
+        },
+        "name": ""
+    },
+    {
+        "id": "e800",
+        "line": {
+            "en": "It was finally complete."
+        },
+        "name": ""
+    },
+    {
+        "id": "ec00",
+        "line": {
+            "en": "Our wings, our glider."
+        },
+        "name": ""
+    },
+    {
+        "id": "f000",
+        "line": {
+            "en": "'It feel strange to see it completed.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "f400",
+        "line": {
+            "en": "'It had been like a figment of my imagination for\\nso long...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "f800",
+        "line": {
+            "en": "'Well, we had Amane's design as well, you know.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "fc00",
+        "line": {
+            "en": "'Going way back, Amane really did a lot of the\\ngroundwork for us on her own.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0100",
+        "line": {
+            "en": "'That's why we've gathered, gotten to know each\\nother, and were able to work together to make\\nsomething a great as this!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0500",
+        "line": {
+            "en": "'All is going according to plan, isn't it\\nKotori?'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "0900",
+        "line": {
+            "en": "'It's hard to think otherwise at a time like\\nthis.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0d00",
+        "line": {
+            "en": "'That's for sure. This is really something. We\\ndid it! We did it together!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "1100",
+        "line": {
+            "en": "'No kidding... We really did it.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "1500",
+        "line": {
+            "en": "'Yes, we did well.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "1900",
+        "line": {
+            "en": "'Did you hear that? Even An-chan said OK!'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "1d00",
+        "line": {
+            "en": "'Nah, but it's really something. One wouldn't\\nexpect this kind of work from students.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "2100",
+        "line": {
+            "en": "'Well, we probably couldn't have done it without\\nhelp.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2500",
+        "line": {
+            "en": "'That's the truth.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "2900",
+        "line": {
+            "en": "'Unfortunately, I've got to admit you're right.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "2d00",
+        "line": {
+            "en": "'Ageha. She should be here, now more than ever.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "3100",
+        "line": {
+            "en": "An-chan slid his hand across the white wing."
+        },
+        "name": ""
+    },
+    {
+        "id": "3500",
+        "line": {
+            "en": "'We're in real trouble if this hasn't been put\\ntogether properly. There's a chance it could\\nbreak apart in mid-air.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "3900",
+        "line": {
+            "en": "'To put it bluntly, if you don't think the\\nglider's in shape to fly, now's the time to\\nrethink doing so.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "3d00",
+        "line": {
+            "en": "'Ugh...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4100",
+        "line": {
+            "en": "'But because this is something only a person can\\nfly, putting a life on the line to do so is\\ninevitable.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "4500",
+        "line": {
+            "en": "'It's times like these that I really appreciate\\nAgeha's efforts.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "4900",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4d00",
+        "line": {
+            "en": "I kept my mouth shut."
+        },
+        "name": ""
+    },
+    {
+        "id": "5100",
+        "line": {
+            "en": "I knew that what An-chan was admiring was Ageha's\\nhard work."
+        },
+        "name": ""
+    },
+    {
+        "id": "5500",
+        "line": {
+            "en": "At times when I didn't go to the gliding field,\\nAgeha had come and completed everything without\\ntaking a moment's break."
+        },
+        "name": ""
+    },
+    {
+        "id": "5900",
+        "line": {
+            "en": "It's almost as if my eyes have been stolen."
+        },
+        "name": ""
+    },
+    {
+        "id": "5d00",
+        "line": {
+            "en": "'Speaking of Ageha... is something wrong with\\nher?'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "6100",
+        "line": {
+            "en": "'I heard she's meeting with outsiders. That she's\\ntoo busy to be here today.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6500",
+        "line": {
+            "en": "'I see...'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "6900",
+        "line": {
+            "en": "'By the way, are you guys doing alright?'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "6d00",
+        "line": {
+            "en": "'Hey!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7100",
+        "line": {
+            "en": "Just when I thought I would be the one asking\\nsomething personal, I get beaten to the punch."
+        },
+        "name": ""
+    },
+    {
+        "id": "7500",
+        "line": {
+            "en": "'By alright you mean...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7900",
+        "line": {
+            "en": "'You two are going out, aren't you?'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "7d00",
+        "line": {
+            "en": "'!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8100",
+        "line": {
+            "en": "'Isn't that right, Hotaru?'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "8500",
+        "line": {
+            "en": "'Yes.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "8900",
+        "line": {
+            "en": "'Hey!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8d00",
+        "line": {
+            "en": "'Aren't you with Hotaru?'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "9100",
+        "line": {
+            "en": "'No. Ageha's the one he's with.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "9500",
+        "line": {
+            "en": "...I know what real squeeze means, but for some\\nreason it felt kind of like I had been\\nbrainwashed to imagine a pair of hands slowly\\nsqueezing my neck."
+        },
+        "name": ""
+    },
+    {
+        "id": "9900",
+        "line": {
+            "en": "'I'm just his mistress.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "9d00",
+        "line": {
+            "en": "'You're imagining things again!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a100",
+        "line": {
+            "en": "'And the day I'll steal you away is coming fast.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "a500",
+        "line": {
+            "en": "'It's not!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a900",
+        "line": {
+            "en": "'You have a problem with that?'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "ad00",
+        "line": {
+            "en": "'I have a lot of problems with it!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b100",
+        "line": {
+            "en": "'Uh, so what's the problem?'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "b500",
+        "line": {
+            "en": "Another nuisance sticking their nose where it\\ndoesn't belong."
+        },
+        "name": ""
+    },
+    {
+        "id": "b900",
+        "line": {
+            "en": "This is starting to get weird. It's definitely\\ngoing to cause trouble."
+        },
+        "name": ""
+    },
+    {
+        "id": "bd00",
+        "line": {
+            "en": "'You're talking about Ageha? So are you guys\\nfighting or something?'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "c100",
+        "line": {
+            "en": "'How is this rumor getting around so fast during\\nsummer vacation?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c500",
+        "line": {
+            "en": "'Well, it's just that I see Ageha at school all\\nof the time, and you're not with her. That's why\\nI ask...'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "c900",
+        "line": {
+            "en": "'So she's been at school...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cd00",
+        "line": {
+            "en": "'The truth is that Akari is a little worried...'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "d100",
+        "line": {
+            "en": "'Worried, huh? Sorry. I just wonder what she's up\\nto.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d500",
+        "line": {
+            "en": "'I don't know. I just know that she's been\\ndealing with a lot of other clubs.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "d900",
+        "line": {
+            "en": "'What the fuck is she up to?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "dd00",
+        "line": {
+            "en": "'Honestly, there's even talk that she has one or\\ntwo twins.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "e100",
+        "line": {
+            "en": "'No. No.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e500",
+        "line": {
+            "en": "There's not enough room in the world for two or\\nthree of her."
+        },
+        "name": ""
+    },
+    {
+        "id": "e900",
+        "line": {
+            "en": "But it does mean that she's running around enough\\nto create the illusion that there's more than one\\nof her?"
+        },
+        "name": ""
+    },
+    {
+        "id": "ed00",
+        "line": {
+            "en": "'I saw her too. I guess I can say she was\\nsmiling. But I got a frighteningly untouchable\\naura from her.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "f100",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f500",
+        "line": {
+            "en": "'Ageha certainly has been a bit scary as of\\nlate.'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "f900",
+        "line": {
+            "en": "'You aren't kidding.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "fd00",
+        "line": {
+            "en": "'Scary...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0200",
+        "line": {
+            "en": "'So you guys aren't fighting or anything?'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "0600",
+        "line": {
+            "en": "'No... not at all...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0a00",
+        "line": {
+            "en": "I wouldn't be able to fight with her right now\\neven if I wanted to."
+        },
+        "name": ""
+    },
+    {
+        "id": "0e00",
+        "line": {
+            "en": "This is the first time I've heard that she's\\nprojecting such an aura."
+        },
+        "name": ""
+    },
+    {
+        "id": "1200",
+        "line": {
+            "en": "...Are we for real? I wonder if we're really a\\ncouple..."
+        },
+        "name": ""
+    },
+    {
+        "id": "1600",
+        "line": {
+            "en": "'I sure wish she we were here right now. I\\nbrought my old playing cards for the first time\\nin forever.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "1a00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1e00",
+        "line": {
+            "en": "Old... you say."
+        },
+        "name": ""
+    },
+    {
+        "id": "2200",
+        "line": {
+            "en": "'Speaking of which, Ageha seemed like her old\\nself.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "2600",
+        "line": {
+            "en": "'Old self?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2a00",
+        "line": {
+            "en": "'Right, from the time of the old secret base.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "2e00",
+        "line": {
+            "en": "'Masatsugu!'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "3200",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "3600",
+        "line": {
+            "en": "Masatsugu's face seemed to say he'd go no\\nfurther."
+        },
+        "name": ""
+    },
+    {
+        "id": "3a00",
+        "line": {
+            "en": "'...Back then?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3e00",
+        "line": {
+            "en": "'No, no, it's nothing.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "4200",
+        "line": {
+            "en": "I remained calm at first, but then a monstrous\\nforce roared at me from the depths of my heart\\nand started to seethe and boil over."
+        },
+        "name": ""
+    },
+    {
+        "id": "4600",
+        "line": {
+            "en": "'Hey...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4a00",
+        "line": {
+            "en": "I pressed toward Masatsugu without a moment of\\nhesitation."
+        },
+        "name": ""
+    },
+    {
+        "id": "4e00",
+        "line": {
+            "en": "'No, c'mon, Aoi, wait!'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "5200",
+        "line": {
+            "en": "'Let it go, Aoi.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "5600",
+        "line": {
+            "en": "An-chan's words stopped me in my tracks."
+        },
+        "name": ""
+    },
+    {
+        "id": "5a00",
+        "line": {
+            "en": "Though I couldn't help but continue to glare at\\nMasatsugu."
+        },
+        "name": ""
+    },
+    {
+        "id": "5e00",
+        "line": {
+            "en": "Masatsugu hung his head in shame."
+        },
+        "name": ""
+    },
+    {
+        "id": "6200",
+        "line": {
+            "en": "'You... still haven't heard?'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "6600",
+        "line": {
+            "en": "'Well... I heard that something had happened, but\\nAgeha would say no more than that...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6a00",
+        "line": {
+            "en": "Like Masatsugu, Hotaru held her head in shame\\nlike a scolded puppy."
+        },
+        "name": ""
+    },
+    {
+        "id": "6e00",
+        "line": {
+            "en": "'I see. So you don't know...'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "7200",
+        "line": {
+            "en": "'What the fuck happened?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7600",
+        "line": {
+            "en": "'I can't say. Hotaru, you can't say either, can\\nyou?'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "7a00",
+        "line": {
+            "en": "'...Nope...'"
+        },
+        "name": "Hotaru"
+    },
+    {
+        "id": "7e00",
+        "line": {
+            "en": "'Why the fuck not!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8200",
+        "line": {
+            "en": "'...Hmm...'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "8600",
+        "line": {
+            "en": "An-chan suddenly surveyed the secret base for\\nsome reason."
+        },
+        "name": ""
+    },
+    {
+        "id": "8a00",
+        "line": {
+            "en": "'So I guess this is what you guys call your\\nsecret base?'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "8e00",
+        "line": {
+            "en": "'It is, but...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9200",
+        "line": {
+            "en": "'I see. So that's it.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "9600",
+        "line": {
+            "en": "'?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9a00",
+        "line": {
+            "en": "'Unless luck's on your side, you may never see\\nher here again.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "9e00",
+        "line": {
+            "en": "'Huh!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a200",
+        "line": {
+            "en": "'You shouldn't rain on our parade just as we\\nfinish the glider.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "a600",
+        "line": {
+            "en": "'Hey! Wait a sec! Why did you say that!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "aa00",
+        "line": {
+            "en": "'Because the glider's finished.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "ae00",
+        "line": {
+            "en": "'That doesn't make any sense!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b200",
+        "line": {
+            "en": "'If that's how you feel, go ahead.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "b600",
+        "line": {
+            "en": "'...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ba00",
+        "line": {
+            "en": "'Go call her.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "be00",
+        "line": {
+            "en": "'We're going to take this one out to see the\\nrunway, so go get her while we're busy with\\nthat.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "c200",
+        "line": {
+            "en": "'Uh... okay...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c600",
+        "line": {
+            "en": "I left as if I had been driven away."
+        },
+        "name": ""
+    },
+    {
+        "id": "ca00",
+        "line": {
+            "en": "I guess I'll try to mail her first."
+        },
+        "name": ""
+    },
+    {
+        "id": "ce00",
+        "line": {
+            "en": "I just said that the glider is finished and asked\\nher where she was."
+        },
+        "name": ""
+    },
+    {
+        "id": "d200",
+        "line": {
+            "en": "No response."
+        },
+        "name": ""
+    },
+    {
+        "id": "d600",
+        "line": {
+            "en": "'Well, I guess I could have predicted that...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "da00",
+        "line": {
+            "en": "I called a different location."
+        },
+        "name": ""
+    },
+    {
+        "id": "de00",
+        "line": {
+            "en": "'...Of course.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e200",
+        "line": {
+            "en": "I return to my dorm for the time being and change\\nclothes."
+        },
+        "name": ""
+    },
+    {
+        "id": "e600",
+        "line": {
+            "en": "Then I headed to school."
+        },
+        "name": ""
+    },
+    {
+        "id": "ea00",
+        "line": {
+            "en": "I called the Himegi household."
+        },
+        "name": ""
+    },
+    {
+        "id": "ee00",
+        "line": {
+            "en": "According to her mother, Ageha left soon after\\nHotaru left, but it seems that she was still\\nwearing her school uniform at that time."
+        },
+        "name": ""
+    },
+    {
+        "id": "f200",
+        "line": {
+            "en": "In other words, she must be at school."
+        },
+        "name": ""
+    },
+    {
+        "id": "f600",
+        "line": {
+            "en": "Ageha! Don't think you can escape from me!"
+        },
+        "name": ""
+    },
+    {
+        "id": "fa00",
+        "line": {
+            "en": "'...There you are.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fe00",
+        "line": {
+            "en": "'Huh!? Aoi!? Why are you here!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0300",
+        "line": {
+            "en": "'Don't worry about that. Just come with me. This\\nis an important day for us. What could you be\\ndoing here that's so important?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0700",
+        "line": {
+            "en": "'Ah, but wait. I have things to do, meetings to\\nattend!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0b00",
+        "line": {
+            "en": "'I suppose you'll say you're doing this all for\\nthe Soaring Club? If so, I don't think you'll\\nfind anything more important than the glider's\\ncompletion.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0f00",
+        "line": {
+            "en": "'Ah! Ah!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1300",
+        "line": {
+            "en": "'If you don't come, I swear, I'll say it out\\nloud!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1700",
+        "line": {
+            "en": "'Are you threatening me?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1b00",
+        "line": {
+            "en": "'Sure, I'm going to threaten you! Just like a\\ncoward. I know who hides everything and is always\\nrunning around from place to place!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1f00",
+        "line": {
+            "en": "'Who are you calling a coward!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2300",
+        "line": {
+            "en": "'I'm obviously talking about you!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2700",
+        "line": {
+            "en": "'All of that aside, I want you to tell me what\\nexactly it is that is more important than the\\ncompletion of the glider!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2b00",
+        "line": {
+            "en": "'I... well I...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2f00",
+        "line": {
+            "en": "'You have nothing to say. Which means you've got\\nnothing!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3300",
+        "line": {
+            "en": "I grabbed Ageha's wrist."
+        },
+        "name": ""
+    },
+    {
+        "id": "3700",
+        "line": {
+            "en": "'Hey!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3b00",
+        "line": {
+            "en": "'Are you going to shout? Resist? Are you going to\\nmake enough noise to get everyone's attention!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3f00",
+        "line": {
+            "en": "'You... you think you're so clever...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4300",
+        "line": {
+            "en": "'Which is it going to be!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4700",
+        "line": {
+            "en": "'It doesn't matter, so just come on already!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4b00",
+        "line": {
+            "en": "'No!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4f00",
+        "line": {
+            "en": "'Aren't you a member of the Soaring Club!?\\nHaven't you been working hard for this!? Have you\\nnot worked as hard as you possibly can?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5300",
+        "line": {
+            "en": "'If that's the case, you have no excuse for\\nmissing the first flight!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5700",
+        "line": {
+            "en": "'No! I'm not going!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5b00",
+        "line": {
+            "en": "'Why not!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5f00",
+        "line": {
+            "en": "'No! Stop! I don't want to go means I don't want\\nto go!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6300",
+        "line": {
+            "en": "'This...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6700",
+        "line": {
+            "en": "Why, why... is she... being so stubborn!?"
+        },
+        "name": ""
+    },
+    {
+        "id": "6b00",
+        "line": {
+            "en": "Before long, I started to think I should abduct\\nor kidnap her."
+        },
+        "name": ""
+    },
+    {
+        "id": "6f00",
+        "line": {
+            "en": "But."
+        },
+        "name": ""
+    },
+    {
+        "id": "7300",
+        "line": {
+            "en": "At that moment, I..."
+        },
+        "name": ""
+    },
+    {
+        "id": "7700",
+        "line": {
+            "en": "That's when I realized..."
+        },
+        "name": ""
+    },
+    {
+        "id": "7b00",
+        "line": {
+            "en": "The feeling inside of me."
+        },
+        "name": ""
+    },
+    {
+        "id": "7f00",
+        "line": {
+            "en": "It wasn't that I liked Ageha. It was something\\nelse entirely."
+        },
+        "name": ""
+    },
+    {
+        "id": "8300",
+        "line": {
+            "en": "It moved me."
+        },
+        "name": ""
+    },
+    {
+        "id": "8700",
+        "line": {
+            "en": "I decided to take an action other than what\\nAn-chan had ordered me to do."
+        },
+        "name": ""
+    },
+    {
+        "id": "8b00",
+        "line": {
+            "en": "'Okay then... if it's for something other than\\nthe flight, will you come with me?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8f00",
+        "line": {
+            "en": "'...What?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9300",
+        "line": {
+            "en": "'Then, let's go. I assure you that this has\\nnothing to do with the runway or the glider.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9700",
+        "line": {
+            "en": "'Wh...What are you talking about?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9b00",
+        "line": {
+            "en": "I ignored her for the time being and grabbed my\\ncell phone."
+        },
+        "name": ""
+    },
+    {
+        "id": "9f00",
+        "line": {
+            "en": "'Ah, Kotori?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a300",
+        "line": {
+            "en": "'Sorry, but I wasn't able to get in touch with\\nAgeha.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a700",
+        "line": {
+            "en": "'Today is starting to look hopeless for me, so\\nyou and Amane should take care of the maiden\\nvoyage. Say sorry to An-chan for me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ab00",
+        "line": {
+            "en": "I heard an extremely angry voice on the other end\\nof the phone, but hung up anyway."
+        },
+        "name": ""
+    },
+    {
+        "id": "af00",
+        "line": {
+            "en": "While I was at it, I also decided to turn my cell\\noff."
+        },
+        "name": ""
+    },
+    {
+        "id": "b300",
+        "line": {
+            "en": "'Well, that should do it.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b700",
+        "line": {
+            "en": "'Umm... are you being serious...?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bb00",
+        "line": {
+            "en": "'Yeah... well, let's go.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bf00",
+        "line": {
+            "en": "I grabbed the stunned Ageha by the arm and left\\nschool."
+        },
+        "name": ""
+    },
+    {
+        "id": "c300",
+        "line": {
+            "en": "'We'll head to Flags first.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c700",
+        "line": {
+            "en": "'Huh...!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cb00",
+        "line": {
+            "en": "Ageha was dumbfounded as I pulled her along and\\nheaded to Cafe Flags, which is famous for its\\ndate courses."
+        },
+        "name": ""
+    },
+    {
+        "id": "cf00",
+        "line": {
+            "en": "'Aren't pastries the feature menu? Then, we'll\\ntake two.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d300",
+        "line": {
+            "en": "1300 yen for one, huh."
+        },
+        "name": ""
+    },
+    {
+        "id": "d700",
+        "line": {
+            "en": "'What! You're going to spend that much...!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "db00",
+        "line": {
+            "en": "'If I take it off from the money for the next\\ngliding practice, I'll have more than enough.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "df00",
+        "line": {
+            "en": "'Don't say that! You're doing too much!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e300",
+        "line": {
+            "en": "'If you're not coming, what's the point? I'm not\\ngoing to fly.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e700",
+        "line": {
+            "en": "'You wouldn't...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "eb00",
+        "line": {
+            "en": "'You're the last person who should be saying\\nanything. You couldn't even come to see the\\ncompletion of a glider we've been working over on\\nfor the entire year.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ef00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f300",
+        "line": {
+            "en": "'This is as delicious as it is expensive. An\\nelegant flavor.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f700",
+        "line": {
+            "en": "I really had no idea what I was talking about."
+        },
+        "name": ""
+    },
+    {
+        "id": "fb00",
+        "line": {
+            "en": "'Well then, moving on...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ff00",
+        "line": {
+            "en": "I gripped Ageha's hand tightly."
+        },
+        "name": ""
+    },
+    {
+        "id": "0004",
+        "line": {
+            "en": "'Uh... hey... let go of me already...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0404",
+        "line": {
+            "en": "'I'll only let go of you if you come with me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0804",
+        "line": {
+            "en": "'What's the point in that?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0c04",
+        "line": {
+            "en": "'Are you implying that you'll run off if I let\\ngo?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1004",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1404",
+        "line": {
+            "en": "'If you're going to quit the Soaring Club, that's\\nyour choice to make.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1804",
+        "line": {
+            "en": "'But if you're planning to stay on as a member,\\nwon't you at least come with me?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1c04",
+        "line": {
+            "en": "'...You're mean... I can't believe you're\\nthreatening me...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2004",
+        "line": {
+            "en": "'If my club lost even one member, it would affect\\neveryone. Have you forgotten your own words?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2404",
+        "line": {
+            "en": "'I...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2804",
+        "line": {
+            "en": "'If that's how it is, I'm sure that Tobioka would\\nbe more than happy to put an end to our\\nactivities. I'm sure he'd argue that it's not a\\nreal club and that gliders are too dangerous.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2c04",
+        "line": {
+            "en": "'Is that really how you want our year of hard\\nwork to end, Ageha?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3004",
+        "line": {
+            "en": "'No! It won't... it couldn't...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3404",
+        "line": {
+            "en": "'...Well, we can save the serious talk for later.\\nHow about some ice cream?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3804",
+        "line": {
+            "en": "'That's right. Cookies and cream is your\\nfavorite, isn't it?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3c04",
+        "line": {
+            "en": "'How do you know that?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4004",
+        "line": {
+            "en": "'You probably told me at some point. I guess it\\nwas probably last year at around the time you\\nbecame friends with Kotori.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4404",
+        "line": {
+            "en": "'Huh... you remember that...?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4804",
+        "line": {
+            "en": "'I remember everything about you, Ageha.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4c04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5004",
+        "line": {
+            "en": "I gently let go of her hand."
+        },
+        "name": ""
+    },
+    {
+        "id": "5404",
+        "line": {
+            "en": "Ageha didn't run away."
+        },
+        "name": ""
+    },
+    {
+        "id": "5804",
+        "line": {
+            "en": "'Okay let's go to the next spot.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5c04",
+        "line": {
+            "en": "We went outside with both drinks and ice cream in\\nour hands."
+        },
+        "name": ""
+    },
+    {
+        "id": "6004",
+        "line": {
+            "en": "'...Where are we going...?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6404",
+        "line": {
+            "en": "We finished our ice cream. With plastic bottles\\nin our hands, to protect against the heat, we hit\\nthe road."
+        },
+        "name": ""
+    },
+    {
+        "id": "6804",
+        "line": {
+            "en": "'To that place. It's just the right time for it.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6c04",
+        "line": {
+            "en": "'This was the last place, where we became on good\\nterms.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7004",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7404",
+        "line": {
+            "en": "'That time we didn't do anything, even though I\\nwanted you so much.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7804",
+        "line": {
+            "en": "'Do you mean you're after my body?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7c04",
+        "line": {
+            "en": "'I'm \"also\" after your body.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8004",
+        "line": {
+            "en": "'Then... shall we do it now?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8404",
+        "line": {
+            "en": "'Ah... sorry, I don't feel like it today.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8804",
+        "line": {
+            "en": "'Or should I say that I don't feel like I'll be\\nin that mood from now on.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8c04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9004",
+        "line": {
+            "en": "'Or is my body the only thing important to you in\\nour relations? If so, I'll accept it and give\\nup.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9404",
+        "line": {
+            "en": "'What?! Of course not!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9804",
+        "line": {
+            "en": "'I see.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9c04",
+        "line": {
+            "en": "'That's good.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a004",
+        "line": {
+            "en": "I took a deep breath."
+        },
+        "name": ""
+    },
+    {
+        "id": "a404",
+        "line": {
+            "en": "The worst of my fears had been avoided."
+        },
+        "name": ""
+    },
+    {
+        "id": "a804",
+        "line": {
+            "en": "'Well... shall we sit?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ac04",
+        "line": {
+            "en": "I climbed up to a gentle slop of grass and sat\\ndown."
+        },
+        "name": ""
+    },
+    {
+        "id": "b004",
+        "line": {
+            "en": "From there, we could look down on the lake."
+        },
+        "name": ""
+    },
+    {
+        "id": "b404",
+        "line": {
+            "en": "Ageha sat down right next to me."
+        },
+        "name": ""
+    },
+    {
+        "id": "b804",
+        "line": {
+            "en": "'Well... I'm sure it'll start any second now.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bc04",
+        "line": {
+            "en": "I strained my eyes to see the other side of the\\nlake."
+        },
+        "name": ""
+    },
+    {
+        "id": "c004",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c404",
+        "line": {
+            "en": "Ageha and I both saw the same thing."
+        },
+        "name": ""
+    },
+    {
+        "id": "c804",
+        "line": {
+            "en": "A faint green expanding on the opposite shore. On\\nit was something white, no different than a\\ncalmly spinning windmill."
+        },
+        "name": ""
+    },
+    {
+        "id": "cc04",
+        "line": {
+            "en": "'That... is that...!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d004",
+        "line": {
+            "en": "'Ah. It's the improved version of the Soaring\\nClub's glider.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d404",
+        "line": {
+            "en": "'...Our wings.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d804",
+        "line": {
+            "en": "'It's... finished...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "dc04",
+        "line": {
+            "en": "'I told you, didn't I?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e004",
+        "line": {
+            "en": "'An-chan was complimenting your craftsmanship.\\nSaid it was the work of a pro.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e404",
+        "line": {
+            "en": "'Great...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e804",
+        "line": {
+            "en": "'That makes you happy, right?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ec04",
+        "line": {
+            "en": "'Well... of course it does...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f004",
+        "line": {
+            "en": "'So why wouldn't you at least want to be there\\nfor it's first flight?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f404",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f804",
+        "line": {
+            "en": "'Oh, it looks like it's about to take off.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fc04",
+        "line": {
+            "en": "The aircraft arrived in a fixed position."
+        },
+        "name": ""
+    },
+    {
+        "id": "0104",
+        "line": {
+            "en": "The people moving around it were faint, even when\\nI strained my eyes."
+        },
+        "name": ""
+    },
+    {
+        "id": "0504",
+        "line": {
+            "en": "I guess that An-chan and Masatsugu are covering\\nfor me this time."
+        },
+        "name": ""
+    },
+    {
+        "id": "0904",
+        "line": {
+            "en": "'Will it really fly? With Amane and Kotori at the\\nhelm...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0d04",
+        "line": {
+            "en": "'If you're really worried, we could leave here\\nand make it in time to warn them. Shall we?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1104",
+        "line": {
+            "en": "'But I'm not going to just leave you here and go\\noff on my own.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1504",
+        "line": {
+            "en": "'We'll go together or neither of us will go.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1904",
+        "line": {
+            "en": "'You can't be serious...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1d04",
+        "line": {
+            "en": "'How could you justify going out on a date with\\nme, and yet, you miss the first flight of our\\nglider? It makes no sense to me whatsoever.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2104",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2504",
+        "line": {
+            "en": "I just waited without urging her to answer..."
+        },
+        "name": ""
+    },
+    {
+        "id": "2904",
+        "line": {
+            "en": "'Oh, it's about to take off.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2d04",
+        "line": {
+            "en": "The white aircraft moved!"
+        },
+        "name": ""
+    },
+    {
+        "id": "3104",
+        "line": {
+            "en": "C'mon, Kotori!"
+        },
+        "name": ""
+    },
+    {
+        "id": "3504",
+        "line": {
+            "en": "I instinctively wiped the sweat from my brow."
+        },
+        "name": ""
+    },
+    {
+        "id": "3904",
+        "line": {
+            "en": "If there is even the slightest defect..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3d04",
+        "line": {
+            "en": "'Ah!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4104",
+        "line": {
+            "en": "Ageha bent forward with excitement."
+        },
+        "name": ""
+    },
+    {
+        "id": "4504",
+        "line": {
+            "en": "As soon as the graceful, white wings seemed to\\nstart moving, they were rising into the air..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4904",
+        "line": {
+            "en": "'It flies!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4d04",
+        "line": {
+            "en": "We did it...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "5104",
+        "line": {
+            "en": "'It's so beautiful...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5504",
+        "line": {
+            "en": "As if it were dancing in the wind, the forward\\nswept wings of the aircraft turned over the\\nlake's surface..."
+        },
+        "name": ""
+    },
+    {
+        "id": "5904",
+        "line": {
+            "en": "It soon reduced its altitude and landed in its\\nstarting position."
+        },
+        "name": ""
+    },
+    {
+        "id": "5d04",
+        "line": {
+            "en": "'Is it... over already?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6104",
+        "line": {
+            "en": "'It's the first flight of a new model. You can't\\noverwork a prototype during the experimental\\nstages.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6504",
+        "line": {
+            "en": "'Ah, I see.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6904",
+        "line": {
+            "en": "'You're shaking.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6d04",
+        "line": {
+            "en": "I took Ageha's hand in my own."
+        },
+        "name": ""
+    },
+    {
+        "id": "7104",
+        "line": {
+            "en": "'Ah...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7504",
+        "line": {
+            "en": "Much like my own, Ageha's hand was drenched in\\nsweat."
+        },
+        "name": ""
+    },
+    {
+        "id": "7904",
+        "line": {
+            "en": "It had a pleasantly cool feeling to it. It said\\nmore about Ageha's true feelings than words ever\\ncould."
+        },
+        "name": ""
+    },
+    {
+        "id": "7d04",
+        "line": {
+            "en": "'Ageha... I guess it's time I ask.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8104",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8504",
+        "line": {
+            "en": "'I heard from An-chan and Masatsugu that\\nsomething happened.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8904",
+        "line": {
+            "en": "'But nobody would tell me what. They said I\\nneeded to hear it from you.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8d04",
+        "line": {
+            "en": "'Everybody likes you, you know. If they didn't,\\nyou'd be ignored, and they'd cut all contact.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9104",
+        "line": {
+            "en": "'Oooh...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9504",
+        "line": {
+            "en": "'I'm no different. No, actually, I like you more\\nthan any of them.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9904",
+        "line": {
+            "en": "'That's why I'm the one who can't bare to not\\nknow what's going on.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9d04",
+        "line": {
+            "en": "'If you don't hate me.. tell me at least. Tell me\\nwhether or not something happened at the old\\nsecret base.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a104",
+        "line": {
+            "en": "'Hmm...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a504",
+        "line": {
+            "en": "Ageha was silent for a while after that."
+        },
+        "name": ""
+    },
+    {
+        "id": "a904",
+        "line": {
+            "en": "I kept my hand on top of hers."
+        },
+        "name": ""
+    },
+    {
+        "id": "ad04",
+        "line": {
+            "en": "While I kept watch, the glider rose into the air\\nfor another flight."
+        },
+        "name": ""
+    },
+    {
+        "id": "b104",
+        "line": {
+            "en": "The forward swept wings turned in the opposite\\ndirection from before, left the water's surface,\\nand climbed in altitude..."
+        },
+        "name": ""
+    },
+    {
+        "id": "b504",
+        "line": {
+            "en": "Then it quietly landed back on the ground."
+        },
+        "name": ""
+    },
+    {
+        "id": "b904",
+        "line": {
+            "en": "'Phew...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bd04",
+        "line": {
+            "en": "Once the aircraft's movements stopped, Ageha took\\na deep breath."
+        },
+        "name": ""
+    },
+    {
+        "id": "c104",
+        "line": {
+            "en": "'...This is going to take a while.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c504",
+        "line": {
+            "en": "'And it's a bit embarrassing.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c904",
+        "line": {
+            "en": "'It's scandalous and astonishing.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cd04",
+        "line": {
+            "en": "'Okay.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d104",
+        "line": {
+            "en": "I gently stroked Ageha's finger."
+        },
+        "name": ""
+    },
+    {
+        "id": "d504",
+        "line": {
+            "en": "'At our old secret base...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d904",
+        "line": {
+            "en": "'We had some good times there.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "dd04",
+        "line": {
+            "en": "'Yes...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e104",
+        "line": {
+            "en": "'But soon after you moved away, it was\\ndemolished.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e504",
+        "line": {
+            "en": "'I see.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e904",
+        "line": {
+            "en": "'That... was really hard on me.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ed04",
+        "line": {
+            "en": "'It was our place. It was everyone's place.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f104",
+        "line": {
+            "en": "'I knew that you had left, but I really thought\\nthat... you'd come back someday.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f504",
+        "line": {
+            "en": "It was a childish presumption. It was an easy way\\nto reason with things."
+        },
+        "name": ""
+    },
+    {
+        "id": "f904",
+        "line": {
+            "en": "But when I heard that the place that we used to\\nalways play in was gone, I felt like a hole had\\nbeen poked in my heart, though I can hardly admit\\nthat to her."
+        },
+        "name": ""
+    },
+    {
+        "id": "fd04",
+        "line": {
+            "en": "'I was really in shock when you left.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0204",
+        "line": {
+            "en": "'Just as you had finally confessed your feelings\\nfor me, I found myself separated from you...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0604",
+        "line": {
+            "en": "'To part in a way such as that...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0a04",
+        "line": {
+            "en": "'Right. To be rejected. That was a shock for me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0e04",
+        "line": {
+            "en": "'Well... At that time...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1204",
+        "line": {
+            "en": "'You didn't like me enough?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1604",
+        "line": {
+            "en": "'It's not that! I actually wanted to say yes!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1a04",
+        "line": {
+            "en": "'But... I was afraid.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1e04",
+        "line": {
+            "en": "'Of saying yes?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2204",
+        "line": {
+            "en": "'I mean, if someone \"confesses\" to you, then you\\nbecome a \"couple\".'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2604",
+        "line": {
+            "en": "'A special couple... Well, then, what about the\\nothers in your life? An-chan, Ma-bou, and Hotaru.\\nWould I still want to play with them?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2a04",
+        "line": {
+            "en": "'That was my problem... I was worried that it\\nwould affect my friendship.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2e04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3204",
+        "line": {
+            "en": "'Is that... the reason you rejected me...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3604",
+        "line": {
+            "en": "'Yes...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3a04",
+        "line": {
+            "en": "'Didn't I warn you? I told you this would be\\nembarrassing.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3e04",
+        "line": {
+            "en": "'But when you left...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4204",
+        "line": {
+            "en": "'I thought it might have been... because I\\nrejected you...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4604",
+        "line": {
+            "en": "I can kind of see how she'd get that impression."
+        },
+        "name": ""
+    },
+    {
+        "id": "4a04",
+        "line": {
+            "en": "When I left this town, I was rejected by Ageha\\nand actually felt like running off with my tail\\nbetween my legs..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4e04",
+        "line": {
+            "en": "'Soon after that, the secret base was\\ndemolished.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5204",
+        "line": {
+            "en": "'I was told that I couldn't go near it anymore,\\nbecause it was going to be destroyed... and that\\nwould mean that everybody stopped getting\\ntogether...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5604",
+        "line": {
+            "en": "'I thought it was all my fault...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5a04",
+        "line": {
+            "en": "'Did everyone go there own separate ways?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5e04",
+        "line": {
+            "en": "'Yeah.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6204",
+        "line": {
+            "en": "'That's why... I tried to protect it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6604",
+        "line": {
+            "en": "'Our secret base?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6a04",
+        "line": {
+            "en": "'Yes... I thought that, if I could prevent its\\ndestruction, things would go back to the way they\\nwere. I thought we'd all be together again. That\\nyou'd come back...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6e04",
+        "line": {
+            "en": "'So, the night before demolition was set to take\\nplace, I left my home and broke into the base.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7204",
+        "line": {
+            "en": "'The construction workers didn't realize at first\\nand began demolishing a nearby wall...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7604",
+        "line": {
+            "en": "'That's about when my mother realized I was gone\\nand started looking around for me...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7a04",
+        "line": {
+            "en": "'An-chan had talked to my mother and came close\\nto where I was... That's when the construction\\nworkers found me...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7e04",
+        "line": {
+            "en": "'I ran up the demolished wall. I screamed at them\\nto stop the demolition from the highest point I\\ncould reach.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8204",
+        "line": {
+            "en": "'I wrapped myself into a ball and thought that,\\nif this place is going to be destroyed, I too,\\nshould go down with the ship...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8604",
+        "line": {
+            "en": "'Wow...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8a04",
+        "line": {
+            "en": "'Yeah. I thought it was strange too.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8e04",
+        "line": {
+            "en": "'But I just didn't know what else to do at the\\ntime... I felt I needed to do whatever it took to\\nsave the place...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9204",
+        "line": {
+            "en": "'...In the end, An-chan climbed up, calmed me\\ndown, picked me up in his arms... and that was\\nthe end of it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9604",
+        "line": {
+            "en": "'This story...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9a04",
+        "line": {
+            "en": "'Only those in the neighborhood know about it...\\nAn-chan, Ma-bou, and Hotaru... Only those people\\nclosest to me.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9e04",
+        "line": {
+            "en": "'In the end... I was unable to to see the very\\nlast moments of the secret base.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a204",
+        "line": {
+            "en": "'The next thing I knew, there was already nothing\\nleft.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a604",
+        "line": {
+            "en": "'And because of that... I thought you'd never\\ncome back...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "aa04",
+        "line": {
+            "en": "'And everybody would go their separate ways... I\\nthought that we'd never be able play together\\nagain.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ae04",
+        "line": {
+            "en": "'A Windy's went up where the secret base used to\\nbe and even our shop started doing business\\nthere...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b204",
+        "line": {
+            "en": "'To be honest, Windy's was great...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b604",
+        "line": {
+            "en": "'So I couldn't hate it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ba04",
+        "line": {
+            "en": "'But I also couldn't figure out what was good\\nabout it. I couldn't do anything right...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "be04",
+        "line": {
+            "en": "'You stopped replying to letters and New Year's\\ncards...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c204",
+        "line": {
+            "en": "'Yeah... After that, I didn't talk to anyone but\\nHotaru for about a year after that, because I was\\nbecoming quite dark.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c604",
+        "line": {
+            "en": "'You?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ca04",
+        "line": {
+            "en": "'That's right. I guess you don't know of any\\nphotos or episodes of mine from that time.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ce04",
+        "line": {
+            "en": "'You're right, I don't.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d204",
+        "line": {
+            "en": "'Well, over time, I gradually got myself back on\\ntrack, and when I went to my new school, I was\\nable to make friends, but...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d604",
+        "line": {
+            "en": "'Nobody that I could really call a true\\nfriend...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "da04",
+        "line": {
+            "en": "'Ah, yeah, that's what you were saying.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "de04",
+        "line": {
+            "en": "I hate to say it, but I had no idea that that the\\ntalk of her trying to please everyone... had such\\nan unbelievably heavy story behind it."
+        },
+        "name": ""
+    },
+    {
+        "id": "e204",
+        "line": {
+            "en": "'So then, in front of me and my many\\nacquaintances and few true friends, the source of\\nmy trauma reappeared without warning.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e604",
+        "line": {
+            "en": "'Me, you mean.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ea04",
+        "line": {
+            "en": "'I'm sure you have no idea just how surprised I\\nwas to see you again.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ee04",
+        "line": {
+            "en": "'Understand. I was unable to ride my bicycle due\\nto an injury. It could have been worse.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f204",
+        "line": {
+            "en": "'Right.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f604",
+        "line": {
+            "en": "'But you and that trauma...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fa04",
+        "line": {
+            "en": "'I wish you wouldn't throw that word around so\\nmuch.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fe04",
+        "line": {
+            "en": "'Before I knew it, we had found a glider.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0304",
+        "line": {
+            "en": "'And there was... truly a place that felt like\\nanother secret base, and it was placed right\\nbefore our very eyes...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0704",
+        "line": {
+            "en": "'Nah... that may be true, but...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0b04",
+        "line": {
+            "en": "'It didn't bother me that much at first. The\\nmembers had changed, and the contents of our\\nactivities were fixed.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0f04",
+        "line": {
+            "en": "'But... at that time... after flying, when I saw\\nthe demolition take place...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1304",
+        "line": {
+            "en": "That flight I took with Amane. The final flight."
+        },
+        "name": ""
+    },
+    {
+        "id": "1704",
+        "line": {
+            "en": "I, too, felt the impact of the garage's\\ndestruction."
+        },
+        "name": ""
+    },
+    {
+        "id": "1b04",
+        "line": {
+            "en": "'In the blink of an eye, everything had been\\nrestored to what it had been. The past. Our\\nsecret base. Demolition. The need to protect.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1f04",
+        "line": {
+            "en": "'...So because of that...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2304",
+        "line": {
+            "en": "Thinking back on it, Ageha's eyes were different\\nback then."
+        },
+        "name": ""
+    },
+    {
+        "id": "2704",
+        "line": {
+            "en": "'I've already recovered completely from my past\\ntrauma.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2b04",
+        "line": {
+            "en": "I tried to be cheerful, but our hands were\\nshaking and soaked in sweat."
+        },
+        "name": ""
+    },
+    {
+        "id": "2f04",
+        "line": {
+            "en": "'A year later... we established a new secret\\nbase.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3304",
+        "line": {
+            "en": "'Our place. Everybody's secret base.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3704",
+        "line": {
+            "en": "'I swore... things would be different this time.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3b04",
+        "line": {
+            "en": "'I don't want anybody else to lose their\\nimportant place.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3f04",
+        "line": {
+            "en": "'I'm also different than I was back then. This\\ntime I'll protect it. No matter what!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4304",
+        "line": {
+            "en": "'That's what I've decided. And that's why...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4704",
+        "line": {
+            "en": "Ageha fixed her grip on my hand. Her voice\\nquivered."
+        },
+        "name": ""
+    },
+    {
+        "id": "4b04",
+        "line": {
+            "en": "'So for someone to confess their feelings to\\nme... for someone to tell to tell me I'm\\nspecial...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4f04",
+        "line": {
+            "en": "'I didn't deserve it... I still don't!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5304",
+        "line": {
+            "en": "'If someone confesses to me again, I'll lose\\neverything!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5704",
+        "line": {
+            "en": "'The secret base will again be gone... and\\neveryone, everyone will go there own separate\\nways again!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5b04",
+        "line": {
+            "en": "'If that's... how you feel...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5f04",
+        "line": {
+            "en": "'Sniff... Sniff... Sniff'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6304",
+        "line": {
+            "en": "Tears slid down Ageha's cheeks."
+        },
+        "name": ""
+    },
+    {
+        "id": "6704",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6b04",
+        "line": {
+            "en": "I continued holding her hand in silence."
+        },
+        "name": ""
+    },
+    {
+        "id": "6f04",
+        "line": {
+            "en": "'...I see...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7304",
+        "line": {
+            "en": "A number of things finally made sense."
+        },
+        "name": ""
+    },
+    {
+        "id": "7704",
+        "line": {
+            "en": "'So that explains your behavior...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7b04",
+        "line": {
+            "en": "Ageha gave a deep but silent nod."
+        },
+        "name": ""
+    },
+    {
+        "id": "7f04",
+        "line": {
+            "en": "'You wanted to protect everyone's place.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8304",
+        "line": {
+            "en": "'Yes...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8704",
+        "line": {
+            "en": "'That's why I've been doing so much outside. I\\nthought, for example, that if Tobioka was going\\nto try to get in our way, I'd make it impossible\\nfor him to come to work.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8b04",
+        "line": {
+            "en": "'Wouldn't that be breaking the law?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8f04",
+        "line": {
+            "en": "'I haven't actually done it yet. It's just one\\nplan of many others.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9304",
+        "line": {
+            "en": "'Still... it's no good.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9704",
+        "line": {
+            "en": "'You're really obsessed with protecting things.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9b04",
+        "line": {
+            "en": "'...Yes.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9f04",
+        "line": {
+            "en": "Ageha unveiled what seemed to be an extremely\\nforced smile."
+        },
+        "name": ""
+    },
+    {
+        "id": "a304",
+        "line": {
+            "en": "'Sorry. You didn't show up at the secret base, so\\nwe thought that you were trying to put distance\\nbetween us...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a704",
+        "line": {
+            "en": "'Well... that's hardly a surprise. It's my fault\\nfor not explaining myself.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ab04",
+        "line": {
+            "en": "'But... why didn't you talk to us about it?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "af04",
+        "line": {
+            "en": "'Well... because I didn't want everyone to hate\\nme...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b304",
+        "line": {
+            "en": "'Don't you understand that I'm the kid who\\nbarricaded herself in a construction site? Don't\\nyou think that's a little strange?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b704",
+        "line": {
+            "en": "'Don't you understand that at this point, there's\\nnothing I won't do to protect the secret base?\\nEven if what I have to do is bad?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bb04",
+        "line": {
+            "en": "'So aren't you going to run away? Doesn't it feel\\nlike I'm giving you an open invitation to do so?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bf04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c304",
+        "line": {
+            "en": "'Now that you mention it, there were times when I\\nwanted to knock over all of my competitors while\\nracing against them.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c704",
+        "line": {
+            "en": "'If we're just talking about thoughts, everybody\\nhas them. That's just how it is.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cb04",
+        "line": {
+            "en": "'Right now, I want all of the other guys who\\napproach you to disappear. I want to have you all\\nto myself.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cf04",
+        "line": {
+            "en": "'If I can't make it a reality, I can at least\\ndream about it.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d304",
+        "line": {
+            "en": "'You're a creep if that's the kind of thing you\\ndream about.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d704",
+        "line": {
+            "en": "'You're just realizing that...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "db04",
+        "line": {
+            "en": "'Are you gonna hear that creep out?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "df04",
+        "line": {
+            "en": "'Ugh, you're awful. Don't come near me. I don't\\nwant your germs.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e304",
+        "line": {
+            "en": "'I guess that's the kind of reaction I've come to\\nexpect.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e704",
+        "line": {
+            "en": "'Well... I guess I can make an exception if its\\nfor you.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "eb04",
+        "line": {
+            "en": "'Thank you.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ef04",
+        "line": {
+            "en": "'The truth is that I had been avoiding talking to\\nyou about my leg injury...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f304",
+        "line": {
+            "en": "'That's why I can't really blame you for keeping\\nsecrets from me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f704",
+        "line": {
+            "en": "'Ah... sorry.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fb04",
+        "line": {
+            "en": "'It's fine. I need to apologize for getting all\\nworried without contacting you.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ff04",
+        "line": {
+            "en": "'Okay...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0008",
+        "line": {
+            "en": "Ageha groped for my fingers and fixed her grip\\nagain."
+        },
+        "name": ""
+    },
+    {
+        "id": "0408",
+        "line": {
+            "en": "Warmth returned to the palm of my hand."
+        },
+        "name": ""
+    },
+    {
+        "id": "0808",
+        "line": {
+            "en": "'But... I understand your past and your trauma,\\nstill... why did you try to distance yourself\\nfrom the glider's completion?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0c08",
+        "line": {
+            "en": "'It's something that everyone at the secret base\\nmade together, isn't it? Wouldn't that be\\nsomething you'd want to treasure?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1008",
+        "line": {
+            "en": "'...Like I said...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1408",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1808",
+        "line": {
+            "en": "It took Ageha a few moments to open her mouth."
+        },
+        "name": ""
+    },
+    {
+        "id": "1c08",
+        "line": {
+            "en": "'...Making it... working together with everyone\\nto make it... was just too much fun...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2008",
+        "line": {
+            "en": "'I had a feeling that, once the glider was\\nfinished, the time spent at the secret base just\\nwouldn't be as fun anymore...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2408",
+        "line": {
+            "en": "'...Ah...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2808",
+        "line": {
+            "en": "So that's it...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "2c08",
+        "line": {
+            "en": "I finally understood what An-chan had been\\nsaying."
+        },
+        "name": ""
+    },
+    {
+        "id": "3008",
+        "line": {
+            "en": "'You won't come, because it's complete."
+        },
+        "name": ""
+    },
+    {
+        "id": "3408",
+        "line": {
+            "en": "Like myself, Kotori, and everyone else, she had\\nstrong feelings about the glider."
+        },
+        "name": ""
+    },
+    {
+        "id": "3808",
+        "line": {
+            "en": "However, Ageha's feelings were far, far stronger\\nthan any of us could have ever imagined."
+        },
+        "name": ""
+    },
+    {
+        "id": "3c08",
+        "line": {
+            "en": "Though she had been cheerfully trying to avoid\\nshowing her face."
+        },
+        "name": ""
+    },
+    {
+        "id": "4008",
+        "line": {
+            "en": "With such strong feelings for the secret base,\\nthe glider, and for all of us... she fell victim\\nto overthinking."
+        },
+        "name": ""
+    },
+    {
+        "id": "4408",
+        "line": {
+            "en": "If she were to lose any of it, she would never be\\nable to forgive herself."
+        },
+        "name": ""
+    },
+    {
+        "id": "4808",
+        "line": {
+            "en": "Having brought her back from the old secret base,\\nAn-chan had understood this."
+        },
+        "name": ""
+    },
+    {
+        "id": "4c08",
+        "line": {
+            "en": "'You... are seriously...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5008",
+        "line": {
+            "en": "'Stupid... right?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5408",
+        "line": {
+            "en": "'Yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5808",
+        "line": {
+            "en": "'You see it, don't you?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5c08",
+        "line": {
+            "en": "'But something's wrong with me if I say you're\\nstupid.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6008",
+        "line": {
+            "en": "'After all... what would that make me for liking\\nsuch stupidity?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6408",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6808",
+        "line": {
+            "en": "'St, up, id.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6c08",
+        "line": {
+            "en": "'...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7008",
+        "line": {
+            "en": "'We're stupid squared. We overlap each other.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7408",
+        "line": {
+            "en": "'Stuuuuuuuuu... piiiiiiiiid... I wonder if we can\\nmake it echo.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7808",
+        "line": {
+            "en": "'Let's try and see. Stupid Aoi, try to make it\\necho.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7c08",
+        "line": {
+            "en": "'You are Stuuuuuuuuu... piiiiiiiiid... Aoi.\\nCurrent altitude is 500m.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8008",
+        "line": {
+            "en": "'It's so hard to say!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8408",
+        "line": {
+            "en": "'Hehe... Ahaha...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8808",
+        "line": {
+            "en": "'So now you smile.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8c08",
+        "line": {
+            "en": "'That's the first smile I've seen out of you\\ntoday.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9008",
+        "line": {
+            "en": "'Eh? Really?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9408",
+        "line": {
+            "en": "'Yep.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9808",
+        "line": {
+            "en": "With Ageha's smile, something inside of my heart\\nmelted and flowed out and away from me."
+        },
+        "name": ""
+    },
+    {
+        "id": "9c08",
+        "line": {
+            "en": "Ageha's past and my doubts dissolved completely."
+        },
+        "name": ""
+    },
+    {
+        "id": "a008",
+        "line": {
+            "en": "'Ah, they're flying again...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a408",
+        "line": {
+            "en": "I wonder if they were trying to adjust something.\\nHaving been motionless on the opposite shore for\\nsome time, the glider rose into the air for a\\nthird time."
+        },
+        "name": ""
+    },
+    {
+        "id": "a808",
+        "line": {
+            "en": "This time it drew 8 letters as it flew."
+        },
+        "name": ""
+    },
+    {
+        "id": "ac08",
+        "line": {
+            "en": "'The pilot... could it be Kotori?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b008",
+        "line": {
+            "en": "'Could be. Amane hasn't flown in a while and\\nprobably hasn't been practicing either...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b408",
+        "line": {
+            "en": "'I hope that they know what they're doing...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b808",
+        "line": {
+            "en": "'Woah!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bc08",
+        "line": {
+            "en": "The aircraft suddenly tilted forward."
+        },
+        "name": ""
+    },
+    {
+        "id": "c008",
+        "line": {
+            "en": "The pilot compensated quickly, so I'm sure that\\nwas on purpose..."
+        },
+        "name": ""
+    },
+    {
+        "id": "c408",
+        "line": {
+            "en": "'I probably shouldn't be seeing stuff like this.\\nIt can't be good for my heart.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c808",
+        "line": {
+            "en": "'Hmm.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cc08",
+        "line": {
+            "en": "'I always get the same feeling when you fly.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d008",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d408",
+        "line": {
+            "en": "I really had no idea."
+        },
+        "name": ""
+    },
+    {
+        "id": "d808",
+        "line": {
+            "en": "'Sorry... if I worried you...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "dc08",
+        "line": {
+            "en": "'I guess you finally understand.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e008",
+        "line": {
+            "en": "'I put every inch of my being into building that\\nthing. I studied hard, used quality materials and\\npolished my skills.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e408",
+        "line": {
+            "en": "'If an accident were to occur, I would never be\\nable to recover.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e808",
+        "line": {
+            "en": "'Ah... I'm very sorry.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ec08",
+        "line": {
+            "en": "My apology came straight from the heart."
+        },
+        "name": ""
+    },
+    {
+        "id": "f008",
+        "line": {
+            "en": "'I'm going to be flying in it after all.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f408",
+        "line": {
+            "en": "That said, if I were to have an accident in\\nsomething I myself built, I really don't think\\nI'd think much of it..."
+        },
+        "name": ""
+    },
+    {
+        "id": "f808",
+        "line": {
+            "en": "I had never considered the feelings of Ageha, who\\nhad never flown herself."
+        },
+        "name": ""
+    },
+    {
+        "id": "fc08",
+        "line": {
+            "en": "'I'm really sorry.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0108",
+        "line": {
+            "en": "'Just make sure to return to Earth in one piece.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0508",
+        "line": {
+            "en": "'Sure. I promise.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0908",
+        "line": {
+            "en": "'I'm serious.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0d08",
+        "line": {
+            "en": "'Yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1108",
+        "line": {
+            "en": "'It's still hard for me to trust you... I got\\nit.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1508",
+        "line": {
+            "en": "'Tell me an embarrassing story about yourself.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1908",
+        "line": {
+            "en": "'If you don't return safely, I'll tell it to\\neveryone.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1d08",
+        "line": {
+            "en": "'What kind of brain-damaged idea is that!? You're\\nhorrible! A real human being would ever do that!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2108",
+        "line": {
+            "en": "'Come on, tell me. I'm simply taking an insurance\\nto make sure you fly safely.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2508",
+        "line": {
+            "en": "Ugh, I've never see her eyes shine so bright."
+        },
+        "name": ""
+    },
+    {
+        "id": "2908",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2d08",
+        "line": {
+            "en": "An embarrassing story..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3108",
+        "line": {
+            "en": "Well, there's one that immediately comes to mind."
+        },
+        "name": ""
+    },
+    {
+        "id": "3508",
+        "line": {
+            "en": "It comes to mind... but..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3908",
+        "line": {
+            "en": "This story..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3d08",
+        "line": {
+            "en": "'Ooo...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4108",
+        "line": {
+            "en": "'So you have one. Spit it out already. Then I'll\\nbe assured that your flights will go smoothly.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4508",
+        "line": {
+            "en": "'Though I REALLY have a bad feeling about\\nthis...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4908",
+        "line": {
+            "en": "'You don't think you'll chicken out halfway\\nthrough, do you?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4d08",
+        "line": {
+            "en": "'Nope, I'm ready and rearing to go!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5108",
+        "line": {
+            "en": "'Even if it's not intentional, it seems like this\\nstory will hit the streets over night if Hotaru\\nis any indication!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5508",
+        "line": {
+            "en": "'The Himegi guarantee is that we are only able to\\ndo business thanks to the faith and trust our\\ncustomers bestow upon us.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5908",
+        "line": {
+            "en": "'I wonder if there is a less trustworthy-sounding\\nguarantee in the world.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5d08",
+        "line": {
+            "en": "'Well then... What was it that caused you the\\nmost shame?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6108",
+        "line": {
+            "en": "'I wouldn't use the word shame.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6508",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6908",
+        "line": {
+            "en": "'Well... here I go.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6d08",
+        "line": {
+            "en": "Before, at the school building."
+        },
+        "name": ""
+    },
+    {
+        "id": "7108",
+        "line": {
+            "en": "When I decided to take Ageha on an unconventional\\ndate after An-chan told me to go get her."
+        },
+        "name": ""
+    },
+    {
+        "id": "7508",
+        "line": {
+            "en": "What I realized at that time..."
+        },
+        "name": ""
+    },
+    {
+        "id": "7908",
+        "line": {
+            "en": "What I unfortunately realized."
+        },
+        "name": ""
+    },
+    {
+        "id": "7d08",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8108",
+        "line": {
+            "en": "Ageha waited, her eyes shining even more than\\nbefore in anticipation."
+        },
+        "name": ""
+    },
+    {
+        "id": "8508",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8908",
+        "line": {
+            "en": "When I tried to speak, my face began to warm."
+        },
+        "name": ""
+    },
+    {
+        "id": "8d08",
+        "line": {
+            "en": "'Oh, you're turning red.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9108",
+        "line": {
+            "en": "'Sh-shut up!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9508",
+        "line": {
+            "en": "'C'mon, you can do it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9908",
+        "line": {
+            "en": "Ugh, you know nothing of people's feelings...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "9d08",
+        "line": {
+            "en": "'Hooo... Haaa...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a108",
+        "line": {
+            "en": "I took a deep, deep breath."
+        },
+        "name": ""
+    },
+    {
+        "id": "a508",
+        "line": {
+            "en": "'Okay, here I go. I'll tell you my most\\nembarrassing story. I hope you're ready for it!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a908",
+        "line": {
+            "en": "'Oh-ho, bring it on!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ad08",
+        "line": {
+            "en": "I took another deep breath before speaking."
+        },
+        "name": ""
+    },
+    {
+        "id": "b108",
+        "line": {
+            "en": "'I... Aoi Minase!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b508",
+        "line": {
+            "en": "'I fell in love with Ageha Himegi!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b908",
+        "line": {
+            "en": "'...Huh?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bd08",
+        "line": {
+            "en": "Ageha seemed flabbergasted."
+        },
+        "name": ""
+    },
+    {
+        "id": "c108",
+        "line": {
+            "en": "'Umm... well... I already knew that, but...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c508",
+        "line": {
+            "en": "'No, you didn't. I just said LIKE before.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c908",
+        "line": {
+            "en": "'Like. You know, that word can have different\\nmeanings.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cd08",
+        "line": {
+            "en": "'Like as in liking an old friend, liking a buddy,\\nliking a friend, liking a true friend, liking a\\nlover, liking a sibling, liking a parent or a\\nchild...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d108",
+        "line": {
+            "en": "'Ugh... this is certainly embarrassing, but...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d508",
+        "line": {
+            "en": "'I'm not going to let you off the hook so easily!\\nThis tale gets even more embarrassing. The best\\nparts are yet to come, so listen up!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d908",
+        "line": {
+            "en": "Once I started talking, I couldn't stop."
+        },
+        "name": ""
+    },
+    {
+        "id": "dd08",
+        "line": {
+            "en": "'When I kissed you... my heart was beating like\\ncrazy! I was so excited!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e108",
+        "line": {
+            "en": "'Waaaaa!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e508",
+        "line": {
+            "en": "'But I knew you, had grown accustomed to you and\\nhaving you around just felt right.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e908",
+        "line": {
+            "en": "'That's why nothing really changed after we were\\ndone.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ed08",
+        "line": {
+            "en": "'It would probably even be the same if we got\\nmarried.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f108",
+        "line": {
+            "en": "'Argh!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f508",
+        "line": {
+            "en": "I felt as if I were watching steam shoot out from\\nher ears."
+        },
+        "name": ""
+    },
+    {
+        "id": "f908",
+        "line": {
+            "en": "'...But!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fd08",
+        "line": {
+            "en": "'Recently, I've had no idea what you've been up\\nto, so I couldn't help but worry.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0208",
+        "line": {
+            "en": "'I didn't know, so I got irritated, couldn't calm\\ndown and got angry... but I couldn't ignore the\\nfeelings in my heart, and on the contrary, they\\nonly got bigger!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0608",
+        "line": {
+            "en": "'What you were thinking and what you were doing;\\nI wanted to know and understand. I wanted to be\\ncloser to you so that I could understand!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0a08",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0e08",
+        "line": {
+            "en": "'Because the other was you, I didn't realize it\\nat first, but...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1208",
+        "line": {
+            "en": "'Is this love!? Is this love!? Or something\\nelse?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1608",
+        "line": {
+            "en": "'In the past... I mean, back when I confessed my\\nfeelings for you, I liked you, but it wasn't the\\nsame as how I feel now!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1a08",
+        "line": {
+            "en": "'This is the first time in my life that I've felt\\nthis way. This is my first time to be in love!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1e08",
+        "line": {
+            "en": "'You're my first love! Do you have a problem with\\nthat!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2208",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2608",
+        "line": {
+            "en": "I said it... I said it assertively..."
+        },
+        "name": ""
+    },
+    {
+        "id": "2a08",
+        "line": {
+            "en": "'Huff, huff, huff, huff, huff...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2e08",
+        "line": {
+            "en": "I could feel my body temperature rise suddenly."
+        },
+        "name": ""
+    },
+    {
+        "id": "3208",
+        "line": {
+            "en": "Sweat was dripping off of me with new drops\\nreplacing the old as fast as they fell."
+        },
+        "name": ""
+    },
+    {
+        "id": "3608",
+        "line": {
+            "en": "I said it. I really said it. I want to die."
+        },
+        "name": ""
+    },
+    {
+        "id": "3a08",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3e08",
+        "line": {
+            "en": "I snatched the air out of my tortuous shame and\\nwrithed in agony."
+        },
+        "name": ""
+    },
+    {
+        "id": "4208",
+        "line": {
+            "en": "What did I do!"
+        },
+        "name": ""
+    },
+    {
+        "id": "4608",
+        "line": {
+            "en": "I started screaming in my mind out of\\nembarassment."
+        },
+        "name": ""
+    },
+    {
+        "id": "4a08",
+        "line": {
+            "en": "Arrrggghhhh, I'm stupid stupid stupid stupid. I'm\\nso stupid!"
+        },
+        "name": ""
+    },
+    {
+        "id": "4e08",
+        "line": {
+            "en": "A shame that will last a life time, a suicidal\\nshame, shame, embarrassment, I could die. There's\\nno use in arguing that this is enough shame to\\njustify death!"
+        },
+        "name": ""
+    },
+    {
+        "id": "5208",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5608",
+        "line": {
+            "en": "This is how Ageha responded to me."
+        },
+        "name": ""
+    },
+    {
+        "id": "5a08",
+        "line": {
+            "en": "'Enough...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5e08",
+        "line": {
+            "en": "'You fool... what the heck are you making me\\nlisten to?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6208",
+        "line": {
+            "en": "'...You can say whatever you want...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6608",
+        "line": {
+            "en": "As if my embarrassment broke out from inside me,\\nan odd calmness returned to my heart."
+        },
+        "name": ""
+    },
+    {
+        "id": "6a08",
+        "line": {
+            "en": "'I said it. As you requested, I told you a story\\nthat is so embarrassing that I would not be able\\nto go on living if it got around.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6e08",
+        "line": {
+            "en": "'Yeah... I heard it alright...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7208",
+        "line": {
+            "en": "'Don't tell anyone. You'll regret it if you do.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7608",
+        "line": {
+            "en": "'Regret it?... What exactly do you mean by that?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7a08",
+        "line": {
+            "en": "'I'll repeat the same things to you, nonstop,\\nevery day.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7e08",
+        "line": {
+            "en": "'Woah, now that would be torture.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8208",
+        "line": {
+            "en": "'If we die, let's do it together!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8608",
+        "line": {
+            "en": "'Hehe, well if it's with you, I guess I wouldn't\\nmind.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8a08",
+        "line": {
+            "en": "'...!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8e08",
+        "line": {
+            "en": "Ageha's finger coiled around my own."
+        },
+        "name": ""
+    },
+    {
+        "id": "9208",
+        "line": {
+            "en": "'Ah...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9608",
+        "line": {
+            "en": "A gentle grip, an extremely gentle grip."
+        },
+        "name": ""
+    },
+    {
+        "id": "9a08",
+        "line": {
+            "en": "That moment, something like a white light spread\\ninside my head."
+        },
+        "name": ""
+    },
+    {
+        "id": "9e08",
+        "line": {
+            "en": "Just like when we had our most passionate and\\nlewd kiss, licking inside each other's mouths all\\nover... that kind of sensation..."
+        },
+        "name": ""
+    },
+    {
+        "id": "a208",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a608",
+        "line": {
+            "en": "Then I get the feeling that several seconds,\\nseveral tens of seconds, or even several\\nminutes... may have passed, but I have no way of\\nknowing for sure..."
+        },
+        "name": ""
+    },
+    {
+        "id": "aa08",
+        "line": {
+            "en": "When I came to my senses, Ageha was still sitting\\nnext to me, her fingers intertwined with mine."
+        },
+        "name": ""
+    },
+    {
+        "id": "ae08",
+        "line": {
+            "en": "Ageha had what looked like the semblance of tears\\nin her eyes."
+        },
+        "name": ""
+    },
+    {
+        "id": "b208",
+        "line": {
+            "en": "'Well, shall we get going?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b608",
+        "line": {
+            "en": "'?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ba08",
+        "line": {
+            "en": "'Shouldn't we go help Kotori before she wears\\nherself out?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "be08",
+        "line": {
+            "en": "'Eh... Ah, aah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c208",
+        "line": {
+            "en": "We stand up and start walking."
+        },
+        "name": ""
+    },
+    {
+        "id": "c608",
+        "line": {
+            "en": "'Aoi.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ca08",
+        "line": {
+            "en": "'Yes?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ce08",
+        "line": {
+            "en": "Speeding up before stopping in front of me, Ageha\\nspoke without turning around."
+        },
+        "name": ""
+    },
+    {
+        "id": "d208",
+        "line": {
+            "en": "'...Thank you.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d608",
+        "line": {
+            "en": "'This time... we'll be together forever...\\nright?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "da08",
+        "line": {
+            "en": "'Of course.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "de08",
+        "line": {
+            "en": "'I see...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e208",
+        "line": {
+            "en": "Because she continued to walk in front of me, I\\ncouldn't see the expression on her face."
+        },
+        "name": ""
+    },
+    {
+        "id": "e608",
+        "line": {
+            "en": "'Ah...!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "ea08",
+        "line": {
+            "en": "Asa was the first to find us."
+        },
+        "name": ""
+    },
+    {
+        "id": "ee08",
+        "line": {
+            "en": "'Ugh, we're late.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f208",
+        "line": {
+            "en": "'We're very sorry.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f608",
+        "line": {
+            "en": "'No, no... don't worry... It's just great to see\\nyou...!'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "fa08",
+        "line": {
+            "en": "'Are you okay!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fe08",
+        "line": {
+            "en": "'That sharp dive... it's in line with what the\\ndesign is capable of, but I could have never have\\npulled that off myself!'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "0308",
+        "line": {
+            "en": "'Same here... I thought that I couldn't do it\\neither...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0708",
+        "line": {
+            "en": "Kotori was on the brink of exhaustion..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0b08",
+        "line": {
+            "en": "'The movements are the same as in the simulator,\\nbut gravity and nerves... are enti...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0f08",
+        "line": {
+            "en": "'...So you brought her after all.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "1308",
+        "line": {
+            "en": "'Yes.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1708",
+        "line": {
+            "en": "'I heard everything.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1b08",
+        "line": {
+            "en": "'Ah... so you heard.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "1f08",
+        "line": {
+            "en": "An-chan's eyes seem to ask if I'm okay."
+        },
+        "name": ""
+    },
+    {
+        "id": "2308",
+        "line": {
+            "en": "'It's fine. I still like her.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2708",
+        "line": {
+            "en": "'...I see.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "2b08",
+        "line": {
+            "en": "An-chan gave me the slightest of nods."
+        },
+        "name": ""
+    },
+    {
+        "id": "2f08",
+        "line": {
+            "en": "'Ageha's skill is amazing. This glider flies\\nwithout a hitch.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "3308",
+        "line": {
+            "en": "'Ah, I never had a doubt in mind. Not in the\\nslightest.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3708",
+        "line": {
+            "en": "'Listen to him talk.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "3b08",
+        "line": {
+            "en": "An-chan and I gave each other a bro fist."
+        },
+        "name": ""
+    },
+    {
+        "id": "3f08",
+        "line": {
+            "en": "'I'll being watching you guys, so fly to your\\nheart's desire.'"
+        },
+        "name": "Tatsuya"
+    },
+    {
+        "id": "4308",
+        "line": {
+            "en": "'Ah!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4708",
+        "line": {
+            "en": "Across the room, Ageha was talking with Yoru\\nabout something."
+        },
+        "name": ""
+    },
+    {
+        "id": "4b08",
+        "line": {
+            "en": "She showed none of the sweetness from before..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4f08",
+        "line": {
+            "en": "She instead took on the form of an earnest\\ntechnician."
+        },
+        "name": ""
+    },
+    {
+        "id": "5308",
+        "line": {
+            "en": "I'm determined to fly the glider. I'll do\\nwhatever it takes to make it happen."
+        },
+        "name": ""
+    },
+    {
+        "id": "5708",
+        "line": {
+            "en": "That is the figure and face that will support me\\non my flights."
+        },
+        "name": ""
+    },
+    {
+        "id": "5b08",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5f08",
+        "line": {
+            "en": "At that moment, I felt from the bottom of my\\nheart just how happy I was to be in love with\\nher."
+        },
+        "name": ""
+    },
+    {
+        "id": "6308",
+        "line": {
+            "en": "And I flew!"
+        },
+        "name": ""
+    },
+    {
+        "id": "6708",
+        "line": {
+            "en": "On new wings, I flew high into the skies for the\\nfirst time in a year!"
+        },
+        "name": ""
+    },
+    {
+        "id": "6b08",
+        "line": {
+            "en": "'Ooooooohh!!!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6f08",
+        "line": {
+            "en": "'Wait a minute! That's too fast. You're going too\\nfast!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7308",
+        "line": {
+            "en": "I could see Kotori having a fit in the rear, but\\nI ignored her and tested the glider's performance\\nin a variety of ways."
+        },
+        "name": ""
+    },
+    {
+        "id": "7708",
+        "line": {
+            "en": "This new aircraft moves as if it were a part of\\nme!"
+        },
+        "name": ""
+    },
+    {
+        "id": "7b08",
+        "line": {
+            "en": "It smoothly goes wherever I want it to go. The\\nfront of the wings show precision response to air\\ncurrents, allowing me to fly freely from right to\\nleft, up to down!"
+        },
+        "name": ""
+    },
+    {
+        "id": "7f08",
+        "line": {
+            "en": "'This is amazing! Kotori, this is amazing!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8308",
+        "line": {
+            "en": "'You're taking it too far! This isn't part of the\\ntest!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8708",
+        "line": {
+            "en": "In a fit of anger, Kotori attempted to pilot the\\nglider from her own seat, so I reluctantly\\nbehaved myself for the rest of the flight."
+        },
+        "name": ""
+    },
+    {
+        "id": "8b08",
+        "line": {
+            "en": "After a while, we landed."
+        },
+        "name": ""
+    },
+    {
+        "id": "8f08",
+        "line": {
+            "en": "The glider flew extraordinarily well, but a more\\northodox design might be better in terms of\\nsafety when landing and taking off."
+        },
+        "name": ""
+    },
+    {
+        "id": "9308",
+        "line": {
+            "en": "However, that's a small complaint for a superior\\nglider that can do so much."
+        },
+        "name": ""
+    },
+    {
+        "id": "9708",
+        "line": {
+            "en": "I guess that's what it will take if I'm to fly\\nthrough the Morning Glory."
+        },
+        "name": ""
+    },
+    {
+        "id": "9b08",
+        "line": {
+            "en": "'Welcome back.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9f08",
+        "line": {
+            "en": "'I'm back. Just the same as I left.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a308",
+        "line": {
+            "en": "I lightly spread both arms as if to declare my\\nsafe return."
+        },
+        "name": ""
+    },
+    {
+        "id": "a708",
+        "line": {
+            "en": "Those around us seemed puzzled."
+        },
+        "name": ""
+    },
+    {
+        "id": "ab08",
+        "line": {
+            "en": "'So, how was it?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "af08",
+        "line": {
+            "en": "'It's very peaky, just as we thought. It's\\ncompletely different from the last glider.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b308",
+        "line": {
+            "en": "'You feel like a bird when you fly it. With this\\non our side, I think we'll be able to handle the\\nMorning Glory.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b708",
+        "line": {
+            "en": "'Right!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bb08",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "bf08",
+        "line": {
+            "en": "Ah, our leader looks angry."
+        },
+        "name": ""
+    },
+    {
+        "id": "c308",
+        "line": {
+            "en": "'I'm glad you're safe... But my heart can't take\\nanother flight like that, so I hope you'll\\nconsider taking it down a couple notches in the\\nfuture.'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "c708",
+        "line": {
+            "en": "'Sorry. I got the data I needed, so I doubt I'll\\nhave to fly like that again.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cb08",
+        "line": {
+            "en": "Time to reflect."
+        },
+        "name": ""
+    },
+    {
+        "id": "cf08",
+        "line": {
+            "en": "I personally had a blast, but it wasn't hard to\\ntell how afraid the rest of those who watched had\\nbeen."
+        },
+        "name": ""
+    },
+    {
+        "id": "d308",
+        "line": {
+            "en": "Not to mention that it would probably be best to\\navoid upsetting a leader to whom I still owe so\\nmuch."
+        },
+        "name": ""
+    },
+    {
+        "id": "d708",
+        "line": {
+            "en": "'I think it's about time to call it a day. I want\\nto take a look at the glider and make a few\\nadjustments.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "db08",
+        "line": {
+            "en": "'Understood.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "df08",
+        "line": {
+            "en": "'Thank you all for coming!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e308",
+        "line": {
+            "en": "'Sorry to show up so late! Thanks again for\\ncoming!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e708",
+        "line": {
+            "en": "Ageha bowed her head with An-chan, Akari,\\nMasatsugu, and the rest."
+        },
+        "name": ""
+    },
+    {
+        "id": "eb08",
+        "line": {
+            "en": "And everyone took a picture to commemorate the\\noccasion."
+        },
+        "name": ""
+    },
+    {
+        "id": "ef08",
+        "line": {
+            "en": "'Okay, here we go!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f308",
+        "line": {
+            "en": "Ageha set the timer and quickly returned to her\\nplace within the group."
+        },
+        "name": ""
+    },
+    {
+        "id": "f708",
+        "line": {
+            "en": "Several seconds, we waited..."
+        },
+        "name": ""
+    },
+    {
+        "id": "fb08",
+        "line": {
+            "en": "Without anybody noticing, Ageha grabbed my hand."
+        },
+        "name": ""
+    },
+    {
+        "id": "ff08",
+        "line": {
+            "en": "In the span of less than a second, our eyes met."
+        },
+        "name": ""
+    },
+    {
+        "id": "000c",
+        "line": {
+            "en": "Even if you fly the Morning Glory. Even if our\\ndreams come true. Even after that. We'll be\\ntogether forever."
+        },
+        "name": ""
+    },
+    {
+        "id": "040c",
+        "line": {
+            "en": "The feeling of her hand and that thought went\\nstraight to my heart."
+        },
+        "name": ""
+    },
+    {
+        "id": "080c",
+        "line": {
+            "en": "I squeezed her hand back."
+        },
+        "name": ""
+    },
+    {
+        "id": "0c0c",
+        "line": {
+            "en": "Just like that, the picture showed us both with\\nour best smiles."
+        },
+        "name": ""
+    }
+]

@@ -1,0 +1,933 @@
+[
+    {
+        "id": "0000",
+        "line": {
+            "en": "The old garage was built in a hidden part of the\\nschool grounds."
+        },
+        "name": ""
+    },
+    {
+        "id": "0400",
+        "line": {
+            "en": "It seems like no one uses it and it's seen by\\nalmost no one."
+        },
+        "name": ""
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "I thought there might be something interesting in\\nthere, so I sneaked inside."
+        },
+        "name": ""
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "The first time I saw it, I just thought, 'There's\\nsome weird object in here' and I wasn't too\\ninterested in it."
+        },
+        "name": ""
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "The thing that changed everything... was finding\\nthat photo."
+        },
+        "name": ""
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "Hidden carefully inside a notebook, there was an\\nincredibly beautiful photograph of the clouds."
+        },
+        "name": ""
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "Could such a beautiful sky really exist!?"
+        },
+        "name": ""
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "It was so amazing that I felt myself asking that."
+        },
+        "name": ""
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "But, it's strange."
+        },
+        "name": ""
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "What's with this photo...?"
+        },
+        "name": ""
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "Ah, I got it!!"
+        },
+        "name": ""
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "Yes, this photo was taken from above the clouds."
+        },
+        "name": ""
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "That is what was written on the pages between\\nwhich it was placed."
+        },
+        "name": ""
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "'We're so lucky! We, by pure chance, flew on the\\nMorning Glory that suddenly appeared above\\nKazegaura!'"
+        },
+        "name": ""
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "'This could be considered a miracle. It was an\\nunbelievable experience.'"
+        },
+        "name": ""
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "Morning Glory? They flew?"
+        },
+        "name": ""
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "As I continued to read through the notebook... or\\nrather, flight log, I became more and more\\ninterested."
+        },
+        "name": ""
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "This photo of the clouds, was taken by the same\\npeople who used this garage. They flew above the\\nclouds in an aircraft called a glider."
+        },
+        "name": ""
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "This glider has no engine, and it flies by riding\\nthe wind..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "How does that feel, to ride on the wind and fly\\nthrough the sky?"
+        },
+        "name": ""
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "To soar through that beautiful field of clouds..."
+        },
+        "name": ""
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "When I pondered on that thought, my mind had been\\nmade up."
+        },
+        "name": ""
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "I would repair the abandoned glider, and aim for\\nthe distant clouds."
+        },
+        "name": ""
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "The next day, I immediately revealed my great\\nplan to my best friend."
+        },
+        "name": ""
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "'The sun's starting to set. Do you wanna call it\\na day?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "Ageha said that as I was taking a break after\\nreturning from a flight."
+        },
+        "name": ""
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "'We can go one more time, can't we?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "We still have a bit of time before the sun\\ncompletely sets."
+        },
+        "name": ""
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "'There are no street lights around here, so it'll\\nbe pretty dark before the sun completely sets.\\nThat will make landing dangerous.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "She's right."
+        },
+        "name": ""
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "Just now when we came back, it was hard to see\\nthe runway and my depth of perception was messed\\nup."
+        },
+        "name": ""
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "'So that's why we've finished today. Kotori,\\nlet's get going.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "Ageha called Kotori on her cell-phone. Currently,\\nKotori is by the winch."
+        },
+        "name": ""
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "'Are we done for today...?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "'Yeah. Though the perfect wind for training has\\njust started blowing.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "'Nothing we can do about that... We don't want to\\nhave any accidents.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "Amane looks towards the eastern sky as she\\nspeaks."
+        },
+        "name": ""
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "There, as always, is the same orange glow of\\nsunset."
+        },
+        "name": ""
+    },
+    {
+        "id": "9800",
+        "line": {
+            "en": "'Looks like the 'sign' didn't appear again...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "The sky indicated that nothing would happen the\\nfollowing morning."
+        },
+        "name": ""
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "I watched her from the side while she looked to\\nthe sky, and her face seemed filled with\\nimpatience."
+        },
+        "name": ""
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "Since the winch came back, we've been doing as\\nmany test flights as possible, every day."
+        },
+        "name": ""
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "There are adjustments to be made to the glider,\\nbut the main objective is for Amane and I to do\\nflight training."
+        },
+        "name": ""
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "'You were able to fly quite high today. How high\\nwas it, roughly?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "'Around 600 meters.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b800",
+        "line": {
+            "en": "'Oh, that's the highest so far. You're really\\ngetting the hang of this, aren't you?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bc00",
+        "line": {
+            "en": "'Yeah. But it's still hard to ride the thermals.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c000",
+        "line": {
+            "en": "Thermals are vertical drafts formed by air heated\\nby the earth's surface."
+        },
+        "name": ""
+    },
+    {
+        "id": "c400",
+        "line": {
+            "en": "They occur more easily in areas where the\\ntemperature above the ground rises easily, like\\nsoil or asphalt."
+        },
+        "name": ""
+    },
+    {
+        "id": "c800",
+        "line": {
+            "en": "By catching these thermals, we can fly to higher\\naltitudes."
+        },
+        "name": ""
+    },
+    {
+        "id": "cc00",
+        "line": {
+            "en": "However, the thing we're chasing is the wind,\\nwhich is invisible. It's not easy to catch."
+        },
+        "name": ""
+    },
+    {
+        "id": "d000",
+        "line": {
+            "en": "Even after riding it well, the wind is\\nunpredictable. The wind's flow and strength is\\nnot stable -- it may disappear at a moment's\\nnotice."
+        },
+        "name": ""
+    },
+    {
+        "id": "d400",
+        "line": {
+            "en": "But if we don't get good at riding it, we won't\\nbe able to fly high enough to reach the passage\\nof clouds."
+        },
+        "name": ""
+    },
+    {
+        "id": "d800",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "dc00",
+        "line": {
+            "en": "Amane looks down with a blank expression, and\\nwithout even attempting to eat it, plays with her\\npasta with her fork."
+        },
+        "name": ""
+    },
+    {
+        "id": "e000",
+        "line": {
+            "en": "'You didn't like it?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e400",
+        "line": {
+            "en": "'Huh...? No, ah... it's not that.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "e800",
+        "line": {
+            "en": "'I've been doing some thinking...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "ec00",
+        "line": {
+            "en": "She gave a faint smile and prodded at her pasta."
+        },
+        "name": ""
+    },
+    {
+        "id": "f000",
+        "line": {
+            "en": "I look towards Ageha and shrug."
+        },
+        "name": ""
+    },
+    {
+        "id": "f400",
+        "line": {
+            "en": "Kotori was next to Amane, absorbed in reading the\\nbook that she had borrowed from the library."
+        },
+        "name": ""
+    },
+    {
+        "id": "f800",
+        "line": {
+            "en": "'Why don't you do that after you've finished\\neating?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fc00",
+        "line": {
+            "en": "'Sure...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0100",
+        "line": {
+            "en": "It's no good. She's not listening."
+        },
+        "name": ""
+    },
+    {
+        "id": "0500",
+        "line": {
+            "en": "Kotori, for a long time, has been finding out\\nabout Morning Glory."
+        },
+        "name": ""
+    },
+    {
+        "id": "0900",
+        "line": {
+            "en": "Since we started the test flights, Kotori, being\\ndisabled, has had nothing to do except operate\\nthe winch."
+        },
+        "name": ""
+    },
+    {
+        "id": "0d00",
+        "line": {
+            "en": "That's why she seems to be thinking 'I'm\\nuseless!'."
+        },
+        "name": ""
+    },
+    {
+        "id": "1100",
+        "line": {
+            "en": "She was really involved in the construction of\\nthe main wings too, so that's not true at all."
+        },
+        "name": ""
+    },
+    {
+        "id": "1500",
+        "line": {
+            "en": "But because of this, we found out about something\\nimportant."
+        },
+        "name": ""
+    },
+    {
+        "id": "1900",
+        "line": {
+            "en": "A few days ago, after the farewell party..."
+        },
+        "name": ""
+    },
+    {
+        "id": "1d00",
+        "line": {
+            "en": "'Hmm... This is about the natural phenomenon that\\noccurs in Burketown, Australia.'"
+        },
+        "name": "Hibari"
+    },
+    {
+        "id": "2100",
+        "line": {
+            "en": "Hibari translated from the book written in\\nEnglish, after being pestered by Kotori."
+        },
+        "name": ""
+    },
+    {
+        "id": "2500",
+        "line": {
+            "en": "It's a book about Morning Glory."
+        },
+        "name": ""
+    },
+    {
+        "id": "2900",
+        "line": {
+            "en": "According to this, the clouds that appear above\\nAustralia can have a total length of\\napproximately 1000 kilometers."
+        },
+        "name": ""
+    },
+    {
+        "id": "2d00",
+        "line": {
+            "en": "It's not just one cloud that appears, it can be\\nmany at the same time."
+        },
+        "name": ""
+    },
+    {
+        "id": "3100",
+        "line": {
+            "en": "When the sun comes up, the temperature increases\\nand the clouds disappear. There is only about two\\nhours before that happens."
+        },
+        "name": ""
+    },
+    {
+        "id": "3500",
+        "line": {
+            "en": "For the local people, this is a sign of rain, and\\nraging winds blow beneath the clouds."
+        },
+        "name": ""
+    },
+    {
+        "id": "3900",
+        "line": {
+            "en": "The altitude of the clouds is about one or two\\nkilometers. If you can ride the vertical drafts\\nwell, it is possible to reach those altitudes."
+        },
+        "name": ""
+    },
+    {
+        "id": "3d00",
+        "line": {
+            "en": "'It says that this is caused by a collision of\\nthe sea breeze and the land breeze.'"
+        },
+        "name": "Hibari"
+    },
+    {
+        "id": "4100",
+        "line": {
+            "en": "'At night, the air cools and wind speed drops,\\nand the inversion layer...'"
+        },
+        "name": "Hibari"
+    },
+    {
+        "id": "4500",
+        "line": {
+            "en": "'If we can understand the mechanisms of it all,\\nthen it's easy to predict. But, Kazegaura has\\nvastly different terrain and weather conditions\\nto Australia...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4900",
+        "line": {
+            "en": "'Aren't there are any other signs that are easier\\nto understand?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4d00",
+        "line": {
+            "en": "'It has something like that written here.'"
+        },
+        "name": "Hibari"
+    },
+    {
+        "id": "5100",
+        "line": {
+            "en": "Hibari translates as she reads."
+        },
+        "name": ""
+    },
+    {
+        "id": "5500",
+        "line": {
+            "en": "'Warm winds blow from the north, and at dusk, the\\neastern sky becomes purple.'"
+        },
+        "name": "Hibari"
+    },
+    {
+        "id": "5900",
+        "line": {
+            "en": "'It says that if water droplets appear in the\\nfridge at the pub, it will occur.'"
+        },
+        "name": "Hibari"
+    },
+    {
+        "id": "5d00",
+        "line": {
+            "en": "'There might be a pub around here!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6100",
+        "line": {
+            "en": "'Calm down, this is talking about Australia.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6500",
+        "line": {
+            "en": "'It says... That on mornings when the air\\ntemperature is low, but the overall temperature\\nis high, it often occurs...'"
+        },
+        "name": "Hibari"
+    },
+    {
+        "id": "6900",
+        "line": {
+            "en": "'The air temperature is low but the overall\\ntemperature is high, and at dusk on the evening\\nbefore, the eastern sky is purple...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6d00",
+        "line": {
+            "en": "'Wait a second!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7100",
+        "line": {
+            "en": "Kotori excitedly opens a page in the old\\nnotebook."
+        },
+        "name": ""
+    },
+    {
+        "id": "7500",
+        "line": {
+            "en": "It's a flight log written by one of the old\\nmembers."
+        },
+        "name": ""
+    },
+    {
+        "id": "7900",
+        "line": {
+            "en": "'Hey, look at this.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7d00",
+        "line": {
+            "en": "Kotori opened it to the page that explained the\\nsigns that were seen on the day the photograph\\nwas taken. In other words, the day that the\\nMorning Glory had occurred."
+        },
+        "name": ""
+    },
+    {
+        "id": "8100",
+        "line": {
+            "en": "It seems that they did a test on that day, and\\nthere was detailed information on the weather\\nconditions written in the flight log."
+        },
+        "name": ""
+    },
+    {
+        "id": "8500",
+        "line": {
+            "en": "'When they did the test at around 4 PM, the air\\ntemperature was 23 degrees centigrade... That's\\npretty low for the height of the summer.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8900",
+        "line": {
+            "en": "'It says 'After that, a strong wind blew from the\\ndirection of the sunset, and it was chilly.''"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8d00",
+        "line": {
+            "en": "This was written in the remarks column. They went\\nto the effort of writing it, so that must mean\\nthat there was quite a big change in air\\ntemperature."
+        },
+        "name": ""
+    },
+    {
+        "id": "9100",
+        "line": {
+            "en": "'As for the color of the sky... it doesn't say.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9500",
+        "line": {
+            "en": "The important thing is, the log was written\\nwithout the knowledge that 'Today, Morning Glory\\nwill occur'."
+        },
+        "name": ""
+    },
+    {
+        "id": "9900",
+        "line": {
+            "en": "They wrote this without realizing that this was a\\nsign of the Morning Glory."
+        },
+        "name": ""
+    },
+    {
+        "id": "9d00",
+        "line": {
+            "en": "'This is a pretty big hint, isn't it?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a100",
+        "line": {
+            "en": "'Yeah! Thanks, Hibari!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a500",
+        "line": {
+            "en": "'Hee hee, don't mention it!'"
+        },
+        "name": "Hibari"
+    },
+    {
+        "id": "a900",
+        "line": {
+            "en": "Since then, Kotori has been checking the weather\\nforecast every night, and reading books about\\nweather, like she's trying to become a weather\\nforecaster or something."
+        },
+        "name": ""
+    },
+    {
+        "id": "ad00",
+        "line": {
+            "en": "So, the three signs that indicate the coming of a\\nMorning Glory are as follows:"
+        },
+        "name": ""
+    },
+    {
+        "id": "b100",
+        "line": {
+            "en": "1: The day before, a warm, strong wind blows, and\\nthe temperature is high enough to cause water\\ndroplets to appear on a fridge in a pub."
+        },
+        "name": ""
+    },
+    {
+        "id": "b500",
+        "line": {
+            "en": "2: At dusk, on the day before, the eastern sky is\\npurple."
+        },
+        "name": ""
+    },
+    {
+        "id": "b900",
+        "line": {
+            "en": "3: It's much colder than most summer days."
+        },
+        "name": ""
+    },
+    {
+        "id": "bd00",
+        "line": {
+            "en": "Perhaps this information isn't just nonsense, and\\nthis is all we had to go on."
+        },
+        "name": ""
+    },
+    {
+        "id": "c100",
+        "line": {
+            "en": "'Hey, Aoi. Whose turn is it today?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c500",
+        "line": {
+            "en": "'I'm not sure.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c900",
+        "line": {
+            "en": "Every day, we take it in turns to wake up before\\ndawn, to see whether or not those clouds have\\nappeared."
+        },
+        "name": ""
+    },
+    {
+        "id": "cd00",
+        "line": {
+            "en": "Even if there are no signs the day before."
+        },
+        "name": ""
+    },
+    {
+        "id": "d100",
+        "line": {
+            "en": "Whose turn is it today...? <! P>%K\u0000\u0004FLAG_CHECK\u0000\u000f\u0004u\u0000Kotori\u0000\u0000y\u0000\u0006vU\u0000\u0000v\u0000Ageha\u0000\u0000z\u0000\u0006\u00a0X\u0000\u0000w\u0000Amane\u0000\u0000{\u0000\u0006<Z\u0000\u0000x\u0000Me\u0000\u0000|\u0000\u0006\u00a9]\u0000\u0000\u0006<Z\u0000\u0000\u0006gU\u0000\u0000\u0006vU\u0000\u0000\u0006\u00a0X\u0000\u0000\u0006<Z\u0000\u0000\u0006\u00a9]\u0000\u0000\u0006vU\u0000\u0000\u0006\u00a0X\u0000\u0000\u0006\u00a9]\u0000\u0000\t\u00002\u0000\u0000\u0000\u0000\u0000\u0014y\u0000\u0000\u0000\u0000%P\u0000\u0015%LCAoi\u0000\u0014z\u0000\u0000\u0000char\u0000'Isn't it Kotori?'"
+        },
+        "name": ""
+    },
+    {
+        "id": "ed00",
+        "line": {
+            "en": "Kotori lifts her head as I say that."
+        },
+        "name": ""
+    },
+    {
+        "id": "f100",
+        "line": {
+            "en": "'Yes, it is.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "f900",
+        "line": {
+            "en": "'It's you, isn't it, Ageha?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fd00",
+        "line": {
+            "en": "'Huh, is it?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0200",
+        "line": {
+            "en": "'Hey, don't try to play dumb.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0a00",
+        "line": {
+            "en": "'Isn't it Amane?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0e00",
+        "line": {
+            "en": "'Hmm? Yeah, that's right. It's me.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "1200",
+        "line": {
+            "en": "'I see. We'll leave it to you, Amane.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1a00",
+        "line": {
+            "en": "'It's me.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1e00",
+        "line": {
+            "en": "'I see, so it's you, Aoi?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2200",
+        "line": {
+            "en": "'Well then, I'd better quickly have a bath and go\\nto bed.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2600",
+        "line": {
+            "en": "If the Morning Glory does come, we have to fly\\nright away."
+        },
+        "name": ""
+    },
+    {
+        "id": "2a00",
+        "line": {
+            "en": "That's why we covered the glider on the runway\\nand just covered it up with a sheet."
+        },
+        "name": ""
+    },
+    {
+        "id": "2e00",
+        "line": {
+            "en": "Even if it doesn't occur, we can still start\\ndoing test flights from early in the morning."
+        },
+        "name": ""
+    },
+    {
+        "id": "3200",
+        "line": {
+            "en": "It's a little rough but it doesn't look like it's\\ngoing to rain, so there isn't much we can do."
+        },
+        "name": ""
+    },
+    {
+        "id": "3600",
+        "line": {
+            "en": "There's no way we can let this one in a million\\nchance pass us by."
+        },
+        "name": ""
+    }
+]

@@ -1,0 +1,5161 @@
+[
+    {
+        "id": "0000",
+        "line": {
+            "en": "Okay... it's the first day of the End Term Tests!"
+        },
+        "name": ""
+    },
+    {
+        "id": "0400",
+        "line": {
+            "en": "'We're not allowed to get bad marks!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "'The summer will be about the glider!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "'For the sake of our dreams!\"'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "Wow! Just like a sports club before a match, we\\nwent to school after getting ourselves pumped up."
+        },
+        "name": ""
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "...later that day."
+        },
+        "name": ""
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "'... You alive~?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "'Yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "'Well, it wasn't anything special.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "'It's over... goodbye, summer...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "'Didn't you study a lot?!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "'I didn't take into account the time it takes for\\nme to forget the stuff I learned...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "'Well, at least you didnt get a red mark.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "'... You didn't, right?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "'She doesn't trust me!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "'Tomorrow's gonna be practical exams so, it's not\\ngoing to be a problem, right?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "'Well, yes...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "'So, what shall we do? Go home?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "During the test periods clubs are prohibited from\\ndoing any activities."
+        },
+        "name": ""
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "But going to the clubrooms isn't prohibited and\\nour secret base is not on the school grounds to\\nbegin with."
+        },
+        "name": ""
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "'Hmm, tomorrow is not a problem for me so, I'll\\ngo and do a bit of work tomorrow.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "'I have time today, but not tomorrow... I'm sorry\\nbut I don't have confidence, so I'll be going\\nback to practice a little bit.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "'Oh, you guys.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "'Senpai... I mean, Sensei.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "'Since the test period ended, you're going to\\nclub activities?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "'No no no no no no, it hasn't ended at all.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "'Sorry, but I'll be taking Yoru for a moment.\\nThere is something I want to ask her.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "'I still have tests to do, you know.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "'The tests are not going to help you in your life\\nat all~'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "'To us this is a do or die situation though.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "'Dont worry, if you repeat you'll only have to\\nspend one more year, that's all.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "'There is nothing less convincing than that.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "'I want to carefully listen to Yoru's opinion\\nabout the windmill thing.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "'Sigh... I'm sorry senpais, I have to attend\\nthis.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "'I'm going too.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "'There's no helping it. Do your best.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "'Take care with shutting down the energy, putting\\nout the fire, and backing up the data, then.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "'Fufu, how's that? I can also say serious\\nthings.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "9800",
+        "line": {
+            "en": "'Yes, yes, Amane-sensei... bye.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "'So, it's only the two of us.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "'It seems so... wait.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "'Are you coming too, Aoi?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "'I'm not that worried about the practical exams,\\nand I didn't do anything this sunday.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "'I see. Then, let's get going.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "'Yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b800",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bc00",
+        "line": {
+            "en": "We fell in an strange silence."
+        },
+        "name": ""
+    },
+    {
+        "id": "c000",
+        "line": {
+            "en": "When we went out the last time it wasn't like\\nthis though."
+        },
+        "name": ""
+    },
+    {
+        "id": "c400",
+        "line": {
+            "en": "'Sigh... it's hot.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c800",
+        "line": {
+            "en": "'It is... the temperature, is too damn high.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cc00",
+        "line": {
+            "en": "'There's no wind, and there are clouds. It's\\ngoing to rain.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d000",
+        "line": {
+            "en": "This year I've been studying a lot about weather,\\nif it's related to this place, I have confidence\\nI can make a good prediction."
+        },
+        "name": ""
+    },
+    {
+        "id": "d400",
+        "line": {
+            "en": "'Yeah, it'll rain. But I have a spare umbrella.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d800",
+        "line": {
+            "en": "'True'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "dc00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e000",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e400",
+        "line": {
+            "en": "And again, the silence fell upon us."
+        },
+        "name": ""
+    },
+    {
+        "id": "e800",
+        "line": {
+            "en": "Since we knew each other for such a long time,\\nthere's no reservations with each other and if\\nthere is nothing we can talk about this situation\\nis not strange, but..."
+        },
+        "name": ""
+    },
+    {
+        "id": "ec00",
+        "line": {
+            "en": "For some reason, today, that seemed to be\\nunsettling."
+        },
+        "name": ""
+    },
+    {
+        "id": "f000",
+        "line": {
+            "en": "'... You see.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f400",
+        "line": {
+            "en": "'Hm?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f800",
+        "line": {
+            "en": "'You didn't hear... from... Hotaru's message?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fc00",
+        "line": {
+            "en": "'From Hotaru? No, nothing special.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0100",
+        "line": {
+            "en": "'Really?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0500",
+        "line": {
+            "en": "'Yeah.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0900",
+        "line": {
+            "en": "'She hasn't sent you an strange picture, right?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0d00",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1100",
+        "line": {
+            "en": "'Unfortunately not. I'll ask her again after the\\ntests are over.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1500",
+        "line": {
+            "en": "'Aoi you leecher!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1900",
+        "line": {
+            "en": "'I don't want to hear that from a pervert who\\nkeeps a photo of my sleeping face!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1d00",
+        "line": {
+            "en": "'Wh-who would do such a thing!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2100",
+        "line": {
+            "en": "'It's obvious I wouldn't let that happen!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2500",
+        "line": {
+            "en": "'I won't keep it... it's not like it's a picture\\nof Aoi...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2900",
+        "line": {
+            "en": "'Hm?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2d00",
+        "line": {
+            "en": "'It's nothing!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3100",
+        "line": {
+            "en": "Suddenly, the scenery started to darken, and\\nrainy clouds cover the sky."
+        },
+        "name": ""
+    },
+    {
+        "id": "3500",
+        "line": {
+            "en": "'Eh!?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3900",
+        "line": {
+            "en": "'Way too fast!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3d00",
+        "line": {
+            "en": "There were actually pretty bad clouds that could\\nbe seen in the horizon."
+        },
+        "name": ""
+    },
+    {
+        "id": "4100",
+        "line": {
+            "en": "But those clouds spread so fast and surprisely;\\nwhen we checked again..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4500",
+        "line": {
+            "en": "The rain started!"
+        },
+        "name": ""
+    },
+    {
+        "id": "4900",
+        "line": {
+            "en": "'Kya~~!!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4d00",
+        "line": {
+            "en": "'Woaah!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5100",
+        "line": {
+            "en": "A sudden rain, it seems."
+        },
+        "name": ""
+    },
+    {
+        "id": "5500",
+        "line": {
+            "en": "And also a huge one. So intense you could barely\\nopen your eyes."
+        },
+        "name": ""
+    },
+    {
+        "id": "5900",
+        "line": {
+            "en": "In our surroundings there's nothing we can use to\\ntake shelter from the rain."
+        },
+        "name": ""
+    },
+    {
+        "id": "5d00",
+        "line": {
+            "en": "The nearest place to us was the entrance to the\\nsecret base we could see up ahead."
+        },
+        "name": ""
+    },
+    {
+        "id": "6100",
+        "line": {
+            "en": "'Run!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6500",
+        "line": {
+            "en": "I take Ageha's arm and start running while\\nholding onto it."
+        },
+        "name": ""
+    },
+    {
+        "id": "6900",
+        "line": {
+            "en": "Then, completely soaked we reached the secret\\nbase."
+        },
+        "name": ""
+    },
+    {
+        "id": "6d00",
+        "line": {
+            "en": "From inside the secret base we could hear the\\ncontinous sound of the rain pounding."
+        },
+        "name": ""
+    },
+    {
+        "id": "7100",
+        "line": {
+            "en": "'Sigh...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7500",
+        "line": {
+            "en": "'Uhe~, it got us.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7900",
+        "line": {
+            "en": "The rain was dropping from us to the ground."
+        },
+        "name": ""
+    },
+    {
+        "id": "7d00",
+        "line": {
+            "en": "It was just for a moment and we got completely\\nsoaked."
+        },
+        "name": ""
+    },
+    {
+        "id": "8100",
+        "line": {
+            "en": "'Damn! I failed at the prediction!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8500",
+        "line": {
+            "en": "Even if it was a sudden rain, to just let this\\nmuch rain pass on my predictions..."
+        },
+        "name": ""
+    },
+    {
+        "id": "8900",
+        "line": {
+            "en": "As a pilot of a glider this is shameful, no, I'm\\nstill not qualified to be a pilot, so I can't\\nreally complain here."
+        },
+        "name": ""
+    },
+    {
+        "id": "8d00",
+        "line": {
+            "en": "'And it seems this is going to be happening more\\noften... being more sensitive to sudden changes\\nin the weather is necessary... damn!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9100",
+        "line": {
+            "en": "'Ehh, I understand your feelings but...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9500",
+        "line": {
+            "en": "I heard Ageha's from up close suddenly."
+        },
+        "name": ""
+    },
+    {
+        "id": "9900",
+        "line": {
+            "en": "'At least, I would like you to let go of me or\\nsomething...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9d00",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a100",
+        "line": {
+            "en": "As I came to, I was..."
+        },
+        "name": ""
+    },
+    {
+        "id": "a500",
+        "line": {
+            "en": "...Embracing Ageha's shoulder with all my force."
+        },
+        "name": ""
+    },
+    {
+        "id": "a900",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ad00",
+        "line": {
+            "en": "Since my mind was slow at catching what was going\\non, my body was faster."
+        },
+        "name": ""
+    },
+    {
+        "id": "b100",
+        "line": {
+            "en": "The body of Ageha, under the wet clothes."
+        },
+        "name": ""
+    },
+    {
+        "id": "b500",
+        "line": {
+            "en": "Warm..."
+        },
+        "name": ""
+    },
+    {
+        "id": "b900",
+        "line": {
+            "en": "And, slim."
+        },
+        "name": ""
+    },
+    {
+        "id": "bd00",
+        "line": {
+            "en": "'Woah!? Sorry, my bad!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c100",
+        "line": {
+            "en": "'No, it's okay...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c500",
+        "line": {
+            "en": "Ageha got away from me with a strange look in her\\nface."
+        },
+        "name": ""
+    },
+    {
+        "id": "c900",
+        "line": {
+            "en": "In that moment, all my body trembled in cold."
+        },
+        "name": ""
+    },
+    {
+        "id": "cd00",
+        "line": {
+            "en": "'Woah~~ it's totally soaked.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d100",
+        "line": {
+            "en": "Ageha took off her vest and checked how badly it\\nwas."
+        },
+        "name": ""
+    },
+    {
+        "id": "d500",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d900",
+        "line": {
+            "en": "My heart started racing."
+        },
+        "name": ""
+    },
+    {
+        "id": "dd00",
+        "line": {
+            "en": "I... can see through..."
+        },
+        "name": ""
+    },
+    {
+        "id": "e100",
+        "line": {
+            "en": "After taking off the soaked vest, even her shirt\\nwas wet and I could se heer bra!"
+        },
+        "name": ""
+    },
+    {
+        "id": "e500",
+        "line": {
+            "en": "Since she was facing me, I could get, in a three\\ndimensional way, the volume of the cup!"
+        },
+        "name": ""
+    },
+    {
+        "id": "e900",
+        "line": {
+            "en": "'What am I going to do about the clothes...? I\\ndon't have the jersey here today... has someone\\nforgot theirs here? It feels bad, but I guess I\\ncan borrow it...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ed00",
+        "line": {
+            "en": "While mubmbling, she started moving."
+        },
+        "name": ""
+    },
+    {
+        "id": "f100",
+        "line": {
+            "en": "... She hasn't noticed!?"
+        },
+        "name": ""
+    },
+    {
+        "id": "f500",
+        "line": {
+            "en": "Then, the wet clothes sticked to her body...and\\nnot only the bra, but also the rest of her body\\nwas clearly visible..."
+        },
+        "name": ""
+    },
+    {
+        "id": "f900",
+        "line": {
+            "en": "Her wet hair got attached to her back and while\\nsweeping away the water in her face, it slowly\\nstarted to fall down her body..."
+        },
+        "name": ""
+    },
+    {
+        "id": "fd00",
+        "line": {
+            "en": "Her shoulders moving, the breasts bouncing, the\\nhips twisting..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0200",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0600",
+        "line": {
+            "en": "'Hm?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0a00",
+        "line": {
+            "en": "'At least clean your face, i'll bring you a\\ntowel----'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0e00",
+        "line": {
+            "en": "'Hmm...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1200",
+        "line": {
+            "en": "Agahe noticed my gaze."
+        },
+        "name": ""
+    },
+    {
+        "id": "1600",
+        "line": {
+            "en": "Her eyes fell to her own chest."
+        },
+        "name": ""
+    },
+    {
+        "id": "1a00",
+        "line": {
+            "en": "And then she opened them widely."
+        },
+        "name": ""
+    },
+    {
+        "id": "1e00",
+        "line": {
+            "en": "'Wai-! Wha-!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2200",
+        "line": {
+            "en": "Ageha's cheeks, in just a second, became totally\\nred."
+        },
+        "name": ""
+    },
+    {
+        "id": "2600",
+        "line": {
+            "en": "And even her whole face to the tip of the ears\\nwere red, too."
+        },
+        "name": ""
+    },
+    {
+        "id": "2a00",
+        "line": {
+            "en": "Then, she faced the other way... covering her own\\nbody... and crouching..."
+        },
+        "name": ""
+    },
+    {
+        "id": "2e00",
+        "line": {
+            "en": "'Ah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3200",
+        "line": {
+            "en": "She didn't get angry, nor even startled, that was\\nAgeha's reaction."
+        },
+        "name": ""
+    },
+    {
+        "id": "3600",
+        "line": {
+            "en": "It was as if a totally different girl was just in\\nfront of me."
+        },
+        "name": ""
+    },
+    {
+        "id": "3a00",
+        "line": {
+            "en": "That struck directly into my heart."
+        },
+        "name": ""
+    },
+    {
+        "id": "3e00",
+        "line": {
+            "en": "The feeling I got when I was holding her, her\\nhole body inside my arm, that feeling came back\\nto me in that moment."
+        },
+        "name": ""
+    },
+    {
+        "id": "4200",
+        "line": {
+            "en": "'..!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4600",
+        "line": {
+            "en": "As if I was punched in the face, I came back to\\nmyself."
+        },
+        "name": ""
+    },
+    {
+        "id": "4a00",
+        "line": {
+            "en": "'So, sorry! I It's just..!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4e00",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5200",
+        "line": {
+            "en": "Ageha was totally silent, just as before starting\\nto cry."
+        },
+        "name": ""
+    },
+    {
+        "id": "5600",
+        "line": {
+            "en": "'Ugh...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5a00",
+        "line": {
+            "en": "Again, since Ageha had frozen up, I couldn't make\\nany move."
+        },
+        "name": ""
+    },
+    {
+        "id": "5e00",
+        "line": {
+            "en": "And in the meantime, Ageha's looks--- her\\nunderwear and her body through the clothes was\\nsomething I couldn't help but to look at."
+        },
+        "name": ""
+    },
+    {
+        "id": "6200",
+        "line": {
+            "en": "My throat moved, as my heartbeat was annoying my\\nears."
+        },
+        "name": ""
+    },
+    {
+        "id": "6600",
+        "line": {
+            "en": "'*Gulp*...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6a00",
+        "line": {
+            "en": "My face is hot."
+        },
+        "name": ""
+    },
+    {
+        "id": "6e00",
+        "line": {
+            "en": "Droplets fall down my cheeks."
+        },
+        "name": ""
+    },
+    {
+        "id": "7200",
+        "line": {
+            "en": "Only my heartbeat was active the whole time."
+        },
+        "name": ""
+    },
+    {
+        "id": "7600",
+        "line": {
+            "en": "My heart was beating so loudly, that, as if\\nechoing, I could feel it in my fingertips and in\\nmy neck."
+        },
+        "name": ""
+    },
+    {
+        "id": "7a00",
+        "line": {
+            "en": "'Ah... Aoi...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7e00",
+        "line": {
+            "en": "'Wha-...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8200",
+        "line": {
+            "en": "Since my throat was hoarse, I couldn't say a\\nproper answer."
+        },
+        "name": ""
+    },
+    {
+        "id": "8600",
+        "line": {
+            "en": "Ageha lifted her face slowly."
+        },
+        "name": ""
+    },
+    {
+        "id": "8a00",
+        "line": {
+            "en": "'Do you... want to see that badly?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8e00",
+        "line": {
+            "en": "'...Eh...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9200",
+        "line": {
+            "en": "'If you want to...you... can...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9600",
+        "line": {
+            "en": "In a blurry voice, Ageha said that lightly."
+        },
+        "name": ""
+    },
+    {
+        "id": "9a00",
+        "line": {
+            "en": "'I mean... it's you, Aoi... if it's Aoi, then\\nletting you see is...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9e00",
+        "line": {
+            "en": "Ageha moved her fingers to her chest."
+        },
+        "name": ""
+    },
+    {
+        "id": "a200",
+        "line": {
+            "en": "My conciousness was drawn to that place."
+        },
+        "name": ""
+    },
+    {
+        "id": "a600",
+        "line": {
+            "en": "She brought her white wet fingers... to the\\nbuttons on her shirt where it stuck between those\\nbulges and..."
+        },
+        "name": ""
+    },
+    {
+        "id": "aa00",
+        "line": {
+            "en": "unbuttoned them..."
+        },
+        "name": ""
+    },
+    {
+        "id": "ae00",
+        "line": {
+            "en": "'Ah...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b200",
+        "line": {
+            "en": "The wet cloth opened on both sides."
+        },
+        "name": ""
+    },
+    {
+        "id": "b600",
+        "line": {
+            "en": "In that opening... a light colored... bra was..."
+        },
+        "name": ""
+    },
+    {
+        "id": "ba00",
+        "line": {
+            "en": "*thump* *thump*. My heartbeat sped up even more."
+        },
+        "name": ""
+    },
+    {
+        "id": "be00",
+        "line": {
+            "en": "Ageha's eye's became moist like she was keeping\\nherself from crying, and silently looked this\\nway."
+        },
+        "name": ""
+    },
+    {
+        "id": "c200",
+        "line": {
+            "en": "I'm used to this\u0081\\\u0081\\ I should be used to seeing\\nthis, if it's just a bra. I tell myself that in\\nmy head."
+        },
+        "name": ""
+    },
+    {
+        "id": "c600",
+        "line": {
+            "en": "Kanako constantly shows hers to me."
+        },
+        "name": ""
+    },
+    {
+        "id": "ca00",
+        "line": {
+            "en": "I usually see them inside the dorm after they\\ndried."
+        },
+        "name": ""
+    },
+    {
+        "id": "ce00",
+        "line": {
+            "en": "I've even seen Yuka or Sanae when they carelessly\\nget up to use the toilet at night in just their\\nbra."
+        },
+        "name": ""
+    },
+    {
+        "id": "d200",
+        "line": {
+            "en": "When it's summer, I can naturally see them\\nthrough people's shirts."
+        },
+        "name": ""
+    },
+    {
+        "id": "d600",
+        "line": {
+            "en": "In magazines or on the net, I can see bras and\\neven the contents within as much as I want."
+        },
+        "name": ""
+    },
+    {
+        "id": "da00",
+        "line": {
+            "en": "So I'm used to this\u0081\\\u0081\\ I won't be shaken with with\\nonly this much."
+        },
+        "name": ""
+    },
+    {
+        "id": "de00",
+        "line": {
+            "en": "I won't."
+        },
+        "name": ""
+    },
+    {
+        "id": "e200",
+        "line": {
+            "en": "'Hey... you said before... long ago, that I\\nlooked like a boy... you said that, Aoi...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e600",
+        "line": {
+            "en": "'But now... I'm completely... a girl... right?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ea00",
+        "line": {
+            "en": "'Y... yeah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ee00",
+        "line": {
+            "en": "'You... you can check... for yourself...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f200",
+        "line": {
+            "en": "'...!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f600",
+        "line": {
+            "en": "A white light exploded in my head."
+        },
+        "name": ""
+    },
+    {
+        "id": "fa00",
+        "line": {
+            "en": "Ch-check for myself...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "fe00",
+        "line": {
+            "en": "'I-in return, I'll check... Aoi's body... too so,\\nthat way, we're even...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0300",
+        "line": {
+            "en": "'Wh-what are you... saying... '"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0700",
+        "line": {
+            "en": "I suddenly felt a chill through my body."
+        },
+        "name": ""
+    },
+    {
+        "id": "0b00",
+        "line": {
+            "en": "'Nn...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0f00",
+        "line": {
+            "en": "Ageha started shivering strongly too."
+        },
+        "name": ""
+    },
+    {
+        "id": "1300",
+        "line": {
+            "en": "'It's gotten chilly... huh...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1700",
+        "line": {
+            "en": "'Yeah... it has...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1b00",
+        "line": {
+            "en": "'We'll catch a cold...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1f00",
+        "line": {
+            "en": "I don't know which one of us moved."
+        },
+        "name": ""
+    },
+    {
+        "id": "2300",
+        "line": {
+            "en": "In my vision, Ageha's figure grew bigger."
+        },
+        "name": ""
+    },
+    {
+        "id": "2700",
+        "line": {
+            "en": "Her body left my vision and only her face could\\nbe seen."
+        },
+        "name": ""
+    },
+    {
+        "id": "2b00",
+        "line": {
+            "en": "She entered into my arms."
+        },
+        "name": ""
+    },
+    {
+        "id": "2f00",
+        "line": {
+            "en": "And there, I felt the heat from her soft body."
+        },
+        "name": ""
+    },
+    {
+        "id": "3300",
+        "line": {
+            "en": "Her eyes... hidden under her eyelids..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3700",
+        "line": {
+            "en": "And her wet lips."
+        },
+        "name": ""
+    },
+    {
+        "id": "3b00",
+        "line": {
+            "en": "Like a magnet, I was pulled towards them."
+        },
+        "name": ""
+    },
+    {
+        "id": "3f00",
+        "line": {
+            "en": "'N...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4300",
+        "line": {
+            "en": "'Nn...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4700",
+        "line": {
+            "en": "Funyu."
+        },
+        "name": ""
+    },
+    {
+        "id": "4b00",
+        "line": {
+            "en": "The first thing I felt was elasticity."
+        },
+        "name": ""
+    },
+    {
+        "id": "4f00",
+        "line": {
+            "en": "After that, heat... and a slimy fluid."
+        },
+        "name": ""
+    },
+    {
+        "id": "5300",
+        "line": {
+            "en": "'Nn...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5700",
+        "line": {
+            "en": "Something wet covers my lips."
+        },
+        "name": ""
+    },
+    {
+        "id": "5b00",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5f00",
+        "line": {
+            "en": "Wh-what is this."
+        },
+        "name": ""
+    },
+    {
+        "id": "6300",
+        "line": {
+            "en": "A sweet explosion."
+        },
+        "name": ""
+    },
+    {
+        "id": "6700",
+        "line": {
+            "en": "The inside of my head turns pure white."
+        },
+        "name": ""
+    },
+    {
+        "id": "6b00",
+        "line": {
+            "en": "'Chu...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6f00",
+        "line": {
+            "en": "I don't know when it was that our lips separated."
+        },
+        "name": ""
+    },
+    {
+        "id": "7300",
+        "line": {
+            "en": "Ageha opens her eyes and looks at me."
+        },
+        "name": ""
+    },
+    {
+        "id": "7700",
+        "line": {
+            "en": "That face is very red, her eyelids half open, and\\nher eyes were wet as if intoxicated."
+        },
+        "name": ""
+    },
+    {
+        "id": "7b00",
+        "line": {
+            "en": "'Amazing... right...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7f00",
+        "line": {
+            "en": "'Yeah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8300",
+        "line": {
+            "en": "I know what it is that's amazing, but I couldn't\\nput it into a word."
+        },
+        "name": ""
+    },
+    {
+        "id": "8700",
+        "line": {
+            "en": "I was drawn in again."
+        },
+        "name": ""
+    },
+    {
+        "id": "8b00",
+        "line": {
+            "en": "'N... chu...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8f00",
+        "line": {
+            "en": "Again, a sweet explosion."
+        },
+        "name": ""
+    },
+    {
+        "id": "9300",
+        "line": {
+            "en": "But this time, I understood."
+        },
+        "name": ""
+    },
+    {
+        "id": "9700",
+        "line": {
+            "en": "We kissed."
+        },
+        "name": ""
+    },
+    {
+        "id": "9b00",
+        "line": {
+            "en": "Ageha and I are kissing."
+        },
+        "name": ""
+    },
+    {
+        "id": "9f00",
+        "line": {
+            "en": "'N... n... nn...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a300",
+        "line": {
+            "en": "Funi... munyu... a sensation like that which I\\ncan't express in words."
+        },
+        "name": ""
+    },
+    {
+        "id": "a700",
+        "line": {
+            "en": "We bend our lips on each other."
+        },
+        "name": ""
+    },
+    {
+        "id": "ab00",
+        "line": {
+            "en": "Moving to the side. Rubbing."
+        },
+        "name": ""
+    },
+    {
+        "id": "af00",
+        "line": {
+            "en": "Breathing through our noses. Together, roughly,\\nwith our lips shut."
+        },
+        "name": ""
+    },
+    {
+        "id": "b300",
+        "line": {
+            "en": "'Mph... n...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b700",
+        "line": {
+            "en": "'N... fua... n... nn!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bb00",
+        "line": {
+            "en": "'Nn!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bf00",
+        "line": {
+            "en": "Something warm and wet was felt between our lips."
+        },
+        "name": ""
+    },
+    {
+        "id": "c300",
+        "line": {
+            "en": "Behind the lips, rows of teeth, and even further\\ninside... the tongue...!?"
+        },
+        "name": ""
+    },
+    {
+        "id": "c700",
+        "line": {
+            "en": "'Nn... haa, haa...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cb00",
+        "line": {
+            "en": "Ageha separated her face in a surprised manner."
+        },
+        "name": ""
+    },
+    {
+        "id": "cf00",
+        "line": {
+            "en": "I was also dumbfounded, and stopped."
+        },
+        "name": ""
+    },
+    {
+        "id": "d300",
+        "line": {
+            "en": "Ageha's eyes, mouth\u0081\\\u0081\\and the wet sensation just\\nnow that's whirling in my brain."
+        },
+        "name": ""
+    },
+    {
+        "id": "d700",
+        "line": {
+            "en": "'...Pffha!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "db00",
+        "line": {
+            "en": "Almost forgetting how to breathe, I let out a\\nsigh with a loud sound."
+        },
+        "name": ""
+    },
+    {
+        "id": "df00",
+        "line": {
+            "en": "Water was dripping from my skin."
+        },
+        "name": ""
+    },
+    {
+        "id": "e300",
+        "line": {
+            "en": "But is this rain water, or could it be sweat..."
+        },
+        "name": ""
+    },
+    {
+        "id": "e700",
+        "line": {
+            "en": "'U... umm...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "eb00",
+        "line": {
+            "en": "Ageha looked up at me with moist eyes."
+        },
+        "name": ""
+    },
+    {
+        "id": "ef00",
+        "line": {
+            "en": "'You want to... keep checking... a little more?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f300",
+        "line": {
+            "en": "Ageha's hands felt up my body."
+        },
+        "name": ""
+    },
+    {
+        "id": "f700",
+        "line": {
+            "en": "To my waist. And my chest."
+        },
+        "name": ""
+    },
+    {
+        "id": "fb00",
+        "line": {
+            "en": "Using the palm of her hand, as if giving me a\\nmassage, she slowly rubbed little by little from\\nmy shoulder to my chest."
+        },
+        "name": ""
+    },
+    {
+        "id": "ff00",
+        "line": {
+            "en": "And then\u0081\\\u0081\\she started unbuttoning my shirt."
+        },
+        "name": ""
+    },
+    {
+        "id": "0004",
+        "line": {
+            "en": "'Aoi, grew from a boy, to a man... and I'm, a\\ngirl...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0404",
+        "line": {
+            "en": "'Wh-what am I saying, I don't really\\nunderstand...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0804",
+        "line": {
+            "en": "Ageha's fingers were trembling."
+        },
+        "name": ""
+    },
+    {
+        "id": "0c04",
+        "line": {
+            "en": "The buttons on my shirt are being undone."
+        },
+        "name": ""
+    },
+    {
+        "id": "1004",
+        "line": {
+            "en": "Ageha inserted her hand to the bare skin beneath\\nmy undershirt."
+        },
+        "name": ""
+    },
+    {
+        "id": "1404",
+        "line": {
+            "en": "Lifting the wet cloth, Ageha slid her hand over\\nmy abdomem and rib cage."
+        },
+        "name": ""
+    },
+    {
+        "id": "1804",
+        "line": {
+            "en": "'Oh... oh... oh...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1c04",
+        "line": {
+            "en": "*shiver* *shudder* *twitch*. My body trembles\\nsubtly many times."
+        },
+        "name": ""
+    },
+    {
+        "id": "2004",
+        "line": {
+            "en": "Getting goosebumps, my body twists from the\\nsensation never experienced before, and my face\\ndistorts."
+        },
+        "name": ""
+    },
+    {
+        "id": "2404",
+        "line": {
+            "en": "'See... even Aoi... right?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2804",
+        "line": {
+            "en": "I naturally comprehended what it was that she\\nwanted me to do."
+        },
+        "name": ""
+    },
+    {
+        "id": "2c04",
+        "line": {
+            "en": "Being close enough that our noses were touching,\\nI extend my hand to Ageha's body."
+        },
+        "name": ""
+    },
+    {
+        "id": "3004",
+        "line": {
+            "en": "I feel the wet cloth..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3404",
+        "line": {
+            "en": "And from her neck, I undo the buttons one by\\none... exposing Ageha's bare skin..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3804",
+        "line": {
+            "en": "'Nn...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3c04",
+        "line": {
+            "en": "We took each other's clothes off while groping\\nour bodies."
+        },
+        "name": ""
+    },
+    {
+        "id": "4004",
+        "line": {
+            "en": "I don't know, whether Ageha lied down, or I\\npushed her down."
+        },
+        "name": ""
+    },
+    {
+        "id": "4404",
+        "line": {
+            "en": "'Aah...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4804",
+        "line": {
+            "en": "A solid object. Round surface. Bulging up."
+        },
+        "name": ""
+    },
+    {
+        "id": "4c04",
+        "line": {
+            "en": "Facing upwards, Ageha's chest."
+        },
+        "name": ""
+    },
+    {
+        "id": "5004",
+        "line": {
+            "en": "Wrapped in the cups of her bra, bulges that\\npointed up."
+        },
+        "name": ""
+    },
+    {
+        "id": "5404",
+        "line": {
+            "en": "Slender neck, round shoulders, collarbone, damp\\nskin."
+        },
+        "name": ""
+    },
+    {
+        "id": "5804",
+        "line": {
+            "en": "And from there, her proof of a girl bulging up."
+        },
+        "name": ""
+    },
+    {
+        "id": "5c04",
+        "line": {
+            "en": "'They're... really big...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6004",
+        "line": {
+            "en": "'Yeah... they grew...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6404",
+        "line": {
+            "en": "'You're a girl.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6804",
+        "line": {
+            "en": "'That's right...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6c04",
+        "line": {
+            "en": "While having a pointless chat, we continued\\nremoving our clothes."
+        },
+        "name": ""
+    },
+    {
+        "id": "7004",
+        "line": {
+            "en": "I raised my body a little, and released my arms."
+        },
+        "name": ""
+    },
+    {
+        "id": "7404",
+        "line": {
+            "en": "'Nn...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7804",
+        "line": {
+            "en": "Being urged by her eyes, I take off my clothes\\ntoo."
+        },
+        "name": ""
+    },
+    {
+        "id": "7c04",
+        "line": {
+            "en": "My hands were as if they didn't belong to me."
+        },
+        "name": ""
+    },
+    {
+        "id": "8004",
+        "line": {
+            "en": "I'm being manipulated by her gaze."
+        },
+        "name": ""
+    },
+    {
+        "id": "8404",
+        "line": {
+            "en": "'It's soaking wet...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8804",
+        "line": {
+            "en": "I take off my shirt, wet from the rain and\\nsticking to my skin, and toss it aside."
+        },
+        "name": ""
+    },
+    {
+        "id": "8c04",
+        "line": {
+            "en": "The wet clothes made a splashing noise as it hit\\nthe floor."
+        },
+        "name": ""
+    },
+    {
+        "id": "9004",
+        "line": {
+            "en": "I take off my undershirt too, and expose my top\\nhalf."
+        },
+        "name": ""
+    },
+    {
+        "id": "9404",
+        "line": {
+            "en": "At that moment, something similar to a creeping\\nsensation spread, making me shudder."
+        },
+        "name": ""
+    },
+    {
+        "id": "9804",
+        "line": {
+            "en": "My pores open, twisting my body, I couldn't help\\nbut to wriggle... what is this..."
+        },
+        "name": ""
+    },
+    {
+        "id": "9c04",
+        "line": {
+            "en": "'...It's... a nice body...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a004",
+        "line": {
+            "en": "I feel Ageha's hand move from my hipbone to my\\nflank."
+        },
+        "name": ""
+    },
+    {
+        "id": "a404",
+        "line": {
+            "en": "She moves her finger on my abdomen, then touches\\nmy arm, and strokes while lightly grasping at it."
+        },
+        "name": ""
+    },
+    {
+        "id": "a804",
+        "line": {
+            "en": "My shuddering spread even further from those\\nmovements, and I let our a strange voice from my\\nthroat."
+        },
+        "name": ""
+    },
+    {
+        "id": "ac04",
+        "line": {
+            "en": "'Fua... a... u...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b004",
+        "line": {
+            "en": "Ageha stares at me as I'm agonizing."
+        },
+        "name": ""
+    },
+    {
+        "id": "b404",
+        "line": {
+            "en": "With heavy half open eyes as if afflicted by a\\nhigh fever, she looks at my body as if licking it\\nall over."
+        },
+        "name": ""
+    },
+    {
+        "id": "b804",
+        "line": {
+            "en": "That gaze made my naked skin feel even more\\nclammy."
+        },
+        "name": ""
+    },
+    {
+        "id": "bc04",
+        "line": {
+            "en": "'N... ya.. aa...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c004",
+        "line": {
+            "en": "I also licked Ageha's body with my gaze."
+        },
+        "name": ""
+    },
+    {
+        "id": "c404",
+        "line": {
+            "en": "In my vision, there was only Ageha."
+        },
+        "name": ""
+    },
+    {
+        "id": "c804",
+        "line": {
+            "en": "The Ageha I was staring at was twisting her body\\nin agony just like me."
+        },
+        "name": ""
+    },
+    {
+        "id": "cc04",
+        "line": {
+            "en": "That sight was unbelievably pretty."
+        },
+        "name": ""
+    },
+    {
+        "id": "d004",
+        "line": {
+            "en": "I took my hand, brought it to this very pretty\\nbeing... and touched it."
+        },
+        "name": ""
+    },
+    {
+        "id": "d404",
+        "line": {
+            "en": "'Ha... n...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d804",
+        "line": {
+            "en": "Bare white skin, and feverish body. Soft lines,\\nand captivating curves."
+        },
+        "name": ""
+    },
+    {
+        "id": "dc04",
+        "line": {
+            "en": "A girl's hot skin."
+        },
+        "name": ""
+    },
+    {
+        "id": "e004",
+        "line": {
+            "en": "It was trembling slightly."
+        },
+        "name": ""
+    },
+    {
+        "id": "e404",
+        "line": {
+            "en": "Her body reacts matching the movement of my hand,\\nand her cheeks and corners of her eyes twitch\\nticklishly, as if close to crying."
+        },
+        "name": ""
+    },
+    {
+        "id": "e804",
+        "line": {
+            "en": "'Nn... no... not... there...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ec04",
+        "line": {
+            "en": "Ageha lets out a small voice."
+        },
+        "name": ""
+    },
+    {
+        "id": "f004",
+        "line": {
+            "en": "Every time that voice enters my ears, it hits my\\nbrain as a white impact, just like the kisses\\nearlier."
+        },
+        "name": ""
+    },
+    {
+        "id": "f404",
+        "line": {
+            "en": "'No... n... ah...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f804",
+        "line": {
+            "en": "'Ah...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fc04",
+        "line": {
+            "en": "Ageha twists her body, her chest sways, and the\\nstraps on her bra moves apart left and right."
+        },
+        "name": ""
+    },
+    {
+        "id": "0104",
+        "line": {
+            "en": "And digs into her sides."
+        },
+        "name": ""
+    },
+    {
+        "id": "0504",
+        "line": {
+            "en": "'...Take them off...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0904",
+        "line": {
+            "en": "'Okay...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0d04",
+        "line": {
+            "en": "I take of her bra."
+        },
+        "name": ""
+    },
+    {
+        "id": "1104",
+        "line": {
+            "en": "I bring my arm around to Ageha's lifted back, and\\nundo the hook..."
+        },
+        "name": ""
+    },
+    {
+        "id": "1504",
+        "line": {
+            "en": "'Nn... and... here...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1904",
+        "line": {
+            "en": "Ageha grabs onto my arms and holds up her upper\\nbody."
+        },
+        "name": ""
+    },
+    {
+        "id": "1d04",
+        "line": {
+            "en": "I support Ageha with my hands from both sides,\\nbend my wrists and tamper with the hook."
+        },
+        "name": ""
+    },
+    {
+        "id": "2104",
+        "line": {
+            "en": "I understand the design of it, like this...\\nthere!"
+        },
+        "name": ""
+    },
+    {
+        "id": "2504",
+        "line": {
+            "en": "'Nn... haaa...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2904",
+        "line": {
+            "en": "Right when the hook's undone and straps loosen,\\nAgeha's face relaxes with a feeling of liberation\\nand lets our a big breath."
+        },
+        "name": ""
+    },
+    {
+        "id": "2d04",
+        "line": {
+            "en": "'Wah...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3104",
+        "line": {
+            "en": "The cups come off, and her breasts lay bare."
+        },
+        "name": ""
+    },
+    {
+        "id": "3504",
+        "line": {
+            "en": "Ageha's, chest..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3904",
+        "line": {
+            "en": "White, spread out, round, big, soft, shaking, and\\nswaying like jelly..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3d04",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4104",
+        "line": {
+            "en": "I couldn't think of anything."
+        },
+        "name": ""
+    },
+    {
+        "id": "4504",
+        "line": {
+            "en": "Ageha's naked, actual boobs."
+        },
+        "name": ""
+    },
+    {
+        "id": "4904",
+        "line": {
+            "en": "'N-no, don't look at them... so much... no...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4d04",
+        "line": {
+            "en": "Trying to say that jokingly, Ageha's face rapidly\\nturned red again, her tone became choked, and in\\nthe end, held her tongue."
+        },
+        "name": ""
+    },
+    {
+        "id": "5104",
+        "line": {
+            "en": "*thump* *thump*. The sound of heartbeats, not\\njust my own, but Ageha's too, can be heard."
+        },
+        "name": ""
+    },
+    {
+        "id": "5504",
+        "line": {
+            "en": "Ageha's getting excited again too."
+        },
+        "name": ""
+    },
+    {
+        "id": "5904",
+        "line": {
+            "en": "Her chest facing up, breathing heavily, and her\\nnipples of a lovely color."
+        },
+        "name": ""
+    },
+    {
+        "id": "5d04",
+        "line": {
+            "en": "They were swaying left and right."
+        },
+        "name": ""
+    },
+    {
+        "id": "6104",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6504",
+        "line": {
+            "en": "I stretched out my hand."
+        },
+        "name": ""
+    },
+    {
+        "id": "6904",
+        "line": {
+            "en": "Ageha swallows her breath."
+        },
+        "name": ""
+    },
+    {
+        "id": "6d04",
+        "line": {
+            "en": "I stop breathing too, and touch those bulges."
+        },
+        "name": ""
+    },
+    {
+        "id": "7104",
+        "line": {
+            "en": "Funyu...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "7504",
+        "line": {
+            "en": "'!!!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7904",
+        "line": {
+            "en": "My hand! The palm of my hand! This!"
+        },
+        "name": ""
+    },
+    {
+        "id": "7d04",
+        "line": {
+            "en": "This texture, this sensation, emotion, impact,\\npleasure! Anyways, it's amazing!"
+        },
+        "name": ""
+    },
+    {
+        "id": "8104",
+        "line": {
+            "en": "'No... nn...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8504",
+        "line": {
+            "en": "This incomparable softness and elasticity fills\\nmy hand, and a pleasure unknown to me spreads."
+        },
+        "name": ""
+    },
+    {
+        "id": "8904",
+        "line": {
+            "en": "I keep clutching it."
+        },
+        "name": ""
+    },
+    {
+        "id": "8d04",
+        "line": {
+            "en": "'Nn!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9104",
+        "line": {
+            "en": "I hear her voice resound in pain and immediately\\nrelease my strength."
+        },
+        "name": ""
+    },
+    {
+        "id": "9504",
+        "line": {
+            "en": "'L-like this...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9904",
+        "line": {
+            "en": "'Nn...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9d04",
+        "line": {
+            "en": "Looks like it's okay now."
+        },
+        "name": ""
+    },
+    {
+        "id": "a104",
+        "line": {
+            "en": "Then, I'll rub them... like this..."
+        },
+        "name": ""
+    },
+    {
+        "id": "a504",
+        "line": {
+            "en": "'N... n...nn...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a904",
+        "line": {
+            "en": "A-amazing, this texture, this pleasant\\nfeeling...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "ad04",
+        "line": {
+            "en": "Completely absorbed in rubbing, a ticklish\\nfeeling is born in the palm of my hand."
+        },
+        "name": ""
+    },
+    {
+        "id": "b104",
+        "line": {
+            "en": "These are, nipples... they've become hard..."
+        },
+        "name": ""
+    },
+    {
+        "id": "b504",
+        "line": {
+            "en": "I tried spinning them."
+        },
+        "name": ""
+    },
+    {
+        "id": "b904",
+        "line": {
+            "en": "'Nnn, nn... nn, hannn, fua!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bd04",
+        "line": {
+            "en": "Ageha raises a sweet voice that's completely\\nunlike her, and twists her body in agony."
+        },
+        "name": ""
+    },
+    {
+        "id": "c104",
+        "line": {
+            "en": "'Nn, w-wait!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c504",
+        "line": {
+            "en": "'Does it hurt?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "c904",
+        "line": {
+            "en": "'Not that, i-it's amazing... that shocks... run\\nthrough my body so... Be more gentle...\\nplease...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cd04",
+        "line": {
+            "en": "'Nn... like this...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d104",
+        "line": {
+            "en": "Sliding my hand, and applying my fingers,\\ncarefully, like handling something fragile..."
+        },
+        "name": ""
+    },
+    {
+        "id": "d504",
+        "line": {
+            "en": "Gently touching, and gently caressing... gently,\\ngently, using my fingers..."
+        },
+        "name": ""
+    },
+    {
+        "id": "d904",
+        "line": {
+            "en": "'Nnn... n... n ah... ah...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "dd04",
+        "line": {
+            "en": "Ageha's eyes flicker, and her mouth twitches."
+        },
+        "name": ""
+    },
+    {
+        "id": "e104",
+        "line": {
+            "en": "'Fua... a... a... nfu, fu... ah!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e504",
+        "line": {
+            "en": "There's no mistake... Ageha... feels good!"
+        },
+        "name": ""
+    },
+    {
+        "id": "e904",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ed04",
+        "line": {
+            "en": "I don't know how many impacts this makes."
+        },
+        "name": ""
+    },
+    {
+        "id": "f104",
+        "line": {
+            "en": "And on my side too\u0081\\\u0081\\ my blood boils and surges\\nwith a rumbling noise."
+        },
+        "name": ""
+    },
+    {
+        "id": "f504",
+        "line": {
+            "en": "My breathing becomes choked, vision narrows, body\\nburns, electricity runs through me, and my\\ncrotch\u0081\\\u0081\\ seems like it's going to explode."
+        },
+        "name": ""
+    },
+    {
+        "id": "f904",
+        "line": {
+            "en": "'Haa, n-no... A...Aoii... nn, fu... hya, no,\\nstop... ha, aaah...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fd04",
+        "line": {
+            "en": "When I roll her nipples, Ageha twists and\\nwriggles, and her feverish body becomes even\\nhotter."
+        },
+        "name": ""
+    },
+    {
+        "id": "0204",
+        "line": {
+            "en": "Watching that reaction, my whole body becomes\\nnumb, and my crotch has grown to an amazing\\nextent."
+        },
+        "name": ""
+    },
+    {
+        "id": "0604",
+        "line": {
+            "en": "And then as she's agonizing, Ageha stretches her\\nhand to me..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0a04",
+        "line": {
+            "en": "As if getting payback, she starts stroking my\\nbody."
+        },
+        "name": ""
+    },
+    {
+        "id": "0e04",
+        "line": {
+            "en": "'Nn, n... uah!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1204",
+        "line": {
+            "en": "*shiver* *shudder* *twitch* *twitch*. My body\\nreacts like that, and I accidentally let out a\\nvoice."
+        },
+        "name": ""
+    },
+    {
+        "id": "1604",
+        "line": {
+            "en": "This is embarassing. But it feels good. Very\\ngood."
+        },
+        "name": ""
+    },
+    {
+        "id": "1a04",
+        "line": {
+            "en": "'Nn... here?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1e04",
+        "line": {
+            "en": "Ageha's fingers came to my chest, and played with\\nmy nipple."
+        },
+        "name": ""
+    },
+    {
+        "id": "2204",
+        "line": {
+            "en": "'Hya!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2604",
+        "line": {
+            "en": "I let out a pitiful voice."
+        },
+        "name": ""
+    },
+    {
+        "id": "2a04",
+        "line": {
+            "en": "But it was a huge stimulus, enough for me to\\nforget how embarassing it was... enough for my\\ncrotch to come close to rupturing."
+        },
+        "name": ""
+    },
+    {
+        "id": "2e04",
+        "line": {
+            "en": "'Haa, haa... haa... haa...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3204",
+        "line": {
+            "en": "'...ha... ha...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3604",
+        "line": {
+            "en": "We both stop our hands, and breathe heavily while\\nstaring at each other."
+        },
+        "name": ""
+    },
+    {
+        "id": "3a04",
+        "line": {
+            "en": "My heart's racing, and crotch is throbbing in\\npain."
+        },
+        "name": ""
+    },
+    {
+        "id": "3e04",
+        "line": {
+            "en": "Being unable to think normally, I expose my lower\\nhalf with trembling hands."
+        },
+        "name": ""
+    },
+    {
+        "id": "4204",
+        "line": {
+            "en": "'Ah...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4604",
+        "line": {
+            "en": "Ageha sees me doing this and widens her eyes."
+        },
+        "name": ""
+    },
+    {
+        "id": "4a04",
+        "line": {
+            "en": "But at the same time, she lifted her hip a\\nlittle\u0081\\\u0081\\and brings her hand there..."
+        },
+        "name": ""
+    },
+    {
+        "id": "4e04",
+        "line": {
+            "en": "Just like me, she's... grabs the last layer\\nhiding her important part and..."
+        },
+        "name": ""
+    },
+    {
+        "id": "5204",
+        "line": {
+            "en": "Takes it off...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "5604",
+        "line": {
+            "en": "'Waah...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5a04",
+        "line": {
+            "en": "Without any cloth, in the same figure she was\\nborn with."
+        },
+        "name": ""
+    },
+    {
+        "id": "5e04",
+        "line": {
+            "en": "Her chest big, waist thin, and both her legs\\nplump..."
+        },
+        "name": ""
+    },
+    {
+        "id": "6204",
+        "line": {
+            "en": "In the that space... between her legs... there\\nis..."
+        },
+        "name": ""
+    },
+    {
+        "id": "6604",
+        "line": {
+            "en": "A-a girl's, place, that part... is..."
+        },
+        "name": ""
+    },
+    {
+        "id": "6a04",
+        "line": {
+            "en": "'...gulp.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6e04",
+        "line": {
+            "en": "'Uu...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7204",
+        "line": {
+            "en": "A sound leaked from Ageha's throat as if she's\\nunable to endure the shame."
+        },
+        "name": ""
+    },
+    {
+        "id": "7604",
+        "line": {
+            "en": "However, forgetting to be considerate to her, I\\nstare at that part."
+        },
+        "name": ""
+    },
+    {
+        "id": "7a04",
+        "line": {
+            "en": "Between her legs, a slit running vertical."
+        },
+        "name": ""
+    },
+    {
+        "id": "7e04",
+        "line": {
+            "en": "Amazing."
+        },
+        "name": ""
+    },
+    {
+        "id": "8204",
+        "line": {
+            "en": "This is a girl's genitals."
+        },
+        "name": ""
+    },
+    {
+        "id": "8604",
+        "line": {
+            "en": "It isn't just a simple line."
+        },
+        "name": ""
+    },
+    {
+        "id": "8a04",
+        "line": {
+            "en": "The sides are bulged up, and in the center, the\\nlips are puffed out... honestly, it's quite\\nvivid."
+        },
+        "name": ""
+    },
+    {
+        "id": "8e04",
+        "line": {
+            "en": "And sticking out from the part where they join\\nmust be the clitoris..."
+        },
+        "name": ""
+    },
+    {
+        "id": "9204",
+        "line": {
+            "en": "And in there... in that slippery place...\\nthere... inside there, I'll take my thing and...\\nput it in...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "9604",
+        "line": {
+            "en": "I bring my hips close to Ageha while she's\\nbreathing heavily."
+        },
+        "name": ""
+    },
+    {
+        "id": "9a04",
+        "line": {
+            "en": "'H... here goes...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9e04",
+        "line": {
+            "en": "'Y-yeah...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a204",
+        "line": {
+            "en": "I touch it with my erect penis."
+        },
+        "name": ""
+    },
+    {
+        "id": "a604",
+        "line": {
+            "en": "Slippery, and hot."
+        },
+        "name": ""
+    },
+    {
+        "id": "aa04",
+        "line": {
+            "en": "My penis also had plenty of juice leaking out,\\nand seemed like it would ejaculate just from\\ntouching."
+        },
+        "name": ""
+    },
+    {
+        "id": "ae04",
+        "line": {
+            "en": "I-it's... this spot... right..."
+        },
+        "name": ""
+    },
+    {
+        "id": "b204",
+        "line": {
+            "en": "I grip my penis, and fasten it in."
+        },
+        "name": ""
+    },
+    {
+        "id": "b604",
+        "line": {
+            "en": "H-here?"
+        },
+        "name": ""
+    },
+    {
+        "id": "ba04",
+        "line": {
+            "en": "'Uu...uuu...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "be04",
+        "line": {
+            "en": "Here? Is it here?"
+        },
+        "name": ""
+    },
+    {
+        "id": "c204",
+        "line": {
+            "en": "'No...nn...don't...rub...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c604",
+        "line": {
+            "en": "The tip of my penis was rubbing up and down\\nagainst her vagina, the juices squirm."
+        },
+        "name": ""
+    },
+    {
+        "id": "ca04",
+        "line": {
+            "en": "...ahh that's right, this is not just my\\nlubricants."
+        },
+        "name": ""
+    },
+    {
+        "id": "ce04",
+        "line": {
+            "en": "Within the inner part of the crevice, a sweet and\\nsour sticky liquid was pouring out."
+        },
+        "name": ""
+    },
+    {
+        "id": "d204",
+        "line": {
+            "en": "Ageha was also...wetting herself...she's\\naroused...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "d604",
+        "line": {
+            "en": "'I'm coming in...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "da04",
+        "line": {
+            "en": "The tantalizing feeling within my whole body,\\nfelt like it was about to explode."
+        },
+        "name": ""
+    },
+    {
+        "id": "de04",
+        "line": {
+            "en": "I want to go inside of her. Quickly!"
+        },
+        "name": ""
+    },
+    {
+        "id": "e204",
+        "line": {
+            "en": "I wan to do it. with Ageha. I want to connect\\nwith her now."
+        },
+        "name": ""
+    },
+    {
+        "id": "e604",
+        "line": {
+            "en": "Sex. The real thing. This is my first time...at\\nlong last!"
+        },
+        "name": ""
+    },
+    {
+        "id": "ea04",
+        "line": {
+            "en": "'Haa, haa, haa...nn...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ee04",
+        "line": {
+            "en": "Searching for the spot, the tip of it buried just\\npast the opening flap."
+        },
+        "name": ""
+    },
+    {
+        "id": "f204",
+        "line": {
+            "en": "'Here...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f604",
+        "line": {
+            "en": "It was more further down than I had expected."
+        },
+        "name": ""
+    },
+    {
+        "id": "fa04",
+        "line": {
+            "en": "I shifted my thing to match the correct\\nposition..."
+        },
+        "name": ""
+    },
+    {
+        "id": "fe04",
+        "line": {
+            "en": "Then fingered the location."
+        },
+        "name": ""
+    },
+    {
+        "id": "0304",
+        "line": {
+            "en": "'Ahh...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0704",
+        "line": {
+            "en": "The elastic vaginal walls split open left and\\nright."
+        },
+        "name": ""
+    },
+    {
+        "id": "0b04",
+        "line": {
+            "en": "Stretched opened by the tip of my penis, the\\nflowery flesh within opens up."
+        },
+        "name": ""
+    },
+    {
+        "id": "0f04",
+        "line": {
+            "en": "Amazing...it's become like this inside...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "1304",
+        "line": {
+            "en": "Impressed for a second, I pushed it into the\\nplace I had found."
+        },
+        "name": ""
+    },
+    {
+        "id": "1704",
+        "line": {
+            "en": "That was all I could think. Right now, I have to\\nput it in, to that place."
+        },
+        "name": ""
+    },
+    {
+        "id": "1b04",
+        "line": {
+            "en": "'Nnn!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1f04",
+        "line": {
+            "en": "'Kuu...oo...oo...ooo!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2304",
+        "line": {
+            "en": "(Watery sounds)"
+        },
+        "name": ""
+    },
+    {
+        "id": "2704",
+        "line": {
+            "en": "Bit by bit, a milimetre at a time, I entered\\nAgeha."
+        },
+        "name": ""
+    },
+    {
+        "id": "2b04",
+        "line": {
+            "en": "Starting from the tip, then the mid section, then\\nfurther down...I sunk into her extremely hot\\nspot."
+        },
+        "name": ""
+    },
+    {
+        "id": "2f04",
+        "line": {
+            "en": "'Nn, ku, wa, wait...guu!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3304",
+        "line": {
+            "en": "She got wetter."
+        },
+        "name": ""
+    },
+    {
+        "id": "3704",
+        "line": {
+            "en": "It's wet. And tight. But thanks to the lubricants\\nI could go in easier. Inside that soaked opening,\\nI..."
+        },
+        "name": ""
+    },
+    {
+        "id": "3b04",
+        "line": {
+            "en": "It's tight, and compressed, I forced my erection\\nfurther in...bit by bit, deeper and deeper."
+        },
+        "name": ""
+    },
+    {
+        "id": "3f04",
+        "line": {
+            "en": "'Guu, guu! Aah!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4304",
+        "line": {
+            "en": "Slip."
+        },
+        "name": ""
+    },
+    {
+        "id": "4704",
+        "line": {
+            "en": "Slip. Splash."
+        },
+        "name": ""
+    },
+    {
+        "id": "4b04",
+        "line": {
+            "en": "'Gii! Guuu!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4f04",
+        "line": {
+            "en": "Ageha bit down on her teeth as she endured."
+        },
+        "name": ""
+    },
+    {
+        "id": "5304",
+        "line": {
+            "en": "I pushed even further."
+        },
+        "name": ""
+    },
+    {
+        "id": "5704",
+        "line": {
+            "en": "'Uu, guu...guu...uuu...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5b04",
+        "line": {
+            "en": "The sweetness had disappeared, all that's left\\nwas frown."
+        },
+        "name": ""
+    },
+    {
+        "id": "5f04",
+        "line": {
+            "en": "'Does...does it hurt...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6304",
+        "line": {
+            "en": "'Of course...!!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6704",
+        "line": {
+            "en": "She looked at me with teary eyes."
+        },
+        "name": ""
+    },
+    {
+        "id": "6b04",
+        "line": {
+            "en": "'Is that right...I'm sorry...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6f04",
+        "line": {
+            "en": "As I apologized, I understood something."
+        },
+        "name": ""
+    },
+    {
+        "id": "7304",
+        "line": {
+            "en": "I'm...doing it...with Ageha."
+        },
+        "name": ""
+    },
+    {
+        "id": "7704",
+        "line": {
+            "en": "Ageha's first time. Her virginity."
+        },
+        "name": ""
+    },
+    {
+        "id": "7b04",
+        "line": {
+            "en": "I'm, taking it...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "7f04",
+        "line": {
+            "en": "'Ah...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8304",
+        "line": {
+            "en": "I went in again...with my penis, into the girl's\\nbody."
+        },
+        "name": ""
+    },
+    {
+        "id": "8704",
+        "line": {
+            "en": "I'm losing my virginity."
+        },
+        "name": ""
+    },
+    {
+        "id": "8b04",
+        "line": {
+            "en": "I experienced it...sex...the real thing..."
+        },
+        "name": ""
+    },
+    {
+        "id": "8f04",
+        "line": {
+            "en": "'A-...are you okay...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9304",
+        "line": {
+            "en": "It's in. For reals. This entire thing, inside\\nAgeha."
+        },
+        "name": ""
+    },
+    {
+        "id": "9704",
+        "line": {
+            "en": "It can go in. Amazing."
+        },
+        "name": ""
+    },
+    {
+        "id": "9b04",
+        "line": {
+            "en": "But Ageha looked like she was in pain."
+        },
+        "name": ""
+    },
+    {
+        "id": "9f04",
+        "line": {
+            "en": "It hurts her. Breaking the hymen."
+        },
+        "name": ""
+    },
+    {
+        "id": "a304",
+        "line": {
+            "en": "This is bad...Ageha looked like she was in a lot\\nof pain."
+        },
+        "name": ""
+    },
+    {
+        "id": "a704",
+        "line": {
+            "en": "'It hurts...but this much I can...somehow\\nbear...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ab04",
+        "line": {
+            "en": "'Don't force yourself.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "af04",
+        "line": {
+            "en": "'I'm fine. It definitely hurts but, it wasn't as\\nbad as I had imagined it to be...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b304",
+        "line": {
+            "en": "'But it hurts doesn't it?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "b704",
+        "line": {
+            "en": "'Don't worry about it. That's how it is.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bb04",
+        "line": {
+            "en": "'...I'm sorry.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "bf04",
+        "line": {
+            "en": "I felt helpless."
+        },
+        "name": ""
+    },
+    {
+        "id": "c304",
+        "line": {
+            "en": "'Moreover...this isn't really all, isn't it?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c704",
+        "line": {
+            "en": "'Yeah...but if it hurts, then we shouldn't force\\nit...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cb04",
+        "line": {
+            "en": "'No. You haven't felt good yet right?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cf04",
+        "line": {
+            "en": "'If it ended like this, it wouldn't just be\\nregular pain left for me.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d304",
+        "line": {
+            "en": "'Muu...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d704",
+        "line": {
+            "en": "Down there I was throbbing."
+        },
+        "name": ""
+    },
+    {
+        "id": "db04",
+        "line": {
+            "en": "Despite Ageha's pain, my penis hadn't subsided at\\nall. It beckons me to want to indulge in her hot\\nspot even more."
+        },
+        "name": ""
+    },
+    {
+        "id": "df04",
+        "line": {
+            "en": "I can't recede the throbbing."
+        },
+        "name": ""
+    },
+    {
+        "id": "e304",
+        "line": {
+            "en": "Ageha's bare skin and breast, and her beautiful\\ncurvature, just seeing it makes it impossible for\\nme to back down."
+        },
+        "name": ""
+    },
+    {
+        "id": "e704",
+        "line": {
+            "en": "'Are you sure...?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "eb04",
+        "line": {
+            "en": "'Of course...my body can take it. Do as you\\nlike.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ef04",
+        "line": {
+            "en": "'But...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f304",
+        "line": {
+            "en": "Ageha in her unmistakable honest voice."
+        },
+        "name": ""
+    },
+    {
+        "id": "f704",
+        "line": {
+            "en": "'Please, do it gently...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fb04",
+        "line": {
+            "en": "'...okay...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ff04",
+        "line": {
+            "en": "I hovered over Ageha, then watching her stomach\\nmovements, I matched her breathing."
+        },
+        "name": ""
+    },
+    {
+        "id": "0008",
+        "line": {
+            "en": "(Inhale exhale) I breathed in our multiple times."
+        },
+        "name": ""
+    },
+    {
+        "id": "0408",
+        "line": {
+            "en": "Then placed a hand on Ageha's hips, and brought\\nmy weight onto her."
+        },
+        "name": ""
+    },
+    {
+        "id": "0808",
+        "line": {
+            "en": "The half buried penis, in one splurt, I thrusted\\nit in!"
+        },
+        "name": ""
+    },
+    {
+        "id": "0c08",
+        "line": {
+            "en": "'Kuuuu!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1008",
+        "line": {
+            "en": "Despite being painful, I forcefully jabbed it in.\\nAnd Ageha's scowled from the pain."
+        },
+        "name": ""
+    },
+    {
+        "id": "1408",
+        "line": {
+            "en": "Sorry...but I thought this would be better to do\\nin one go, than to go in gradually."
+        },
+        "name": ""
+    },
+    {
+        "id": "1808",
+        "line": {
+            "en": "'Waa...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1c08",
+        "line": {
+            "en": "Then I was astonished. And deeply moved."
+        },
+        "name": ""
+    },
+    {
+        "id": "2008",
+        "line": {
+            "en": "My penis was inside Ageha, all the way to the\\nbottom."
+        },
+        "name": ""
+    },
+    {
+        "id": "2408",
+        "line": {
+            "en": "'Amazing...it's all the way in...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2808",
+        "line": {
+            "en": "'Y-yea...wow...all the way...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2c08",
+        "line": {
+            "en": "She nervously touched her abdomen."
+        },
+        "name": ""
+    },
+    {
+        "id": "3008",
+        "line": {
+            "en": "'It's really, in...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3408",
+        "line": {
+            "en": "'Yeah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3808",
+        "line": {
+            "en": "'Uu...I can feel, the shape...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3c08",
+        "line": {
+            "en": "She pressed on her lower stomach lightly, and the\\npressure transmitted to my penis."
+        },
+        "name": ""
+    },
+    {
+        "id": "4008",
+        "line": {
+            "en": "Whoa, the stimulation...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "4408",
+        "line": {
+            "en": "'Nn!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4808",
+        "line": {
+            "en": "Because of the response on my erection, the pain\\nhits Ageha and her face tightens again."
+        },
+        "name": ""
+    },
+    {
+        "id": "4c08",
+        "line": {
+            "en": "'Fuu. this thing...wants to ejaculate... right?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5008",
+        "line": {
+            "en": "'Y...yes...but...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5408",
+        "line": {
+            "en": "'You can. I told you already, you have to finish\\nthis.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5808",
+        "line": {
+            "en": "Ageha forced herself to smile as she prompted me."
+        },
+        "name": ""
+    },
+    {
+        "id": "5c08",
+        "line": {
+            "en": "'...here we go.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6008",
+        "line": {
+            "en": "But before that, I hung over Ageha."
+        },
+        "name": ""
+    },
+    {
+        "id": "6408",
+        "line": {
+            "en": "'Nn...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6808",
+        "line": {
+            "en": "'Aah...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6c08",
+        "line": {
+            "en": "Our skin and body came in contact."
+        },
+        "name": ""
+    },
+    {
+        "id": "7008",
+        "line": {
+            "en": "My chest pressed against hers."
+        },
+        "name": ""
+    },
+    {
+        "id": "7408",
+        "line": {
+            "en": "'Nnn...nn, nn...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7808",
+        "line": {
+            "en": "Inside of her, my penis had hardened like steel."
+        },
+        "name": ""
+    },
+    {
+        "id": "7c08",
+        "line": {
+            "en": "This feeling is too good. Be it her bare body,\\nher breast, every little thing was so good I\\ncouldn't comprehend it!"
+        },
+        "name": ""
+    },
+    {
+        "id": "8008",
+        "line": {
+            "en": "'Nnn, uu, uu...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8408",
+        "line": {
+            "en": "As if all the blood in my body was a volcano, I\\ncould hear loud ringing from my brain."
+        },
+        "name": ""
+    },
+    {
+        "id": "8808",
+        "line": {
+            "en": "All it was was a hug, all it was was having our\\nbodies connected."
+        },
+        "name": ""
+    },
+    {
+        "id": "8c08",
+        "line": {
+            "en": "Why does it feel...this...good...!?"
+        },
+        "name": ""
+    },
+    {
+        "id": "9008",
+        "line": {
+            "en": "'Fuaa, ahh, ah...haa...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9408",
+        "line": {
+            "en": "Ageha's voice tickle my ears and assault my\\nbrain."
+        },
+        "name": ""
+    },
+    {
+        "id": "9808",
+        "line": {
+            "en": "My cool-headedness evaporate."
+        },
+        "name": ""
+    },
+    {
+        "id": "9c08",
+        "line": {
+            "en": "I began to move my hips, my penis rubbing forward\\nand backwards."
+        },
+        "name": ""
+    },
+    {
+        "id": "a008",
+        "line": {
+            "en": "'Uuu...uaa...aa...aah...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a408",
+        "line": {
+            "en": "A-amazing!"
+        },
+        "name": ""
+    },
+    {
+        "id": "a808",
+        "line": {
+            "en": "Doing this in the wet warm insides cannot be\\ncompared with doing it by my hand. This is\\nextremely good!"
+        },
+        "name": ""
+    },
+    {
+        "id": "ac08",
+        "line": {
+            "en": "F-feels good! Amazing! Too good!"
+        },
+        "name": ""
+    },
+    {
+        "id": "b008",
+        "line": {
+            "en": "So this is, sex!?"
+        },
+        "name": ""
+    },
+    {
+        "id": "b408",
+        "line": {
+            "en": "'Nnn...kuu...nn...uu...ffu...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b808",
+        "line": {
+            "en": "I went in and out of her body. In...then\\nout...then in."
+        },
+        "name": ""
+    },
+    {
+        "id": "bc08",
+        "line": {
+            "en": "I know I have to mind her body, I musn't make her\\nfeel pain."
+        },
+        "name": ""
+    },
+    {
+        "id": "c008",
+        "line": {
+            "en": "But I couldn't restrict my body."
+        },
+        "name": ""
+    },
+    {
+        "id": "c408",
+        "line": {
+            "en": "My pants grew disarranged, my eyes clouded."
+        },
+        "name": ""
+    },
+    {
+        "id": "c808",
+        "line": {
+            "en": "I could not control my mouth, the cheeks muscles\\nslacked causing my saliva to drool out."
+        },
+        "name": ""
+    },
+    {
+        "id": "cc08",
+        "line": {
+            "en": "Unbearable...ah...feels good...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "d008",
+        "line": {
+            "en": "'Nn...nn...nn...nn...nn...nn...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d408",
+        "line": {
+            "en": "Like a robot, I rocked my hips."
+        },
+        "name": ""
+    },
+    {
+        "id": "d808",
+        "line": {
+            "en": "'Nn,\\nnn...nn...nn...nn...nn...fuu...fuu...nn...haa...kuu...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "dc08",
+        "line": {
+            "en": "Accompany my rocking came Ageha's moans."
+        },
+        "name": ""
+    },
+    {
+        "id": "e008",
+        "line": {
+            "en": "At first it was still painful."
+        },
+        "name": ""
+    },
+    {
+        "id": "e408",
+        "line": {
+            "en": "But as we pressed on, her voice grew into a\\nsemi-sweet ring..."
+        },
+        "name": ""
+    },
+    {
+        "id": "e808",
+        "line": {
+            "en": "'Nn, nn, nn...aa...nn, fuu...haa...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ec08",
+        "line": {
+            "en": "'It hurts?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f008",
+        "line": {
+            "en": "'It does, still...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f408",
+        "line": {
+            "en": "The part of my penis that came out into the air\\nwith each thrust, was covered in a mixture of\\njuices, including some red."
+        },
+        "name": ""
+    },
+    {
+        "id": "f808",
+        "line": {
+            "en": "'Nn...b-but...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fc08",
+        "line": {
+            "en": "Ageha's eyes reflected a different colour to\\nbefore."
+        },
+        "name": ""
+    },
+    {
+        "id": "0108",
+        "line": {
+            "en": "'Just earlier...gradually\\nit's...become...nn...different...like\\nelectric...feels like...nnn...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0508",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0908",
+        "line": {
+            "en": "'...(gulp)...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0d08",
+        "line": {
+            "en": "I swallowed."
+        },
+        "name": ""
+    },
+    {
+        "id": "1108",
+        "line": {
+            "en": "'It's really hot inside, Ageha's... this\\nis...this is a girl's...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1508",
+        "line": {
+            "en": "'Noo, don't say it...it's embarassing...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1908",
+        "line": {
+            "en": "'But it's inside, it's completely in...this\\nfar...all the way...so deeply...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1d08",
+        "line": {
+            "en": "'That's true...something so big, and hot. I\\ndidn't think...it was possible...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2108",
+        "line": {
+            "en": "Ageha looked at her lower half again."
+        },
+        "name": ""
+    },
+    {
+        "id": "2508",
+        "line": {
+            "en": "At the same time continued going back and forth."
+        },
+        "name": ""
+    },
+    {
+        "id": "2908",
+        "line": {
+            "en": "'Nn, nn...nn...nn...fuu...aa...something's...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2d08",
+        "line": {
+            "en": "A sweet moan began leaking out from her."
+        },
+        "name": ""
+    },
+    {
+        "id": "3108",
+        "line": {
+            "en": "'Nn...nn...ahh...nnn...this...haa...more and\\nmore...getting...nn...good...ah...aaa...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3508",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3908",
+        "line": {
+            "en": "Ageha's moans vibrate all through my body."
+        },
+        "name": ""
+    },
+    {
+        "id": "3d08",
+        "line": {
+            "en": "Including the thing inside of her, that spot was\\nwhere it vibrated the hardest."
+        },
+        "name": ""
+    },
+    {
+        "id": "4108",
+        "line": {
+            "en": "Thanks to that, I hardened even more."
+        },
+        "name": ""
+    },
+    {
+        "id": "4508",
+        "line": {
+            "en": "'Nn, uu, uuu...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4908",
+        "line": {
+            "en": "The strained glans were being rubbed and enclosed\\nfor every angle by our mucous membrane."
+        },
+        "name": ""
+    },
+    {
+        "id": "4d08",
+        "line": {
+            "en": "A pleasure I had not experienced before, causing\\nall my pores to open, and every nerve to\\nactivate."
+        },
+        "name": ""
+    },
+    {
+        "id": "5108",
+        "line": {
+            "en": "'Nn, amazing...hey...this...aa...aaa...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5508",
+        "line": {
+            "en": "'Aoi is, feeling good, I can tell, I can tell it,\\nit's...conveying to me...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5908",
+        "line": {
+            "en": "'Nn, Ageha...sorry...! It felt too good, I\\ncouldn't stop...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5d08",
+        "line": {
+            "en": "'D-don't apologize...I'll be fine...it feels more\\nso pleasure, than pain...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6108",
+        "line": {
+            "en": "Ageha's body heated up like building up\\nsomething."
+        },
+        "name": ""
+    },
+    {
+        "id": "6508",
+        "line": {
+            "en": "'Don't make me say it!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6908",
+        "line": {
+            "en": "'Does it feel good?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6d08",
+        "line": {
+            "en": "'...yeah...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7108",
+        "line": {
+            "en": "'Thank goodness...I thought you were only feeling\\npain...if it was just me, feeling good, I\\nwouldn't be happy...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7508",
+        "line": {
+            "en": "'Don't worry. It really, feels good...and\\nhappy...nn, it feels extremely good...to the\\npoint I can't believe it.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7908",
+        "line": {
+            "en": "'Ageha...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7d08",
+        "line": {
+            "en": "'Aoi...move, more...it feels good so please move\\nmore, do it as you like...with all your\\nstrength!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8108",
+        "line": {
+            "en": "In response, I rocked my hips more."
+        },
+        "name": ""
+    },
+    {
+        "id": "8508",
+        "line": {
+            "en": "'Nn, nn, haa, ah, aa, haa, nn!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8908",
+        "line": {
+            "en": "Ageha's face disotorted, a sweet sounding moan\\nemit from her throat."
+        },
+        "name": ""
+    },
+    {
+        "id": "8d08",
+        "line": {
+            "en": "'It throbs, more and more, the pleasure is,\\nswelling...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9108",
+        "line": {
+            "en": "Ageha clung onto my arms."
+        },
+        "name": ""
+    },
+    {
+        "id": "9508",
+        "line": {
+            "en": "'I don't know what to do, Aoi...it feels good,\\nthis, really good...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9908",
+        "line": {
+            "en": "'Nnn...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9d08",
+        "line": {
+            "en": "Ageha is feeling good...because of me!"
+        },
+        "name": ""
+    },
+    {
+        "id": "a108",
+        "line": {
+            "en": "That understanding caused an unbelievable\\npleasure within me."
+        },
+        "name": ""
+    },
+    {
+        "id": "a508",
+        "line": {
+            "en": "'Nnn, nn, haa, fuu!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a908",
+        "line": {
+            "en": "My breaths cut short, almost dizzy."
+        },
+        "name": ""
+    },
+    {
+        "id": "ad08",
+        "line": {
+            "en": "The stimulation on my penis has gotten much\\nintense."
+        },
+        "name": ""
+    },
+    {
+        "id": "b108",
+        "line": {
+            "en": "The hot wet rubbing down there was indescribable."
+        },
+        "name": ""
+    },
+    {
+        "id": "b508",
+        "line": {
+            "en": "'Nnn, uu, ah, aa, ya, aa, aaaa!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "b908",
+        "line": {
+            "en": "Her grip on my arm strengthens, basically clawing\\nonto me now."
+        },
+        "name": ""
+    },
+    {
+        "id": "bd08",
+        "line": {
+            "en": "Back and forth, furiously."
+        },
+        "name": ""
+    },
+    {
+        "id": "c108",
+        "line": {
+            "en": "Of course the insides down there felt good but,"
+        },
+        "name": ""
+    },
+    {
+        "id": "c508",
+        "line": {
+            "en": "It was Ageha's shaking breast and naked body from\\nmy thrusts that were...the most awesome."
+        },
+        "name": ""
+    },
+    {
+        "id": "c908",
+        "line": {
+            "en": "'Haa, nn, aaa, aa...nn, Aoi, aah, aah, nn, haa!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cd08",
+        "line": {
+            "en": "Aah, god, so good, I can't, Ageha...it's\\ngood...I, feeling really good...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "d108",
+        "line": {
+            "en": "'No, s-, stop, don't!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d508",
+        "line": {
+            "en": "Ageha suddenly forced me back."
+        },
+        "name": ""
+    },
+    {
+        "id": "d908",
+        "line": {
+            "en": "'...does it hurt after all?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "dd08",
+        "line": {
+            "en": "'No, it's not pain...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e108",
+        "line": {
+            "en": "Her face reddens up to her ears."
+        },
+        "name": ""
+    },
+    {
+        "id": "e508",
+        "line": {
+            "en": "'It...feels too good...I'm going nuts...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "e908",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ed08",
+        "line": {
+            "en": "My penis felt like it was about to explode."
+        },
+        "name": ""
+    },
+    {
+        "id": "f108",
+        "line": {
+            "en": "Swelling to the highest point within her,\\nearnestly, and fulfilled."
+        },
+        "name": ""
+    },
+    {
+        "id": "f508",
+        "line": {
+            "en": "'Uaa! Ah, a, ama...zing...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "f908",
+        "line": {
+            "en": "'Kuu, uu...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "fd08",
+        "line": {
+            "en": "Even if I didn't move, the walls rubbing against\\nmy penis caused incredible pleasure."
+        },
+        "name": ""
+    },
+    {
+        "id": "0208",
+        "line": {
+            "en": "I want to move more...feel even more, I want to\\ncome...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "0608",
+        "line": {
+            "en": "But in this situation if I did that, Ageha\\nwould..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0a08",
+        "line": {
+            "en": "'Haa, ah...n-...no...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0e08",
+        "line": {
+            "en": "Ageha still flush red, looked at me with clouded\\neyes."
+        },
+        "name": ""
+    },
+    {
+        "id": "1208",
+        "line": {
+            "en": "Her body twitching in differrent places, her\\nmouth tensed in a half cry/smile."
+        },
+        "name": ""
+    },
+    {
+        "id": "1608",
+        "line": {
+            "en": "'Uu...if you move...now, if you, move...I'm going\\nto, go...crazy...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1a08",
+        "line": {
+            "en": "Continuing from her words, the hot insides\\nsqueeze around me."
+        },
+        "name": ""
+    },
+    {
+        "id": "1e08",
+        "line": {
+            "en": "'...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2208",
+        "line": {
+            "en": "My vision narrows to a sliver, my consciousness\\nfades."
+        },
+        "name": ""
+    },
+    {
+        "id": "2608",
+        "line": {
+            "en": "'It's no good...if I move...!?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2a08",
+        "line": {
+            "en": "That was supposed to be my voice but, it's dry\\nand cracked and low, as though another person's."
+        },
+        "name": ""
+    },
+    {
+        "id": "2e08",
+        "line": {
+            "en": "As I said that I moved my hands."
+        },
+        "name": ""
+    },
+    {
+        "id": "3208",
+        "line": {
+            "en": "Without moving my hips, I brought them to Ageha's\\nbreasts."
+        },
+        "name": ""
+    },
+    {
+        "id": "3608",
+        "line": {
+            "en": "'If I move...if I shift...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3a08",
+        "line": {
+            "en": "I murmured as I brought my palm over her breast\\nand massaged her nipples with my fingers."
+        },
+        "name": ""
+    },
+    {
+        "id": "3e08",
+        "line": {
+            "en": "'Hyaa! N, noo! Not there!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4208",
+        "line": {
+            "en": "I groped her breasts plentifully."
+        },
+        "name": ""
+    },
+    {
+        "id": "4608",
+        "line": {
+            "en": "When I clutch onto it harder, the skin on her\\nbreast jut out between my fingers."
+        },
+        "name": ""
+    },
+    {
+        "id": "4a08",
+        "line": {
+            "en": "'Hyaa, fuu, haa, ahh!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4e08",
+        "line": {
+            "en": "In a tearful face, she moans."
+        },
+        "name": ""
+    },
+    {
+        "id": "5208",
+        "line": {
+            "en": "'I can't move...if I can't...if I move...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5608",
+        "line": {
+            "en": "The words from my mouth were numb and trembling.\\nGoosebumps."
+        },
+        "name": ""
+    },
+    {
+        "id": "5a08",
+        "line": {
+            "en": "My groin area was at a dangerous state."
+        },
+        "name": ""
+    },
+    {
+        "id": "5e08",
+        "line": {
+            "en": "'Noo...don't...s...stop...!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "6208",
+        "line": {
+            "en": "Ageha shook, her lower half undulated."
+        },
+        "name": ""
+    },
+    {
+        "id": "6608",
+        "line": {
+            "en": "Her thighs wrapped around my waist, her legs\\nentangling me."
+        },
+        "name": ""
+    },
+    {
+        "id": "6a08",
+        "line": {
+            "en": "Perhaps she's trying to stop me from moving."
+        },
+        "name": ""
+    },
+    {
+        "id": "6e08",
+        "line": {
+            "en": "But doing that caused the strained ends of my\\nglans to push against her deeper and deeper..."
+        },
+        "name": ""
+    },
+    {
+        "id": "7208",
+        "line": {
+            "en": "'Nnn, nn, uaa! no! noo!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7608",
+        "line": {
+            "en": "The pleasure feeling detonates, a heat fills up\\nall my body and I couldn't do a thing..."
+        },
+        "name": ""
+    },
+    {
+        "id": "7a08",
+        "line": {
+            "en": "'Uaa! Ah! Kuuuu...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7e08",
+        "line": {
+            "en": "I covered over Ageha."
+        },
+        "name": ""
+    },
+    {
+        "id": "8208",
+        "line": {
+            "en": "Squishing her breast with my chest."
+        },
+        "name": ""
+    },
+    {
+        "id": "8608",
+        "line": {
+            "en": "Then forced a kiss onto her lips."
+        },
+        "name": ""
+    },
+    {
+        "id": "8a08",
+        "line": {
+            "en": "'Nnnn~~~~~!!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8e08",
+        "line": {
+            "en": "She moaned as she struggled, our skin now in\\ncontact."
+        },
+        "name": ""
+    },
+    {
+        "id": "9208",
+        "line": {
+            "en": "Just a few centimeters...no millimeters of\\nthrusting, friction, and stimulation..."
+        },
+        "name": ""
+    },
+    {
+        "id": "9608",
+        "line": {
+            "en": "Continuing to grind against Age'a depths, the\\npleasure of it reached further than a climax."
+        },
+        "name": ""
+    },
+    {
+        "id": "9a08",
+        "line": {
+            "en": "'Uaa, uaa, aah, aaah, aaaAAAaaaa!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9e08",
+        "line": {
+            "en": "'Kuuu, uu, uaa!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "a208",
+        "line": {
+            "en": "The two of us pant intensely."
+        },
+        "name": ""
+    },
+    {
+        "id": "a608",
+        "line": {
+            "en": "It's hot, it's hot, it's hot!"
+        },
+        "name": ""
+    },
+    {
+        "id": "aa08",
+        "line": {
+            "en": "'Ah, aah! Aaah!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ae08",
+        "line": {
+            "en": "Ageha cried loudly, her two feet shuddering."
+        },
+        "name": ""
+    },
+    {
+        "id": "b208",
+        "line": {
+            "en": "Then at last her feet loosen, and my hips were\\nreleased."
+        },
+        "name": ""
+    },
+    {
+        "id": "b608",
+        "line": {
+            "en": "'Fuaaa!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ba08",
+        "line": {
+            "en": "In a roar, my waist bounces back."
+        },
+        "name": ""
+    },
+    {
+        "id": "be08",
+        "line": {
+            "en": "My concerns and reserve had long been blown away."
+        },
+        "name": ""
+    },
+    {
+        "id": "c208",
+        "line": {
+            "en": "I want to rub them, I want to feel it, I want to\\ncome...I want to ejaculate!"
+        },
+        "name": ""
+    },
+    {
+        "id": "c608",
+        "line": {
+            "en": "Not caring if my actions were villanous, I drove\\nmy hips forward and backwards intensely."
+        },
+        "name": ""
+    },
+    {
+        "id": "ca08",
+        "line": {
+            "en": "'Ah! aah, aah, aah, aah, aah!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ce08",
+        "line": {
+            "en": "Ageha moaned in short rapid breaths."
+        },
+        "name": ""
+    },
+    {
+        "id": "d208",
+        "line": {
+            "en": "The hot wet parts of her rung with a sticky\\nsound."
+        },
+        "name": ""
+    },
+    {
+        "id": "d608",
+        "line": {
+            "en": "Yes, rubbing her, it feels good, really good, I'm\\ncoming, it's coming!"
+        },
+        "name": ""
+    },
+    {
+        "id": "da08",
+        "line": {
+            "en": "'Kuuuuu!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "de08",
+        "line": {
+            "en": "Ageha yelled loudly, her face tightens."
+        },
+        "name": ""
+    },
+    {
+        "id": "e208",
+        "line": {
+            "en": "The pressure was strong like when being held in\\nmy hand, the burning thing inside me, was\\nreleased...!"
+        },
+        "name": ""
+    },
+    {
+        "id": "e608",
+        "line": {
+            "en": "'Uaaaaa!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ea08",
+        "line": {
+            "en": "'Ah! Kuaa! Guu! Guaa!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "ee08",
+        "line": {
+            "en": "Gush gush gush."
+        },
+        "name": ""
+    },
+    {
+        "id": "f208",
+        "line": {
+            "en": "Pulsating...the penis, my waist, my whole\\nbody...violently pulsated."
+        },
+        "name": ""
+    },
+    {
+        "id": "f608",
+        "line": {
+            "en": "A hot thing spurts out, with ferocity, and\\nvolume, coming out like a hose."
+        },
+        "name": ""
+    },
+    {
+        "id": "fa08",
+        "line": {
+            "en": "Ageha's hips rocked up, and convulsed."
+        },
+        "name": ""
+    },
+    {
+        "id": "fe08",
+        "line": {
+            "en": "She trembled in agony like me."
+        },
+        "name": ""
+    },
+    {
+        "id": "0308",
+        "line": {
+            "en": "'Uaa...aaa...aa...!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0708",
+        "line": {
+            "en": "My penis was being constricted, enclosed, sucked\\non..."
+        },
+        "name": ""
+    },
+    {
+        "id": "0b08",
+        "line": {
+            "en": "'Ah...fua...aa...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0f08",
+        "line": {
+            "en": "The two of us shuddered as we moaned."
+        },
+        "name": ""
+    },
+    {
+        "id": "1308",
+        "line": {
+            "en": "'Haa...haa...haa...haa...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1708",
+        "line": {
+            "en": "'Haa...haa...haa...haa...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1b08",
+        "line": {
+            "en": "My mind went pure blank. My body would not move."
+        },
+        "name": ""
+    },
+    {
+        "id": "1f08",
+        "line": {
+            "en": "The only thing I knew was that the strength in my\\npenis was dissipating."
+        },
+        "name": ""
+    },
+    {
+        "id": "2308",
+        "line": {
+            "en": "That fading away was also, unbearably good..."
+        },
+        "name": ""
+    },
+    {
+        "id": "2708",
+        "line": {
+            "en": "'Haa...haa...fuuu...aaa...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2b08",
+        "line": {
+            "en": "Ageha's arms fell limp, only her breasts left\\nmoving, heaving up and down."
+        },
+        "name": ""
+    },
+    {
+        "id": "2f08",
+        "line": {
+            "en": "And her heavy breathing causing her breast to\\nsway."
+        },
+        "name": ""
+    },
+    {
+        "id": "3308",
+        "line": {
+            "en": "Staring blankly and sometimes her arms and legs\\nstill twitching."
+        },
+        "name": ""
+    },
+    {
+        "id": "3708",
+        "line": {
+            "en": "Her two feet still spread open, and when I\\nretrieved my penis, her vagina was laid open."
+        },
+        "name": ""
+    },
+    {
+        "id": "3b08",
+        "line": {
+            "en": "Thick liquids came flowing out from within."
+        },
+        "name": ""
+    },
+    {
+        "id": "3f08",
+        "line": {
+            "en": "'Nnn...nn...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4308",
+        "line": {
+            "en": "Then she faced me slowly with her blank eyes."
+        },
+        "name": ""
+    },
+    {
+        "id": "4708",
+        "line": {
+            "en": "My thing that had finished coming, was hanging\\ndown."
+        },
+        "name": ""
+    },
+    {
+        "id": "4b08",
+        "line": {
+            "en": "'...nn...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4f08",
+        "line": {
+            "en": "Ageha lifted her two arms like weights."
+        },
+        "name": ""
+    },
+    {
+        "id": "5308",
+        "line": {
+            "en": "'Hug.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5708",
+        "line": {
+            "en": "'Ok...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5b08",
+        "line": {
+            "en": "I responded. My body heavy like lead."
+        },
+        "name": ""
+    },
+    {
+        "id": "5f08",
+        "line": {
+            "en": "Then I covered her body with mine, and we hugged."
+        },
+        "name": ""
+    },
+    {
+        "id": "6308",
+        "line": {
+            "en": "'Nn...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6708",
+        "line": {
+            "en": "A settling feeling of comfort wraps around me,\\nlike I could drift forever."
+        },
+        "name": ""
+    },
+    {
+        "id": "6b08",
+        "line": {
+            "en": "Ageha's bare skin is soft, and hot and\\nirresistable."
+        },
+        "name": ""
+    },
+    {
+        "id": "6f08",
+        "line": {
+            "en": "'It's hot...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7308",
+        "line": {
+            "en": "Ageha clung at me also with a smile."
+        },
+        "name": ""
+    },
+    {
+        "id": "7708",
+        "line": {
+            "en": "'Nfuu...I did it with...Aoi.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7b08",
+        "line": {
+            "en": "'Yeah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7f08",
+        "line": {
+            "en": "'It was...really good...absolutely good...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8308",
+        "line": {
+            "en": "Her breaths along with her voice, tickles my ear."
+        },
+        "name": ""
+    }
+]

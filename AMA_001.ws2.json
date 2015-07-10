@@ -1,0 +1,2396 @@
+[
+    {
+        "id": "0000",
+        "line": {
+            "en": "'Ta-dah! Look Amane, check this out!'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "0400",
+        "line": {
+            "en": "'...Is that a glider?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "0800",
+        "line": {
+            "en": "'Yeah it is. This gives us wings.'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "0c00",
+        "line": {
+            "en": "'You can fly with this?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "1000",
+        "line": {
+            "en": "'Just imagine, us flying free through the great\\nbig sky...'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "1400",
+        "line": {
+            "en": "'Ughh... now I don't feel so good. I'm no good\\nwith heights.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "1800",
+        "line": {
+            "en": "'...You have absolutely no romantic sense.'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "1c00",
+        "line": {
+            "en": "'Don't you get what I'm saying? The great big sky\\nis romance! And wings? Freedom!'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "2000",
+        "line": {
+            "en": "'We have to chase our dreams.'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "2400",
+        "line": {
+            "en": "'Life is short...'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "2800",
+        "line": {
+            "en": "'...I don't mind chasing them, but I want to keep\\nmy feet on the ground.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "2c00",
+        "line": {
+            "en": "'Check this out too!'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "3000",
+        "line": {
+            "en": "'The Morning Glory!'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "3400",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "3800",
+        "line": {
+            "en": "It's a photo Isuka found in this old garage."
+        },
+        "name": ""
+    },
+    {
+        "id": "3c00",
+        "line": {
+            "en": "There is a strangely shaped cloud in it."
+        },
+        "name": ""
+    },
+    {
+        "id": "4000",
+        "line": {
+            "en": "She looked at the photo with great fascination,\\nas if she wished to fly through the sky without\\nrelying on the power of a glider."
+        },
+        "name": ""
+    },
+    {
+        "id": "4400",
+        "line": {
+            "en": "Just like in the picture, above the clouds."
+        },
+        "name": ""
+    },
+    {
+        "id": "4800",
+        "line": {
+            "en": "'I want to soar through the passage of clouds\\ntogether, Amane...'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "4c00",
+        "line": {
+            "en": "'It just might become a great memory, a wonderful\\nshimmering, first-class one even!'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "5000",
+        "line": {
+            "en": "'...Uhh.'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "5400",
+        "line": {
+            "en": "I don't like heights."
+        },
+        "name": ""
+    },
+    {
+        "id": "5800",
+        "line": {
+            "en": "It's so scary my legs shake."
+        },
+        "name": ""
+    },
+    {
+        "id": "5c00",
+        "line": {
+            "en": "Not to mention flying in the sky... above the\\nclouds and all, just imagining it makes me\\ntremble."
+        },
+        "name": ""
+    },
+    {
+        "id": "6000",
+        "line": {
+            "en": "But why..."
+        },
+        "name": ""
+    },
+    {
+        "id": "6400",
+        "line": {
+            "en": "I would see those sights with Isuka."
+        },
+        "name": ""
+    },
+    {
+        "id": "6800",
+        "line": {
+            "en": "When I thought about it like that, it didn't seem\\nso bad."
+        },
+        "name": ""
+    },
+    {
+        "id": "6c00",
+        "line": {
+            "en": "No, I thought it might not actually be a bad\\nidea."
+        },
+        "name": ""
+    },
+    {
+        "id": "7000",
+        "line": {
+            "en": "'But isn't this glider kind of old? Can it fly\\nlike this?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "7400",
+        "line": {
+            "en": "'Don't be silly, Amane. We can bring it back to\\nlife with our hands.'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "7800",
+        "line": {
+            "en": "'That's more dramatic!'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "7c00",
+        "line": {
+            "en": "'You think so?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "8000",
+        "line": {
+            "en": "It seemed like such a difficult task to restore a\\nglider that had been thrown out and abandoned."
+        },
+        "name": ""
+    },
+    {
+        "id": "8400",
+        "line": {
+            "en": "And more than that..."
+        },
+        "name": ""
+    },
+    {
+        "id": "8800",
+        "line": {
+            "en": "As far as I have seen, there is no evidence of a\\nphenomenon like the Morning Glory in Kazegaura\\nwithin the past twenty years."
+        },
+        "name": ""
+    },
+    {
+        "id": "8c00",
+        "line": {
+            "en": "For the sake of argument, even if it flew, it\\nwould be hard to imagine this phenomenon would\\nhappen for us this time."
+        },
+        "name": ""
+    },
+    {
+        "id": "9000",
+        "line": {
+            "en": "'You don't need to worry.'"
+        },
+        "name": "Isuka"
+    },
+    {
+        "id": "9400",
+        "line": {
+            "en": "'?'"
+        },
+        "name": "Amane"
+    },
+    {
+        "id": "9c00",
+        "line": {
+            "en": "I was thinking, 'I doubt she can do that."
+        },
+        "name": "Isuka\u0000\u001fbgm01\u0000\u0000\u0000\u0000@\u0014&\u0000\u0000\u0000char\u0000'I will bring you here. I promise.'%K%P\u0000\u0016\u0000d\u00007st01\u00007st02\u0000e\u0000\u0000\u0000\u00cd\u00cc\u00cc>\u0000\u0000\u0000\u0000\u0002\u0000d\u00003bg01\u0000BG05B_01B.PNG\u0000\u0001\u0001\u0004LAYER_ORDER\u0000\t\u0000\n\u0000\u0000\u0000\u0080?\t\u0000\u000b\u0000\u0000\u0000\u0080?\t\u0000\f\u0000\u0000\u0000\u0080?\t\u0000\r\u0000\u0000\u0000\u0080?Fbg01\u0000\u0000\u0000\u0000\u0000\u0000\u00faC\u0000\u0000\u0016\u00c4\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Fbg01\u0000\u0002\u0000\u000033\u00b3?33\u00b3?\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Fbg01\u0000\u0006\u0000\u0000\u0000\u0000\u0080?fff?\u00cd\u00ccL?\u0000\u0000\u0080?3bg02\u0000EST_1022.PNG\u0000\u0001\u0001\u0004LAYER_ORDER\u0000Fbg02\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000e\u0000\u0000\u0000\u0000\u0000\u00c0?\u0000\u0000\u0000\u0000\u0002\u0000\t\u0000\u0005\u0000\u0000\u0000\u0000\u0000\t\u0000\u0006\u0000\u0000\u0000\u0016\u00c4Ebg01\u0000\u0000\u0000\u0000\u0000\u0080?\u0000\u0000\u0000@\u0000\u0000@@\u0000\u0000\u0080@\t\u0082\u0005\u0000\u0000\u0000\u0080?\t\u0082\u0006\u0000\u0000\u0000\u0000@Gbg01\u0000effect01\u0000\u0001\u0000\u0000\u0080\u0000\u0000\u00a0@\u0000\u0000\u00c0@\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000 A\u0000\u0000\u0000\u0000\u0000\u0000Hbg01\u0000effect01\u0000\u0000\u0000\u0000\u0000\u0000Wbg01\u0000\u0000\u0000\u001ebgm01\u0000BGM20.OGG\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u00ff\u00ff\n\u0000\u0001\u000b\u0010\u0004\u0001\u0015"
+    },
+    {
+        "id": "a000",
+        "line": {
+            "en": "But at the same time, I also thought..."
+        },
+        "name": ""
+    },
+    {
+        "id": "a400",
+        "line": {
+            "en": "If Isuka says she can do it, maybe it's possible."
+        },
+        "name": ""
+    },
+    {
+        "id": "a800",
+        "line": {
+            "en": "It could have been the first time since I was\\nborn that I thought like that."
+        },
+        "name": ""
+    },
+    {
+        "id": "ac00",
+        "line": {
+            "en": "I was in denial because I approached it\\nemotionally, and not logically."
+        },
+        "name": ""
+    },
+    {
+        "id": "b000",
+        "line": {
+            "en": "From that day on, Isuka and I aimed for the\\nskies."
+        },
+        "name": ""
+    },
+    {
+        "id": "b400",
+        "line": {
+            "en": "With our wings, we would soar through the passage\\nof clouds."
+        },
+        "name": ""
+    },
+    {
+        "id": "b800",
+        "line": {
+            "en": "The days I spent with Isuka glittered with\\nrainbow colors and before I knew it, I was\\ndazedly chasing dreams with her."
+        },
+        "name": ""
+    },
+    {
+        "id": "bc00",
+        "line": {
+            "en": "But, one day... Isuka was suddenly gone."
+        },
+        "name": ""
+    },
+    {
+        "id": "c000",
+        "line": {
+            "en": "Me and..."
+        },
+        "name": ""
+    },
+    {
+        "id": "c400",
+        "line": {
+            "en": "So many unfulfilled promises were left behind."
+        },
+        "name": ""
+    },
+    {
+        "id": "c800",
+        "line": {
+            "en": "The world around me lost all color and became\\nmonotone once again."
+        },
+        "name": ""
+    },
+    {
+        "id": "cc00",
+        "line": {
+            "en": "When I'd look out the window I would see a sky so\\nblue it hurt my eyes, and in it a cumulonimbus\\ncloud towering above everything."
+        },
+        "name": ""
+    },
+    {
+        "id": "d000",
+        "line": {
+            "en": "One aspect of this season is the panoramic sky.\\nIt is magnificent in its scale. And it makes you\\nfeel it."
+        },
+        "name": ""
+    },
+    {
+        "id": "d400",
+        "line": {
+            "en": "In that, I..."
+        },
+        "name": ""
+    },
+    {
+        "id": "d800",
+        "line": {
+            "en": "I think of White wings riding the winds..."
+        },
+        "name": ""
+    },
+    {
+        "id": "dc00",
+        "line": {
+            "en": "Today there are thin, scattered clouds. It just\\nmight be warm today."
+        },
+        "name": ""
+    },
+    {
+        "id": "e000",
+        "line": {
+            "en": "'I wanna fly, damnit...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e400",
+        "line": {
+            "en": "I am impatient and only able to lift my eyes up,\\noverwhelmed by the size of the sky."
+        },
+        "name": ""
+    },
+    {
+        "id": "e800",
+        "line": {
+            "en": "'Aoi.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ec00",
+        "line": {
+            "en": "It was Kotori who called me as I looked up to the\\nsky from the window."
+        },
+        "name": ""
+    },
+    {
+        "id": "f000",
+        "line": {
+            "en": "'What are you looking at the sky for?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "f400",
+        "line": {
+            "en": "'I was thinking this is perfect soaring weather.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f800",
+        "line": {
+            "en": "She comes to my side and looks up from the window\\ntoo."
+        },
+        "name": ""
+    },
+    {
+        "id": "fc00",
+        "line": {
+            "en": "'Good weather, isn't it. Looks a little hot\\nthough.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0100",
+        "line": {
+            "en": "'Don't say that.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0500",
+        "line": {
+            "en": "The restrictions on the air conditioner in the\\nclassroom were lifted the other day and it is\\npleasantly cool."
+        },
+        "name": ""
+    },
+    {
+        "id": "0900",
+        "line": {
+            "en": "Looking up at the blue sky from the right place\\nis as refreshing as it gets."
+        },
+        "name": ""
+    },
+    {
+        "id": "0d00",
+        "line": {
+            "en": "But if I were to open this window, a hot breeze\\nwould surely waft its way in."
+        },
+        "name": ""
+    },
+    {
+        "id": "1100",
+        "line": {
+            "en": "'Summer has come again, huh...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "1500",
+        "line": {
+            "en": "Looking out the window, Kotori mutters."
+        },
+        "name": ""
+    },
+    {
+        "id": "1900",
+        "line": {
+            "en": "'Ahh.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1d00",
+        "line": {
+            "en": "Summer has come around again and I still can't\\nfly."
+        },
+        "name": ""
+    },
+    {
+        "id": "2100",
+        "line": {
+            "en": "'Ah, I found you! What are you two doing?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2500",
+        "line": {
+            "en": "Ageha came into the classroom."
+        },
+        "name": ""
+    },
+    {
+        "id": "2900",
+        "line": {
+            "en": "It was after school and there were only a few\\nothers around aside from us."
+        },
+        "name": ""
+    },
+    {
+        "id": "2d00",
+        "line": {
+            "en": "'You're gonna go, right? To see Akari?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3100",
+        "line": {
+            "en": "'Oh that's right. That's why I came to get Aoi.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3500",
+        "line": {
+            "en": "'All right, you wanna get going?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3900",
+        "line": {
+            "en": "'Nope, permission denied!'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "3d00",
+        "line": {
+            "en": "'What, why?! There are plenty of members for the\\nclub.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4100",
+        "line": {
+            "en": "'If you have no supervisor, I cannot acknowledge\\nyour club.'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "4500",
+        "line": {
+            "en": "'Ughhh...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "4900",
+        "line": {
+            "en": "Kotori groaned and glared at Akari."
+        },
+        "name": ""
+    },
+    {
+        "id": "4d00",
+        "line": {
+            "en": "'So, if there was a teacher who would stand in as\\nour club supervisor, we could get back to our\\nclub activities?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5100",
+        "line": {
+            "en": "'...I can't promise anything definite.'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "5500",
+        "line": {
+            "en": "'Why not?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5900",
+        "line": {
+            "en": "'You need a certified mentor to operate a\\nglider.'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "5d00",
+        "line": {
+            "en": "'But there isn't anyone like that at this\\nschool.'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "6100",
+        "line": {
+            "en": "'Just for the sake of argument, even if you were\\nto get approval for the club, without a certified\\nmentor, the teachers wouldn't allow it.'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "6500",
+        "line": {
+            "en": "She'd poked a sore spot."
+        },
+        "name": ""
+    },
+    {
+        "id": "6900",
+        "line": {
+            "en": "Until last year Yamanobe-sensei, a glider\\namateur, worked here."
+        },
+        "name": ""
+    },
+    {
+        "id": "6d00",
+        "line": {
+            "en": "The one who had a certification was Amane\\nMochizuki and she was the one who was actually in\\ncharge."
+        },
+        "name": ""
+    },
+    {
+        "id": "7100",
+        "line": {
+            "en": "We don't say anything back and just keep our\\nmouths shut."
+        },
+        "name": ""
+    },
+    {
+        "id": "7500",
+        "line": {
+            "en": "'Okay, so if we have a supervisor and a certified\\nmentor, then there is no problem, right?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7900",
+        "line": {
+            "en": "'If you can satisfy those conditions, we, the\\nstudent council, would recognize it as a club\\nactivity and you would have the support of the\\nschool.'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "7d00",
+        "line": {
+            "en": "'Even though we were the ones that caused...all\\nthat trouble?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8100",
+        "line": {
+            "en": "I asked cautiously and Akari glared at me."
+        },
+        "name": ""
+    },
+    {
+        "id": "8500",
+        "line": {
+            "en": "'...I thought that problem had already been dealt\\nwith.'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "8900",
+        "line": {
+            "en": "'I think any further punishment would be\\nunreasonable.'"
+        },
+        "name": "Akari"
+    },
+    {
+        "id": "8d00",
+        "line": {
+            "en": "Akari spoke in a decisive tone and then went out\\ninto the hallway."
+        },
+        "name": ""
+    },
+    {
+        "id": "9100",
+        "line": {
+            "en": "'Just as you'd expect, that new student council\\npresident is tough.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "9500",
+        "line": {
+            "en": "'Ugh... let's go. We've got a strategy meeting.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9900",
+        "line": {
+            "en": "'Ah, welcome back.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "9d00",
+        "line": {
+            "en": "'Welcome back.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "a100",
+        "line": {
+            "en": "'Hey there.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a500",
+        "line": {
+            "en": "'Heya.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "a900",
+        "line": {
+            "en": "When we got back to the Flying Fish Manor, Asa\\nand Yoru were there to meet us."
+        },
+        "name": ""
+    },
+    {
+        "id": "ad00",
+        "line": {
+            "en": "'How did it go?'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "b100",
+        "line": {
+            "en": "'Sorry. No good.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "b500",
+        "line": {
+            "en": "'Oh, I see...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "b900",
+        "line": {
+            "en": "'At the very least we have to find a teacher who\\nwill be our supervisor.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bd00",
+        "line": {
+            "en": "'We haven't got a room for our club or a\\nglider... which is kinda crucial. Which means\\nwe're going to keep on going as a fan club...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "c100",
+        "line": {
+            "en": "Everyone's shoulders stoop a bit when Yoru says\\nthat."
+        },
+        "name": ""
+    },
+    {
+        "id": "c500",
+        "line": {
+            "en": "She's right. Right now we're not a soaring club.\\nWe're a soaring fan club."
+        },
+        "name": ""
+    },
+    {
+        "id": "c900",
+        "line": {
+            "en": "Without a place to actually do club activites, or\\na glider even, we're just a fan club meeting to\\ntalk about this and that."
+        },
+        "name": ""
+    },
+    {
+        "id": "cd00",
+        "line": {
+            "en": "Why had it gotten like this?"
+        },
+        "name": ""
+    },
+    {
+        "id": "d100",
+        "line": {
+            "en": "The cause goes back to summer of last year...\\nwith Amane, we had our sights set on the Morning\\nGlory."
+        },
+        "name": ""
+    },
+    {
+        "id": "d500",
+        "line": {
+            "en": "When summer ended, Amane retired from the club\\nand stopped coming to school."
+        },
+        "name": ""
+    },
+    {
+        "id": "d900",
+        "line": {
+            "en": "But even so, we intended to continue our club\\nactivities."
+        },
+        "name": ""
+    },
+    {
+        "id": "dd00",
+        "line": {
+            "en": "Next time we will fly the Morning Glory..."
+        },
+        "name": ""
+    },
+    {
+        "id": "e100",
+        "line": {
+            "en": "So we swore, and when we set out it was like our\\ndeparture was crushed by that incident."
+        },
+        "name": ""
+    },
+    {
+        "id": "e500",
+        "line": {
+            "en": "Under the pretense that we had too few members in\\nthe club, Tobioka abolished the Soaring Club\\nwithout warning and tried to demolish our garage."
+        },
+        "name": ""
+    },
+    {
+        "id": "e900",
+        "line": {
+            "en": "To stop him, we stood at the garage in protest."
+        },
+        "name": ""
+    },
+    {
+        "id": "ed00",
+        "line": {
+            "en": "Since Tobioka was forcing his way ahead and we\\nwere rushed, we didn't have any other way to stop\\nhim."
+        },
+        "name": ""
+    },
+    {
+        "id": "f100",
+        "line": {
+            "en": "That said, standing there we had a very small\\nchance of undermining the demolition."
+        },
+        "name": ""
+    },
+    {
+        "id": "f500",
+        "line": {
+            "en": "Even though we knew it was pointless, we bought\\nourselves time while we appealed to the school\\nand were rejected time and time again."
+        },
+        "name": ""
+    },
+    {
+        "id": "f900",
+        "line": {
+            "en": "Anyway, the third day we stood at the garage, for\\nsome reason the demolition was halted and finally\\nrepealed."
+        },
+        "name": ""
+    },
+    {
+        "id": "fd00",
+        "line": {
+            "en": "At first I thought it was a lie to get us to come\\nout, but after that the demolition never happened\\nand the garage stands behind the school, deserted\\nand vacant."
+        },
+        "name": ""
+    },
+    {
+        "id": "0200",
+        "line": {
+            "en": "People would hear about the uproar we made, about\\nhow the out-of-control Soaring Club protested."
+        },
+        "name": ""
+    },
+    {
+        "id": "0600",
+        "line": {
+            "en": "The school board caught wind of what we'd done,\\nabout how we halted the tyranny of Tobioka."
+        },
+        "name": ""
+    },
+    {
+        "id": "0a00",
+        "line": {
+            "en": "Blah, blah, etc., etc. I'm not lying, but I'm not\\nsure it's the whole truth either."
+        },
+        "name": ""
+    },
+    {
+        "id": "0e00",
+        "line": {
+            "en": "Tobioka and his party cut down the opposition\\nfrom the other teachers and tried to force the\\ndemolition. That much is true, or so I hear."
+        },
+        "name": ""
+    },
+    {
+        "id": "1200",
+        "line": {
+            "en": "Regardless of the big problem that occurred, a\\nnumber of teachers showed their sympathy."
+        },
+        "name": ""
+    },
+    {
+        "id": "1600",
+        "line": {
+            "en": "Kotori, Ageha and I were handed suspensions as a\\npunishment for the fuss we had made."
+        },
+        "name": ""
+    },
+    {
+        "id": "1a00",
+        "line": {
+            "en": "After that, without enough members, the Soaring\\nClub was reduced to being a society."
+        },
+        "name": ""
+    },
+    {
+        "id": "1e00",
+        "line": {
+            "en": "Also the garage was declared off limits and our\\nglider was confiscated."
+        },
+        "name": ""
+    },
+    {
+        "id": "2200",
+        "line": {
+            "en": "I heard that they were going to build a student\\ndorm at the garage site, but a different place\\nwas secured and is already being used by this\\nyear's new students."
+        },
+        "name": ""
+    },
+    {
+        "id": "2600",
+        "line": {
+            "en": "That is why we had no place to do club activities\\nand no glider. We were just a group of friends\\nand not a club."
+        },
+        "name": ""
+    },
+    {
+        "id": "2a00",
+        "line": {
+            "en": "Since then, the garage has been locked and our\\nglider abandoned."
+        },
+        "name": ""
+    },
+    {
+        "id": "2e00",
+        "line": {
+            "en": "'...Damn, if no one else is going to use it, they\\nought to let us.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3200",
+        "line": {
+            "en": "'That's no good on the teachers' end though. If\\nthe teachers just give into to any old student\\ndemonstration then they'll have their own\\nproblems.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3600",
+        "line": {
+            "en": "'...We had good times back then, didn't we...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3a00",
+        "line": {
+            "en": "I murmur deeply."
+        },
+        "name": ""
+    },
+    {
+        "id": "3e00",
+        "line": {
+            "en": "Since then, a year has passed and we have become\\nthird years."
+        },
+        "name": ""
+    },
+    {
+        "id": "4200",
+        "line": {
+            "en": "What can I say... I think we were young."
+        },
+        "name": ""
+    },
+    {
+        "id": "4600",
+        "line": {
+            "en": "'We had just lost Amane and we were impatient,\\nhuh...'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4a00",
+        "line": {
+            "en": "Kotori and I laugh spontaneously at what Ageha\\nmuttered."
+        },
+        "name": ""
+    },
+    {
+        "id": "4e00",
+        "line": {
+            "en": "We were aware Amane was going to retire, but\\nbefore we knew it, she was gone."
+        },
+        "name": ""
+    },
+    {
+        "id": "5200",
+        "line": {
+            "en": "She left us, before we could even process how we\\nfelt about having to deal with that demolition\\nmess."
+        },
+        "name": ""
+    },
+    {
+        "id": "5600",
+        "line": {
+            "en": "What Ageha said about us being impatient... it\\nperfectly expresses how we felt then."
+        },
+        "name": ""
+    },
+    {
+        "id": "5a00",
+        "line": {
+            "en": "'So that was the infamous garage occupation\\nincident?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "5e00",
+        "line": {
+            "en": "'Yeah, it's something which will continue to live\\non in Keifuu Academy history.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "6200",
+        "line": {
+            "en": "'Yeah the story might even be told and passed on\\nfor posterity...'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "6600",
+        "line": {
+            "en": "'Oh, shush! We just couldn't be obedient, faced\\nwith an unreasonable society.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6a00",
+        "line": {
+            "en": "By the way, Asa and Yoru are still just first\\nyears."
+        },
+        "name": ""
+    },
+    {
+        "id": "6e00",
+        "line": {
+            "en": "Twin sisters who just came to this school this\\nyear."
+        },
+        "name": ""
+    },
+    {
+        "id": "7200",
+        "line": {
+            "en": "They're also tenants of the Flying Fish Manor,\\nand granddaughters of the school board's\\nchairman."
+        },
+        "name": ""
+    },
+    {
+        "id": "7600",
+        "line": {
+            "en": "But thinking about it that way, I can't look them\\nin the face after the stain we left on the\\nschool's history."
+        },
+        "name": ""
+    },
+    {
+        "id": "7a00",
+        "line": {
+            "en": "'Hey, your grandfather has authority over this\\nstuff. Can't he do something?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7e00",
+        "line": {
+            "en": "'Uhhh...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "8200",
+        "line": {
+            "en": "'...you'd actually ask that?'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "8600",
+        "line": {
+            "en": "'No way, it's just a joke! Right, Kotori?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "8a00",
+        "line": {
+            "en": "'Yeah of course! A joke...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8e00",
+        "line": {
+            "en": "Those two recently joined our Soaring Society."
+        },
+        "name": ""
+    },
+    {
+        "id": "9200",
+        "line": {
+            "en": "In fact, I hear they were on the bank of the lake\\na year ago on the morning the Morning Glory\\nappeared."
+        },
+        "name": ""
+    },
+    {
+        "id": "9600",
+        "line": {
+            "en": "From Windmill Hill, they happened to witness the\\nglider flying the over passage of clouds."
+        },
+        "name": ""
+    },
+    {
+        "id": "9a00",
+        "line": {
+            "en": "That was how they got interested in gliders, but\\nwhen they enrolled in the school, the Soaring\\nClub had been abolished and the garage sealed."
+        },
+        "name": ""
+    },
+    {
+        "id": "9e00",
+        "line": {
+            "en": "They recently moved into the Flying Fish Manor\\nand met us, which is how they came to know about\\nthe Soaring Club."
+        },
+        "name": ""
+    },
+    {
+        "id": "a200",
+        "line": {
+            "en": "Thanks to them, we meet the regulation club size\\nagain, and so today we went to see Akari so we\\ncould appeal to return to our club activities.\\nBut..."
+        },
+        "name": ""
+    },
+    {
+        "id": "a600",
+        "line": {
+            "en": "We were rejected and dragged ourselves here in\\nlow spirits."
+        },
+        "name": ""
+    },
+    {
+        "id": "aa00",
+        "line": {
+            "en": "'If we don't do something and get back to our\\nclub activities... we'll never get our garage or\\nglider back.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ae00",
+        "line": {
+            "en": "That's true."
+        },
+        "name": ""
+    },
+    {
+        "id": "b200",
+        "line": {
+            "en": "The conditions for us to get back our garage and\\nthe glider stored inside were that we return to\\nour club activities."
+        },
+        "name": ""
+    },
+    {
+        "id": "b600",
+        "line": {
+            "en": "This included the winch installed in the runway."
+        },
+        "name": ""
+    },
+    {
+        "id": "ba00",
+        "line": {
+            "en": "All of that was considered 'equipment of the\\nSoaring Club' that we, the fan club, were\\nforbidden to use."
+        },
+        "name": ""
+    },
+    {
+        "id": "be00",
+        "line": {
+            "en": "On the other hand, if we can just get our\\nactivities recognized, we can get it all back."
+        },
+        "name": ""
+    },
+    {
+        "id": "c200",
+        "line": {
+            "en": "'But hey, it's good that Akari is the new student\\ncouncil president.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "c600",
+        "line": {
+            "en": "It really was quite a sight when in last month's\\nelection Akari was elected student council\\npresident."
+        },
+        "name": ""
+    },
+    {
+        "id": "ca00",
+        "line": {
+            "en": "'How's that? She's so strict, so straight-laced.\\nEverything's got to be by the books with her. How\\ncan we get at her?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ce00",
+        "line": {
+            "en": "'That's exactly why. Because she's fair. If we're\\nin the right then she'll be on our side.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d200",
+        "line": {
+            "en": "'Yeah. If this were a regular student council\\npresident, when Tobioka-sensei was glaring down\\non us we would have already been done.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "d600",
+        "line": {
+            "en": "By not refusing us outright, Akari left us a path\\nto tread."
+        },
+        "name": ""
+    },
+    {
+        "id": "da00",
+        "line": {
+            "en": "Despite the fact that we caused that trouble at\\nthe garage."
+        },
+        "name": ""
+    },
+    {
+        "id": "de00",
+        "line": {
+            "en": "If it had been last year's student council\\npresident, we'd have been told 'Sorry, the\\nteacher's word is final.' That would have been\\nthe end of it."
+        },
+        "name": ""
+    },
+    {
+        "id": "e200",
+        "line": {
+            "en": "But anyway, it doesn't matter at all."
+        },
+        "name": ""
+    },
+    {
+        "id": "e600",
+        "line": {
+            "en": "And that idiot Masatsugu... just for running he\\ngot the sympathy vote and was elected secretary."
+        },
+        "name": ""
+    },
+    {
+        "id": "ea00",
+        "line": {
+            "en": "I've known the guy since we were children, and\\nwondering if we're okay with him leaves me with\\nextreme anxiety."
+        },
+        "name": ""
+    },
+    {
+        "id": "ee00",
+        "line": {
+            "en": "'Eh, whatever. We're doing all we can to get\\nreacknowledged as a club.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "f200",
+        "line": {
+            "en": "'We just need a supervisor and a certified\\nmentor.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f600",
+        "line": {
+            "en": "'It's not gonna be easy, but let's try to find\\nsomeone.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fa00",
+        "line": {
+            "en": "'Asa, Yoru, you girls too, please!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "fe00",
+        "line": {
+            "en": "'Okay!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "0300",
+        "line": {
+            "en": "'Sure.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "0700",
+        "line": {
+            "en": "Seeing the path we need to tread raised our\\nspirits."
+        },
+        "name": ""
+    },
+    {
+        "id": "0b00",
+        "line": {
+            "en": "'All right then, let's get to today's business.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0f00",
+        "line": {
+            "en": "'...Is this the 'winglet?''"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "1300",
+        "line": {
+            "en": "'I had thought it was just a cool decoration.'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "1700",
+        "line": {
+            "en": "Asa said that as she looked at the diagram spread\\nout on the table."
+        },
+        "name": ""
+    },
+    {
+        "id": "1b00",
+        "line": {
+            "en": "'Every part of the glider's structure has a\\npurpose.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "1f00",
+        "line": {
+            "en": "'Because there's no room for dead weight on\\nsomething that flies.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2300",
+        "line": {
+            "en": "'Huh...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "2700",
+        "line": {
+            "en": "Amane devoted years to drawing that diagram and\\nleft it behind for us."
+        },
+        "name": ""
+    },
+    {
+        "id": "2b00",
+        "line": {
+            "en": "There is one thing we can do without a glider or\\nplace to do our club activities."
+        },
+        "name": ""
+    },
+    {
+        "id": "2f00",
+        "line": {
+            "en": "That is understanding this diagram and carefully\\nsimulating the glider's build."
+        },
+        "name": ""
+    },
+    {
+        "id": "3300",
+        "line": {
+            "en": "If we were to really try and make one of these,\\nwhat sort of processes would be required? What\\nmaterials would we need? What problems might\\narise?"
+        },
+        "name": ""
+    },
+    {
+        "id": "3700",
+        "line": {
+            "en": "How can we reduce the time required for\\nconstruction? How can the problems be solved?"
+        },
+        "name": ""
+    },
+    {
+        "id": "3b00",
+        "line": {
+            "en": "To understand the glider, it was useful to study\\nthe diagram and understand the function of each\\npart."
+        },
+        "name": ""
+    },
+    {
+        "id": "3f00",
+        "line": {
+            "en": "'You seniors are amazing. I'll do my best too...'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "4300",
+        "line": {
+            "en": "'It's because we haven't had anything else to do\\nall year.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4700",
+        "line": {
+            "en": "'We've done pretty much only this. Working\\ntirelessly the whole time.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4b00",
+        "line": {
+            "en": "Deepening our knowledge this year has made these\\ngiant wings that soar through the sky feel much\\ncloser to us."
+        },
+        "name": ""
+    },
+    {
+        "id": "4f00",
+        "line": {
+            "en": "Though we once had to rely heavily on Amane, I\\nnow think we needed to learn more in order to be\\nindependent."
+        },
+        "name": ""
+    },
+    {
+        "id": "5300",
+        "line": {
+            "en": "'If we hadn't been downgraded to a society we\\nprobably wouldn't have ever done this.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5700",
+        "line": {
+            "en": "'Yeah, you're right. When I think about it that\\nway, this isn't really a detour, is it?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5b00",
+        "line": {
+            "en": "'Yup. It's all connected to our dream. Right,\\nKotori?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5f00",
+        "line": {
+            "en": "She nods deeply."
+        },
+        "name": ""
+    },
+    {
+        "id": "6300",
+        "line": {
+            "en": "'Someday let's build this glider. And then fly\\nit.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6700",
+        "line": {
+            "en": "'In that great big sky...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6b00",
+        "line": {
+            "en": "Everyone nodded at her words."
+        },
+        "name": ""
+    },
+    {
+        "id": "6f00",
+        "line": {
+            "en": "No one here doubted that dream."
+        },
+        "name": ""
+    },
+    {
+        "id": "7300",
+        "line": {
+            "en": "'Hey, we're going this weekend, right?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7700",
+        "line": {
+            "en": "'Yeah we've already agreed to.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "7b00",
+        "line": {
+            "en": "'Where are you going?'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "7f00",
+        "line": {
+            "en": "'To the gliding range. We're going to go get some\\npractice in so Aoi doesn't get rusty.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8300",
+        "line": {
+            "en": "'You're gonna fly a glider!?'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "8700",
+        "line": {
+            "en": "'Yep. You girls want to come too?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "8b00",
+        "line": {
+            "en": "'Yeah! Yeah! Right, Yoru!'"
+        },
+        "name": "Asa"
+    },
+    {
+        "id": "8f00",
+        "line": {
+            "en": "'...If I feel up to it.'"
+        },
+        "name": "Yoru"
+    },
+    {
+        "id": "9300",
+        "line": {
+            "en": "From here, if you ride the train for about two\\nhours there is a gliding range."
+        },
+        "name": ""
+    },
+    {
+        "id": "9700",
+        "line": {
+            "en": "You can practice flying a gilder there if you pay\\nfor it."
+        },
+        "name": ""
+    },
+    {
+        "id": "9b00",
+        "line": {
+            "en": "What I'm hiding is that I've been going there all\\nyear, getting practice in."
+        },
+        "name": ""
+    },
+    {
+        "id": "9f00",
+        "line": {
+            "en": "And the other day I got qualified... every\\npilot's dream!"
+        },
+        "name": ""
+    },
+    {
+        "id": "a300",
+        "line": {
+            "en": "'Then it's decided. This Sunday we'll all go to\\nthe gliding range.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a700",
+        "line": {
+            "en": "At any rate, since it costs money, now that I am\\nqualified I haven't been going as much."
+        },
+        "name": ""
+    },
+    {
+        "id": "ab00",
+        "line": {
+            "en": "We can't do anything with our club so going to\\nthe gliding range has been the only fun we've\\nhad."
+        },
+        "name": ""
+    },
+    {
+        "id": "af00",
+        "line": {
+            "en": "The following week we searched the school for a\\nteacher who would become our supervisor."
+        },
+        "name": ""
+    },
+    {
+        "id": "b300",
+        "line": {
+            "en": "'I'm sorry. I understand how you all feel, but\\nI'm already the supervisor for the drama club.'"
+        },
+        "name": "Teacher"
+    },
+    {
+        "id": "b700",
+        "line": {
+            "en": "'Drama doesn't suit you at all!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "bb00",
+        "line": {
+            "en": "'Yeah!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "bf00",
+        "line": {
+            "en": "'Quiet down. I may be a teacher here, but my true\\nambition was to be an artist.'"
+        },
+        "name": "Teacher"
+    },
+    {
+        "id": "c300",
+        "line": {
+            "en": "'Drama is great. Give up on this glider business\\nand join the drama club.'"
+        },
+        "name": "Teacher"
+    },
+    {
+        "id": "c700",
+        "line": {
+            "en": "'No way!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "cb00",
+        "line": {
+            "en": "'I refuse!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "cf00",
+        "line": {
+            "en": "'...That kinda hurts.'"
+        },
+        "name": "Teacher"
+    },
+    {
+        "id": "d300",
+        "line": {
+            "en": "When the teacher we'd hurt left, our shoulders\\nslumped."
+        },
+        "name": ""
+    },
+    {
+        "id": "d700",
+        "line": {
+            "en": "And what's more is that they are my homeroom\\nteacher."
+        },
+        "name": ""
+    },
+    {
+        "id": "db00",
+        "line": {
+            "en": "'I guess it's no use...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "df00",
+        "line": {
+            "en": "'It's not going well at all.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e300",
+        "line": {
+            "en": "Making the rounds, talking to all the teachers\\nwho seemed like they might help us out is getting\\nus nowhere."
+        },
+        "name": ""
+    },
+    {
+        "id": "e700",
+        "line": {
+            "en": "Asa and Yoru looked around for a supervisor\\nbefore they joined the club too."
+        },
+        "name": ""
+    },
+    {
+        "id": "eb00",
+        "line": {
+            "en": "At the time there was no teacher on the staff who\\ncould take our supervisor's place and our chances\\nwere slim."
+        },
+        "name": ""
+    },
+    {
+        "id": "ef00",
+        "line": {
+            "en": "'She's pressuring them behind our backs'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "f300",
+        "line": {
+            "en": "Kotori snorts, her face full of anger."
+        },
+        "name": ""
+    },
+    {
+        "id": "f700",
+        "line": {
+            "en": "'Yeah, they looked so troubled when they turn us\\ndown.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "fb00",
+        "line": {
+            "en": "'...Maybe we can call in someone certified from\\noutside the school.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "ff00",
+        "line": {
+            "en": "'We would still need a supervisor.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "0004",
+        "line": {
+            "en": "Yesterday when we went to the gliding range I\\nchecked with a soaring group that was there and\\nsome of them had some interest."
+        },
+        "name": ""
+    },
+    {
+        "id": "0404",
+        "line": {
+            "en": "The glider would cost money, we would be limited\\nby places we can have club activities and the\\naverage age of the people at the gliding range is\\nfrightfully high."
+        },
+        "name": ""
+    },
+    {
+        "id": "0804",
+        "line": {
+            "en": "If someone young could instruct us, there were\\nplenty of people willing to pitch in and help."
+        },
+        "name": ""
+    },
+    {
+        "id": "0c04",
+        "line": {
+            "en": "Incidentally, young girls who participate\\nproactively are rare too."
+        },
+        "name": ""
+    },
+    {
+        "id": "1004",
+        "line": {
+            "en": "'Be that as it may, the commute going one-way is\\na real pain...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "1404",
+        "line": {
+            "en": "'Oh yeah, you're right.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "1804",
+        "line": {
+            "en": "But it was still better than aiming at nothing."
+        },
+        "name": ""
+    },
+    {
+        "id": "1c04",
+        "line": {
+            "en": "While we were saying these things and walking in\\nthe hallway..."
+        },
+        "name": ""
+    },
+    {
+        "id": "2004",
+        "line": {
+            "en": "'You kids haven't given up?'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "2404",
+        "line": {
+            "en": "'Tobioka!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2804",
+        "line": {
+            "en": "'...Sensei.'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "2c04",
+        "line": {
+            "en": "Ageha immediately corrects Kotori, adding the\\nteacher's title."
+        },
+        "name": ""
+    },
+    {
+        "id": "3004",
+        "line": {
+            "en": "As if he had been waiting for us, Tobioka stepped\\ninto our path."
+        },
+        "name": ""
+    },
+    {
+        "id": "3404",
+        "line": {
+            "en": "'I heard you have been going around making\\nunreasonable requests to the teachers.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "3804",
+        "line": {
+            "en": "'It's not an unreasonable request.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "3c04",
+        "line": {
+            "en": "'Why don't you just give up? There's no teacher\\nwho will help notoriously bad students like you.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "4004",
+        "line": {
+            "en": "Tobioka speaks triumphantly."
+        },
+        "name": ""
+    },
+    {
+        "id": "4404",
+        "line": {
+            "en": "He brings that up at every opportunity like he\\nholds a grudge against us for halting the\\ndemolition of the garage."
+        },
+        "name": ""
+    },
+    {
+        "id": "4804",
+        "line": {
+            "en": "'The best you can do is try.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "4c04",
+        "line": {
+            "en": "'We're going to do that whether you say so or\\nnot.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5004",
+        "line": {
+            "en": "Unamused, Tobioka looked right into Kotori's face\\nand snorted, 'Hmph."
+        },
+        "name": ""
+    },
+    {
+        "id": "5404",
+        "line": {
+            "en": "Then he starts walking."
+        },
+        "name": ""
+    },
+    {
+        "id": "5804",
+        "line": {
+            "en": "When he passed us, he said,"
+        },
+        "name": ""
+    },
+    {
+        "id": "5c04",
+        "line": {
+            "en": "'It is a waste of hard work anyways.'"
+        },
+        "name": "Tobioka"
+    },
+    {
+        "id": "6004",
+        "line": {
+            "en": "He whispered to himself just loudly enough to be\\nheard and then disappeared on the other side of\\nthe hallway."
+        },
+        "name": ""
+    },
+    {
+        "id": "6404",
+        "line": {
+            "en": "'What was that!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "6804",
+        "line": {
+            "en": "'...ehh. Don't pay any attention to him. He's\\njust trying to upset us.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "6c04",
+        "line": {
+            "en": "'But what's all that about wasted hard work?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "7004",
+        "line": {
+            "en": "'I'll say it again, he just wants to put pressure\\non us. Come on, let's go!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7404",
+        "line": {
+            "en": "'Let's go home.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "7804",
+        "line": {
+            "en": "But it was no mere threat."
+        },
+        "name": ""
+    },
+    {
+        "id": "7c04",
+        "line": {
+            "en": "A few days later..."
+        },
+        "name": ""
+    },
+    {
+        "id": "8004",
+        "line": {
+            "en": "'...or so I heard.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "8404",
+        "line": {
+            "en": "'Is that for real?!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "8804",
+        "line": {
+            "en": "'Yeah, I heard it is.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "8c04",
+        "line": {
+            "en": "'Aoi...'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "9004",
+        "line": {
+            "en": "'Yeah...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "9404",
+        "line": {
+            "en": "The information Masatsugu brought was shocking."
+        },
+        "name": ""
+    },
+    {
+        "id": "9804",
+        "line": {
+            "en": "Among the teachers there is movement once again\\nto demolish the garage."
+        },
+        "name": ""
+    },
+    {
+        "id": "9c04",
+        "line": {
+            "en": "He heard that they had been discussing about what\\nto do with 'that abandoned garage that no one is\\nusing."
+        },
+        "name": ""
+    },
+    {
+        "id": "a004",
+        "line": {
+            "en": "It seems that this time it was not Tobioka who\\nsuggested it, but of course he is helping the\\nplan move along."
+        },
+        "name": ""
+    },
+    {
+        "id": "a404",
+        "line": {
+            "en": "'What's gonna happen to the glider? If we lose\\nthe garage, we lose our place to store it.'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "a804",
+        "line": {
+            "en": "'They said something about that too. If I recall,\\nthey said they would donate it to the city\\nmuseum.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "ac04",
+        "line": {
+            "en": "'Don't give away our stuff!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "b004",
+        "line": {
+            "en": "'Ugh, don't tell me.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "b404",
+        "line": {
+            "en": "The Soaring Club flew that glider twenty-seven\\nyears ago and photographed the Morning Glory.\\nThey made that glider themselves."
+        },
+        "name": ""
+    },
+    {
+        "id": "b804",
+        "line": {
+            "en": "That's why it wouldn't be wrong to say it belongs\\nto the Soaring Club even though it was actually\\nan abandoned glider restored, resurrected even,\\nby Amane and them."
+        },
+        "name": ""
+    },
+    {
+        "id": "bc04",
+        "line": {
+            "en": "Now the main wings and such were all things that\\nwe rebuilt."
+        },
+        "name": ""
+    },
+    {
+        "id": "c004",
+        "line": {
+            "en": "Most of that expense were paid for by Amane\\nherself."
+        },
+        "name": ""
+    },
+    {
+        "id": "c404",
+        "line": {
+            "en": "'Homemade gliders are rare. I heard the museum\\nreally wants it.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "c804",
+        "line": {
+            "en": "'That's not something to decorate a museum with.\\nIt still flies. It's still in use!'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "cc04",
+        "line": {
+            "en": "'...Don't look so scared. I thought you'd say\\nthat. That's why I came here to tell you all of\\nthis.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "d004",
+        "line": {
+            "en": "'Sorry...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "d404",
+        "line": {
+            "en": "Masatsugu, through his work with the student\\ncouncil, happened to hear these things."
+        },
+        "name": ""
+    },
+    {
+        "id": "d804",
+        "line": {
+            "en": "Then he came running to tell us."
+        },
+        "name": ""
+    },
+    {
+        "id": "dc04",
+        "line": {
+            "en": "'Don't tell anyone you heard it from me. I don't\\nwant Akari to hate me.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "e004",
+        "line": {
+            "en": "'Sure, we understand. Thanks Ma-bou.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "e404",
+        "line": {
+            "en": "'Yeah. Make the best of it. And don't come crying\\nto me later.'"
+        },
+        "name": "Masatsugu"
+    },
+    {
+        "id": "e804",
+        "line": {
+            "en": "'What are we going to do, Aoi?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "ec04",
+        "line": {
+            "en": "'...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "f004",
+        "line": {
+            "en": "The gears in my head started turning as I\\npondered about what to do next."
+        },
+        "name": ""
+    },
+    {
+        "id": "f404",
+        "line": {
+            "en": "The first thing that came to mind was to go to\\nthe garage and stand in protest, the same as last\\ntime."
+        },
+        "name": ""
+    },
+    {
+        "id": "f804",
+        "line": {
+            "en": "While I considered that, I looked at Kotori."
+        },
+        "name": ""
+    },
+    {
+        "id": "fc04",
+        "line": {
+            "en": "'...?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "0104",
+        "line": {
+            "en": "'(If we do the same thing again our punishment\\nwill be worse than last time. I can handle it but\\nhow about her...)'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "0504",
+        "line": {
+            "en": "Last year when we were suspended from school and\\nthe situation became 'a situation,' they called\\nour guardians."
+        },
+        "name": ""
+    },
+    {
+        "id": "0904",
+        "line": {
+            "en": "Me and Ageha, got a really harsh lecture but it\\nwas just about the mess we had caused and they\\nunderstood how we felt."
+        },
+        "name": ""
+    },
+    {
+        "id": "0d04",
+        "line": {
+            "en": "But at Kotori's house it was different."
+        },
+        "name": ""
+    },
+    {
+        "id": "1104",
+        "line": {
+            "en": "Her parents were shocked that the precious little\\ngirl they had raised would do such a thing."
+        },
+        "name": ""
+    },
+    {
+        "id": "1504",
+        "line": {
+            "en": "Kotori won't say anything, but I heard from\\nHibari-san that they nearly withdrew Kotori from\\nthe school."
+        },
+        "name": ""
+    },
+    {
+        "id": "1904",
+        "line": {
+            "en": "Kotori was really anxious about worrying her\\nparents."
+        },
+        "name": ""
+    },
+    {
+        "id": "1d04",
+        "line": {
+            "en": "'At the very least we have to get our glider\\nback...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "2104",
+        "line": {
+            "en": "'Yeah. That's the plane we flew with Amane. That\\nglider is important!'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "2504",
+        "line": {
+            "en": "Dark expressions settled over us as we brooded\\nover these thoughts and from the hallway\\nresounded the heavy thuds of footsteps."
+        },
+        "name": ""
+    },
+    {
+        "id": "2904",
+        "line": {
+            "en": "They continued until there was a sudden and\\nfierce knock at the door. Without pausing for a\\nreply, the door opened."
+        },
+        "name": ""
+    },
+    {
+        "id": "2d04",
+        "line": {
+            "en": "'Big news! Big news!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3104",
+        "line": {
+            "en": "Ageha changed her expression and plunged into the\\nroom."
+        },
+        "name": ""
+    },
+    {
+        "id": "3504",
+        "line": {
+            "en": "'Yeah, the garage. We just heard.'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "3904",
+        "line": {
+            "en": "'Huh? What are you talking about?'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "3d04",
+        "line": {
+            "en": "'It's not about that? We just heard from\\nMa-bou...'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "4104",
+        "line": {
+            "en": "'That can wait!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4504",
+        "line": {
+            "en": "Ageha said, interrupting me."
+        },
+        "name": ""
+    },
+    {
+        "id": "4904",
+        "line": {
+            "en": "'Amane is coming back!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "4d04",
+        "line": {
+            "en": "'Huh?'"
+        },
+        "name": "Kotori"
+    },
+    {
+        "id": "5104",
+        "line": {
+            "en": "'What do you mean?'"
+        },
+        "name": "Aoi"
+    },
+    {
+        "id": "5504",
+        "line": {
+            "en": "'She's coming back to Keifuu Academy as a special\\nclass teacher!'"
+        },
+        "name": "Ageha"
+    },
+    {
+        "id": "5904",
+        "line": {
+            "en": "Sure enough, like a bolt of lightning from a\\nclear blue sky, that was big news."
+        },
+        "name": ""
+    }
+]

@@ -20,6 +20,6 @@
 ## Repository
 Папки **CO1** и **CO2** содержат основные сюжетные ветки. В остальных ветки для конкретных персонажей.
 ## Responsibility
-| Файл | Ответственный |
-| --- | --- |
-| CO1_001 | [mongolrgata](https://github.com/mongolrgata) |
+| Файл | Ответственный | Дата |
+| --- | --- | --- |
+| CO1_001 | [mongolrgata](https://github.com/mongolrgata) | 10.07.2015 |

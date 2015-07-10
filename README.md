@@ -23,3 +23,4 @@
 | Файл | Ответственный | Дата |
 | --- | --- | --- |
 | CO1_001 | [mongolrgata](https://github.com/mongolrgata) | 10.07.2015 |
+| CO1_002 | [Tzapil](https://github.com/Tzapil) | 10.07.2015 |

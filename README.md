@@ -1,0 +1,1 @@
+# cool-beauty-translate

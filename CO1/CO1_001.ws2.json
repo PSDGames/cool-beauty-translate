@@ -696,7 +696,8 @@
         "id": "3500",
         "line": {
             "en": "Looking fleetingly into the distant sky, a sudden\\nbreeze blew her hair and she combed it back with\\nher fingers.",
-            "ru": ""
+            "ru": "Мимолетный взгляд в небо, внезапный порыв ветра\nрастрепал её волосы и она зачесала их обратно\nрукой.",
+            "state": "2"
         },
         "name": ""
     },
@@ -704,7 +705,8 @@
         "id": "3900",
         "line": {
             "en": "Against the background of the blue sky and\\nwindmills that spread across my view, the girl's\\nblack hair and white blouse looked incredible.",
-            "ru": ""
+            "ru": "На фоне голубого неба и ветряков, чёрные волосы\nи белая блузка девушки выглядели невероятно.",
+            "state": "2"
         },
         "name": ""
     },
@@ -712,7 +714,8 @@
         "id": "3d00",
         "line": {
             "en": "It was as if I was looking at a completed work of\\nart.",
-            "ru": ""
+            "ru": "Было ощущение, будто я наблюдаю завершенное\nпроизведение искусства.",
+            "state": "2"
         },
         "name": ""
     },
@@ -828,8 +831,8 @@
         "id": "7100",
         "line": {
             "en": "Suddenly, tears appeared in those delicate eyes.",
-            "ru": "",
-            "state": "0"
+            "ru": "Как вдруг — глаза на мокром месте.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1008,8 +1011,8 @@
         "id": "c100",
         "line": {
             "en": "Before I knew it, there was something like a\\nchicken at my feet and all of a sudden, it\\nstarted pecking me!",
-            "ru": "",
-            "state": "0"
+            "ru": "Прежде чем я понял, что произошло, нечто\nнапоминающее курицу появилось у моих ног и\nнеожиданно принялось клевать меня!",
+            "state": "2"
         },
         "name": ""
     },
@@ -1125,8 +1128,8 @@
         "id": "f500",
         "line": {
             "en": "So this is how surprising it is to be suddenly\\nattacked by an animal.",
-            "ru": "",
-            "state": "0"
+            "ru": "И таким вот образом можно быть внезапно\nатакованным животным.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1548,7 +1551,8 @@
         "id": "b200",
         "line": {
             "en": "Because she was much lighter than I had expected,\\nthere was a bit too much momentum.",
-            "ru": ""
+            "ru": "Так как она оказалась легче, чем я ожидал,\nрывок получился чересчур быстрым.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1556,7 +1560,8 @@
         "id": "b600",
         "line": {
             "en": "'Hup...'",
-            "ru": ""
+            "ru": "«Оп...»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1564,7 +1569,8 @@
         "id": "ba00",
         "line": {
             "en": "Before she could grasp the situation, I put her\\ndown on the soft grass.",
-            "ru": ""
+            "ru": "До того как она успела осознать происходящее, я\nусадил её на траву.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1599,7 +1605,8 @@
         "id": "ca00",
         "line": {
             "en": "'They're made in the same way as bicycle tires.'",
-            "ru": ""
+            "ru": "«Они сделаны по тому же принципу, что и велосипедные шины».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1616,7 +1623,8 @@
         "id": "d200",
         "line": {
             "en": "She's behind me so I can't see her expression but\\nI had a feeling I was being stared at with\\ncontempt.",
-            "ru": ""
+            "ru": "Она была позади меня, так что я не мог видеть выражения её лица, но у меня было чувство будто\nне меня смотрят с недоверием.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1624,7 +1632,8 @@
         "id": "d600",
         "line": {
             "en": "As I was quietly working, the duck was waddling\\naround me and pecking at the soil.",
-            "ru": ""
+            "ru": "Пока я молча работал, селезень бродил вокруг меня\nи клевал что-то на земле.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1659,7 +1668,8 @@
         "id": "e600",
         "line": {
             "en": "'I thought I'd go outside, and he started to\\nfollow me.'",
-            "ru": ""
+            "ru": "«Он следовал за мной с тех пор как я вышла на\nпрогулку».",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -1685,8 +1695,8 @@
         "id": "f200",
         "line": {
             "en": "Do ducks recognize their own names? When he's\\ncalled, he responds by turning around.",
-            "ru": "Селезень отзывается на своё имя?",
-            "state": "1"
+            "ru": "Селезень отзывается на своё имя? Когда его окликнули,\nон повернул обратно.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1712,8 +1722,8 @@
         "id": "fe00",
         "line": {
             "en": "As I looked at the duck, I saw her legs laid out\\non the grass in my field of vision.",
-            "ru": "Глядя на селезня, я видел её ноги лежащие на траве\n",
-            "state": "1"
+            "ru": "Глядя на селезня, я обратил внимание на ноги девушки.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1730,7 +1740,8 @@
         "id": "0700",
         "line": {
             "en": "There are a number of reasons why people need to\\nuse a wheelchair but it looked like she had been\\nwheelchair-bound for a while.",
-            "ru": ""
+            "ru": "Существует множество причин, по которым людям необходимо инвалидное кресло, но было похоже, что\nона прикована к нему лишь на некоторое время.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1738,7 +1749,8 @@
         "id": "0b00",
         "line": {
             "en": "When I picked her up just now, her body stiffened\\nup with surprise, but there was no strength at\\nall in her legs.",
-            "ru": ""
+            "ru": "Когда я взял её на руки, её тело напряглось от неожиданности, но в ногах силы не было.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1773,7 +1785,8 @@
         "id": "1b00",
         "line": {
             "en": "She said as she made him get down again.",
-            "ru": ""
+            "ru": "Сказала она, заставив его слезть в очередной раз.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1781,7 +1794,8 @@
         "id": "1f00",
         "line": {
             "en": "As I watched this exchange from the corner of my\\neye, I fixed the flat tire.",
-            "ru": ""
+            "ru": "Наблюдая за этим уголком своего глаза, я продолжал\nремонт.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1789,7 +1803,8 @@
         "id": "2300",
         "line": {
             "en": "'Boys are great aren't they? They always walk\\naround with those kinds of tools...'",
-            "ru": ""
+            "ru": "«Парни восхитительны. Таскают с собой все эти\nинструменты...»",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -1797,7 +1812,8 @@
         "id": "2700",
         "line": {
             "en": "'That's not really the case though.'",
-            "ru": ""
+            "ru": "«На самом деле это не совсем так.»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1805,7 +1821,8 @@
         "id": "2b00",
         "line": {
             "en": "I sometimes carry them with me.",
-            "ru": ""
+            "ru": "Я лишь иногда ношу их с собой.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1813,7 +1830,8 @@
         "id": "2f00",
         "line": {
             "en": "'This is the first time I've sat on the grass in\\nages. It's soft and feels nice.'",
-            "ru": ""
+            "ru": "«Впервые за несколько лет я сижу на траве. Мягкая\nи приятная на ощупь».",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -1821,7 +1839,8 @@
         "id": "3300",
         "line": {
             "en": "As she said that, she made a little 'Hnnnn' sound\\nas she stretched.",
-            "ru": ""
+            "ru": "Сказав это, она издала «Хнннн»-подобный звук\nи потянулась.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1829,7 +1848,8 @@
         "id": "3700",
         "line": {
             "en": "'This is a nice place, isn't it?'",
-            "ru": ""
+            "ru": "«Прекрасное место, не так ли?»",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -1837,7 +1857,8 @@
         "id": "3b00",
         "line": {
             "en": "'Yeah, it is.'",
-            "ru": ""
+            "ru": "«Да, бесспорно».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1845,7 +1866,8 @@
         "id": "3f00",
         "line": {
             "en": "'I can see it from my window. I wanted to come\\nhere just once.'",
-            "ru": ""
+            "ru": "«Я могу видеть его из окна своей комнаты. Я хотела\nприйти сюда хотя бы раз».",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -1853,7 +1875,8 @@
         "id": "4300",
         "line": {
             "en": "'The wind blows through here.'",
-            "ru": ""
+            "ru": "«Здесь постоянно дуют ветра».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1861,7 +1884,8 @@
         "id": "4700",
         "line": {
             "en": "'Five years ago, there were no windmills though.'",
-            "ru": ""
+            "ru": "«Хотя пять лет назад здесь не было ветряков».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1932,7 +1956,8 @@
         "id": "6700",
         "line": {
             "en": "There was an awkward silence as I continued\\nworking.",
-            "ru": ""
+            "ru": "Возникло неловкое молчание, так что я продолжил\nработу.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1949,7 +1974,8 @@
         "id": "6f00",
         "line": {
             "en": "The duck twisted its neck to look up at the sky.",
-            "ru": ""
+            "ru": "Селезень изогнул шею и посмотрел вверх на небо.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1966,7 +1992,8 @@
         "id": "7700",
         "line": {
             "en": "She was tempted to look up too.",
-            "ru": ""
+            "ru": "Она невольно посмотрел наверх.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1974,7 +2001,8 @@
         "id": "7b00",
         "line": {
             "en": "'I wonder what that is?'",
-            "ru": ""
+            "ru": "«Интересно что это?»",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -1982,7 +2010,8 @@
         "id": "7f00",
         "line": {
             "en": "'What's that?'",
-            "ru": ""
+            "ru": "«Это что?»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1999,7 +2028,8 @@
         "id": "8700",
         "line": {
             "en": "There was something floating in the air.",
-            "ru": ""
+            "ru": "Неопознанный объект перемещался по воздуху.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2007,7 +2037,8 @@
         "id": "8b00",
         "line": {
             "en": "It was crossing the lake and gradually getting\\ncloser.",
-            "ru": ""
+            "ru": "Он пересекал озеро и постепенно приближался.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2015,7 +2046,8 @@
         "id": "8f00",
         "line": {
             "en": "At first, I thought that it was a paper airplane\\nthat she had thrown coming back to us.",
-            "ru": ""
+            "ru": "По-началу я подумал, что это был один из её\nбумажных самолётов, возвращающийся к нам.\n",
+            "state": "2"
         },
         "name": ""
     },
@@ -2023,7 +2055,8 @@
         "id": "9300",
         "line": {
             "en": "But it wasn't.",
-            "ru": ""
+            "ru": "Но это было не так.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2031,7 +2064,8 @@
         "id": "9700",
         "line": {
             "en": "It crossed the lake and eventually reached the\\nair above the small hill where we were.",
-            "ru": ""
+            "ru": "Объект пересёк озеро и наконец достиг неба\nнад холмом, на котором мы находились.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2039,7 +2073,8 @@
         "id": "9b00",
         "line": {
             "en": "'An airplane?'",
-            "ru": ""
+            "ru": "«Аэроплан?»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2047,7 +2082,8 @@
         "id": "9f00",
         "line": {
             "en": "It's not paper, it's a real plane.",
-            "ru": ""
+            "ru": "Это не бумажный, а настоящий самолёт.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2055,7 +2091,8 @@
         "id": "a300",
         "line": {
             "en": "But what is this? Its silhouette is much thinner\\nthan any plane I know and the wings are really\\nbig.",
-            "ru": ""
+            "ru": "Но что это? Его профиль гораздо тоньше, чем у любого известного мне самолёта, а крылья просто огромны.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2063,7 +2100,8 @@
         "id": "a700",
         "line": {
             "en": "'It's a glider...'",
-            "ru": ""
+            "ru": "«Глайдер...»",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -2071,7 +2109,8 @@
         "id": "ab00",
         "line": {
             "en": "'No doubt about it. That's a glider.'",
-            "ru": ""
+            "ru": "«Без сомнения, это глайдер».",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -2079,7 +2118,8 @@
         "id": "af00",
         "line": {
             "en": "'A glider?'",
-            "ru": ""
+            "ru": "«Глайдер?»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2087,7 +2127,8 @@
         "id": "b300",
         "line": {
             "en": "I repeated the name as if to confirm it, and then\\nlooked to the sky once more.",
-            "ru": ""
+            "ru": "Я повторил это название, будто пробуя на вкус, и ещё раз посмотрел на небо.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2095,7 +2136,8 @@
         "id": "b700",
         "line": {
             "en": "With its big white wings and wide silhouette, it\\nreminded me somewhat of a seagull.",
-            "ru": ""
+            "ru": "Большие белые крылья и широкий профиль напоминали\nчто-то похожее на чайку.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2103,7 +2145,8 @@
         "id": "bb00",
         "line": {
             "en": "'Hey, look, it's turning. It's so pretty...'",
-            "ru": ""
+            "ru": "«Смотри, он поворачивает. Так красиво...»",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -2111,7 +2154,8 @@
         "id": "bf00",
         "line": {
             "en": "The glider (?) is continuing to turn leisurely\\nabove our heads.",
-            "ru": ""
+            "ru": "Глайдер (?) неторопливо поворачивался над нашими головами.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2119,7 +2163,8 @@
         "id": "c300",
         "line": {
             "en": "'It's flying ever so slowly.'",
-            "ru": ""
+            "ru": "«Он летит так медленно».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2127,7 +2172,8 @@
         "id": "c700",
         "line": {
             "en": "'Of course, it doesn't have any thrust.'",
-            "ru": ""
+            "ru": "«Само собой, у него нет никакой тяги».",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -2135,7 +2181,8 @@
         "id": "cb00",
         "line": {
             "en": "As it proceeded slowly across the blue sky, it\\nseemed to be floating rather than flying.",
-            "ru": ""
+            "ru": "Медленно двигаясь по синему небу, он скорее\nпарил, чем летел.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2143,7 +2190,8 @@
         "id": "cf00",
         "line": {
             "en": "'To fly on the wind like that...'",
-            "ru": ""
+            "ru": "«Чтобы так летать по небу...»",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -2151,7 +2199,8 @@
         "id": "d300",
         "line": {
             "en": "'It looks like it would feel nice.'",
-            "ru": ""
+            "ru": "«Должно быть это удивительное чувство».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2159,7 +2208,8 @@
         "id": "d700",
         "line": {
             "en": "'Yeah...'",
-            "ru": ""
+            "ru": "«Да...»",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -2167,7 +2217,8 @@
         "id": "db00",
         "line": {
             "en": "'It's coming down.'",
-            "ru": ""
+            "ru": "«Он опускается».",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -2175,7 +2226,8 @@
         "id": "df00",
         "line": {
             "en": "The turning glider looks as if it had given up on\\nrising, and came down towards the top of our\\nhill.",
-            "ru": ""
+            "ru": "Развернувшийся глайдер перестал набирать высоту и\nначал опускаться навстречу вершине холма.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2183,7 +2235,8 @@
         "id": "e300",
         "line": {
             "en": "I mean, it's not like it was coming down to land.",
-            "ru": ""
+            "ru": "Я не имею ввиду, что он собирается приземляться.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2191,7 +2244,8 @@
         "id": "e700",
         "line": {
             "en": "It was just reducing its altitude.",
-            "ru": ""
+            "ru": "Он просто уменьшал высоту.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2199,7 +2253,8 @@
         "id": "eb00",
         "line": {
             "en": "'Why don't we try waving? They might notice us.'",
-            "ru": ""
+            "ru": "«Может попробуем помахать ему? Нас могут\nзаметить».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2207,7 +2262,8 @@
         "id": "ef00",
         "line": {
             "en": "'Y, yeah...'",
-            "ru": ""
+            "ru": "«А, ага...»",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -2215,7 +2271,8 @@
         "id": "f300",
         "line": {
             "en": "She earnestly stretched out her hand and waved\\ntowards the white aircraft floating in the sky.",
-            "ru": ""
+            "ru": "Она уверенно вытянула свою руку вперед и помахала\nнавстречу белому самолёту парящему по небу.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2223,7 +2280,8 @@
         "id": "f700",
         "line": {
             "en": "'Heeeeey!'",
-            "ru": ""
+            "ru": "«Ээээээй!»",
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -2240,7 +2298,8 @@
         "id": "ff00",
         "line": {
             "en": "I don't know if the pilot noticed us or not.",
-            "ru": ""
+            "ru": "Не знаю заметил нас пилот или нет.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2248,7 +2307,8 @@
         "id": "0004",
         "line": {
             "en": "However, the wings reflected a gleaming light,\\nand it really did look as if it was answering us\\nfrom calling out to it.",
-            "ru": ""
+            "ru": "Но крылья отразили луч света, и было похоже будто\nон отвечает нам.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2256,7 +2316,8 @@
         "id": "0404",
         "line": {
             "en": "Then, the glider turned its back to us and flew\\naway, back to the other side of the lake, where\\nit had come from.",
-            "ru": ""
+            "ru": "Потом развернулся к нам хвостом и полетел прочь,\nвозвращаясь на другую сторону озера откуда он\nприлетел.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2264,7 +2325,8 @@
         "id": "0804",
         "line": {
             "en": "'It's gone...'",
-            "ru": ""
+            "ru": "«Он улетел...»",
+            "state": "2"
         },
         "name": "Girl"
     },

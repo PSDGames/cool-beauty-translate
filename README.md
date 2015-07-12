@@ -51,7 +51,7 @@
 | ASA_005 | 69 KB | 431 | 21674 | | |
 | CO1_001 | 83 KB | 518 | 26355 | [mongolrgata](https://github.com/mongolrgata) | 10.07.2015 |
 | CO1_002 | 124 KB | 746 | 42165 | [Tzapil](https://github.com/Tzapil) | 10.07.2015 |
-| CO1_003 | 113 KB | 689 | 37343 | | |
+| CO1_003 | 113 KB | 689 | 37343 | [mongolrgata](https://github.com/mongolrgata) | 12.07.2015 |
 | CO1_004 | 40 KB | 245 | 13757 | | |
 | CO1_005 | 59 KB | 369 | 19212 | | |
 | CO1_006 | 78 KB | 478 | 25476 | | |

@@ -2,959 +2,1233 @@
     {
         "id": "0000",
         "line": {
-            "en": "'I thought you might be here.'"
+            "en": "'I thought you might be here.'",
+            "state": "1",
+            "ru": "'Так и знала, что ты здесь.'"
         },
         "name": "Girl"
     },
     {
         "id": "0400",
         "line": {
-            "en": "'Yoru.'"
+            "en": "'Yoru.'",
+            "state": "1",
+            "ru": "'Ёру.'"
         },
         "name": "Girl"
     },
     {
         "id": "0800",
         "line": {
-            "en": "'If you don't go back now, you'll be late for\\ndinner.'"
+            "en": "'If you don't go back now, you'll be late for\\ndinner.'",
+            "state": "1",
+            "ru": "'Если не вернешься сейчас, то опоздаешь\nна ужин.'"
         },
         "name": "Girl"
     },
     {
         "id": "0c00",
         "line": {
-            "en": "'Yeah... but, can I stay a little longer?'"
+            "en": "'Yeah... but, can I stay a little longer?'",
+            "state": "1",
+            "ru": "'Да... но можно я подожду еще немного?'"
         },
         "name": "Girl"
     },
     {
         "id": "1000",
         "line": {
-            "en": "'There's no use waiting, it won't appear, you\\nknow.'"
+            "en": "'There's no use waiting, it won't appear, you\\nknow.'",
+            "state": "1",
+            "ru": "'Незачем ждать, он не появится.'"
         },
         "name": "Girl"
     },
     {
         "id": "1400",
         "line": {
-            "en": "'Huh? How do you know that?'"
+            "en": "'Huh? How do you know that?'",
+            "state": "1",
+            "ru": "'А? Откуда ты знаешь?'"
         },
         "name": "Girl"
     },
     {
         "id": "1800",
         "line": {
-            "en": "'It hasn't flown once since that time, has it? I\\nwent to take a look at the runway but it's\\novergrown with weeds and there are no signs of it\\nhaving been used.'"
+            "en": "'It hasn't flown once since that time, has it? I\\nwent to take a look at the runway but it's\\novergrown with weeds and there are no signs of it\\nhaving been used.'",
+            "state": "1",
+            "ru": "'С тех пор он ни разу не взлетал, так? Я ходила\nпосмотреть на взлётно-посадочную полосу, но она \nзаросла травой, и по всей видимости не используется.'"
         },
         "name": "Girl"
     },
     {
         "id": "1c00",
         "line": {
-            "en": "'Yeah... but...'"
+            "en": "'Yeah... but...'",
+            "state": "1",
+            "ru": "'Да... но...'"
         },
         "name": "Girl"
     },
     {
         "id": "2000",
         "line": {
-            "en": "'Uhhhh...'"
+            "en": "'Uhhhh...'",
+            "state": "1",
+            "ru": "'Ээээ...'"
         },
         "name": "Girl"
     },
     {
         "id": "2400",
         "line": {
-            "en": "'Sheesh...'"
+            "en": "'Sheesh...'",
+            "state": "1",
+            "ru": "'Ээх...'"
         },
         "name": "Girl"
     },
     {
         "id": "2800",
         "line": {
-            "en": "'I asked about it today at school.'"
+            "en": "'I asked about it today at school.'",
+            "state": "1",
+            "ru": "'Я спросила сегодня в школе.'"
         },
         "name": "Girl"
     },
     {
         "id": "2c00",
         "line": {
-            "en": "'?'"
+            "en": "'?'",
+            "state": "1",
+            "ru": "'?'"
         },
         "name": "Girl"
     },
     {
         "id": "3000",
         "line": {
-            "en": "'It was the members of the Soaring Club at our\\nschool.'"
+            "en": "'It was the members of the Soaring Club at our\\nschool.'",
+            "state": "1",
+            "ru": "'Это были члены Планерного Клуба нашей школы.'"
         },
         "name": "Girl"
     },
     {
         "id": "3400",
         "line": {
-            "en": "'Huh? The people flying in the glider were...?'"
+            "en": "'Huh? The people flying in the glider were...?'",
+            "state": "1",
+            "ru": "'А? Люди, летающие в дельтаплане...?'"
         },
         "name": "Girl"
     },
     {
         "id": "3800",
         "line": {
-            "en": "'Yes.'"
+            "en": "'Yes.'",
+            "state": "1",
+            "ru": "'Да.'"
         },
         "name": "Girl"
     },
     {
         "id": "3c00",
         "line": {
-            "en": "'They were performing club activities. It's\\nsimpler to look for them at the more common\\nareas.'"
+            "en": "'They were performing club activities. It's\\nsimpler to look for them at the more common\\nareas.'",
+            "ru": "'Они показывали деятельность клуба. Проще \nнайти их в более доступных местах.'",
+            "state": "1"
         },
         "name": "Girl"
     },
     {
         "id": "4000",
         "line": {
-            "en": "'...so that means, if I ask, they might let me\\njoin?'"
+            "en": "'...so that means, if I ask, they might let me\\njoin?'",
+            "ru": "'...это значит, что если я попрошу, то они \nразрешат мне присоединиться к ним?'",
+            "state": "1"
         },
         "name": "Girl"
     },
     {
         "id": "4400",
         "line": {
-            "en": "'That's too bad.'"
+            "en": "'That's too bad.'",
+            "ru": "'Всё плохо.'",
+            "state": "1"
         },
         "name": "Girl"
     },
     {
         "id": "4800",
         "line": {
-            "en": "'Huh?'"
+            "en": "'Huh?'",
+            "ru": "'А?'",
+            "state": "1"
         },
         "name": "Girl"
     },
     {
         "id": "4c00",
         "line": {
-            "en": "'The Soaring Club had its status revoked. The\\nso-called 'Legendary Senpai' quit, and that was\\nit.'"
+            "en": "'The Soaring Club had its status revoked. The\\nso-called 'Legendary Senpai' quit, and that was\\nit.'",
+            "ru": "'Планерный Клуб утратил свой статус. Так называемый \n'Легендарный Семпай' ушел, и вот чем всё закончилось.'",
+            "state": "1"
         },
         "name": "Girl"
     },
     {
         "id": "5000",
         "line": {
-            "en": "'Really...?'"
+            "en": "'Really...?'",
+            "ru": "'Правда?...'",
+            "state": "1"
         },
         "name": "Girl"
     },
     {
         "id": "5400",
         "line": {
-            "en": "'That's why they're not flying. So that's why\\nthere's no point waiting here.'"
+            "en": "'That's why they're not flying. So that's why\\nthere's no point waiting here.'",
+            "ru": "'Вот почему они не летают. И вот почему \nнет смысла ждать.'",
+            "state": "1"
         },
         "name": "Girl"
     },
     {
         "id": "5800",
         "line": {
-            "en": "'Come on, let's go back. I'm hungry.'"
+            "en": "'Come on, let's go back. I'm hungry.'",
+            "ru": "'Пошли, возвращаемся. Я проголодалась.'",
+            "state": "1"
         },
         "name": "Girl"
     },
     {
         "id": "5c00",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": "'...'",
+            "state": "1"
         },
         "name": "Girl"
     },
     {
         "id": "6000",
         "line": {
-            "en": "'I see... So they won't be flying anymore...'"
+            "en": "'I see... So they won't be flying anymore...'",
+            "ru": "'Понятно... Значит, они больше не будут летать...'",
+            "state": "1"
         },
         "name": "Girl"
     },
     {
         "id": "6400",
         "line": {
-            "en": "A sky so blue, it almost hurts the eyes, and a\\ntowering thunderhead."
+            "en": "A sky so blue, it almost hurts the eyes, and a\\ntowering thunderhead.",
+            "ru": "Небо, такое голубое, что глазам почти что больно, \nи возвышающаяся грозовая туча.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "6800",
         "line": {
-            "en": "Cicadas are singing their hearts out. Lush\\nvegetation is growing, bathed in the sunlight."
+            "en": "Cicadas are singing their hearts out. Lush\\nvegetation is growing, bathed in the sunlight.",
+            "ru": "Неистово стрекочут цикады. Бурная растительность \nкупается в солнечных лучах.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "6c00",
         "line": {
-            "en": "Summer has come again!!"
+            "en": "Summer has come again!!",
+            "ru": "Снова лето!!",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "7000",
         "line": {
-            "en": "'It's so hot...'"
+            "en": "'It's so hot...'",
+            "ru": "'Так жарко...'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "7400",
         "line": {
-            "en": "I complain, while hanging the sheets on the\\nclothesline."
+            "en": "I complain, while hanging the sheets on the\\nclothesline.",
+            "ru": "Жаловался я, развешивая простыни сушиться \nна верёвке.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "7800",
         "line": {
-            "en": "'In this heat, they should be dry by lunchtime.'"
+            "en": "'In this heat, they should be dry by lunchtime.'",
+            "ru": "'На такой жаре они высохнут к обеду'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "7c00",
         "line": {
-            "en": "As I speak, I gaze at the distant thunderhead."
+            "en": "As I speak, I gaze at the distant thunderhead.",
+            "ru": "Говоря это, я смотрел на далёкую грозовую тучу.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "8000",
         "line": {
-            "en": "It's said that thunderheads, or giant\\ncumulonimbus clouds, can extend upwards out of\\nthe stratosphere."
+            "en": "It's said that thunderheads, or giant\\ncumulonimbus clouds, can extend upwards out of\\nthe stratosphere.",
+            "ru": "Говорят, что грозовые тучи, или гигантские \nкучево-дождевые облака, могут разрастаться \nвыше стратосферы.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "8400",
         "line": {
-            "en": "The world record for highest flight in a glider\\nalso went beyond the stratosphere."
+            "en": "The world record for highest flight in a glider\\nalso went beyond the stratosphere.",
+            "ru": "Мировой рекорд по самому высокому полёту \nна дельтаплане тоже вышел за пределы стратосферы.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "8800",
         "line": {
-            "en": "They both seem hard to believe at first."
+            "en": "They both seem hard to believe at first.",
+            "ru": "В оба этих факта трудно поверить.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "8c00",
         "line": {
-            "en": "'Morning.'"
+            "en": "'Morning.'",
+            "ru": "'Утро.'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "9000",
         "line": {
-            "en": "As I take the sheets out of the wash basket, I\\nhear a voice from behind. It's Ageha."
+            "en": "As I take the sheets out of the wash basket, I\\nhear a voice from behind. It's Ageha.",
+            "ru": "Доставая простыни из корзины с бельём,\nя услышал сзади голос. Это Агеха.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "9400",
         "line": {
-            "en": "'It's hot today too, isn't it?'"
+            "en": "'It's hot today too, isn't it?'",
+            "ru": "'Жарко сегодня, да?'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "9800",
         "line": {
-            "en": "'I'll be with you in a moment. Can you wait\\ninside?'"
+            "en": "'I'll be with you in a moment. Can you wait\\ninside?'",
+            "ru": "'Я буду через секунду. Подождешь внутри?'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "9c00",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": "'...'",
+            "state": "1"
         },
         "name": "Kanako"
     },
     {
         "id": "a000",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": "'...'",
+            "state": "1"
         },
         "name": "Yuka"
     },
     {
         "id": "a400",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": "'...'",
+            "state": "1"
         },
         "name": "Sanae"
     },
     {
         "id": "a800",
         "line": {
-            "en": "'Is it here!?'"
+            "en": "'Is it here!?'",
+            "ru": "'Он здесь?!'",
+            "state": "1"
         },
         "name": "Kotori"
     },
     {
         "id": "ac00",
         "line": {
-            "en": "'Good mor...'"
+            "en": "'Good mor...'",
+            "ru": "'Доброе ут...'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "b000",
         "line": {
-            "en": "'...Whoa, what are you all doing here?'"
+            "en": "'...Whoa, what are you all doing here?'",
+            "ru": "'...Воу, что вы все здесь делаете?'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "b400",
         "line": {
-            "en": "'What? It's Ageha...'"
+            "en": "'What? It's Ageha...'",
+            "ru": "'Что? Это Агеха...'",
+            "state": "1"
         },
         "name": "Kotori"
     },
     {
         "id": "b800",
         "line": {
-            "en": "'Whew... I was so excited...'"
+            "en": "'Whew... I was so excited...'",
+            "ru": "'Ууу... Я была так взволнована...'",
+            "state": "1"
         },
         "name": "Ryouko"
     },
     {
         "id": "bc00",
         "line": {
-            "en": "'What is this? Why are you all so disappointed??'"
+            "en": "'What is this? Why are you all so disappointed??'",
+            "ru": "'Что такое? Почему вы все так разочарованы??'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "c000",
         "line": {
-            "en": "'It'll be here soon...'"
+            "en": "'It'll be here soon...'",
+            "ru": "'Он скоро будет здесь...'",
+            "state": "1"
         },
         "name": "Yuka"
     },
     {
         "id": "c400",
         "line": {
-            "en": "'...What will be?'"
+            "en": "'...What will be?'",
+            "ru": "'...Что будет?'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "c800",
         "line": {
-            "en": "'The new refrigerator!!'"
+            "en": "'The new refrigerator!!'",
+            "ru": "'Новый холодильник!!'",
+            "state": "1"
         },
         "name": "Kotori"
     },
     {
         "id": "cc00",
         "line": {
-            "en": "'Aoi's been trying really hard.'"
+            "en": "'Aoi's been trying really hard.'",
+            "ru": "'Аои очень постаралась.'",
+            "state": "1"
         },
         "name": "Yuka"
     },
     {
         "id": "d000",
         "line": {
-            "en": "'We didn't think we'd be able to do it\\nourselves.'"
+            "en": "'We didn't think we'd be able to do it\\nourselves.'",
+            "ru": "'Мы не думали, что сами сможем это сделать.'",
+            "state": "1"
         },
         "name": "Sanae"
     },
     {
         "id": "d400",
         "line": {
-            "en": "'We don't need to compete to keep our juice cool\\nanymore.'"
+            "en": "'We don't need to compete to keep our juice cool\\nanymore.'",
+            "ru": "'Нам больше не нужно будет соревноваться \nради холодного сока.'",
+            "state": "1"
         },
         "name": "Ryouko"
     },
     {
         "id": "d800",
         "line": {
-            "en": "'Oh.'"
+            "en": "'Oh.'",
+            "ru": "'Оу.'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "dc00",
         "line": {
-            "en": "'Our refrigerator has been used for decades, and\\nis a relic from the last century.'"
+            "en": "'Our refrigerator has been used for decades, and\\nis a relic from the last century.'",
+            "ru": "'Наш холодильник служил десятилетиями,\nэто реликвия из прошлого века.'",
+            "state": "1"
         },
         "name": "Kanako"
     },
     {
         "id": "e000",
         "line": {
-            "en": "'It's been in bad condition for a long time, and\\nwe often find that it has no power.'"
+            "en": "'It's been in bad condition for a long time, and\\nwe often find that it has no power.'",
+            "ru": "'Долгое время он был в плохом состоянии, и частенько \nмы обнаруживали, что он выключился.'",
+            "state": "1"
         },
         "name": "Yuka"
     },
     {
         "id": "e400",
         "line": {
-            "en": "'But with this, tragic accidents where our\\nexpensive ice cream melts on us, will also go\\naway...!!'"
+            "en": "'But with this, tragic accidents where our\\nexpensive ice cream melts on us, will also go\\naway...!!'",
+            "ru": "'Но теперь трагичные происшествия с дорогим \nмороженым, тающим на нас, останутся в прошлом...!!'",
+            "state": "1"
         },
         "name": "Kotori"
     },
     {
         "id": "e800",
         "line": {
-            "en": "'A few days ago, Kotori's Haagen-Dazs was\\ncompletely ruined...'"
+            "en": "'A few days ago, Kotori's Haagen-Dazs was\\ncompletely ruined...'",
+            "ru": "'Несколько дней Häagen-Dazs Котори было полностью уничтожено...'",
+            "state": "1"
         },
         "name": "Ryouko"
     },
     {
         "id": "ec00",
         "line": {
-            "en": "'That really is a tragedy.'"
+            "en": "'That really is a tragedy.'",
+            "ru": "'Настоящая трагедия.'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "f000",
         "line": {
-            "en": "'The food won't be spoiled anymore, and the\\nelectric bill will be cheaper.'"
+            "en": "'The food won't be spoiled anymore, and the\\nelectric bill will be cheaper.'",
+            "ru": "'Больше не будет пропадать еда и уменьшится \nсчет за электричество.'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "f400",
         "line": {
-            "en": "'And it won't be a problem for the owner,\\neither.'"
+            "en": "'And it won't be a problem for the owner,\\neither.'",
+            "ru": "'И для хозяйки никаких проблем.'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "f800",
         "line": {
-            "en": "I finished hanging up the laundry, and then while\\njoining everyone, I explained."
+            "en": "I finished hanging up the laundry, and then while\\njoining everyone, I explained.",
+            "ru": "Объяснял я, присоединившись к остальным, \nкогда закончил развешивать белье.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "fc00",
         "line": {
-            "en": "'She didn't give it the okay right away, though,\\ndid she?'"
+            "en": "'She didn't give it the okay right away, though,\\ndid she?'",
+            "ru": "'Хотя она еще не согласилась, не так ли?'",
+            "state": "1"
         },
         "name": "Kanako"
     },
     {
         "id": "0100",
         "line": {
-            "en": "'Yeah, well...'"
+            "en": "'Yeah, well...'",
+            "ru": "'Ну...'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "0500",
         "line": {
-            "en": "I was the one who approached the owner about it,\\nbut it wasn't exactly a smooth process to get to\\nthis point."
+            "en": "I was the one who approached the owner about it,\\nbut it wasn't exactly a smooth process to get to\\nthis point.",
+            "ru": "Я говорил об этом с хозяйкой, но пока что всё шло \nне очень гладко.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "0900",
         "line": {
-            "en": "The owner herself was okay with it, but her sons\\nwant to get rid of this place as soon as\\npossible, and that's why they were against the\\nidea of getting a new fridge."
+            "en": "The owner herself was okay with it, but her sons\\nwant to get rid of this place as soon as\\npossible, and that's why they were against the\\nidea of getting a new fridge.",
+            "ru": "Сама хозяйка была не против, но её сыновья хотели \nкак можно скорее избавиться от этого места, \nи поэтому были против приобретения нового холодильника.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "0d00",
         "line": {
-            "en": "I persistently pursued the negotiations, and\\nfinally won out."
+            "en": "I persistently pursued the negotiations, and\\nfinally won out.",
+            "ru": "Я был настойчив в переговорах и в конце концов победил.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "1100",
         "line": {
-            "en": "'It's all thanks to Aoi.'"
+            "en": "'It's all thanks to Aoi.'",
+            "ru": "'Всё благодаря Аою.'",
+            "state": "1"
         },
         "name": "Yuka"
     },
     {
         "id": "1500",
         "line": {
-            "en": "'Yeah, he's a great dorm mother!'"
+            "en": "'Yeah, he's a great dorm mother!'",
+            "ru": "'Да, он отличная горничная!'",
+            "state": "1"
         },
         "name": "Sanae"
     },
     {
         "id": "1900",
         "line": {
-            "en": "'Nah, not really...'"
+            "en": "'Nah, not really...'",
+            "ru": "'Ну, неправда...'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "1d00",
         "line": {
-            "en": "'The old lady said that Aoi is doing a good job.'"
+            "en": "'The old lady said that Aoi is doing a good job.'",
+            "ru": "'Бабуля говорит, что Аой хорошо справляется.'",
+            "state": "1"
         },
         "name": "Kanako"
     },
     {
         "id": "2100",
         "line": {
-            "en": "When she says 'old lady', she means the owner."
+            "en": "When she says 'old lady', she means the owner.",
+            "ru": "Говоря 'бабуля', она имеет в виду хозяйку.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "2500",
         "line": {
-            "en": "'I think that's the reason she agreed to it.'"
+            "en": "'I think that's the reason she agreed to it.'",
+            "ru": "'Думаю, именно поэтому она согласилась.'",
+            "state": "1"
         },
         "name": "Kanako"
     },
     {
         "id": "2900",
         "line": {
-            "en": "Then, the doorbell rang."
+            "en": "Then, the doorbell rang.",
+            "ru": "Зазвонил входной звонок.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "2d00",
         "line": {
-            "en": "'It's here!'"
+            "en": "'It's here!'",
+            "ru": "'Он здесь!'",
+            "state": "1"
         },
         "name": "Kotori"
     },
     {
         "id": "3100",
         "line": {
-            "en": "'...(Gulp!)'"
+            "en": "'...(Gulp!)'",
+            "ru": "'...(!)'",
+            "state": "1"
         },
         "name": "Yuka"
     },
     {
         "id": "3500",
         "line": {
-            "en": "All the boarders were getting excited."
+            "en": "All the boarders were getting excited.",
+            "ru": "Жильцы снова завоновались.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "3900",
         "line": {
-            "en": "'Hello there.'"
+            "en": "'Hello there.'",
+            "ru": "'Добрый день.'",
+            "state": "1"
         },
         "name": "Electrician"
     },
     {
         "id": "3d00",
         "line": {
-            "en": "The guy from the electronics store came straight\\nin and when he saw all the girls standing there\\n(plus one boy) he said, 'Whoa'."
+            "en": "The guy from the electronics store came straight\\nin and when he saw all the girls standing there\\n(plus one boy) he said, 'Whoa'.",
+            "ru": "Парень из магазина бытовой техники зашел внутрь,\nи когда он увидел всех девочек (плюс один мальчик),\nу него вырвалось 'Воу'.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "4100",
         "line": {
-            "en": "'...Refrigerator delivery.'"
+            "en": "'...Refrigerator delivery.'",
+            "ru": "'...Доставка холодильника.'",
+            "state": "1"
         },
         "name": "Electrician"
     },
     {
         "id": "4500",
         "line": {
-            "en": "'Please install it over here. Could you also take\\naway the old one?'"
+            "en": "'Please install it over here. Could you also take\\naway the old one?'",
+            "ru": "'Пожалуйста, ставьте сюда. А вы можете сразу\nзабрать старый?'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "4900",
         "line": {
-            "en": "The new fridge will be installed in the dining\\nhall, and the old one will be taken away for\\nrecycling."
+            "en": "The new fridge will be installed in the dining\\nhall, and the old one will be taken away for\\nrecycling.",
+            "ru": "Новый холодильник поставят в столовой, \nа старый увезут на переработку.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "4d00",
         "line": {
-            "en": "I sign the receipt, then..."
+            "en": "I sign the receipt, then...",
+            "ru": "Я подписал чек...",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "5100",
         "line": {
-            "en": "'I'll leave the rest to you.'"
+            "en": "'I'll leave the rest to you.'",
+            "ru": "'Оставляю остальное на вас.'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "5500",
         "line": {
-            "en": "'Sure.'"
+            "en": "'Sure.'",
+            "ru": "'Конечно.'",
+            "state": "1"
         },
         "name": "Kanako"
     },
     {
         "id": "5900",
         "line": {
-            "en": "I let Kanako take care of it and then I left the\\ndormitory."
+            "en": "I let Kanako take care of it and then I left the\\ndormitory.",
+            "ru": "Я оставил холодильник на Канако и вышел из общежития.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "5d00",
         "line": {
-            "en": "'Aoi, we'll miss the train.'"
+            "en": "'Aoi, we'll miss the train.'",
+            "ru": "'Аой, мы опоздаем на поезд.'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "6100",
         "line": {
-            "en": "'Okay, sorry.'"
+            "en": "'Okay, sorry.'",
+            "ru": "'Хорошо, извини.'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "6500",
         "line": {
-            "en": "'It must be nice for them. I wanted to go too,'"
+            "en": "'It must be nice for them. I wanted to go too,'",
+            "ru": "'Я так им завидую. Я тоже хотела пойти,'",
+            "state": "1"
         },
         "name": "Kotori"
     },
     {
         "id": "6900",
         "line": {
-            "en": "grumbled Kotori."
+            "en": "grumbled Kotori.",
+            "ru": "проворчала Котори.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "6d00",
         "line": {
-            "en": "'I can't believe they would go without their\\nleader.'"
+            "en": "'I can't believe they would go without their\\nleader.'",
+            "ru": "'Не могу поверить, что они пойдут без лидера.'",
+            "state": "1"
         },
         "name": "Kotori"
     },
     {
         "id": "7100",
         "line": {
-            "en": "'It can't be helped. Today, you have to help out\\nat An-chan's place.'"
+            "en": "'It can't be helped. Today, you have to help out\\nat An-chan's place.'",
+            "ru": "'Ничего не поделать. Сегодня тебе нужно работать \nу Ан-тян.'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "7500",
         "line": {
-            "en": "'I know that.'"
+            "en": "'I know that.'",
+            "ru": "'Я знаю.'",
+            "state": "1"
         },
         "name": "Kotori"
     },
     {
         "id": "7900",
         "line": {
-            "en": "It's been a year since the Soaring Club lost its\\nstatus."
+            "en": "It's been a year since the Soaring Club lost its\\nstatus.",
+            "ru": "Прошел год с того момента, как Планерный Клуб\nутратил свой статус.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "7d00",
         "line": {
-            "en": "Then, summer had come around again."
+            "en": "Then, summer had come around again.",
+            "ru": "Снова пришло лето.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "8100",
         "line": {
-            "en": "'We've got to hurry up with our plan.'"
+            "en": "'We've got to hurry up with our plan.'",
+            "ru": "'Нам нужно поторопиться.'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "8500",
         "line": {
-            "en": "'Yeah.'"
+            "en": "'Yeah.'",
+            "ru": "'Да.'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "8900",
         "line": {
-            "en": "Our revival of the club's activities hadn't been\\naccepted, so we still had the status of a\\nsociety..."
+            "en": "Our revival of the club's activities hadn't been\\naccepted, so we still had the status of a\\nsociety...",
+            "ru": "Предложение возобновить деятельность клуба \nне было принято,поэтому у нас всё еще \nбыл статус общества...",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "8d00",
         "line": {
-            "en": "Under the supervision of Tobioka, it had become\\neffectively impossible to carry out our club\\nactivities in the school grounds."
+            "en": "Under the supervision of Tobioka, it had become\\neffectively impossible to carry out our club\\nactivities in the school grounds.",
+            "ru": "Под контролем Тобиоки заниматься клубной деятельностью \nна территории школы стало фактически невозможно.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "9100",
         "line": {
-            "en": "Just now, Kotori had patronizingly referred to\\nherself as 'club leader'. She was the second in\\ncharge before, so naturally she inherited the\\ntitle."
+            "en": "Just now, Kotori had patronizingly referred to\\nherself as 'club leader'. She was the second in\\ncharge before, so naturally she inherited the\\ntitle.",
+            "ru": "Сейчас Котори высокомерно называет себя 'лидер клуба'.\nРаньше она была второй после лидера, поэтому конечно же \nона унаследовала эту должность.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "9500",
         "line": {
-            "en": "Anyway, we've been demoted to the status of a\\nsociety. So now, she's just the 'leader'."
+            "en": "Anyway, we've been demoted to the status of a\\nsociety. So now, she's just the 'leader'.",
+            "ru": "Как бы то ни было, нас понизили до статуса общества.\nТак что сейчас она просто 'лидер'.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "9900",
         "line": {
-            "en": "It looks like Kotori has really taken a liking to\\nthat title."
+            "en": "It looks like Kotori has really taken a liking to\\nthat title.",
+            "ru": "Кажется, Котори пристрастилась к этому титулу.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "9d00",
         "line": {
-            "en": "It's weird, but doesn't 'leader' sound a lot more\\nhigh and mighty than 'club leader'?"
+            "en": "It's weird, but doesn't 'leader' sound a lot more\\nhigh and mighty than 'club leader'?",
+            "ru": "Странно, разве 'лидер' не кажется более властным,\nчем 'лидер клуба'?",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "a100",
         "line": {
-            "en": "That's kind of beside the point, but we don't\\nhave a clubhouse or a glider."
+            "en": "That's kind of beside the point, but we don't\\nhave a clubhouse or a glider.",
+            "ru": "Кстати, у нас нет здания клуба и даже дельтаплана.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "a500",
         "line": {
-            "en": "But there are things that we can do."
+            "en": "But there are things that we can do.",
+            "ru": "Но кое-что мы всё же можем делать.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "a900",
         "line": {
-            "en": "One of those is working at a part-time job."
+            "en": "One of those is working at a part-time job.",
+            "ru": "Например, работать парт-тайм.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "ad00",
         "line": {
-            "en": "Even after the owner got better, I carried on as\\nthe the dorm mother."
+            "en": "Even after the owner got better, I carried on as\\nthe the dorm mother.",
+            "ru": "Даже когда хозяйке стало лучше, я продолжал \nработать горничной.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "b100",
         "line": {
-            "en": "My mom pays me for the work, and the money is\\nused for my living expenses."
+            "en": "My mom pays me for the work, and the money is\\nused for my living expenses.",
+            "ru": "Мама платит мне за эту работу, и эти деньги\nя использую для текущих расходов.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "b500",
         "line": {
-            "en": "Ageha and Kotori are working at An-chan's\\nfactory."
+            "en": "Ageha and Kotori are working at An-chan's\\nfactory.",
+            "ru": "Агеха и Котори работают на фабрике у Ан-тян.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "b900",
         "line": {
-            "en": "They don't receive wages, but they get paid in\\nglider materials."
+            "en": "They don't receive wages, but they get paid in\\nglider materials.",
+            "ru": "Они не получают зарплату, но им платят материалами\nдля дельтаплана.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "bd00",
         "line": {
-            "en": "Factories can get those materials more cheaply,\\nand they chose good quality materials, which is a\\nbig help."
+            "en": "Factories can get those materials more cheaply,\\nand they chose good quality materials, which is a\\nbig help.",
+            "ru": "Фабричное производство дешевле, и они выбирают \nвысококачественные материалы, что очень помогает.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "c100",
         "line": {
-            "en": "We have a plan coming up that requires the use of\\nlarge amounts of FRP and so on."
+            "en": "We have a plan coming up that requires the use of\\nlarge amounts of FRP and so on.",
+            "ru": "Наш план требует большого количества волоконно-\nармированного пластика и многого другого.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "c500",
         "line": {
-            "en": "Ageha and I are heading to the site of another of\\nour activities now."
+            "en": "Ageha and I are heading to the site of another of\\nour activities now.",
+            "ru": "Мы с Агехой сейчас направляемся к участку другой \nнашей деятельности.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "c900",
         "line": {
-            "en": "It's at a runway two hours away by train."
+            "en": "It's at a runway two hours away by train.",
+            "ru": "Это взлетно-посадочная полоса в двух часах \nезды на поезде.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "cd00",
         "line": {
-            "en": "I go there often to attend glider flight\\ntraining..."
+            "en": "I go there often to attend glider flight\\ntraining...",
+            "ru": "Раньше я часто ходил туда на лётные тренировки.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "d100",
         "line": {
-            "en": "A few days ago, I finally managed to get the\\npilot's license that I'd wanted for so long!"
+            "en": "A few days ago, I finally managed to get the\\npilot's license that I'd wanted for so long!",
+            "ru": "Несколько дней назад я наконец получил лётную \nлицензию, которую так давно хотел!",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "d500",
         "line": {
-            "en": "It was pretty hard work, but with this, I can fly\\na glider by myself!"
+            "en": "It was pretty hard work, but with this, I can fly\\na glider by myself!",
+            "ru": "Было довольно сложно, но теперь я могу сам летать \nна дельтаплане!",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "d900",
         "line": {
-            "en": "Ageha's been coming with me when she has spare\\ntime, to be in contact with the aircraft and help\\nwith the maintenance."
+            "en": "Ageha's been coming with me when she has spare\\ntime, to be in contact with the aircraft and help\\nwith the maintenance.",
+            "ru": "Агеха ходит со мной в свободное время, чтобы \nне терять контакт с самолётами и помогать \nс техническим обслуживанием.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "dd00",
         "line": {
-            "en": "Kotori comes too but she always just comes to\\nwatch."
+            "en": "Kotori comes too but she always just comes to\\nwatch.",
+            "ru": "Котори тоже приходит, но она всегда просто смотрит.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "e100",
         "line": {
-            "en": "She could go for a flight with a local pilot, but\\nshe stubbornly refused."
+            "en": "She could go for a flight with a local pilot, but\\nshe stubbornly refused.",
+            "ru": "Она может летать с местными пилотами, но категорически \nотказывается.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "e500",
         "line": {
-            "en": "...It's okay. I'll fly with Aoi."
+            "en": "...It's okay. I'll fly with Aoi.",
+            "ru": "...Всё нормально. Я буду летать с Аоем.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "e900",
         "line": {
-            "en": "It seems she still remembers the promise I made\\nto her before. Of course, I secretly still\\nremember it too."
+            "en": "It seems she still remembers the promise I made\\nto her before. Of course, I secretly still\\nremember it too.",
+            "ru": "Кажется, она все еще помнит моё обещание.\nКонечно, я тоже тайно помню его.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "ed00",
         "line": {
-            "en": "We had a goal."
+            "en": "We had a goal.",
+            "ru": "У нас есть цель.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "f100",
         "line": {
-            "en": "To complete an aircraft according to the designs\\nthat Amane had left behind."
+            "en": "To complete an aircraft according to the designs\\nthat Amane had left behind.",
+            "ru": "Построить летательный аппарат по чертежам,\nкоторые оставила Амане.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "f500",
         "line": {
-            "en": "Then, to fly that glider through the passage of\\nclouds."
+            "en": "Then, to fly that glider through the passage of\\nclouds.",
+            "ru": "И полететь на этом дельтаплане сквозь облака.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "f900",
         "line": {
-            "en": "'Compared to past data, the weather conditions\\nthis year are similar to those of years when\\nMorning Glories occurred.'"
+            "en": "'Compared to past data, the weather conditions\\nthis year are similar to those of years when\\nMorning Glories occurred.'",
+            "ru": "'В соответствии с последними данными, погодные \nусловия в этом году похожи на те года, когда \nпоявлялись утренние глории.'",
+            "state": "1"
         },
         "name": "Kotori"
     },
     {
         "id": "fd00",
         "line": {
-            "en": "'It could come this summer.'"
+            "en": "'It could come this summer.'",
+            "ru": "'Это может случиться этим летом.'",
+            "state": "1"
         },
         "name": "Ageha"
     },
     {
         "id": "0200",
         "line": {
-            "en": "'It's possible.'"
+            "en": "'It's possible.'",
+            "ru": "'Возможно.'",
+            "state": "1"
         },
         "name": "Kotori"
     },
     {
         "id": "0600",
         "line": {
-            "en": "We don't know if it'll come or not."
+            "en": "We don't know if it'll come or not.",
+            "ru": "Мы не знаем, произойдет это или нет.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "0a00",
         "line": {
-            "en": "It came last year, so it's more natural to think\\nthat it won't come again this year too."
+            "en": "It came last year, so it's more natural to think\\nthat it won't come again this year too.",
+            "ru": "Она была прошлым летом, поэтому разумно думать, \nчто в этом году её не будет.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "0e00",
         "line": {
-            "en": "But..."
+            "en": "But...",
+            "ru": "Но...",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "1200",
         "line": {
-            "en": "'It's no use thinking about it not coming. Let's\\nbelieve that it will come, and keep going.'"
+            "en": "'It's no use thinking about it not coming. Let's\\nbelieve that it will come, and keep going.'",
+            "ru": "Незачем думать, что она не появится. Давай верить,\nчто это случится, и продолжать идти вперед.",
+            "state": "1"
         },
         "name": "Kotori"
     },
     {
         "id": "1600",
         "line": {
-            "en": "'That's why we need to make all the necessary\\npreparations.'"
+            "en": "'That's why we need to make all the necessary\\npreparations.'",
+            "ru": "'Поэтому нам нужно сделать все приготовления.'",
+            "state": "1"
         },
         "name": "Aoi"
     },
     {
         "id": "1a00",
         "line": {
-            "en": "I look up to see a sky so blue, that it almost\\nhurts to look at. A thundering thunderhead."
+            "en": "I look up to see a sky so blue, that it almost\\nhurts to look at. A thundering thunderhead.",
+            "ru": "Я посмотрел на небо, такое голубое, что глазам \nпочти больно. Громадная грозовая туча.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "1e00",
         "line": {
-            "en": "The sky's so high, that it looks like it goes on\\nendlessly."
+            "en": "The sky's so high, that it looks like it goes on\\nendlessly.",
+            "ru": "Небо, такое высокое, что кажется бесконечным.",
+            "state": "1"
         },
         "name": ""
     },
     {
         "id": "2200",
         "line": {
-            "en": "The real summer was beginning."
+            "en": "The real summer was beginning.",
+            "ru": "Начиналось настоящее лето.",
+            "state": "1"
         },
         "name": ""
     }

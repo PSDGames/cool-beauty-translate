@@ -91,7 +91,7 @@
 | CO1_021_A | 7 KB | 50 | 2331 | | |
 | CO1_021_B | 16 KB | 104 | 5089 | | |
 | CO2_001 | 22 KB | 137 | 7009 | [Winrysama](https://github.com/Winrysama) | 14.07.2015 |
-| CO2_002 | 103 KB | 638 | 33254 | | |
+| CO2_002 | 103 KB | 638 | 33254 | [Winrysama](https://github.com/Winrysama) | 14.07.2015 |
 | CO2_003 | 137 KB | 790 | 45980 | | |
 | CO2_004 | 80 KB | 491 | 26652 | | |
 | CO2_005 | 9 KB | 55 | 3029 | | |

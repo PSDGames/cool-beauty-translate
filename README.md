@@ -28,7 +28,7 @@
 | Ageha Himegi | Агеха Химеги | |
 | Amane Mochizuki | Амане Мочизуки | |
 | Asa Kazato | Аса Кадзато | |
-| Yoru Kazato | Ёри Кадзато | |
+| Yoru Kazato | Ёру Кадзато | |
 | Hat | Хат | селезень |
 | **Имена собственные** | | |
 | Windmill Hill | Холм Ветряков | |

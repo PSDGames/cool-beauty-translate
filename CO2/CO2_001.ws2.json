@@ -58,7 +58,7 @@
         "line": {
             "en": "'It hasn't flown once since that time, has it? I\\nwent to take a look at the runway but it's\\novergrown with weeds and there are no signs of it\\nhaving been used.'",
             "state": "1",
-            "ru": "'С тех пор он ни разу не взлетал, так? Я ходила\nпосмотреть на взлётно-посадочную полосу, но она \nзаросла травой, и по всей видимости не используется.'"
+            "ru": "'С тех пор он ни разу не взлетал, так? Я ходила\nпосмотреть на взлётно-посадочную полосу, но она \nзаросла травой, и, по всей видимости, не используется.'"
         },
         "name": "Girl"
     },
@@ -112,7 +112,7 @@
         "line": {
             "en": "'It was the members of the Soaring Club at our\\nschool.'",
             "state": "1",
-            "ru": "'Это были члены Планерного Клуба нашей школы.'"
+            "ru": "'Это были члены Парящего Клуба нашей школы.'"
         },
         "name": "Girl"
     },
@@ -121,7 +121,7 @@
         "line": {
             "en": "'Huh? The people flying in the glider were...?'",
             "state": "1",
-            "ru": "'А? Люди, летающие в дельтаплане...?'"
+            "ru": "'А? Люди, летающие в планёре...?'"
         },
         "name": "Girl"
     },
@@ -138,7 +138,7 @@
         "id": "3c00",
         "line": {
             "en": "'They were performing club activities. It's\\nsimpler to look for them at the more common\\nareas.'",
-            "ru": "'Они показывали деятельность клуба. Проще \nнайти их в более доступных местах.'",
+            "ru": "'Это было их клубное мероприятие. Проще \nнайти их в более доступных местах.'",
             "state": "1"
         },
         "name": "Girl"
@@ -174,7 +174,7 @@
         "id": "4c00",
         "line": {
             "en": "'The Soaring Club had its status revoked. The\\nso-called 'Legendary Senpai' quit, and that was\\nit.'",
-            "ru": "'Планерный Клуб утратил свой статус. Так называемый \n'Легендарный Семпай' ушел, и вот чем всё закончилось.'",
+            "ru": "'Парящий Клуб утратил свой статус. Всё закончилось \nс уходом так называемого 'Легендарного Семпая'.'",
             "state": "1"
         },
         "name": "Girl"
@@ -273,7 +273,7 @@
         "id": "7800",
         "line": {
             "en": "'In this heat, they should be dry by lunchtime.'",
-            "ru": "'На такой жаре они высохнут к обеду'",
+            "ru": "'На такой жаре они высохнут к обеду.'",
             "state": "1"
         },
         "name": "Aoi"
@@ -282,7 +282,7 @@
         "id": "7c00",
         "line": {
             "en": "As I speak, I gaze at the distant thunderhead.",
-            "ru": "Говоря это, я смотрел на далёкую грозовую тучу.",
+            "ru": "Я смотрел на далёкую грозовую тучу.",
             "state": "1"
         },
         "name": ""
@@ -291,7 +291,7 @@
         "id": "8000",
         "line": {
             "en": "It's said that thunderheads, or giant\\ncumulonimbus clouds, can extend upwards out of\\nthe stratosphere.",
-            "ru": "Говорят, что грозовые тучи, или гигантские \nкучево-дождевые облака, могут разрастаться \nвыше стратосферы.",
+            "ru": "Говорят, что грозовые тучи, или гигантские \nкучево-дождевые облака, могут вырастать\nвыше стратосферы.",
             "state": "1"
         },
         "name": ""
@@ -300,7 +300,7 @@
         "id": "8400",
         "line": {
             "en": "The world record for highest flight in a glider\\nalso went beyond the stratosphere.",
-            "ru": "Мировой рекорд по самому высокому полёту \nна дельтаплане тоже вышел за пределы стратосферы.",
+            "ru": "Планёр, поставивший мировой рекорд по самому \nвысокому полёту, тоже вышел за пределы стратосферы.",
             "state": "1"
         },
         "name": ""
@@ -417,7 +417,7 @@
         "id": "b800",
         "line": {
             "en": "'Whew... I was so excited...'",
-            "ru": "'Ууу... Я была так взволнована...'",
+            "ru": "'Ууу... Я уже успела обрадоваться...'",
             "state": "1"
         },
         "name": "Ryouko"
@@ -444,7 +444,7 @@
         "id": "c400",
         "line": {
             "en": "'...What will be?'",
-            "ru": "'...Что будет?'",
+            "ru": "'...Кто будет?'",
             "state": "1"
         },
         "name": "Ageha"
@@ -462,7 +462,7 @@
         "id": "cc00",
         "line": {
             "en": "'Aoi's been trying really hard.'",
-            "ru": "'Аои очень постаралась.'",
+            "ru": "'Аои очень постарался.'",
             "state": "1"
         },
         "name": "Yuka"
@@ -525,7 +525,7 @@
         "id": "e800",
         "line": {
             "en": "'A few days ago, Kotori's Haagen-Dazs was\\ncompletely ruined...'",
-            "ru": "'Несколько дней Häagen-Dazs Котори было полностью уничтожено...'",
+            "ru": "'Несколько дней Häagen-Dazs Котори было \nполностью уничтожено...'",
             "state": "1"
         },
         "name": "Ryouko"
@@ -588,7 +588,7 @@
         "id": "0500",
         "line": {
             "en": "I was the one who approached the owner about it,\\nbut it wasn't exactly a smooth process to get to\\nthis point.",
-            "ru": "Я говорил об этом с хозяйкой, но пока что всё шло \nне очень гладко.",
+            "ru": "Я говорил об этом с хозяйкой, но дела шли \nне очень гладко.",
             "state": "1"
         },
         "name": ""
@@ -597,7 +597,7 @@
         "id": "0900",
         "line": {
             "en": "The owner herself was okay with it, but her sons\\nwant to get rid of this place as soon as\\npossible, and that's why they were against the\\nidea of getting a new fridge.",
-            "ru": "Сама хозяйка была не против, но её сыновья хотели \nкак можно скорее избавиться от этого места, \nи поэтому были против приобретения нового холодильника.",
+            "ru": "Сама хозяйка была не против, но её сыновья хотели \nкак можно скорее избавиться от этого дома, \nи поэтому были против приобретения нового холодильника.",
             "state": "1"
         },
         "name": ""
@@ -606,7 +606,7 @@
         "id": "0d00",
         "line": {
             "en": "I persistently pursued the negotiations, and\\nfinally won out.",
-            "ru": "Я был настойчив в переговорах и в конце концов победил.",
+            "ru": "Я был настойчив в переговорах и, в конце концов, победил.",
             "state": "1"
         },
         "name": ""
@@ -615,7 +615,7 @@
         "id": "1100",
         "line": {
             "en": "'It's all thanks to Aoi.'",
-            "ru": "'Всё благодаря Аою.'",
+            "ru": "'Всё благодаря Аои.'",
             "state": "1"
         },
         "name": "Yuka"
@@ -642,7 +642,7 @@
         "id": "1d00",
         "line": {
             "en": "'The old lady said that Aoi is doing a good job.'",
-            "ru": "'Бабуля говорит, что Аой хорошо справляется.'",
+            "ru": "'Бабуля говорит, что Аои хорошо справляется.'",
             "state": "1"
         },
         "name": "Kanako"
@@ -696,7 +696,7 @@
         "id": "3500",
         "line": {
             "en": "All the boarders were getting excited.",
-            "ru": "Жильцы снова завоновались.",
+            "ru": "Жильцы снова заволновались.",
             "state": "1"
         },
         "name": ""
@@ -714,7 +714,7 @@
         "id": "3d00",
         "line": {
             "en": "The guy from the electronics store came straight\\nin and when he saw all the girls standing there\\n(plus one boy) he said, 'Whoa'.",
-            "ru": "Парень из магазина бытовой техники зашел внутрь,\nи когда он увидел всех девочек (плюс один мальчик),\nу него вырвалось 'Воу'.",
+            "ru": "Парень из магазина бытовой техники зашел внутрь,\nи когда он увидел всех девушек (плюс один парень),\nу него вырвалось 'Воу'.",
             "state": "1"
         },
         "name": ""
@@ -750,7 +750,7 @@
         "id": "4d00",
         "line": {
             "en": "I sign the receipt, then...",
-            "ru": "Я подписал чек...",
+            "ru": "Я расписался за получение...",
             "state": "1"
         },
         "name": ""
@@ -786,7 +786,7 @@
         "id": "5d00",
         "line": {
             "en": "'Aoi, we'll miss the train.'",
-            "ru": "'Аой, мы опоздаем на поезд.'",
+            "ru": "'Аои, мы опоздаем на поезд.'",
             "state": "1"
         },
         "name": "Ageha"
@@ -849,7 +849,7 @@
         "id": "7900",
         "line": {
             "en": "It's been a year since the Soaring Club lost its\\nstatus.",
-            "ru": "Прошел год с того момента, как Планерный Клуб\nутратил свой статус.",
+            "ru": "Прошел год с того момента, как Парящий Клуб\nутратил свой статус.",
             "state": "1"
         },
         "name": ""
@@ -885,7 +885,7 @@
         "id": "8900",
         "line": {
             "en": "Our revival of the club's activities hadn't been\\naccepted, so we still had the status of a\\nsociety...",
-            "ru": "Предложение возобновить деятельность клуба \nне было принято,поэтому у нас всё еще \nбыл статус общества...",
+            "ru": "Предложение возобновить деятельность клуба \nне было принято, поэтому у нас всё еще \nбыл статус общества...",
             "state": "1"
         },
         "name": ""
@@ -930,7 +930,7 @@
         "id": "9d00",
         "line": {
             "en": "It's weird, but doesn't 'leader' sound a lot more\\nhigh and mighty than 'club leader'?",
-            "ru": "Странно, разве 'лидер' не кажется более властным,\nчем 'лидер клуба'?",
+            "ru": "Странно, но разве 'лидер' не кажется более властным,\nчем 'лидер клуба'?",
             "state": "1"
         },
         "name": ""
@@ -939,7 +939,7 @@
         "id": "a100",
         "line": {
             "en": "That's kind of beside the point, but we don't\\nhave a clubhouse or a glider.",
-            "ru": "Кстати, у нас нет здания клуба и даже дельтаплана.",
+            "ru": "Кстати, у нас нет здания клуба и даже планёра.",
             "state": "1"
         },
         "name": ""
@@ -993,7 +993,7 @@
         "id": "b900",
         "line": {
             "en": "They don't receive wages, but they get paid in\\nglider materials.",
-            "ru": "Они не получают зарплату, но им платят материалами\nдля дельтаплана.",
+            "ru": "Они не получают зарплату, но им платят материалами\nдля планёра.",
             "state": "1"
         },
         "name": ""
@@ -1056,7 +1056,7 @@
         "id": "d500",
         "line": {
             "en": "It was pretty hard work, but with this, I can fly\\na glider by myself!",
-            "ru": "Было довольно сложно, но теперь я могу сам летать \nна дельтаплане!",
+            "ru": "Было довольно сложно, но теперь я могу сам летать \nна планёре!",
             "state": "1"
         },
         "name": ""
@@ -1092,7 +1092,7 @@
         "id": "e500",
         "line": {
             "en": "...It's okay. I'll fly with Aoi.",
-            "ru": "...Всё нормально. Я буду летать с Аоем.",
+            "ru": "...Всё нормально. Я буду летать с Аои.",
             "state": "1"
         },
         "name": ""
@@ -1101,7 +1101,7 @@
         "id": "e900",
         "line": {
             "en": "It seems she still remembers the promise I made\\nto her before. Of course, I secretly still\\nremember it too.",
-            "ru": "Кажется, она все еще помнит моё обещание.\nКонечно, я тоже тайно помню его.",
+            "ru": "Кажется, она все еще помнит моё обещание.\nКонечно же, я тоже тайно помню его.",
             "state": "1"
         },
         "name": ""
@@ -1128,7 +1128,7 @@
         "id": "f500",
         "line": {
             "en": "Then, to fly that glider through the passage of\\nclouds.",
-            "ru": "И полететь на этом дельтаплане сквозь облака.",
+            "ru": "И полететь на этом планёре сквозь коридор\nиз облаков.",
             "state": "1"
         },
         "name": ""
@@ -1137,7 +1137,7 @@
         "id": "f900",
         "line": {
             "en": "'Compared to past data, the weather conditions\\nthis year are similar to those of years when\\nMorning Glories occurred.'",
-            "ru": "'В соответствии с последними данными, погодные \nусловия в этом году похожи на те года, когда \nпоявлялись утренние глории.'",
+            "ru": "'В соответствии с последними данными, погодные \nусловия в этом году похожи на те, при которых\nпоявляется утренняя глория.'",
             "state": "1"
         },
         "name": "Kotori"
@@ -1146,7 +1146,7 @@
         "id": "fd00",
         "line": {
             "en": "'It could come this summer.'",
-            "ru": "'Это может случиться этим летом.'",
+            "ru": "'Может, она появится этим летом.'",
             "state": "1"
         },
         "name": "Ageha"
@@ -1173,7 +1173,7 @@
         "id": "0a00",
         "line": {
             "en": "It came last year, so it's more natural to think\\nthat it won't come again this year too.",
-            "ru": "Она была прошлым летом, поэтому разумно думать, \nчто в этом году её не будет.",
+            "ru": "Она была прошлым летом, поэтому разумно было бы\nдумать, что в этом году её не будет.",
             "state": "1"
         },
         "name": ""
@@ -1191,7 +1191,7 @@
         "id": "1200",
         "line": {
             "en": "'It's no use thinking about it not coming. Let's\\nbelieve that it will come, and keep going.'",
-            "ru": "Незачем думать, что она не появится. Давай верить,\nчто это случится, и продолжать идти вперед.",
+            "ru": "'Не надо думать, что она не появится. Давай верить,\nчто это случится, и продолжать идти вперед.'",
             "state": "1"
         },
         "name": "Kotori"
@@ -1200,7 +1200,7 @@
         "id": "1600",
         "line": {
             "en": "'That's why we need to make all the necessary\\npreparations.'",
-            "ru": "'Поэтому нам нужно сделать все приготовления.'",
+            "ru": "'И поэтому нам нужно как следует подготовиться.'",
             "state": "1"
         },
         "name": "Aoi"

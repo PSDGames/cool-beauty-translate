@@ -2,4466 +2,5166 @@
     {
         "id": "0000",
         "line": {
-            "en": "A strong wind blew against the classroom windows."
+            "en": "A strong wind blew against the classroom windows.",
+            "state": "1",
+            "ru": "Сильный ветер дул в окна классной комнаты."
         },
         "name": ""
     },
     {
         "id": "0400",
         "line": {
-            "en": "It's lucky that it hasn't started raining again,\\nbut there are already signs that a storm is\\ncoming."
+            "en": "It's lucky that it hasn't started raining again,\\nbut there are already signs that a storm is\\ncoming.",
+            "state": "1",
+            "ru": "Повезло, что пока что снова не начался дождь,\nхотя были все признаки надвигающегося шторма."
         },
         "name": ""
     },
     {
         "id": "0800",
         "line": {
-            "en": "According to the weather forecast, a typhoon will\\nbe passing through Kazegaura at about ten o'clock\\ntonight."
+            "en": "According to the weather forecast, a typhoon will\\nbe passing through Kazegaura at about ten o'clock\\ntonight.",
+            "state": "1",
+            "ru": "В прогнозе погоды сказали, что тайфун пройдет \nпо Казегауре около десяти вечера."
         },
         "name": ""
     },
     {
         "id": "0c00",
         "line": {
-            "en": "'It looks like a very large typhoon. There has\\nalready been damage caused by heavy rainfall in\\nwestern areas.'"
+            "en": "'It looks like a very large typhoon. There has\\nalready been damage caused by heavy rainfall in\\nwestern areas.'",
+            "state": "1",
+            "ru": "«Кажется, тайфун очень большой. На западе уже \nсообщают о разрушениях, вызванных ливнем»."
         },
         "name": "Teacher"
     },
     {
         "id": "1000",
         "line": {
-            "en": "'Which is why the school will be closed this\\nafternoon. You must go straight home without\\ntaking any detours.'"
+            "en": "'Which is why the school will be closed this\\nafternoon. You must go straight home without\\ntaking any detours.'",
+            "state": "1",
+            "ru": "«Поэтому сегодня занятия после обеда отменяются.\nВам следует пойти прямо домой, никуда не заходя.»"
         },
         "name": "Teacher"
     },
     {
         "id": "1400",
         "line": {
-            "en": "Everyone responds to the teacher's warning with a\\nlively 'Yes'."
+            "en": "Everyone responds to the teacher's warning with a\\nlively 'Yes'.",
+            "state": "1",
+            "ru": "Все оживленно ответили учителю «да»."
         },
         "name": ""
     },
     {
         "id": "1800",
         "line": {
-            "en": "Why is everyone so excited by this unplanned\\nbreak from school?"
+            "en": "Why is everyone so excited by this unplanned\\nbreak from school?",
+            "state": "1",
+            "ru": "Почему все так взволнованы из-за неожиданной \nотмены уроков?"
         },
         "name": ""
     },
     {
         "id": "1c00",
         "line": {
-            "en": "'Look outside! See? Look how much the trees'\\nbranches are bending!'"
+            "en": "'Look outside! See? Look how much the trees'\\nbranches are bending!'",
+            "state": "1",
+            "ru": "«Выгляни в окно! Видишь? Смотри, как сильно \nгнутся ветви деревьев!»"
         },
         "name": "Kotori"
     },
     {
         "id": "2000",
         "line": {
-            "en": "'Oh yeah, you're right.'"
+            "en": "'Oh yeah, you're right.'",
+            "state": "1",
+            "ru": "«О да, ты права.»"
         },
         "name": "Aoi"
     },
     {
         "id": "2400",
         "line": {
-            "en": "'You're not a little kid, don't get so excited by\\na storm.'"
+            "en": "'You're not a little kid, don't get so excited by\\na storm.'",
+            "state": "1",
+            "ru": "«Ты уже не маленький, не волнуйся так из-за шторма.»"
         },
         "name": "Ageha"
     },
     {
         "id": "2800",
         "line": {
-            "en": "'Hmph, leave me alone. Doesn't this stir your\\nemotions?'"
+            "en": "'Hmph, leave me alone. Doesn't this stir your\\nemotions?'",
+            "state": "1",
+            "ru": "«Пф, отстань. Разве всё это не оставляет тебя \nв смешанных чувствах?»"
         },
         "name": "Kotori"
     },
     {
         "id": "2c00",
         "line": {
-            "en": "'Kotori turned to me and said, 'Right, Aoi?' like\\nshe was seeking approval."
+            "en": "'Kotori turned to me and said, 'Right, Aoi?' like\\nshe was seeking approval.",
+            "state": "1",
+            "ru": "Котори повернулась ко мне со словами «Да ведь, Аои?»,\nкак будто искала одобрения."
         },
         "name": ""
     },
     {
         "id": "3000",
         "line": {
-            "en": "'Well, it is pretty exciting. Ageha, in the past,\\nwhenever a typhoon came, you would get scolded\\nfor wanting to go outside.'"
+            "en": "'Well, it is pretty exciting. Ageha, in the past,\\nwhenever a typhoon came, you would get scolded\\nfor wanting to go outside.'",
+            "state": "1",
+            "ru": "«Ну, это довольно волнующе. Агеха, а раньше ты \nругалась, если я хотел пойти на улицу в шторм»."
         },
         "name": "Aoi"
     },
     {
         "id": "3400",
         "line": {
-            "en": "'You'd hold out your raincoat and jump around\\npretending to be a flying squirrel, remember?'"
+            "en": "'You'd hold out your raincoat and jump around\\npretending to be a flying squirrel, remember?'",
+            "state": "1",
+            "ru": "«Ты натягивала плащ и прыгала, изображая \nбелку-летягу, помнишь?»"
         },
         "name": "Aoi"
     },
     {
         "id": "3800",
         "line": {
-            "en": "'That was when we were kids!'"
+            "en": "'That was when we were kids!'",
+            "state": "1",
+            "ru": "«Мы были детьми!»"
         },
         "name": "Ageha"
     },
     {
         "id": "3c00",
         "line": {
-            "en": "'Heh! So that's what Ageha was like as a kid!'"
+            "en": "'Heh! So that's what Ageha was like as a kid!'",
+            "state": "1",
+            "ru": "«Хех! Так вот какой была Агеха в детстве!»"
         },
         "name": "Kotori"
     },
     {
         "id": "4000",
         "line": {
-            "en": "'That's in the past. Now I'm grown-up.'"
+            "en": "'That's in the past. Now I'm grown-up.'",
+            "state": "1",
+            "ru": "«Всё это в прошлом. Теперь я повзрослела»."
         },
         "name": "Ageha"
     },
     {
         "id": "4400",
         "line": {
-            "en": "'I dunno about that.'"
+            "en": "'I dunno about that.'",
+            "state": "1",
+            "ru": "«Не уверен»."
         },
         "name": "Aoi"
     },
     {
         "id": "4800",
         "line": {
-            "en": "'Hmph! What was that?'"
+            "en": "'Hmph! What was that?'",
+            "state": "1",
+            "ru": "«Пф! Чего это?»"
         },
         "name": "Ageha"
     },
     {
         "id": "4c00",
         "line": {
-            "en": "'Yeah, yeah, whatever. Let's get out of here.'"
+            "en": "'Yeah, yeah, whatever. Let's get out of here.'",
+            "state": "1",
+            "ru": "«Да, да, мне без разницы. Пойдем уже»."
         },
         "name": "Aoi"
     },
     {
         "id": "5000",
         "line": {
-            "en": "'I have to get back and fix that dilapidated old\\ndormitory.'"
+            "en": "'I have to get back and fix that dilapidated old\\ndormitory.'",
+            "state": "1",
+            "ru": "«Мне нужно вернуться и отремонтировать старое \nветхое общежитие»."
         },
         "name": "Aoi"
     },
     {
         "id": "5400",
         "line": {
-            "en": "'Lots more bits might come flying off again this\\ntime...'"
+            "en": "'Lots more bits might come flying off again this\\ntime...'",
+            "state": "1",
+            "ru": "«В этот раз оно может развалиться намного сильнее...»"
         },
         "name": "Kotori"
     },
     {
         "id": "5800",
         "line": {
-            "en": "Because of being hit by frequent typhoons, Flying\\nFish Manor had suffered a great deal of damage."
+            "en": "Because of being hit by frequent typhoons, Flying\\nFish Manor had suffered a great deal of damage.",
+            "state": "1",
+            "ru": "Поместье Летучей Рыбы часто страдало от ударов стихии."
         },
         "name": ""
     },
     {
         "id": "5c00",
         "line": {
-            "en": "Part of the roof was blown off, the walls were\\npeeling, the rotten shutters were broken, and it\\nwas on the verge of collapse."
+            "en": "Part of the roof was blown off, the walls were\\npeeling, the rotten shutters were broken, and it\\nwas on the verge of collapse.",
+            "state": "1",
+            "ru": "Часть крыши унесло ветром, станы облезли, ржавые \nставни были сломаны, здание почти что обрушилось."
         },
         "name": ""
     },
     {
         "id": "6000",
         "line": {
-            "en": "'I'll come and help. You guys are always taking\\ncare of me.'"
+            "en": "'I'll come and help. You guys are always taking\\ncare of me.'",
+            "state": "1",
+            "ru": "«Я приду помочь. Вы всегда обо мне заботились»."
         },
         "name": "Ageha"
     },
     {
         "id": "6400",
         "line": {
-            "en": "'Sorry to trouble you, but that would be a big\\nhelp.'"
+            "en": "'Sorry to trouble you, but that would be a big\\nhelp.'",
+            "state": "1",
+            "ru": "«Прости, что беспокою тебя, но помощь действительно \nнужна»."
         },
         "name": "Aoi"
     },
     {
         "id": "6800",
         "line": {
-            "en": "Now that we were in our third year, we were in\\nthe same class again."
+            "en": "Now that we were in our third year, we were in\\nthe same class again.",
+            "state": "1",
+            "ru": "На этот учебный год мы снова попали в один класс."
         },
         "name": ""
     },
     {
         "id": "6c00",
         "line": {
-            "en": "It's not clear if it's a coincidence or if\\nsomeone was being considerate towards us."
+            "en": "It's not clear if it's a coincidence or if\\nsomeone was being considerate towards us.",
+            "state": "1",
+            "ru": "Непонятно, было ли это совпадением, или \nкто-то заботился о нас."
         },
         "name": ""
     },
     {
         "id": "7000",
         "line": {
-            "en": "Things didn't feel so new to me anymore. To be\\nhonest, I was really happy to be able to take\\nclasses with them again."
+            "en": "Things didn't feel so new to me anymore. To be\\nhonest, I was really happy to be able to take\\nclasses with them again.",
+            "state": "1",
+            "ru": "Жизнь здесь больше не была мне в новинку.\nЧестно говоря, я был рад снова учиться с ними."
         },
         "name": ""
     },
     {
         "id": "7400",
         "line": {
-            "en": "As we went into the hallway and waited for the\\nelevator..."
+            "en": "As we went into the hallway and waited for the\\nelevator...",
+            "state": "1",
+            "ru": "Мы зашли в фойе и ждали лифта..."
         },
         "name": ""
     },
     {
         "id": "7800",
         "line": {
-            "en": "'Excuse me, you guys.'"
+            "en": "'Excuse me, you guys.'",
+            "state": "1",
+            "ru": "«Извините, ребята?»"
         },
         "name": "Akari"
     },
     {
         "id": "7c00",
         "line": {
-            "en": "A voice called out from behind."
+            "en": "A voice called out from behind.",
+            "state": "1",
+            "ru": "Раздался голос сзади."
         },
         "name": ""
     },
     {
         "id": "8000",
         "line": {
-            "en": "'Oh, hello there, president.'"
+            "en": "'Oh, hello there, president.'",
+            "state": "1",
+            "ru": "«О, привет, президент»."
         },
         "name": "Aoi"
     },
     {
         "id": "8400",
         "line": {
-            "en": "It was Akari Kumoi, the former vice president,\\nand now president of the student council."
+            "en": "It was Akari Kumoi, the former vice president,\\nand now president of the student council.",
+            "state": "1",
+            "ru": "Это была Акари Кумои, бывший вице-президент,\nа теперь президент студенческого совета."
         },
         "name": ""
     },
     {
         "id": "8800",
         "line": {
-            "en": "She became president a few days ago, after the\\nstudent council elections."
+            "en": "She became president a few days ago, after the\\nstudent council elections.",
+            "state": "1",
+            "ru": "Она получила должность несколько дней назад,\nпосле выборов в студенческий совет."
         },
         "name": ""
     },
     {
         "id": "8c00",
         "line": {
-            "en": "'Can we help you?'"
+            "en": "'Can we help you?'",
+            "state": "1",
+            "ru": "«Чем мы можем помочь?»"
         },
         "name": "Aoi"
     },
     {
         "id": "9000",
         "line": {
-            "en": "'Yes. There's something I'd like to ask you. All\\nof you, the members of the Soaring Society.'"
+            "en": "'Yes. There's something I'd like to ask you. All\\nof you, the members of the Soaring Society.'",
+            "state": "1",
+            "ru": "«Есть кое-что, о чем я хотела спросить вас.\nВсех вас, членов Парящего Общества»."
         },
         "name": "Akari"
     },
     {
         "id": "9400",
         "line": {
-            "en": "Hearing the president say it like that made us\\nflinch on the inside."
+            "en": "Hearing the president say it like that made us\\nflinch on the inside.",
+            "state": "1",
+            "ru": "Эти слова заставили нас вздрогнуть."
         },
         "name": ""
     },
     {
         "id": "9800",
         "line": {
-            "en": "'What might that be?'"
+            "en": "'What might that be?'",
+            "state": "1",
+            "ru": "«О чём именно?»"
         },
         "name": "Kotori"
     },
     {
         "id": "9c00",
         "line": {
-            "en": "Kotori moves forward, as our representative."
+            "en": "Kotori moves forward, as our representative.",
+            "state": "1",
+            "ru": "Котори вышла вперед, как наш представитель."
         },
         "name": ""
     },
     {
         "id": "a000",
         "line": {
-            "en": "She's also a leader. But in this case, just the\\nleader of a society."
+            "en": "She's also a leader. But in this case, just the\\nleader of a society.",
+            "state": "1",
+            "ru": "Она также и лидер. Но в этом случае всего лишь\nлидер общества."
         },
         "name": ""
     },
     {
         "id": "a400",
         "line": {
-            "en": "However, she doesn't lose to Akari in terms of\\nhaving a resolute attitude."
+            "en": "However, she doesn't lose to Akari in terms of\\nhaving a resolute attitude.",
+            "state": "1",
+            "ru": "В любом случае, она не проиграет Акари в плане\nрешительности."
         },
         "name": ""
     },
     {
         "id": "a800",
         "line": {
-            "en": "'Not here, would you be able to come with me to\\nthe student council room?'"
+            "en": "'Not here, would you be able to come with me to\\nthe student council room?'",
+            "state": "1",
+            "ru": "«Не здесь. Мы можем пройти в комнату студсовета?»"
         },
         "name": "Akari"
     },
     {
         "id": "ac00",
         "line": {
-            "en": "She glares in a mildly threatening way."
+            "en": "She glares in a mildly threatening way.",
+            "state": "1",
+            "ru": "Она смотрела с мягкой угрозой."
         },
         "name": ""
     },
     {
         "id": "b000",
         "line": {
-            "en": "'(Aw crap... She'll definitely find out.)'"
+            "en": "'(Aw crap... She'll definitely find out.)'",
+            "state": "1",
+            "ru": "«(О черт... Она точно узнает.)»"
         },
         "name": "Aoi"
     },
     {
         "id": "b400",
         "line": {
-            "en": "'(Wh-...Wh-...Wh-...what should we do?)'"
+            "en": "'(Wh-...Wh-...Wh-...what should we do?)'",
+            "state": "1",
+            "ru": "«(Ч-...Ч-...Ч-...что нам делать?)»"
         },
         "name": "Ageha"
     },
     {
         "id": "b800",
         "line": {
-            "en": "We have a little secret that we don't want the\\nstudent council president to find out about."
+            "en": "We have a little secret that we don't want the\\nstudent council president to find out about.",
+            "state": "1",
+            "ru": "У нас был маленький секрет, и мы не хотели, \nчтобы президент студсовета о нем узнала."
         },
         "name": ""
     },
     {
         "id": "bc00",
         "line": {
-            "en": "'Does it have to be now? There's a storm outside,\\nand our teacher told us to go straight home,\\nwithout any detours.'"
+            "en": "'Does it have to be now? There's a storm outside,\\nand our teacher told us to go straight home,\\nwithout any detours.'",
+            "state": "1",
+            "ru": "«Обязательно прямо сейчас? Там шторм, учитель \nсказал нам идти прямиком домой»"
         },
         "name": "Kotori"
     },
     {
         "id": "c000",
         "line": {
-            "en": "Nice comeback, Kotori!"
+            "en": "Nice comeback, Kotori!",
+            "state": "1",
+            "ru": "Отлично, Котори!"
         },
         "name": ""
     },
     {
         "id": "c400",
         "line": {
-            "en": "'This won't take long. I just want you to answer\\n'yes' or 'no' to a few simple questions.'"
+            "en": "'This won't take long. I just want you to answer\\n'yes' or 'no' to a few simple questions.'",
+            "state": "1",
+            "ru": "«Это ненадолго. Я просто хочу, чтобы вы ответили\n«да» или «нет» на несколько простых вопросов»."
         },
         "name": "Akari"
     },
     {
         "id": "c800",
         "line": {
-            "en": "'Grr...'"
+            "en": "'Grr...'",
+            "state": "1",
+            "ru": "«Грр...»"
         },
         "name": "Kotori"
     },
     {
         "id": "cc00",
         "line": {
-            "en": "Kotori can only groan at the president's 'You\\nknow what this is about' attitude."
+            "en": "Kotori can only groan at the president's 'You\\nknow what this is about' attitude.",
+            "state": "1",
+            "ru": "Котори смогла только застонать на этот \n\"вы-знаете-о-чем-я\" тон."
         },
         "name": ""
     },
     {
         "id": "d000",
         "line": {
-            "en": "At that moment..."
+            "en": "At that moment...",
+            "state": "1",
+            "ru": "И в тот самый момент..."
         },
         "name": ""
     },
     {
         "id": "d400",
         "line": {
-            "en": "We were saved by the arrival of the elevator."
+            "en": "We were saved by the arrival of the elevator.",
+            "state": "1",
+            "ru": "Нас спас приехавший лифт."
         },
         "name": ""
     },
     {
         "id": "d800",
         "line": {
-            "en": "I immediately pushed Kotori and her wheelchair\\nthrough the open doors!"
+            "en": "I immediately pushed Kotori and her wheelchair\\nthrough the open doors!",
+            "state": "1",
+            "ru": "Я немедленно затолкал Котори и её кресло \nв открытые двери."
         },
         "name": ""
     },
     {
         "id": "dc00",
         "line": {
-            "en": "'Argh!'"
+            "en": "'Argh!'",
+            "state": "1",
+            "ru": "«Аргх!»"
         },
         "name": "Kotori"
     },
     {
         "id": "e000",
         "line": {
-            "en": "'Sorry president, but we're in a hurry, so we'll\\nsee you next time!'"
+            "en": "'Sorry president, but we're in a hurry, so we'll\\nsee you next time!'",
+            "state": "1",
+            "ru": "«Извините, президент, но мы торопимся, так что\nувидимся в следующий раз!»"
         },
         "name": "Aoi"
     },
     {
         "id": "e400",
         "line": {
-            "en": "'Ah! Hey, wait!!'"
+            "en": "'Ah! Hey, wait!!'",
+            "state": "1",
+            "ru": "«Ах! Эй, подождите!!»"
         },
         "name": "Akari"
     },
     {
         "id": "e800",
         "line": {
-            "en": "'If we don't hurry back, our old dormitory will\\nfall to pieces!'"
+            "en": "'If we don't hurry back, our old dormitory will\\nfall to pieces!'",
+            "state": "1",
+            "ru": "«Если мы не поторопимся, наше старое общежитие\nразвалится на кусочки!»"
         },
         "name": "Aoi"
     },
     {
         "id": "ec00",
         "line": {
-            "en": "That part actually wasn't a lie, and I became\\nquite defiant, then pushed the 'Close Door'\\nbutton in the elevator."
+            "en": "That part actually wasn't a lie, and I became\\nquite defiant, then pushed the 'Close Door'\\nbutton in the elevator.",
+            "state": "1",
+            "ru": "Эта часть даже не была ложью, и я поступил весьма дерзко, нажав кнопку закрытия дверей"
         },
         "name": ""
     },
     {
         "id": "f000",
         "line": {
-            "en": "'Come to the student council room tomorrow! Got\\nit!!?'"
+            "en": "'Come to the student council room tomorrow! Got\\nit!!?'",
+            "state": "1",
+            "ru": "«Приходите завтра в комнату студсовета! Поняли?!!»"
         },
         "name": "Akari"
     },
     {
         "id": "f400",
         "line": {
-            "en": "Akari's voice chased us through the gap in the\\nclosing doors."
+            "en": "Akari's voice chased us through the gap in the\\nclosing doors.",
+            "state": "1",
+            "ru": "Голос Акари "
         },
         "name": ""
     },
     {
         "id": "f800",
         "line": {
-            "en": "'Whoa, this wind is unbelievable...!'"
+            "en": "'Whoa, this wind is unbelievable...!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "fc00",
         "line": {
-            "en": "Kotori picked some grass and threw it, and it\\ndanced through the air as it was blown by the\\nwind."
+            "en": "Kotori picked some grass and threw it, and it\\ndanced through the air as it was blown by the\\nwind.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "0100",
         "line": {
-            "en": "'Quack, quack!!'"
+            "en": "'Quack, quack!!'",
+            "ru": ""
         },
         "name": "Hat"
     },
     {
         "id": "0500",
         "line": {
-            "en": "'No, Hat, don't come out here! You're fat but\\nyou're still small, so you'd get blown away for\\nsure!'"
+            "en": "'No, Hat, don't come out here! You're fat but\\nyou're still small, so you'd get blown away for\\nsure!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "0900",
         "line": {
-            "en": "'Quack!!'"
+            "en": "'Quack!!'",
+            "ru": ""
         },
         "name": "Hat"
     },
     {
         "id": "0d00",
         "line": {
-            "en": "'Hey you, stop playing around and come help.'"
+            "en": "'Hey you, stop playing around and come help.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "1100",
         "line": {
-            "en": "'Urk!'"
+            "en": "'Urk!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "1500",
         "line": {
-            "en": "I came back in a hurry, and got all of the\\nboarders to help with the repairs."
+            "en": "I came back in a hurry, and got all of the\\nboarders to help with the repairs.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1900",
         "line": {
-            "en": "The strong winds had picked up momentum since we\\nleft school, and howling sounds were coming from\\nthe old dormitory."
+            "en": "The strong winds had picked up momentum since we\\nleft school, and howling sounds were coming from\\nthe old dormitory.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1d00",
         "line": {
-            "en": "'Hey, you know Akari wanted to talk about\\nsomething. It was 'that', wasn't it...?'"
+            "en": "'Hey, you know Akari wanted to talk about\\nsomething. It was 'that', wasn't it...?'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "2100",
         "line": {
-            "en": "Ageha seemed worried as she asked."
+            "en": "Ageha seemed worried as she asked.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "2500",
         "line": {
-            "en": "'Maybe. That's what it looked like.'"
+            "en": "'Maybe. That's what it looked like.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "2900",
         "line": {
-            "en": "'What'll we do?'"
+            "en": "'What'll we do?'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "2d00",
         "line": {
-            "en": "'There's not much we can do. We'll just have to\\nplay dumb.'"
+            "en": "'There's not much we can do. We'll just have to\\nplay dumb.'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "3100",
         "line": {
-            "en": "Kotori spoke quietly as she rubbed the top of her\\nhead that had just been karate chopped."
+            "en": "Kotori spoke quietly as she rubbed the top of her\\nhead that had just been karate chopped.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "3500",
         "line": {
-            "en": "'Seems like it...'"
+            "en": "'Seems like it...'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "3900",
         "line": {
-            "en": "We had a secret."
+            "en": "We had a secret.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "3d00",
         "line": {
-            "en": "We'll be in big trouble if the uppity student\\ncouncil president finds out about it."
+            "en": "We'll be in big trouble if the uppity student\\ncouncil president finds out about it.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4100",
         "line": {
-            "en": "'Even if we are found out, we should face it with\\ndignity!'"
+            "en": "'Even if we are found out, we should face it with\\ndignity!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "4500",
         "line": {
-            "en": "'I envy your unfounded self-confidence.'"
+            "en": "'I envy your unfounded self-confidence.'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "4900",
         "line": {
-            "en": "'More importantly, I get really fired up when\\nthere's a typhoon! It really fills me with\\nintense emotions!'"
+            "en": "'More importantly, I get really fired up when\\nthere's a typhoon! It really fills me with\\nintense emotions!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "4d00",
         "line": {
-            "en": "Kotori holds both hands up in the air in sheer\\nexcitement. She really is an odd one."
+            "en": "Kotori holds both hands up in the air in sheer\\nexcitement. She really is an odd one.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5100",
         "line": {
-            "en": "'I'm more worried that this old dormitory might\\nget blown away.'"
+            "en": "'I'm more worried that this old dormitory might\\nget blown away.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "5500",
         "line": {
-            "en": "As I speak, I throw some of the repair materials\\ndown on Kotori's lap with a thud."
+            "en": "As I speak, I throw some of the repair materials\\ndown on Kotori's lap with a thud.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5900",
         "line": {
-            "en": "'Take these to Yuka and the others.'"
+            "en": "'Take these to Yuka and the others.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "5d00",
         "line": {
-            "en": "'Okay. Let's go, Hat!'"
+            "en": "'Okay. Let's go, Hat!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "6100",
         "line": {
-            "en": "'Quack!'"
+            "en": "'Quack!'",
+            "ru": ""
         },
         "name": "Hat"
     },
     {
         "id": "6500",
         "line": {
-            "en": "Kotori doesn't put up any resistance and heads\\ntoward the other boarders."
+            "en": "Kotori doesn't put up any resistance and heads\\ntoward the other boarders.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6900",
         "line": {
-            "en": "She's changed a lot, too, in the last year."
+            "en": "She's changed a lot, too, in the last year.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6d00",
         "line": {
-            "en": "When I first came here, she hardly spoke to the\\nother boarders at all. But now, she speaks to\\nthem normally."
+            "en": "When I first came here, she hardly spoke to the\\nother boarders at all. But now, she speaks to\\nthem normally.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "7100",
         "line": {
-            "en": "Back then, she was just obstinately making things\\nworse. I think the way she is now, is the real\\nKotori."
+            "en": "Back then, she was just obstinately making things\\nworse. I think the way she is now, is the real\\nKotori.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "7500",
         "line": {
-            "en": "All of the other boarders are such nice people.\\nAs soon as Kotori started being herself, they\\naccepted her."
+            "en": "All of the other boarders are such nice people.\\nAs soon as Kotori started being herself, they\\naccepted her.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "7900",
         "line": {
-            "en": "That's why, these days, Flying Fish Manor is so\\npeaceful."
+            "en": "That's why, these days, Flying Fish Manor is so\\npeaceful.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "7d00",
         "line": {
-            "en": "'Well then, I'm all done here.'"
+            "en": "'Well then, I'm all done here.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "8100",
         "line": {
-            "en": "I was about to head to the next place, when..."
+            "en": "I was about to head to the next place, when...",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "8500",
         "line": {
-            "en": "...my cell phone rang."
+            "en": "...my cell phone rang.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "8900",
         "line": {
-            "en": "I take it out, and on the display, it said 'Mom'."
+            "en": "I take it out, and on the display, it said 'Mom'.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "8d00",
         "line": {
-            "en": "'Hello?'"
+            "en": "'Hello?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9100",
         "line": {
-            "en": "'Hello Aoi? It's me.'"
+            "en": "'Hello Aoi? It's me.'",
+            "ru": ""
         },
         "name": "Mother"
     },
     {
         "id": "9500",
         "line": {
-            "en": "'What's up?'"
+            "en": "'What's up?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9900",
         "line": {
-            "en": "'A typhoon's coming, isn't it? I was wondering if\\nyou were okay.'"
+            "en": "'A typhoon's coming, isn't it? I was wondering if\\nyou were okay.'",
+            "ru": ""
         },
         "name": "Mother"
     },
     {
         "id": "9d00",
         "line": {
-            "en": "'Don't worry. Everyone's helping me work on the\\nrepairs.'"
+            "en": "'Don't worry. Everyone's helping me work on the\\nrepairs.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "a100",
         "line": {
-            "en": "'I see. You being so hardworking is a big help.'"
+            "en": "'I see. You being so hardworking is a big help.'",
+            "ru": ""
         },
         "name": "Mother"
     },
     {
         "id": "a500",
         "line": {
-            "en": "'If that's how you feel, why don't you bump up my\\nwages?'"
+            "en": "'If that's how you feel, why don't you bump up my\\nwages?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "a900",
         "line": {
-            "en": "'I'll think about it.'"
+            "en": "'I'll think about it.'",
+            "ru": ""
         },
         "name": "Mother"
     },
     {
         "id": "ad00",
         "line": {
-            "en": "She always just leaves it at that."
+            "en": "She always just leaves it at that.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "b100",
         "line": {
-            "en": "'Anyway, Aoi, there's something I need to\\ndiscuss.'"
+            "en": "'Anyway, Aoi, there's something I need to\\ndiscuss.'",
+            "ru": ""
         },
         "name": "Mother"
     },
     {
         "id": "b500",
         "line": {
-            "en": "'Discuss? What's that?'"
+            "en": "'Discuss? What's that?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "b900",
         "line": {
-            "en": "I ask, with a feeling that it was something bad,\\njudging from her tone."
+            "en": "I ask, with a feeling that it was something bad,\\njudging from her tone.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "bd00",
         "line": {
-            "en": "'A new boarder will be coming tomorrow.'"
+            "en": "'A new boarder will be coming tomorrow.'",
+            "ru": ""
         },
         "name": "Mother"
     },
     {
         "id": "c100",
         "line": {
-            "en": "'Whaaaaat!!?'"
+            "en": "'Whaaaaat!!?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "c500",
         "line": {
-            "en": "'Whoa!'"
+            "en": "'Whoa!'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "c900",
         "line": {
-            "en": "Ageha is surprised by me suddenly shouting next\\nto her."
+            "en": "Ageha is surprised by me suddenly shouting next\\nto her.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "cd00",
         "line": {
-            "en": "'So, take good care of them!'"
+            "en": "'So, take good care of them!'",
+            "ru": ""
         },
         "name": "Mother"
     },
     {
         "id": "d100",
         "line": {
-            "en": "'Wait, Mom! That's not a discussion, is it!?'"
+            "en": "'Wait, Mom! That's not a discussion, is it!?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "d500",
         "line": {
-            "en": "The decision's already been made!"
+            "en": "The decision's already been made!",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "d900",
         "line": {
-            "en": "'What's going on? You can't just say that all of\\na sudden!'"
+            "en": "'What's going on? You can't just say that all of\\na sudden!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "dd00",
         "line": {
-            "en": "'I know it's short notice, but I can't do\\nanything about that. There are rooms available,\\nso it shouldn't be a problem.'"
+            "en": "'I know it's short notice, but I can't do\\nanything about that. There are rooms available,\\nso it shouldn't be a problem.'",
+            "ru": ""
         },
         "name": "Mother"
     },
     {
         "id": "e100",
         "line": {
-            "en": "'There aren't any we can use right away though!'"
+            "en": "'There aren't any we can use right away though!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "e500",
         "line": {
-            "en": "'Yes there is, the double room on the second\\nfloor.'"
+            "en": "'Yes there is, the double room on the second\\nfloor.'",
+            "ru": ""
         },
         "name": "Mother"
     },
     {
         "id": "e900",
         "line": {
-            "en": "'Th...that's...'"
+            "en": "'Th...that's...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "ed00",
         "line": {
-            "en": "Without realizing, I panic."
+            "en": "Without realizing, I panic.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "f100",
         "line": {
-            "en": "'They're coming tomorrow, so I'll leave it to\\nyou.'"
+            "en": "'They're coming tomorrow, so I'll leave it to\\nyou.'",
+            "ru": ""
         },
         "name": "Mother"
     },
     {
         "id": "f500",
         "line": {
-            "en": "'Ah! Wait!'"
+            "en": "'Ah! Wait!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "f900",
         "line": {
-            "en": "She hung up on her end. If I call back, she\\nprobably won't answer."
+            "en": "She hung up on her end. If I call back, she\\nprobably won't answer.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "fd00",
         "line": {
-            "en": "'...What's up?'"
+            "en": "'...What's up?'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "0200",
         "line": {
-            "en": "Ageha asked anxiously while looking up at my\\nstunned face from below."
+            "en": "Ageha asked anxiously while looking up at my\\nstunned face from below.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "0600",
         "line": {
-            "en": "'A new boarder is coming tomorrow. She told me to\\nuse the double room on the second floor, but...'"
+            "en": "'A new boarder is coming tomorrow. She told me to\\nuse the double room on the second floor, but...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "0a00",
         "line": {
-            "en": "'Oh, that's not good.'"
+            "en": "'Oh, that's not good.'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "0e00",
         "line": {
-            "en": "'We have to move 'it' by tomorrow.'"
+            "en": "'We have to move 'it' by tomorrow.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "1200",
         "line": {
-            "en": "But there's a storm outside. What're we gonna\\ndo!?"
+            "en": "But there's a storm outside. What're we gonna\\ndo!?",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1600",
         "line": {
-            "en": "Large raindrops struck the window."
+            "en": "Large raindrops struck the window.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1a00",
         "line": {
-            "en": "The real storm will soon begin."
+            "en": "The real storm will soon begin.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1e00",
         "line": {
-            "en": "'Aoi, one of the rooms on the second floor has a\\nleak, what should we do?'"
+            "en": "'Aoi, one of the rooms on the second floor has a\\nleak, what should we do?'",
+            "ru": ""
         },
         "name": "Sanae"
     },
     {
         "id": "2200",
         "line": {
-            "en": "'There's a blue sheet in the storeroom, spread\\nthat out across it!'"
+            "en": "'There's a blue sheet in the storeroom, spread\\nthat out across it!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "2600",
         "line": {
-            "en": "'The waterway in the back garden looks like it's\\ngoing to overflow...'"
+            "en": "'The waterway in the back garden looks like it's\\ngoing to overflow...'",
+            "ru": ""
         },
         "name": "Ryouko"
     },
     {
         "id": "2a00",
         "line": {
-            "en": "'...Just leave it!'"
+            "en": "'...Just leave it!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "2e00",
         "line": {
-            "en": "'Hey, my bedroom window has blown away.'"
+            "en": "'Hey, my bedroom window has blown away.'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "3200",
         "line": {
-            "en": "'What!?'"
+            "en": "'What!?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "3600",
         "line": {
-            "en": "'Are the shutters okay?'"
+            "en": "'Are the shutters okay?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "3a00",
         "line": {
-            "en": "'Yes, just about.'"
+            "en": "'Yes, just about.'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "3e00",
         "line": {
-            "en": "'Alright, close the shutters, and secure them\\nfrom the inside!'"
+            "en": "'Alright, close the shutters, and secure them\\nfrom the inside!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "4200",
         "line": {
-            "en": "'Okey dokey!'"
+            "en": "'Okey dokey!'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "4600",
         "line": {
-            "en": "'Aww, geez... How did this building last so\\nlong?'"
+            "en": "'Aww, geez... How did this building last so\\nlong?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "4a00",
         "line": {
-            "en": "There are a lot of typhoons this year. This is\\nthe third time that Kazegaura has been hit so\\nfar."
+            "en": "There are a lot of typhoons this year. This is\\nthe third time that Kazegaura has been hit so\\nfar.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4e00",
         "line": {
-            "en": "The first two caused extensive damage, and the\\nthird came just after we finished the repairs."
+            "en": "The first two caused extensive damage, and the\\nthird came just after we finished the repairs.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5200",
         "line": {
-            "en": "That's how we ended up doing this repair work so\\nfrantically. I can kind of understand why the\\nowner's sons want to get rid of this place."
+            "en": "That's how we ended up doing this repair work so\\nfrantically. I can kind of understand why the\\nowner's sons want to get rid of this place.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5600",
         "line": {
-            "en": "'No, what am I thinking! I will protect the peace\\nof Flying Fish Manor!'"
+            "en": "'No, what am I thinking! I will protect the peace\\nof Flying Fish Manor!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "5a00",
         "line": {
-            "en": "While shouting that 'I don't see how anyone can\\nbe excited about a typhoon', I went to repair the\\nwindow in Kanako's room."
+            "en": "While shouting that 'I don't see how anyone can\\nbe excited about a typhoon', I went to repair the\\nwindow in Kanako's room.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5e00",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "6200",
         "line": {
-            "en": "'...There's no one here.'"
+            "en": "'...There's no one here.'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "6600",
         "line": {
-            "en": "'Maybe they can't hear us because the wind's so\\nloud. Shall we go in?'"
+            "en": "'Maybe they can't hear us because the wind's so\\nloud. Shall we go in?'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "6a00",
         "line": {
-            "en": "'Ah... but...'"
+            "en": "'Ah... but...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "6e00",
         "line": {
-            "en": "'We'll be soaked if we wait here!'"
+            "en": "'We'll be soaked if we wait here!'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "7200",
         "line": {
-            "en": "'Yeah, that's true...'"
+            "en": "'Yeah, that's true...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "7600",
         "line": {
-            "en": "'Hello...?'"
+            "en": "'Hello...?'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "7a00",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "7e00",
         "line": {
-            "en": "'There really is no one here.'"
+            "en": "'There really is no one here.'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "8200",
         "line": {
-            "en": "'Excuse me, is anyone here?'"
+            "en": "'Excuse me, is anyone here?'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "8600",
         "line": {
-            "en": "'Aw crap, this isn't just a small leak!'"
+            "en": "'Aw crap, this isn't just a small leak!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "8a00",
         "line": {
-            "en": "'U-...Umm...'"
+            "en": "'U-...Umm...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "8e00",
         "line": {
-            "en": "'Get a bucket for now. We'll have to keep watch\\nover it all night... (grumble).'"
+            "en": "'Get a bucket for now. We'll have to keep watch\\nover it all night... (grumble).'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9200",
         "line": {
-            "en": "'E-...Excuse me!'"
+            "en": "'E-...Excuse me!'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "9600",
         "line": {
-            "en": "'They can't hear you. You've got to yell louder.'"
+            "en": "'They can't hear you. You've got to yell louder.'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "9a00",
         "line": {
-            "en": "'Excuse me! Hello!!'"
+            "en": "'Excuse me! Hello!!'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "9e00",
         "line": {
-            "en": "'Huh?'"
+            "en": "'Huh?'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "a200",
         "line": {
-            "en": "'Ah...umm...'"
+            "en": "'Ah...umm...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "a600",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "aa00",
         "line": {
-            "en": "'Ah...'"
+            "en": "'Ah...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "ae00",
         "line": {
-            "en": "'She ignored you.'"
+            "en": "'She ignored you.'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "b200",
         "line": {
-            "en": "'There should be a big bucket here...'"
+            "en": "'There should be a big bucket here...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "b600",
         "line": {
-            "en": "'Aoi, Aoi!'"
+            "en": "'Aoi, Aoi!'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "ba00",
         "line": {
-            "en": "'What is it? I'm kinda busy right now.'"
+            "en": "'What is it? I'm kinda busy right now.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "be00",
         "line": {
-            "en": "'There are some visitors here.'"
+            "en": "'There are some visitors here.'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "c200",
         "line": {
-            "en": "'Huh? Visitors?'"
+            "en": "'Huh? Visitors?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "c600",
         "line": {
-            "en": "In the middle of a storm like this?"
+            "en": "In the middle of a storm like this?",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "ca00",
         "line": {
-            "en": "'Who could that be?'"
+            "en": "'Who could that be?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "ce00",
         "line": {
-            "en": "'Excuse me! Is anybody here?'"
+            "en": "'Excuse me! Is anybody here?'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "d200",
         "line": {
-            "en": "'Is there really no one here...?'"
+            "en": "'Is there really no one here...?'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "d600",
         "line": {
-            "en": "'This place is pretty old and shabby, isn't it...\\nThere won't be anything left of it by tomorrow\\nmorning.'"
+            "en": "'This place is pretty old and shabby, isn't it...\\nThere won't be anything left of it by tomorrow\\nmorning.'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "da00",
         "line": {
-            "en": "'Umm... umm... hello! Someone please, come out!'"
+            "en": "'Umm... umm... hello! Someone please, come out!'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "de00",
         "line": {
-            "en": "'?'"
+            "en": "'?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "e200",
         "line": {
-            "en": "I went to the entrance with Kanako and a girl was\\nthere."
+            "en": "I went to the entrance with Kanako and a girl was\\nthere.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "e600",
         "line": {
-            "en": "Actually, two girls."
+            "en": "Actually, two girls.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "ea00",
         "line": {
-            "en": "...or rather..."
+            "en": "...or rather...",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "ee00",
         "line": {
-            "en": "'(Twins??)'"
+            "en": "'(Twins??)'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "f200",
         "line": {
-            "en": "They look exactly the same."
+            "en": "They look exactly the same.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "f600",
         "line": {
-            "en": "'Ah!'"
+            "en": "'Ah!'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "fa00",
         "line": {
-            "en": "With tears in her eyes, but seemingly whispering\\nsomething, one of the girls noticed me."
+            "en": "With tears in her eyes, but seemingly whispering\\nsomething, one of the girls noticed me.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "fe00",
         "line": {
-            "en": "'(Wh-...What should we do? It's a stranger...!'"
+            "en": "'(Wh-...What should we do? It's a stranger...!'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "0300",
         "line": {
-            "en": "'(Sis, it's obvious...)'"
+            "en": "'(Sis, it's obvious...)'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "0700",
         "line": {
-            "en": "'May I ask who you might be?'"
+            "en": "'May I ask who you might be?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "0b00",
         "line": {
-            "en": "'Umm... ah... umm...'"
+            "en": "'Umm... ah... umm...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "0f00",
         "line": {
-            "en": "'(Wh-.. Wh-...what should I do, Yoru!?)'"
+            "en": "'(Wh-.. Wh-...what should I do, Yoru!?)'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "1300",
         "line": {
-            "en": "'Umm...'"
+            "en": "'Umm...'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "1700",
         "line": {
-            "en": "They seem surprised that a boy would be in a\\ngirl's dormitory. The two girls, who seem really\\nshy, stand there sheepishly, unable to say\\nanything."
+            "en": "They seem surprised that a boy would be in a\\ngirl's dormitory. The two girls, who seem really\\nshy, stand there sheepishly, unable to say\\nanything.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1b00",
         "line": {
-            "en": "Having said that, they do seem familiar."
+            "en": "Having said that, they do seem familiar.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1f00",
         "line": {
-            "en": "'...Huh?'"
+            "en": "'...Huh?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "2300",
         "line": {
-            "en": "I remember seeing those faces before."
+            "en": "I remember seeing those faces before.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "2700",
         "line": {
-            "en": "'Have I seen you somewhere...'"
+            "en": "'Have I seen you somewhere...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "2b00",
         "line": {
-            "en": "'...What is it? Could you stop staring?'"
+            "en": "'...What is it? Could you stop staring?'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "2f00",
         "line": {
-            "en": "'Oh, sorry.'"
+            "en": "'Oh, sorry.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "3300",
         "line": {
-            "en": "'Is there something strange about our faces?'"
+            "en": "'Is there something strange about our faces?'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "3700",
         "line": {
-            "en": "'No, it's not that. Umm... I feel like we've met\\nbefore...'"
+            "en": "'No, it's not that. Umm... I feel like we've met\\nbefore...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "3b00",
         "line": {
-            "en": "'Ah! I remember!!'"
+            "en": "'Ah! I remember!!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "3f00",
         "line": {
-            "en": "'Oh!'"
+            "en": "'Oh!'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "4300",
         "line": {
-            "en": "As I shout in a loud voice, one of the girls (for\\nnow, I'll call her Girl A) jumped in surprise."
+            "en": "As I shout in a loud voice, one of the girls (for\\nnow, I'll call her Girl A) jumped in surprise.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4700",
         "line": {
-            "en": "'You're the curry girl!'"
+            "en": "'You're the curry girl!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "4b00",
         "line": {
-            "en": "'Curry... girl?'"
+            "en": "'Curry... girl?'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "4f00",
         "line": {
-            "en": "It was quite a long time ago, but she was the\\ngirl at the supermarket, buying high grade\\nmarbled beef for curry."
+            "en": "It was quite a long time ago, but she was the\\ngirl at the supermarket, buying high grade\\nmarbled beef for curry.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5300",
         "line": {
-            "en": "'What? Do you know her?'"
+            "en": "'What? Do you know her?'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "5700",
         "line": {
-            "en": "'It seems that I know her, but she doesn't know\\nme.'"
+            "en": "'It seems that I know her, but she doesn't know\\nme.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "5b00",
         "line": {
-            "en": "But why is the curry girl here?"
+            "en": "But why is the curry girl here?",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5f00",
         "line": {
-            "en": "Speaking of which, they're twins. Was the girl at\\nthat time Girl A or Girl B?"
+            "en": "Speaking of which, they're twins. Was the girl at\\nthat time Girl A or Girl B?",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6300",
         "line": {
-            "en": "'Say, you two, what are you doing at Flying Fish\\nManor?'"
+            "en": "'Say, you two, what are you doing at Flying Fish\\nManor?'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "6700",
         "line": {
-            "en": "Thinking that they might be scared of me, Kanako\\nsteps forward and kindly asks them."
+            "en": "Thinking that they might be scared of me, Kanako\\nsteps forward and kindly asks them.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6b00",
         "line": {
-            "en": "Thanks for backing me up."
+            "en": "Thanks for backing me up.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6f00",
         "line": {
-            "en": "'(A-...Another stranger...!)'"
+            "en": "'(A-...Another stranger...!)'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "7300",
         "line": {
-            "en": "'(That's because it's a dormitory. There'll be a\\nlot of people we don't know.)'"
+            "en": "'(That's because it's a dormitory. There'll be a\\nlot of people we don't know.)'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "7700",
         "line": {
-            "en": "'Did you come here to meet someone?'"
+            "en": "'Did you come here to meet someone?'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "7b00",
         "line": {
-            "en": "'Ahh... That's... umm... We... are... from now\\non...'"
+            "en": "'Ahh... That's... umm... We... are... from now\\non...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "7f00",
         "line": {
-            "en": "'H-...H-...H-...H-...here...'"
+            "en": "'H-...H-...H-...H-...here...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "8300",
         "line": {
-            "en": "'Umm... ah... Li-... Li-...'"
+            "en": "'Umm... ah... Li-... Li-...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "8700",
         "line": {
-            "en": "'We're going to live here.'"
+            "en": "'We're going to live here.'",
+            "ru": ""
         },
         "name": "Girl B"
     },
     {
         "id": "8b00",
         "line": {
-            "en": "Girl B jumped in to finish what Girl A was\\ndesperately trying to say."
+            "en": "Girl B jumped in to finish what Girl A was\\ndesperately trying to say.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "8f00",
         "line": {
-            "en": "...Hey, hold on a second."
+            "en": "...Hey, hold on a second.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "9300",
         "line": {
-            "en": "'...What did you just say?'"
+            "en": "'...What did you just say?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9700",
         "line": {
-            "en": "'Umm, we...'"
+            "en": "'Umm, we...'",
+            "ru": ""
         },
         "name": "Girl A"
     },
     {
         "id": "9b00",
         "line": {
-            "en": "'They're going to live here.'"
+            "en": "'They're going to live here.'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "9f00",
         "line": {
-            "en": "Kanako speaks like it's got nothing to do with\\nus."
+            "en": "Kanako speaks like it's got nothing to do with\\nus.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "a300",
         "line": {
-            "en": "'...Whaaaaaaaaaaaaat!!!!!??'"
+            "en": "'...Whaaaaaaaaaaaaat!!!!!??'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "a700",
         "line": {
-            "en": "Girl A was frightened again by my loud voice."
+            "en": "Girl A was frightened again by my loud voice.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "ab00",
         "line": {
-            "en": "'I'm... Asa Kazato.'"
+            "en": "'I'm... Asa Kazato.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "af00",
         "line": {
-            "en": "'I'm Yoru Kazato.'"
+            "en": "'I'm Yoru Kazato.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "b300",
         "line": {
-            "en": "For the time being, I gathered all the boarders\\nin the dining hall, and got the two girls to\\nintroduce themselves."
+            "en": "For the time being, I gathered all the boarders\\nin the dining hall, and got the two girls to\\nintroduce themselves.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "b700",
         "line": {
-            "en": "It seems that Asa, the timid one, is the older\\nsister and Yoru, the blunt one, is the younger\\nsister."
+            "en": "It seems that Asa, the timid one, is the older\\nsister and Yoru, the blunt one, is the younger\\nsister.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "bb00",
         "line": {
-            "en": "'Asa and Yoru... meaning 'morning' and 'night'...\\nthat's interesting.'"
+            "en": "'Asa and Yoru... meaning 'morning' and 'night'...\\nthat's interesting.'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "bf00",
         "line": {
-            "en": "Kotori seems really impressed."
+            "en": "Kotori seems really impressed.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "c300",
         "line": {
-            "en": "'(There's a girl in a wheelchair...)'"
+            "en": "'(There's a girl in a wheelchair...)'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "c700",
         "line": {
-            "en": "'(That girl there looks like an idiot.)'"
+            "en": "'(That girl there looks like an idiot.)'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "cb00",
         "line": {
-            "en": "'Kazato? Could it be that you two are the\\nmuch-rumored Genius Twins?'"
+            "en": "'Kazato? Could it be that you two are the\\nmuch-rumored Genius Twins?'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "cf00",
         "line": {
-            "en": "'Genius Twins? What are you talking about?'"
+            "en": "'Genius Twins? What are you talking about?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "d300",
         "line": {
-            "en": "'C'mon, everyone's been talking about it since\\nspring. That these amazing geniuses entered the\\nschool.'"
+            "en": "'C'mon, everyone's been talking about it since\\nspring. That these amazing geniuses entered the\\nschool.'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "d700",
         "line": {
-            "en": "'On top of that, they're beautiful twin sisters.'"
+            "en": "'On top of that, they're beautiful twin sisters.'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "db00",
         "line": {
-            "en": "'Oh, gosh... that's...'"
+            "en": "'Oh, gosh... that's...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "df00",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "e300",
         "line": {
-            "en": "'Now that you mention it, there was a rumor about\\nthat.'"
+            "en": "'Now that you mention it, there was a rumor about\\nthat.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "e700",
         "line": {
-            "en": "The guys in our class were making a big fuss\\nabout it."
+            "en": "The guys in our class were making a big fuss\\nabout it.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "eb00",
         "line": {
-            "en": "Not because they're geniuses, but because they're\\nbeautiful twin girls."
+            "en": "Not because they're geniuses, but because they're\\nbeautiful twin girls.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "ef00",
         "line": {
-            "en": "'Oh, geniuses, eh? Just how clever are they?'"
+            "en": "'Oh, geniuses, eh? Just how clever are they?'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "f300",
         "line": {
-            "en": "'They were at the top of the entrance exam\\nrankings by miles. After that, in class,'"
+            "en": "'They were at the top of the entrance exam\\nrankings by miles. After that, in class,'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "f700",
         "line": {
-            "en": "'What...?'"
+            "en": "'What...?'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "fb00",
         "line": {
-            "en": "'Tobioka-sensei scouted them for the Robotics\\nClub straight away. It looks like they refused\\nthough.'"
+            "en": "'Tobioka-sensei scouted them for the Robotics\\nClub straight away. It looks like they refused\\nthough.'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "ff00",
         "line": {
-            "en": "'These girls are bigger geniuses than even\\nAmane?'"
+            "en": "'These girls are bigger geniuses than even\\nAmane?'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "0004",
         "line": {
-            "en": "Kotori seems to be looking at the two girls with\\na hint of nastiness in her eyes. Some strange\\nthoughts must be going through her head again."
+            "en": "Kotori seems to be looking at the two girls with\\na hint of nastiness in her eyes. Some strange\\nthoughts must be going through her head again.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "0404",
         "line": {
-            "en": "'Awawawa...'"
+            "en": "'Awawawa...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "0804",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "0c04",
         "line": {
-            "en": "'Oh, is that so?'"
+            "en": "'Oh, is that so?'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "1004",
         "line": {
-            "en": "'No, that's not it! That's only Yoru, not me!'"
+            "en": "'No, that's not it! That's only Yoru, not me!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "1404",
         "line": {
-            "en": "Asa, the older one, takes a step back, as if\\nshe's pushing her sister forward."
+            "en": "Asa, the older one, takes a step back, as if\\nshe's pushing her sister forward.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1804",
         "line": {
-            "en": "Everyone looks at Yoru with curiosity."
+            "en": "Everyone looks at Yoru with curiosity.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1c04",
         "line": {
-            "en": "But..."
+            "en": "But...",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "2004",
         "line": {
-            "en": "'...Who cares about things like that?'"
+            "en": "'...Who cares about things like that?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "2404",
         "line": {
-            "en": "she said, as though she found this whole thing\\nrather troublesome."
+            "en": "she said, as though she found this whole thing\\nrather troublesome.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "2804",
         "line": {
-            "en": "'Yoru's great! She's definitely a real genius!'"
+            "en": "'Yoru's great! She's definitely a real genius!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "2c04",
         "line": {
-            "en": "'Hmm, this girl is? ...Hmmmm.'"
+            "en": "'Hmm, this girl is? ...Hmmmm.'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "3004",
         "line": {
-            "en": "'I'll tell you this, Amane was incredible.'"
+            "en": "'I'll tell you this, Amane was incredible.'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "3404",
         "line": {
-            "en": "'Even though she's a big eater, she could\\nconcentrate on something so much, she'd forget\\nshe was hungry!'"
+            "en": "'Even though she's a big eater, she could\\nconcentrate on something so much, she'd forget\\nshe was hungry!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "3804",
         "line": {
-            "en": "'She's just an idiot.'"
+            "en": "'She's just an idiot.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "3c04",
         "line": {
-            "en": "'What did you say...!?'"
+            "en": "'What did you say...!?'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "4004",
         "line": {
-            "en": "'Alright, alright, it doesn't matter, just be\\nquiet.'"
+            "en": "'Alright, alright, it doesn't matter, just be\\nquiet.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "4404",
         "line": {
-            "en": "I try to calm down Kotori, who's getting more and\\nmore angry."
+            "en": "I try to calm down Kotori, who's getting more and\\nmore angry.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4804",
         "line": {
-            "en": "If I let her say what she wants, Amane will\\nprobably just sound like even more of a weirdo."
+            "en": "If I let her say what she wants, Amane will\\nprobably just sound like even more of a weirdo.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4c04",
         "line": {
-            "en": "'Anyway, we've introduced ourselves, so shouldn't\\nyou do the same?'"
+            "en": "'Anyway, we've introduced ourselves, so shouldn't\\nyou do the same?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "5004",
         "line": {
-            "en": "'Urk!'"
+            "en": "'Urk!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "5404",
         "line": {
-            "en": "'Y-...Yes, you're right. We went off on a bit of\\na pointless tangent there.'"
+            "en": "'Y-...Yes, you're right. We went off on a bit of\\na pointless tangent there.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "5804",
         "line": {
-            "en": "Everyone pulls themselves together, and\\nintroduces themselves one by one."
+            "en": "Everyone pulls themselves together, and\\nintroduces themselves one by one.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5c04",
         "line": {
-            "en": "Asa listened enthusiastically, whereas with Yoru,\\nit was like everything was going in one ear and\\nout the other."
+            "en": "Asa listened enthusiastically, whereas with Yoru,\\nit was like everything was going in one ear and\\nout the other.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6004",
         "line": {
-            "en": "Ageha's not a boarder, but she introduced herself\\ntoo. She often comes here, so if those two are\\ngoing to live here, it's best if they know who\\nshe is."
+            "en": "Ageha's not a boarder, but she introduced herself\\ntoo. She often comes here, so if those two are\\ngoing to live here, it's best if they know who\\nshe is.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6404",
         "line": {
-            "en": "Then, my turn finally comes around."
+            "en": "Then, my turn finally comes around.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6804",
         "line": {
-            "en": "'I'm Aoi Minase, the dorm mother. Sorry if I\\nscared you just now.'"
+            "en": "'I'm Aoi Minase, the dorm mother. Sorry if I\\nscared you just now.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "6c04",
         "line": {
-            "en": "'I-...It's okay, don't worry about it.'"
+            "en": "'I-...It's okay, don't worry about it.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "7004",
         "line": {
-            "en": "'...Isn't this a girl's dormitory?'"
+            "en": "'...Isn't this a girl's dormitory?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "7404",
         "line": {
-            "en": "'Uh... yeah, umm... well, for various reasons,\\nI'm doing the work of the dorm mother.'"
+            "en": "'Uh... yeah, umm... well, for various reasons,\\nI'm doing the work of the dorm mother.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "7804",
         "line": {
-            "en": "'A boy in a girl's dormitory... Also, someone\\nthat young is doing it...'"
+            "en": "'A boy in a girl's dormitory... Also, someone\\nthat young is doing it...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "7c04",
         "line": {
-            "en": "She appears to be looking at me with suspicion."
+            "en": "She appears to be looking at me with suspicion.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "8004",
         "line": {
-            "en": "'Uhh...'"
+            "en": "'Uhh...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "8404",
         "line": {
-            "en": "'Aoi's alright. He's not interested in girls.'"
+            "en": "'Aoi's alright. He's not interested in girls.'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "8804",
         "line": {
-            "en": "'What!?'"
+            "en": "'What!?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "8c04",
         "line": {
-            "en": "'She's right. Even though he lives surrounded by\\nso many girls, he still hasn't had a\\ngirlfriend...'"
+            "en": "'She's right. Even though he lives surrounded by\\nso many girls, he still hasn't had a\\ngirlfriend...'",
+            "ru": ""
         },
         "name": "Yuka"
     },
     {
         "id": "9004",
         "line": {
-            "en": "'He even gets angry with Kana-chan for walking\\naround in her underwear. He definitely doesn't\\nlike girls.'"
+            "en": "'He even gets angry with Kana-chan for walking\\naround in her underwear. He definitely doesn't\\nlike girls.'",
+            "ru": ""
         },
         "name": "Sanae"
     },
     {
         "id": "9404",
         "line": {
-            "en": "'Hold on a minute, why are we talking about\\nthis?'"
+            "en": "'Hold on a minute, why are we talking about\\nthis?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9804",
         "line": {
-            "en": "'Well, are you interested in girls?'"
+            "en": "'Well, are you interested in girls?'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "9c04",
         "line": {
-            "en": "'Of course! I'm interested in girls!'"
+            "en": "'Of course! I'm interested in girls!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "a004",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "a404",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "a804",
         "line": {
-            "en": "'Aoi, these girls are totally freaked out, you\\nknow.'"
+            "en": "'Aoi, these girls are totally freaked out, you\\nknow.'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "ac04",
         "line": {
-            "en": "'What? You've got it all wrong! I'm interested in\\ngirls, in a perfectly normal, healthy way, so I\\nwouldn't do anything strange or inappropriate!'"
+            "en": "'What? You've got it all wrong! I'm interested in\\ngirls, in a perfectly normal, healthy way, so I\\nwouldn't do anything strange or inappropriate!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "b004",
         "line": {
-            "en": "'Uhh...'"
+            "en": "'Uhh...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "b404",
         "line": {
-            "en": "'I think we should stay in another dorm, sis.'"
+            "en": "'I think we should stay in another dorm, sis.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "b804",
         "line": {
-            "en": "I dig myself into more of a hole the more I\\nspeak."
+            "en": "I dig myself into more of a hole the more I\\nspeak.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "bc04",
         "line": {
-            "en": "Then, as if sensing my predicament, a duck came\\nwalking into the dining hall."
+            "en": "Then, as if sensing my predicament, a duck came\\nwalking into the dining hall.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "c004",
         "line": {
-            "en": "'Wow!'"
+            "en": "'Wow!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "c404",
         "line": {
-            "en": "'Quack?'"
+            "en": "'Quack?'",
+            "ru": ""
         },
         "name": "Hat"
     },
     {
         "id": "c804",
         "line": {
-            "en": "'A duck...?'"
+            "en": "'A duck...?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "cc04",
         "line": {
-            "en": "At that moment, the twins turn their attention to\\nHat."
+            "en": "At that moment, the twins turn their attention to\\nHat.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "d004",
         "line": {
-            "en": "'You came at just the right time, Hat. Introduce\\nyourself too.'"
+            "en": "'You came at just the right time, Hat. Introduce\\nyourself too.'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "d404",
         "line": {
-            "en": "'Quack, Quack!'"
+            "en": "'Quack, Quack!'",
+            "ru": ""
         },
         "name": "Hat"
     },
     {
         "id": "d804",
         "line": {
-            "en": "'Yoru, he introduced himself! That's so cute!'"
+            "en": "'Yoru, he introduced himself! That's so cute!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "dc04",
         "line": {
-            "en": "'It's a pet duck. Are you allowed pets in this\\ndormitory?'"
+            "en": "'It's a pet duck. Are you allowed pets in this\\ndormitory?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "e004",
         "line": {
-            "en": "'Well, actually we're not, but...'"
+            "en": "'Well, actually we're not, but...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "e404",
         "line": {
-            "en": "'Senpai Hat isn't a pet. He just lives here.'"
+            "en": "'Senpai Hat isn't a pet. He just lives here.'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "e804",
         "line": {
-            "en": "'You might call him our housemate.'"
+            "en": "'You might call him our housemate.'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "ec04",
         "line": {
-            "en": "The twins looked like they didn't really get it,\\nbut he's cute, so they just kind of accepted it."
+            "en": "The twins looked like they didn't really get it,\\nbut he's cute, so they just kind of accepted it.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "f004",
         "line": {
-            "en": "'But why did you come today? I heard you were\\ncoming tomorrow.'"
+            "en": "'But why did you come today? I heard you were\\ncoming tomorrow.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "f404",
         "line": {
-            "en": "'Ahh... that's because...'"
+            "en": "'Ahh... that's because...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "f804",
         "line": {
-            "en": "Asa was acting nervously."
+            "en": "Asa was acting nervously.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "fc04",
         "line": {
-            "en": "'When we thought we'd be able to live by\\nourselves, we could hardly contain our\\nexcitement...'"
+            "en": "'When we thought we'd be able to live by\\nourselves, we could hardly contain our\\nexcitement...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "0104",
         "line": {
-            "en": "'We heard from the real estate agents that there\\nwas a room we'd be able to use right away.'"
+            "en": "'We heard from the real estate agents that there\\nwas a room we'd be able to use right away.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "0504",
         "line": {
-            "en": "'Oh...'"
+            "en": "'Oh...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "0904",
         "line": {
-            "en": "Kotori, Ageha and I had troubled looks on our\\nfaces, and the other boarders looked kind of\\nawkward."
+            "en": "Kotori, Ageha and I had troubled looks on our\\nfaces, and the other boarders looked kind of\\nawkward.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "0d04",
         "line": {
-            "en": "'Ummm... right now, due to the typhoon, there are\\nleaks and various other problems...'"
+            "en": "'Ummm... right now, due to the typhoon, there are\\nleaks and various other problems...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "1104",
         "line": {
-            "en": "'...It's not just the appearance from the\\noutside, it's a mess inside too. Come on, sis,\\nlet's look for another dorm.'"
+            "en": "'...It's not just the appearance from the\\noutside, it's a mess inside too. Come on, sis,\\nlet's look for another dorm.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "1504",
         "line": {
-            "en": "'Yes, but...'"
+            "en": "'Yes, but...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "1904",
         "line": {
-            "en": "'There are no other places that we can move into\\nright away, that's what Grandpa said...'"
+            "en": "'There are no other places that we can move into\\nright away, that's what Grandpa said...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "1d04",
         "line": {
-            "en": "'Well, let's go back home.'"
+            "en": "'Well, let's go back home.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "2104",
         "line": {
-            "en": "'I don't want to!'"
+            "en": "'I don't want to!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "2504",
         "line": {
-            "en": "said Asa emphatically."
+            "en": "said Asa emphatically.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "2904",
         "line": {
-            "en": "She seems to be quite strong-willed."
+            "en": "She seems to be quite strong-willed.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "2d04",
         "line": {
-            "en": "'Hey, why was it suddenly decided that you'd come\\nlive in our dorm?'"
+            "en": "'Hey, why was it suddenly decided that you'd come\\nlive in our dorm?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "3104",
         "line": {
-            "en": "It's early July."
+            "en": "It's early July.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "3504",
         "line": {
-            "en": "If you're planning to move into a dorm, now is'nt\\nthe best time."
+            "en": "If you're planning to move into a dorm, now is'nt\\nthe best time.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "3904",
         "line": {
-            "en": "'She said she wanted to move out all of a sudden.\\nThen, we started looking for places.'"
+            "en": "'She said she wanted to move out all of a sudden.\\nThen, we started looking for places.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "3d04",
         "line": {
-            "en": "'...At first, we should've been able to move into\\nthe new school dorm, but there were no rooms\\navailable.'"
+            "en": "'...At first, we should've been able to move into\\nthe new school dorm, but there were no rooms\\navailable.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "4104",
         "line": {
-            "en": "'Oh, that one...'"
+            "en": "'Oh, that one...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "4504",
         "line": {
-            "en": "Kotori, Ageha and I all had slightly grim\\nexpressions on our faces."
+            "en": "Kotori, Ageha and I all had slightly grim\\nexpressions on our faces.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4904",
         "line": {
-            "en": "This year, Keifuu Academy built a new student\\ndormitory."
+            "en": "This year, Keifuu Academy built a new student\\ndormitory.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4d04",
         "line": {
-            "en": "It was built at the back of the school... in\\nother words, on the site of the Soaring Club's\\ngarage."
+            "en": "It was built at the back of the school... in\\nother words, on the site of the Soaring Club's\\ngarage.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5104",
         "line": {
-            "en": "The truth is that the school had been planning to\\nbuild a dorm for a while, and the garage was in\\nthe way."
+            "en": "The truth is that the school had been planning to\\nbuild a dorm for a while, and the garage was in\\nthe way.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5504",
         "line": {
-            "en": "That's why a group of teachers, starting with\\nTobioka, wanted to have the Soaring Club's status\\nrevoked."
+            "en": "That's why a group of teachers, starting with\\nTobioka, wanted to have the Soaring Club's status\\nrevoked.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5904",
         "line": {
-            "en": "The new student dorm had an influence on Flying\\nFish Manor too."
+            "en": "The new student dorm had an influence on Flying\\nFish Manor too.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5d04",
         "line": {
-            "en": "Due to there being a delay in determining the\\nland that would be used for the student dorm, the\\nimportance of small places like Flying Fish Manor\\nwas recognized."
+            "en": "Due to there being a delay in determining the\\nland that would be used for the student dorm, the\\nimportance of small places like Flying Fish Manor\\nwas recognized.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6104",
         "line": {
-            "en": "However, since the new dorm was built, the school\\nseems to want to end its agreement with Flying\\nFish Manor."
+            "en": "However, since the new dorm was built, the school\\nseems to want to end its agreement with Flying\\nFish Manor.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6504",
         "line": {
-            "en": "An external dorm, which the school can't keep a\\nclose eye on, can cause plenty of worry, it would\\nseem."
+            "en": "An external dorm, which the school can't keep a\\nclose eye on, can cause plenty of worry, it would\\nseem.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6904",
         "line": {
-            "en": "However, the rent here is cheap. That's because\\nthe owner runs the place almost as a hobby."
+            "en": "However, the rent here is cheap. That's because\\nthe owner runs the place almost as a hobby.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6d04",
         "line": {
-            "en": "That's why, even though the new dorm was built,\\nYuka and the others decided to live here instead."
+            "en": "That's why, even though the new dorm was built,\\nYuka and the others decided to live here instead.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "7104",
         "line": {
-            "en": "All things considered, not just the former\\nmembers of the Soaring Club, but everyone here\\nhas mixed feelings about the new student dorm."
+            "en": "All things considered, not just the former\\nmembers of the Soaring Club, but everyone here\\nhas mixed feelings about the new student dorm.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "7504",
         "line": {
-            "en": "'Then, our grandfather spoke to an old friend of\\nhis, who introduced us to this place.'"
+            "en": "'Then, our grandfather spoke to an old friend of\\nhis, who introduced us to this place.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "7904",
         "line": {
-            "en": "'So, does that mean that my mother and your\\ngrandfather know each other?'"
+            "en": "'So, does that mean that my mother and your\\ngrandfather know each other?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "7d04",
         "line": {
-            "en": "Maybe that's why my mother suddenly told me that\\nthey would be coming tomorrow."
+            "en": "Maybe that's why my mother suddenly told me that\\nthey would be coming tomorrow.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "8104",
         "line": {
-            "en": "'Yeah, he said that he can always depend on her.'"
+            "en": "'Yeah, he said that he can always depend on her.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "8504",
         "line": {
-            "en": "'Did he?'"
+            "en": "'Did he?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "8904",
         "line": {
-            "en": "'Our grandfather is a board member at Keifuu\\nAcademy.'"
+            "en": "'Our grandfather is a board member at Keifuu\\nAcademy.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "8d04",
         "line": {
-            "en": "'I see... Huh, what!?'"
+            "en": "'I see... Huh, what!?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9104",
         "line": {
-            "en": "'Yoru, that's kind of...'"
+            "en": "'Yoru, that's kind of...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "9504",
         "line": {
-            "en": "'It's fine. It's better to tell them now than for\\nthem to find out later.'"
+            "en": "'It's fine. It's better to tell them now than for\\nthem to find out later.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "9904",
         "line": {
-            "en": "'... You're a board member's granddaughters?'"
+            "en": "'... You're a board member's granddaughters?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9d04",
         "line": {
-            "en": "'Chairman of the board to be exact.'"
+            "en": "'Chairman of the board to be exact.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "a104",
         "line": {
-            "en": "Murmur murmur..."
+            "en": "Murmur murmur...",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "a504",
         "line": {
-            "en": "The boarders begin to murmur as they hear such a\\npowerful-sounding title."
+            "en": "The boarders begin to murmur as they hear such a\\npowerful-sounding title.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "a904",
         "line": {
-            "en": "'Well, that's how it is. Would you mind showing\\nus our room?'"
+            "en": "'Well, that's how it is. Would you mind showing\\nus our room?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "ad04",
         "line": {
-            "en": "'Ah! Umm, that's...!'"
+            "en": "'Ah! Umm, that's...!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "b104",
         "line": {
-            "en": "'Hmm? We can move in soon, can't we?'"
+            "en": "'Hmm? We can move in soon, can't we?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "b504",
         "line": {
-            "en": "'There's a really bad leak! Also, we thought\\nyou'd be arriving tomorrow, so it hasn't been\\ncleaned yet!'"
+            "en": "'There's a really bad leak! Also, we thought\\nyou'd be arriving tomorrow, so it hasn't been\\ncleaned yet!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "b904",
         "line": {
-            "en": "'We're sorry for turning up out of the blue like\\nthis...'"
+            "en": "'We're sorry for turning up out of the blue like\\nthis...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "bd04",
         "line": {
-            "en": "'It doesn't matter, let's just take a look. We'll\\nthink about whether we're going to leave or not\\nonce we've seen it.'"
+            "en": "'It doesn't matter, let's just take a look. We'll\\nthink about whether we're going to leave or not\\nonce we've seen it.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "c104",
         "line": {
-            "en": "'No, that's why I said...!'"
+            "en": "'No, that's why I said...!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "c504",
         "line": {
-            "en": "'Hmm? You're acting suspiciously... Are you\\nhiding something?'"
+            "en": "'Hmm? You're acting suspiciously... Are you\\nhiding something?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "c904",
         "line": {
-            "en": "'Urk...'"
+            "en": "'Urk...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "cd04",
         "line": {
-            "en": "This girl is smart."
+            "en": "This girl is smart.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "d104",
         "line": {
-            "en": "'Let's go, sis.'"
+            "en": "'Let's go, sis.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "d504",
         "line": {
-            "en": "'Okay.'"
+            "en": "'Okay.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "d904",
         "line": {
-            "en": "The twins ignore me as I start to panic and head\\ntowards the room."
+            "en": "The twins ignore me as I start to panic and head\\ntowards the room.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "dd04",
         "line": {
-            "en": "They must have heard the room number from my\\nmother."
+            "en": "They must have heard the room number from my\\nmother.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "e104",
         "line": {
-            "en": "'This is bad, Aoi! We've gotta stop them!'"
+            "en": "'This is bad, Aoi! We've gotta stop them!'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "e504",
         "line": {
-            "en": "'That one with the bad attitude really annoys\\nme...'"
+            "en": "'That one with the bad attitude really annoys\\nme...'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "e904",
         "line": {
-            "en": "'Those two are the chairman's granddaughters! If\\nthey find it, we're gonna be in big trouble!'"
+            "en": "'Those two are the chairman's granddaughters! If\\nthey find it, we're gonna be in big trouble!'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "ed04",
         "line": {
-            "en": "'You're right.'"
+            "en": "'You're right.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "f104",
         "line": {
-            "en": "But I can't think of any way to stop them."
+            "en": "But I can't think of any way to stop them.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "f504",
         "line": {
-            "en": "'Anyway, I'll be back!'"
+            "en": "'Anyway, I'll be back!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "f904",
         "line": {
-            "en": "'Ooh... It smells kind of moldy, doesn't it?'"
+            "en": "'Ooh... It smells kind of moldy, doesn't it?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "fd04",
         "line": {
-            "en": "'Yes, just a little... Oh well, that must be\\nbecause it's raining!'"
+            "en": "'Yes, just a little... Oh well, that must be\\nbecause it's raining!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "0204",
         "line": {
-            "en": "'Maybe. I think it's because this place is old,\\nthough.'"
+            "en": "'Maybe. I think it's because this place is old,\\nthough.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "0604",
         "line": {
-            "en": "'Besides, it's creaking because of the typhoon.\\nDoesn't it feel like it's going to fall apart?'"
+            "en": "'Besides, it's creaking because of the typhoon.\\nDoesn't it feel like it's going to fall apart?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "0a04",
         "line": {
-            "en": "'Uh... yeah, maybe.'"
+            "en": "'Uh... yeah, maybe.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "0e04",
         "line": {
-            "en": "'Let's give up on this place. The food at home's\\ndelicious, and Grandpa...'"
+            "en": "'Let's give up on this place. The food at home's\\ndelicious, and Grandpa...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "1204",
         "line": {
-            "en": "'Ah! Here's the room.'"
+            "en": "'Ah! Here's the room.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "1604",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "1a04",
         "line": {
-            "en": "'... Huh?'"
+            "en": "'... Huh?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "1e04",
         "line": {
-            "en": "'What's this...?'"
+            "en": "'What's this...?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "2204",
         "line": {
-            "en": "'I wonder, is it...?'"
+            "en": "'I wonder, is it...?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "2604",
         "line": {
-            "en": "'Could it be...?'"
+            "en": "'Could it be...?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "2a04",
         "line": {
-            "en": "As I reached the second floor, the two of them\\nwere standing there, staring blankly... at the\\nglider inside."
+            "en": "As I reached the second floor, the two of them\\nwere standing there, staring blankly... at the\\nglider inside.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "2e04",
         "line": {
-            "en": "'We're just looking after this...'"
+            "en": "'We're just looking after this...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "3204",
         "line": {
-            "en": "'There's no leak, is there?'"
+            "en": "'There's no leak, is there?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "3604",
         "line": {
-            "en": "'Huh? Oh, you're right! It looks like someone\\nfixed it... I guess.'"
+            "en": "'Huh? Oh, you're right! It looks like someone\\nfixed it... I guess.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "3a04",
         "line": {
-            "en": "'Did you lie in order to keep this hidden from\\nus?'"
+            "en": "'Did you lie in order to keep this hidden from\\nus?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "3e04",
         "line": {
-            "en": "'Ah... Yes, that's right.'"
+            "en": "'Ah... Yes, that's right.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "4204",
         "line": {
-            "en": "I quickly owned up to it."
+            "en": "I quickly owned up to it.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4604",
         "line": {
-            "en": "It seems like there's no use lying to this girl."
+            "en": "It seems like there's no use lying to this girl.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4a04",
         "line": {
-            "en": "'But why is something like this in this kind of\\nplace? After all, this is...'"
+            "en": "'But why is something like this in this kind of\\nplace? After all, this is...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "4e04",
         "line": {
-            "en": "'A glider... Isn't it?'"
+            "en": "'A glider... Isn't it?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "5204",
         "line": {
-            "en": "'So you know what it is?'"
+            "en": "'So you know what it is?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "5604",
         "line": {
-            "en": "I forgot the situation for a moment and\\naccidentally answered their question."
+            "en": "I forgot the situation for a moment and\\naccidentally answered their question.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5a04",
         "line": {
-            "en": "Also, I was rather happy as I did so."
+            "en": "Also, I was rather happy as I did so.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5e04",
         "line": {
-            "en": "Gliders are a little-known form of\\ntransportation, and not many people have actually\\nseen one."
+            "en": "Gliders are a little-known form of\\ntransportation, and not many people have actually\\nseen one.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6204",
         "line": {
-            "en": "Not only that, this one is currently dismantled."
+            "en": "Not only that, this one is currently dismantled.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6604",
         "line": {
-            "en": "'You know, I...'"
+            "en": "'You know, I...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "6a04",
         "line": {
-            "en": "'...Was this by any chance stolen from the\\nschool?'"
+            "en": "'...Was this by any chance stolen from the\\nschool?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "6e04",
         "line": {
-            "en": "'Huh...!?'"
+            "en": "'Huh...!?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "7204",
         "line": {
-            "en": "'(Gulp!)'"
+            "en": "'(Gulp!)'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "7604",
         "line": {
-            "en": "'Is Aoi okay up there...?'"
+            "en": "'Is Aoi okay up there...?'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "7a04",
         "line": {
-            "en": "'I dunno...'"
+            "en": "'I dunno...'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "7e04",
         "line": {
-            "en": "'Was it really alright for us to do something\\nlike that?'"
+            "en": "'Was it really alright for us to do something\\nlike that?'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "8204",
         "line": {
-            "en": "'We had no choice. If we hadn't done it, it\\nwould've been taken to the museum.'"
+            "en": "'We had no choice. If we hadn't done it, it\\nwould've been taken to the museum.'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "8604",
         "line": {
-            "en": "'If that had happened, we'd never be able to get\\nit back.'"
+            "en": "'If that had happened, we'd never be able to get\\nit back.'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "8a04",
         "line": {
-            "en": "'We inherited that glider from Amane!'"
+            "en": "'We inherited that glider from Amane!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "8e04",
         "line": {
-            "en": "'Yeah, it is...'"
+            "en": "'Yeah, it is...'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "9204",
         "line": {
-            "en": "'So, is that true?'"
+            "en": "'So, is that true?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "9604",
         "line": {
-            "en": "As Yoru seems to find my attitude even more\\nunusual, she becomes more determined to find out\\nthe truth."
+            "en": "As Yoru seems to find my attitude even more\\nunusual, she becomes more determined to find out\\nthe truth.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "9a04",
         "line": {
-            "en": "'Urk...'"
+            "en": "'Urk...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9e04",
         "line": {
-            "en": "Back then, when the Soaring Club was shut down\\nand the garage was forcefully taken away from us\\nand demolished, the glider wasn't inside."
+            "en": "Back then, when the Soaring Club was shut down\\nand the garage was forcefully taken away from us\\nand demolished, the glider wasn't inside.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "a204",
         "line": {
-            "en": "It had been moved somewhere else."
+            "en": "It had been moved somewhere else.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "a604",
         "line": {
-            "en": "After that, the school had it put in a store\\nroom."
+            "en": "After that, the school had it put in a store\\nroom.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "aa04",
         "line": {
-            "en": "We wanted to get it back quickly, but since there\\nwas no way we could fly it, and we didn't have\\nanywhere to put it, we kept quiet and let the\\nschool take care of it."
+            "en": "We wanted to get it back quickly, but since there\\nwas no way we could fly it, and we didn't have\\nanywhere to put it, we kept quiet and let the\\nschool take care of it.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "ae04",
         "line": {
-            "en": "Then, a few days ago, we heard some surprising\\nnews from 'certain sources'."
+            "en": "Then, a few days ago, we heard some surprising\\nnews from 'certain sources'.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "b204",
         "line": {
-            "en": "The school was trying to have the glider donated\\nto the city museum!"
+            "en": "The school was trying to have the glider donated\\nto the city museum!",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "b604",
         "line": {
-            "en": "This glider was made by the old members of the\\nclub, and an original aircraft like this is\\nextremely rare in this country."
+            "en": "This glider was made by the old members of the\\nclub, and an original aircraft like this is\\nextremely rare in this country.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "ba04",
         "line": {
-            "en": "Therefore, it has value as something to be\\ncollected by a museum."
+            "en": "Therefore, it has value as something to be\\ncollected by a museum.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "be04",
         "line": {
-            "en": "To the school, it was seen as a waste of storage\\nspace, and they wanted to dispose of it."
+            "en": "To the school, it was seen as a waste of storage\\nspace, and they wanted to dispose of it.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "c204",
         "line": {
-            "en": "If it had gone to the museum, we would've never\\ngotten it back."
+            "en": "If it had gone to the museum, we would've never\\ngotten it back.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "c604",
         "line": {
-            "en": "As an extreme measure, we decided to steal... I\\nmean, liberate it, in secret."
+            "en": "As an extreme measure, we decided to steal... I\\nmean, liberate it, in secret.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "ca04",
         "line": {
-            "en": "And that's why it's here now."
+            "en": "And that's why it's here now.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "ce04",
         "line": {
-            "en": "'...Yes, that's correct.'"
+            "en": "'...Yes, that's correct.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "d204",
         "line": {
-            "en": "If I lied, I'd soon be found out. I admitted it\\nhonestly."
+            "en": "If I lied, I'd soon be found out. I admitted it\\nhonestly.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "d604",
         "line": {
-            "en": "'I must say I'm surprised that it would be hidden\\nin a place like this.'"
+            "en": "'I must say I'm surprised that it would be hidden\\nin a place like this.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "da04",
         "line": {
-            "en": "'Is this why you don't want us to live here?'"
+            "en": "'Is this why you don't want us to live here?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "de04",
         "line": {
-            "en": "'No, I heard you were coming tomorrow, and I was\\nplanning on moving it somewhere before then.'"
+            "en": "'No, I heard you were coming tomorrow, and I was\\nplanning on moving it somewhere before then.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "e204",
         "line": {
-            "en": "'Is that so?'"
+            "en": "'Is that so?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "e604",
         "line": {
-            "en": "Unfortunately, we were still in the middle of a\\nhuge typhoon."
+            "en": "Unfortunately, we were still in the middle of a\\nhuge typhoon.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "ea04",
         "line": {
-            "en": "The only other place we might be able to store a\\ngreat big glider like this would be the\\nentranceway."
+            "en": "The only other place we might be able to store a\\ngreat big glider like this would be the\\nentranceway.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "ee04",
         "line": {
-            "en": "However, given the circumstances, we wouldn't\\nwant to leave it anywhere so noticeable."
+            "en": "However, given the circumstances, we wouldn't\\nwant to leave it anywhere so noticeable.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "f204",
         "line": {
-            "en": "'Please! You have to keep this a secret!!'"
+            "en": "'Please! You have to keep this a secret!!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "f604",
         "line": {
-            "en": "I put both hands together like I'm praying."
+            "en": "I put both hands together like I'm praying.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "fa04",
         "line": {
-            "en": "'...We told you just now that we're the\\ngranddaughters of the chairman of the board,\\ndidn't we?'"
+            "en": "'...We told you just now that we're the\\ngranddaughters of the chairman of the board,\\ndidn't we?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "fe04",
         "line": {
-            "en": "'Why would we want to do something like betray\\nour grandfather for your sake...?'"
+            "en": "'Why would we want to do something like betray\\nour grandfather for your sake...?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "0304",
         "line": {
-            "en": "'I... I like it here!'"
+            "en": "'I... I like it here!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "0704",
         "line": {
-            "en": "'?'"
+            "en": "'?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "0b04",
         "line": {
-            "en": "'Sis??'"
+            "en": "'Sis??'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "0f04",
         "line": {
-            "en": "Asa seemed like she was full of determination as\\nshe made her statement."
+            "en": "Asa seemed like she was full of determination as\\nshe made her statement.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1304",
         "line": {
-            "en": "'I... like it here, Yoru!'"
+            "en": "'I... like it here, Yoru!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "1704",
         "line": {
-            "en": "'Weren't you listening, sis? This thing was\\nstolen from the school...'"
+            "en": "'Weren't you listening, sis? This thing was\\nstolen from the school...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "1b04",
         "line": {
-            "en": "'Y-... Yes, but even so, I like it here. I'm...\\nsorry.'"
+            "en": "'Y-... Yes, but even so, I like it here. I'm...\\nsorry.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "1f04",
         "line": {
-            "en": "Asa begged her sister Yoru, who seemed to be both\\nscolding her, yet astonished at the same time."
+            "en": "Asa begged her sister Yoru, who seemed to be both\\nscolding her, yet astonished at the same time.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "2304",
         "line": {
-            "en": "'Hey, sis... First of all, if this thing is in\\nhere, we won't have anywhere to sleep.'"
+            "en": "'Hey, sis... First of all, if this thing is in\\nhere, we won't have anywhere to sleep.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "2704",
         "line": {
-            "en": "'I-...it's okay! I can do this...'"
+            "en": "'I-...it's okay! I can do this...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "2b04",
         "line": {
-            "en": "Asa laid her petite body in the gap between the\\nfuselage and the main wings that were leaning\\nagainst the wall."
+            "en": "Asa laid her petite body in the gap between the\\nfuselage and the main wings that were leaning\\nagainst the wall.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "2f04",
         "line": {
-            "en": "'...Count me out.'"
+            "en": "'...Count me out.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "3304",
         "line": {
-            "en": "'...But, we have to stay here today.'"
+            "en": "'...But, we have to stay here today.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "3704",
         "line": {
-            "en": "The whole building shook and rattled as it was\\nbattered by strong winds."
+            "en": "The whole building shook and rattled as it was\\nbattered by strong winds.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "3b04",
         "line": {
-            "en": "'There's a typhoon outside!'"
+            "en": "'There's a typhoon outside!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "3f04",
         "line": {
-            "en": "'Hrmm...'"
+            "en": "'Hrmm...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "4304",
         "line": {
-            "en": "'Even so... I don't think this place is very\\nsafe. It also seems rather unsanitary.'"
+            "en": "'Even so... I don't think this place is very\\nsafe. It also seems rather unsanitary.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "4704",
         "line": {
-            "en": "If it ends like this... our secret will be found\\nout."
+            "en": "If it ends like this... our secret will be found\\nout.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4b04",
         "line": {
-            "en": "That our glider is here!"
+            "en": "That our glider is here!",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4f04",
         "line": {
-            "en": "'So, as of today, the two of you are our\\nfriends!'"
+            "en": "'So, as of today, the two of you are our\\nfriends!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "5304",
         "line": {
-            "en": "'Let's all get along together!'"
+            "en": "'Let's all get along together!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "5704",
         "line": {
-            "en": "'Okay, let's have a round of applause!' I say as\\nI forcibly encourage everyone to clap."
+            "en": "'Okay, let's have a round of applause!' I say as\\nI forcibly encourage everyone to clap.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5b04",
         "line": {
-            "en": "Everyone looked at my twitching smile with a\\ndubious look on their faces, and gave a round of\\napplause."
+            "en": "Everyone looked at my twitching smile with a\\ndubious look on their faces, and gave a round of\\napplause.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5f04",
         "line": {
-            "en": "'Aoi, your face is twitching...'"
+            "en": "'Aoi, your face is twitching...'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "6304",
         "line": {
-            "en": "'We've been busted.'"
+            "en": "'We've been busted.'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "6704",
         "line": {
-            "en": "'I-...it's great to meet you all!'"
+            "en": "'I-...it's great to meet you all!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "6b04",
         "line": {
-            "en": "'...Well, I guess we can get along.'"
+            "en": "'...Well, I guess we can get along.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "6f04",
         "line": {
-            "en": "'Your attitude stinks!'"
+            "en": "'Your attitude stinks!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "7304",
         "line": {
-            "en": "'Is this alright, Yuka? That kid has a really bad\\nattitude! She's also a freshman, so we've gotta\\ntell her what's what!'"
+            "en": "'Is this alright, Yuka? That kid has a really bad\\nattitude! She's also a freshman, so we've gotta\\ntell her what's what!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "7704",
         "line": {
-            "en": "Kotori makes a big deal out of it, while everyone\\njust replies with a 'Hmm."
+            "en": "Kotori makes a big deal out of it, while everyone\\njust replies with a 'Hmm.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "7b04",
         "line": {
-            "en": "'We've already gotten used to it...'"
+            "en": "'We've already gotten used to it...'",
+            "ru": ""
         },
         "name": "Yuka"
     },
     {
         "id": "7f04",
         "line": {
-            "en": "'Gotten used to it? How come?'"
+            "en": "'Gotten used to it? How come?'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "8304",
         "line": {
-            "en": "Everyone gives her a sideways look as if to say,\\n'Well..."
+            "en": "Everyone gives her a sideways look as if to say,\\n'Well...",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "8704",
         "line": {
-            "en": "'To be honest, you were ten times worse, Kotori.'"
+            "en": "'To be honest, you were ten times worse, Kotori.'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "8b04",
         "line": {
-            "en": "'Whaaaaat!?'"
+            "en": "'Whaaaaat!?'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "8f04",
         "line": {
-            "en": "'It would be better if you just introduce\\nyourself properly and say, 'Nice to meet you.''"
+            "en": "'It would be better if you just introduce\\nyourself properly and say, 'Nice to meet you.''",
+            "ru": ""
         },
         "name": "Sanae"
     },
     {
         "id": "9304",
         "line": {
-            "en": "Kotori looks to Ageha and me, like she's looking\\nfor backup."
+            "en": "Kotori looks to Ageha and me, like she's looking\\nfor backup.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "9704",
         "line": {
-            "en": "'Ditto.'"
+            "en": "'Ditto.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9b04",
         "line": {
-            "en": "'Ditto.'"
+            "en": "'Ditto.'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "9f04",
         "line": {
-            "en": "She's surrounded on all sides by opposing\\nopinions."
+            "en": "She's surrounded on all sides by opposing\\nopinions.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "a304",
         "line": {
-            "en": "'What are you doing, you guys? My attitude was\\nnever that bad!!'"
+            "en": "'What are you doing, you guys? My attitude was\\nnever that bad!!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "a704",
         "line": {
-            "en": "'But what are we gonna do about the room? That\\nroom is...'"
+            "en": "'But what are we gonna do about the room? That\\nroom is...'",
+            "ru": ""
         },
         "name": "Yuka"
     },
     {
         "id": "ab04",
         "line": {
-            "en": "Yuka mumbles unintelligibly."
+            "en": "Yuka mumbles unintelligibly.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "af04",
         "line": {
-            "en": "We received implicit agreement from the boarders\\nthat we could hide the glider in the dorm."
+            "en": "We received implicit agreement from the boarders\\nthat we could hide the glider in the dorm.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "b304",
         "line": {
-            "en": "They highly valued my achievement of getting the\\nnew fridge, and understood our feelings as former\\nmembers of the Soaring Club. So, they turned a\\nblind eye to the whole incident."
+            "en": "They highly valued my achievement of getting the\\nnew fridge, and understood our feelings as former\\nmembers of the Soaring Club. So, they turned a\\nblind eye to the whole incident.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "b704",
         "line": {
-            "en": "That's why, supposedly, they've decided to\\npretend they don't know it's here."
+            "en": "That's why, supposedly, they've decided to\\npretend they don't know it's here.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "bb04",
         "line": {
-            "en": "'We'll look for another place to store it as\\nquickly as possible.'"
+            "en": "'We'll look for another place to store it as\\nquickly as possible.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "bf04",
         "line": {
-            "en": "'Until then, you two can use my room.'"
+            "en": "'Until then, you two can use my room.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "c304",
         "line": {
-            "en": "Everyone made a face as if to say, 'Is that okay?"
+            "en": "Everyone made a face as if to say, 'Is that okay?",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "c704",
         "line": {
-            "en": "'I don't have many things so I can easily clear a\\nspace, so you can sleep anywhere you like.'"
+            "en": "'I don't have many things so I can easily clear a\\nspace, so you can sleep anywhere you like.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "cb04",
         "line": {
-            "en": "'Okay, you can come to my room. Let's sleep\\ntogether!'"
+            "en": "'Okay, you can come to my room. Let's sleep\\ntogether!'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "cf04",
         "line": {
-            "en": "'Hey, Kana, what the hell are you talking about!?\\nYou can't let him do something like that!'"
+            "en": "'Hey, Kana, what the hell are you talking about!?\\nYou can't let him do something like that!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "d304",
         "line": {
-            "en": "'Oh, why not?'"
+            "en": "'Oh, why not?'",
+            "ru": ""
         },
         "name": "Kanako"
     },
     {
         "id": "d704",
         "line": {
-            "en": "'Th-...that's, umm... Ageha, you tell her!'"
+            "en": "'Th-...that's, umm... Ageha, you tell her!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "db04",
         "line": {
-            "en": "'What does that have to do with me?'"
+            "en": "'What does that have to do with me?'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "df04",
         "line": {
-            "en": "'...It's kind of like this, if Aoi was involved\\nin any kind of misconduct, he would have to quit\\nas dorm mother.'"
+            "en": "'...It's kind of like this, if Aoi was involved\\nin any kind of misconduct, he would have to quit\\nas dorm mother.'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "e304",
         "line": {
-            "en": "'Yes, yes, that's it!'"
+            "en": "'Yes, yes, that's it!'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "e704",
         "line": {
-            "en": "Everyone says things like, 'Yeah' or, 'That would\\nbe a problem for us!"
+            "en": "Everyone says things like, 'Yeah' or, 'That would\\nbe a problem for us!",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "eb04",
         "line": {
-            "en": "'...Which is why that proposal is rejected.'"
+            "en": "'...Which is why that proposal is rejected.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "ef04",
         "line": {
-            "en": "I don't need to say things like, 'proposal\\nrejected', it's not like this some business\\ndiscussion."
+            "en": "I don't need to say things like, 'proposal\\nrejected', it's not like this some business\\ndiscussion.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "f304",
         "line": {
-            "en": "'Umm...'"
+            "en": "'Umm...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "f704",
         "line": {
-            "en": "Asa spoke nervously."
+            "en": "Asa spoke nervously.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "fb04",
         "line": {
-            "en": "'I, umm... don't mind staying in the room with\\nthe glider... you know?'"
+            "en": "'I, umm... don't mind staying in the room with\\nthe glider... you know?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "ff04",
         "line": {
-            "en": "'But there's nowhere to lay a futon.'"
+            "en": "'But there's nowhere to lay a futon.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "0008",
         "line": {
-            "en": "'I... I'm fine! I'm prepared... to do that!'"
+            "en": "'I... I'm fine! I'm prepared... to do that!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "0408",
         "line": {
-            "en": "Everyone looks at her as if they're saying, 'What\\non earth is she talking about?"
+            "en": "Everyone looks at her as if they're saying, 'What\\non earth is she talking about?",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "0808",
         "line": {
-            "en": "'(Wait...)'"
+            "en": "'(Wait...)'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "0c08",
         "line": {
-            "en": "That's right, her eyes lit up when she was\\nlooking at the glider just now."
+            "en": "That's right, her eyes lit up when she was\\nlooking at the glider just now.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1008",
         "line": {
-            "en": "Does she have some sort of emotional attachment\\nto it? For example, she might be some sort of\\nairplane nerd."
+            "en": "Does she have some sort of emotional attachment\\nto it? For example, she might be some sort of\\nairplane nerd.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "1408",
         "line": {
-            "en": "'I'm not doing it. I'd suffocate if I slept in\\nsuch a cramped space.'"
+            "en": "'I'm not doing it. I'd suffocate if I slept in\\nsuch a cramped space.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "1808",
         "line": {
-            "en": "'Yoru...'"
+            "en": "'Yoru...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "1c08",
         "line": {
-            "en": "'I said I'm out. There's no way I'm doing it.'"
+            "en": "'I said I'm out. There's no way I'm doing it.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "2008",
         "line": {
-            "en": "'Uh...'"
+            "en": "'Uh...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "2408",
         "line": {
-            "en": "'Well, you can use my room. Is that okay?'"
+            "en": "'Well, you can use my room. Is that okay?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "2808",
         "line": {
-            "en": "'...Yes.'"
+            "en": "'...Yes.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "2c08",
         "line": {
-            "en": "For some reason, she nodded reluctantly."
+            "en": "For some reason, she nodded reluctantly.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "3008",
         "line": {
-            "en": "'So that's that, everyone. It's just for a little\\nwhile, so I'll appreciate your cooperation.'"
+            "en": "'So that's that, everyone. It's just for a little\\nwhile, so I'll appreciate your cooperation.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "3408",
         "line": {
-            "en": "'This is my room.'"
+            "en": "'This is my room.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "3808",
         "line": {
-            "en": "'Okay... We're coming in.'"
+            "en": "'Okay... We're coming in.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "3c08",
         "line": {
-            "en": "'Oh...'"
+            "en": "'Oh...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "4008",
         "line": {
-            "en": "'(Yoru, Yoru, this is a boy's room...!)'"
+            "en": "'(Yoru, Yoru, this is a boy's room...!)'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "4408",
         "line": {
-            "en": "'(Yeah.)'"
+            "en": "'(Yeah.)'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "4808",
         "line": {
-            "en": "The two of them look nervously around my room."
+            "en": "The two of them look nervously around my room.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4c08",
         "line": {
-            "en": "'He's got so many manga! ... I guess boys really\\nlike manga, don't they?'"
+            "en": "'He's got so many manga! ... I guess boys really\\nlike manga, don't they?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "5008",
         "line": {
-            "en": "said Asa, impressed, but all of them were brought\\nhere by Ageha, who had just left them here after\\nreading them, so they're not mine."
+            "en": "said Asa, impressed, but all of them were brought\\nhere by Ageha, who had just left them here after\\nreading them, so they're not mine.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5408",
         "line": {
-            "en": "'There are crumbs from snacks everywhere...'"
+            "en": "'There are crumbs from snacks everywhere...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "5808",
         "line": {
-            "en": "They're not mine either, it's because Ageha and\\nKotori have been eating in here."
+            "en": "They're not mine either, it's because Ageha and\\nKotori have been eating in here.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5c08",
         "line": {
-            "en": "Since the garage was demolished, my room has\\nbecome our meeting place."
+            "en": "Since the garage was demolished, my room has\\nbecome our meeting place.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6008",
         "line": {
-            "en": "That's why there are so many things in here that\\nI have no recollection of."
+            "en": "That's why there are so many things in here that\\nI have no recollection of.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6408",
         "line": {
-            "en": "'Sorry, I'll clean that up soon.'"
+            "en": "'Sorry, I'll clean that up soon.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "6808",
         "line": {
-            "en": "I clear away the trash, and put all the\\nunnecessary objects out in the hallway."
+            "en": "I clear away the trash, and put all the\\nunnecessary objects out in the hallway.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "6c08",
         "line": {
-            "en": "While I'm doing that, they just idly stand there\\nwaiting."
+            "en": "While I'm doing that, they just idly stand there\\nwaiting.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "7008",
         "line": {
-            "en": "'Those two, they've been treating my room like a\\nplace to leave all their stuff...'"
+            "en": "'Those two, they've been treating my room like a\\nplace to leave all their stuff...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "7408",
         "line": {
-            "en": "'...?'"
+            "en": "'...?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "7808",
         "line": {
-            "en": "After coming and going several times, I see Asa\\nholding the picture frame that was on the desk."
+            "en": "After coming and going several times, I see Asa\\nholding the picture frame that was on the desk.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "7c08",
         "line": {
-            "en": "'...This photo.'"
+            "en": "'...This photo.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "8008",
         "line": {
-            "en": "'?'"
+            "en": "'?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "8408",
         "line": {
-            "en": "I peek over the heads of the two sisters who have\\ntheir faces huddled close together."
+            "en": "I peek over the heads of the two sisters who have\\ntheir faces huddled close together.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "8808",
         "line": {
-            "en": "It's pretty easy to do that, because even for\\ngirls, they're pretty short."
+            "en": "It's pretty easy to do that, because even for\\ngirls, they're pretty short.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "8c08",
         "line": {
-            "en": "'Oh, that photo...'"
+            "en": "'Oh, that photo...'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9008",
         "line": {
-            "en": "It was the glider and the runway overgrown with\\nweeds."
+            "en": "It was the glider and the runway overgrown with\\nweeds.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "9408",
         "line": {
-            "en": "The blue sky, stretching out in all directions."
+            "en": "The blue sky, stretching out in all directions.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "9808",
         "line": {
-            "en": "The shining white clouds, bathed in the sunlight."
+            "en": "The shining white clouds, bathed in the sunlight.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "9c08",
         "line": {
-            "en": "Then, there's our group."
+            "en": "Then, there's our group.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "a008",
         "line": {
-            "en": "It was taken on the day I came back from the last\\ntest flight with Amane. It was a commemorative\\nphoto."
+            "en": "It was taken on the day I came back from the last\\ntest flight with Amane. It was a commemorative\\nphoto.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "a408",
         "line": {
-            "en": "'This is the glider you saw just now. That's what\\nit looks like when it's all put together.'"
+            "en": "'This is the glider you saw just now. That's what\\nit looks like when it's all put together.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "a808",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "ac08",
         "line": {
-            "en": "'...'"
+            "en": "'...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "b008",
         "line": {
-            "en": "Both of them, especially Asa, look\\nenthusiastically at the photograph."
+            "en": "Both of them, especially Asa, look\\nenthusiastically at the photograph.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "b408",
         "line": {
-            "en": "'When was this photo taken?'"
+            "en": "'When was this photo taken?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "b808",
         "line": {
-            "en": "'Around the end of last year's summer vacation.\\nWe flew the glider at dawn.'"
+            "en": "'Around the end of last year's summer vacation.\\nWe flew the glider at dawn.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "bc08",
         "line": {
-            "en": "'Strange clouds called Morning Glory appear, and\\nthat's what we were aiming for.'"
+            "en": "'Strange clouds called Morning Glory appear, and\\nthat's what we were aiming for.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "c008",
         "line": {
-            "en": "'...So, it was you guys flying that time?'"
+            "en": "'...So, it was you guys flying that time?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "c408",
         "line": {
-            "en": "'But you failed, didn't you?'"
+            "en": "'But you failed, didn't you?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "c808",
         "line": {
-            "en": "'How do you know?'"
+            "en": "'How do you know?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "cc08",
         "line": {
-            "en": "'I wonder.'"
+            "en": "'I wonder.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "d008",
         "line": {
-            "en": "'Kotori, Ageha, and Aoi... that's right, isn't\\nit?'"
+            "en": "'Kotori, Ageha, and Aoi... that's right, isn't\\nit?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "d408",
         "line": {
-            "en": "She points to the faces in the photo one by one."
+            "en": "She points to the faces in the photo one by one.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "d808",
         "line": {
-            "en": "'Who is the... pretty one, here?'"
+            "en": "'Who is the... pretty one, here?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "dc08",
         "line": {
-            "en": "The last person in the photo. She points to the\\ngirl with a carefree smile, like a little kid."
+            "en": "The last person in the photo. She points to the\\ngirl with a carefree smile, like a little kid.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "e008",
         "line": {
-            "en": "'That's Amane Mochizuki.'"
+            "en": "'That's Amane Mochizuki.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "e408",
         "line": {
-            "en": "'Also known as the Super Repeat Student. She's\\nalready graduated though.'"
+            "en": "'Also known as the Super Repeat Student. She's\\nalready graduated though.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "e808",
         "line": {
-            "en": "'Ah, that's the person that Kotori was talking\\nabout before.'"
+            "en": "'Ah, that's the person that Kotori was talking\\nabout before.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "ec08",
         "line": {
-            "en": "'Yeah, that's her. The genius who's so smart she\\nforgets she's hungry,'"
+            "en": "'Yeah, that's her. The genius who's so smart she\\nforgets she's hungry,'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "f008",
         "line": {
-            "en": "I add as I laugh at how strange that is."
+            "en": "I add as I laugh at how strange that is.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "f408",
         "line": {
-            "en": "'The legendary senpai...'"
+            "en": "'The legendary senpai...'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "f808",
         "line": {
-            "en": "'Legendary? Well, maybe that's true.'"
+            "en": "'Legendary? Well, maybe that's true.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "fc08",
         "line": {
-            "en": "Maybe the students of Keifuu Academy will\\ncontinue to tell the story of Amane Mochizuki,\\nthe strange senpai, for a long time to come."
+            "en": "Maybe the students of Keifuu Academy will\\ncontinue to tell the story of Amane Mochizuki,\\nthe strange senpai, for a long time to come.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "0108",
         "line": {
-            "en": "Just like an urban legend."
+            "en": "Just like an urban legend.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "0508",
         "line": {
-            "en": "I narrow my eyes as I smile from the feelings of\\nnostalgia as I look at the photo."
+            "en": "I narrow my eyes as I smile from the feelings of\\nnostalgia as I look at the photo.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "0908",
         "line": {
-            "en": "The two of them look at me curiously from below."
+            "en": "The two of them look at me curiously from below.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "0d08",
         "line": {
-            "en": "'Something happened and the club lost its status,\\nbut originally, we were the members of the\\nSoaring Club.'"
+            "en": "'Something happened and the club lost its status,\\nbut originally, we were the members of the\\nSoaring Club.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "1108",
         "line": {
-            "en": "'This photo is the last memorial picture of our\\nclub's activities.'"
+            "en": "'This photo is the last memorial picture of our\\nclub's activities.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "1508",
         "line": {
-            "en": "'...Have you stopped your club activities now?'"
+            "en": "'...Have you stopped your club activities now?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "1908",
         "line": {
-            "en": "'Well, we're still kind of continuing them.'"
+            "en": "'Well, we're still kind of continuing them.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "1d08",
         "line": {
-            "en": "Now, we've gone completely 'underground'."
+            "en": "Now, we've gone completely 'underground'.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "2108",
         "line": {
-            "en": "We're not recognized by the school. We carry out\\nour activities in secret, so we don't get found\\nout."
+            "en": "We're not recognized by the school. We carry out\\nour activities in secret, so we don't get found\\nout.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "2508",
         "line": {
-            "en": "'Asa, are you interested in gliders?'"
+            "en": "'Asa, are you interested in gliders?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "2908",
         "line": {
-            "en": "'Huh? No, I'm...'"
+            "en": "'Huh? No, I'm...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "2d08",
         "line": {
-            "en": "She turns bright red as she looks down."
+            "en": "She turns bright red as she looks down.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "3108",
         "line": {
-            "en": "'My sister is interested in flying. She has been\\nfor a long time.'"
+            "en": "'My sister is interested in flying. She has been\\nfor a long time.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "3508",
         "line": {
-            "en": "'Y-...Yeah...'"
+            "en": "'Y-...Yeah...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "3908",
         "line": {
-            "en": "'I see. We're planning to fly again soon, so you\\ncan come watch if you want.'"
+            "en": "'I see. We're planning to fly again soon, so you\\ncan come watch if you want.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "3d08",
         "line": {
-            "en": "'Okay!'"
+            "en": "'Okay!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "4108",
         "line": {
-            "en": "Asa's big round eyes sparkled, and she nodded\\nhappily."
+            "en": "Asa's big round eyes sparkled, and she nodded\\nhappily.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4508",
         "line": {
-            "en": "When the sun went down, the mother of all storms\\nblew outside, so we couldn't go out there and do\\nany repairs."
+            "en": "When the sun went down, the mother of all storms\\nblew outside, so we couldn't go out there and do\\nany repairs.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4908",
         "line": {
-            "en": "All we could do now was pray that the old dorm\\ncould withstand it, and wait for the typhoon to\\npass."
+            "en": "All we could do now was pray that the old dorm\\ncould withstand it, and wait for the typhoon to\\npass.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "4d08",
         "line": {
-            "en": "'Hey, that girl Asa seems to be interested in\\ngliders.'"
+            "en": "'Hey, that girl Asa seems to be interested in\\ngliders.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "5108",
         "line": {
-            "en": "'Oh, really?'"
+            "en": "'Oh, really?'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "5508",
         "line": {
-            "en": "I was telling Ageha, who was helping make dinner,\\nabout the twins."
+            "en": "I was telling Ageha, who was helping make dinner,\\nabout the twins.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5908",
         "line": {
-            "en": "Because it looks like she won't be able to go\\nhome tonight, it seems that Ageha will be staying\\nin Kotori's room."
+            "en": "Because it looks like she won't be able to go\\nhome tonight, it seems that Ageha will be staying\\nin Kotori's room.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "5d08",
         "line": {
-            "en": "'I asked her if she'd like to come and see us fly\\nnext time. Her eyes sparkled as she said,\\n'Okay!''"
+            "en": "'I asked her if she'd like to come and see us fly\\nnext time. Her eyes sparkled as she said,\\n'Okay!''",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "6108",
         "line": {
-            "en": "'That's great, isn't it?'"
+            "en": "'That's great, isn't it?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "6508",
         "line": {
-            "en": "'You've been checking them out the whole time.\\nIsn't that cute?'"
+            "en": "'You've been checking them out the whole time.\\nIsn't that cute?'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "6908",
         "line": {
-            "en": "'No, it's not like that!'"
+            "en": "'No, it's not like that!'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "6d08",
         "line": {
-            "en": "'That's what they call 'Lolicon', isn't it?'"
+            "en": "'That's what they call 'Lolicon', isn't it?'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "7108",
         "line": {
-            "en": "Kotori, who had been quietly chopping the\\nvegetables, joined the conversation."
+            "en": "Kotori, who had been quietly chopping the\\nvegetables, joined the conversation.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "7508",
         "line": {
-            "en": "'You idiot, what the hell do you mean!?'"
+            "en": "'You idiot, what the hell do you mean!?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "7908",
         "line": {
-            "en": "They're only two years younger than me, that's\\nnot 'Lolicon'!"
+            "en": "They're only two years younger than me, that's\\nnot 'Lolicon'!",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "7d08",
         "line": {
-            "en": "...Is it?"
+            "en": "...Is it?",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "8108",
         "line": {
-            "en": "'...Aoi, a girl like that would be good for you.'"
+            "en": "'...Aoi, a girl like that would be good for you.'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "8508",
         "line": {
-            "en": "'You're good at looking after people, so you'd be\\na sucker for someone who needs a lot of\\nattention,'"
+            "en": "'You're good at looking after people, so you'd be\\na sucker for someone who needs a lot of\\nattention,'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "8908",
         "line": {
-            "en": "she says, as she looks at Kotori from the side."
+            "en": "she says, as she looks at Kotori from the side.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "8d08",
         "line": {
-            "en": "Kotori doesn't notice her looking, as she mumbles\\nthings like, 'That's so cute, isn't it...?' while\\nchopping up the cabbage."
+            "en": "Kotori doesn't notice her looking, as she mumbles\\nthings like, 'That's so cute, isn't it...?' while\\nchopping up the cabbage.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "9108",
         "line": {
-            "en": "We couldn't go shopping that night, so we were\\nmaking okonomiyaki from the food we had left\\nover."
+            "en": "We couldn't go shopping that night, so we were\\nmaking okonomiyaki from the food we had left\\nover.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "9508",
         "line": {
-            "en": "'Anyway, can you guys take back all the manga and\\nother stuff you left in my room?'"
+            "en": "'Anyway, can you guys take back all the manga and\\nother stuff you left in my room?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9908",
         "line": {
-            "en": "'If you don't, I'm gonna throw it out.'"
+            "en": "'If you don't, I'm gonna throw it out.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "9d08",
         "line": {
-            "en": "'Hey, I was lending that manga to you! You should\\nread them, they're really interesting!'"
+            "en": "'Hey, I was lending that manga to you! You should\\nread them, they're really interesting!'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "a108",
         "line": {
-            "en": "'Then we can have exciting discussions about\\nthem!'"
+            "en": "'Then we can have exciting discussions about\\nthem!'",
+            "ru": ""
         },
         "name": "Ageha"
     },
     {
         "id": "a508",
         "line": {
-            "en": "'Okay, if I have time.'"
+            "en": "'Okay, if I have time.'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "a908",
         "line": {
-            "en": "'Hey, exactly how much of an age gap do you need\\nfor it to be called 'Lolicon'?'"
+            "en": "'Hey, exactly how much of an age gap do you need\\nfor it to be called 'Lolicon'?'",
+            "ru": ""
         },
         "name": "Kotori"
     },
     {
         "id": "ad08",
         "line": {
-            "en": "'Forget about that, just chop the vegetables,\\nwill ya?'"
+            "en": "'Forget about that, just chop the vegetables,\\nwill ya?'",
+            "ru": ""
         },
         "name": "Aoi"
     },
     {
         "id": "b108",
         "line": {
-            "en": "The raging storm shook Flying Fish Manor."
+            "en": "The raging storm shook Flying Fish Manor.",
+            "ru": ""
         },
         "name": ""
     },
     {
         "id": "b508",
         "line": {
-            "en": "'Hey, are you really planning on living here?'"
+            "en": "'Hey, are you really planning on living here?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "b908",
         "line": {
-            "en": "'Yeah. Because...'"
+            "en": "'Yeah. Because...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "bd08",
         "line": {
-            "en": "'...of the glider?'"
+            "en": "'...of the glider?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "c108",
         "line": {
-            "en": "'This must be destiny! You think so too, don't\\nyou, Yoru?'"
+            "en": "'This must be destiny! You think so too, don't\\nyou, Yoru?'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "c508",
         "line": {
-            "en": "'Destiny is just a load of nonsense. Sis, you're\\nsuch a romantic.'"
+            "en": "'Destiny is just a load of nonsense. Sis, you're\\nsuch a romantic.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "c908",
         "line": {
-            "en": "'That's alright, isn't it? I don't care if you\\nnever understand how I feel! It's more girly to\\nbe a romantic!'"
+            "en": "'That's alright, isn't it? I don't care if you\\nnever understand how I feel! It's more girly to\\nbe a romantic!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "cd08",
         "line": {
-            "en": "'Yeah yeah. I'm not that girly anyway.'"
+            "en": "'Yeah yeah. I'm not that girly anyway.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "d108",
         "line": {
-            "en": "'Also, there's something else I thought was\\ngood.'"
+            "en": "'Also, there's something else I thought was\\ngood.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "d508",
         "line": {
-            "en": "'Hmm? What's that?'"
+            "en": "'Hmm? What's that?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "d908",
         "line": {
-            "en": "'Everyone smiles so happily while aiming for the\\nsky.'"
+            "en": "'Everyone smiles so happily while aiming for the\\nsky.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "dd08",
         "line": {
-            "en": "'Wow!'"
+            "en": "'Wow!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "e108",
         "line": {
-            "en": "'...The wind is really strong.'"
+            "en": "'...The wind is really strong.'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "e508",
         "line": {
-            "en": "'The building might come crashing down while\\nwe're sleeping.'"
+            "en": "'The building might come crashing down while\\nwe're sleeping.'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "e908",
         "line": {
-            "en": "'Eeeeeek...'"
+            "en": "'Eeeeeek...'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "ed08",
         "line": {
-            "en": "'Yoru, let's sleep together!'"
+            "en": "'Yoru, let's sleep together!'",
+            "ru": ""
         },
         "name": "Asa"
     },
     {
         "id": "f108",
         "line": {
-            "en": "'What are we going to do?'"
+            "en": "'What are we going to do?'",
+            "ru": ""
         },
         "name": "Yoru"
     },
     {
         "id": "f508",
         "line": {
-            "en": "'Yoru...!'"
+            "en": "'Yoru...!'",
+            "ru": ""
         },
         "name": "Asa"
     }

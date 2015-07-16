@@ -4784,7 +4784,7 @@
         "id": "5008",
         "line": {
             "en": "'Go and see if he's here or not. You know, that\\nguy, that mean boy.'",
-            "ru": "«Посмотри он там или нет. Он, то есть, этот парень.»",
+            "ru": "«Посмотри он там или нет. Он, то есть, этот парень».",
             "state": "1"
         },
         "name": "Kotori"
@@ -4793,7 +4793,7 @@
         "id": "5408",
         "line": {
             "en": "'(Is she talking about me...!?)'",
-            "ru": "«(Р)»",
+            "ru": "«(Она говорит обо мне...?!)»",
             "state": "1"
         },
         "name": "Aoi"
@@ -4802,7 +4802,7 @@
         "id": "5808",
         "line": {
             "en": "This is a girl's dormitory, so I'm the only boy\\nhere.",
-            "ru": "",
+            "ru": "Это женское общежитие и я здесь единственный парень.",
             "state": "1"
         },
         "name": ""
@@ -4819,7 +4819,8 @@
         "id": "6008",
         "line": {
             "en": "I don't know why but it would appear that she is\\nsneaking around to avoid being found by me.",
-            "ru": ""
+            "ru": "Я не знаю почему, но кажется она не хочет, чтобы я заметил её.",
+            "state": "1"
         },
         "name": ""
     },
@@ -4827,7 +4828,8 @@
         "id": "6408",
         "line": {
             "en": "'(If that's how you feel...)'",
-            "ru": ""
+            "ru": "«(Если ты так хочешь...)»",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -4835,7 +4837,8 @@
         "id": "6808",
         "line": {
             "en": "I headed for the back door to the dormitory.",
-            "ru": ""
+            "ru": "Я пошел к задней двери в общежитие.",
+            "state": "1"
         },
         "name": ""
     },
@@ -4843,7 +4846,8 @@
         "id": "6c08",
         "line": {
             "en": "I'll hide in the kitchen for now.",
-            "ru": ""
+            "ru": "И спрятался на кухне.",
+            "state": "1"
         },
         "name": ""
     },
@@ -4851,7 +4855,8 @@
         "id": "7008",
         "line": {
             "en": "'Quack!'",
-            "ru": ""
+            "ru": "«Кря!»",
+            "state": "1"
         },
         "name": "Hat"
     },
@@ -4859,7 +4864,8 @@
         "id": "7408",
         "line": {
             "en": "'Shhh!'",
-            "ru": ""
+            "ru": "«Шшшшш!»",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -4867,7 +4873,8 @@
         "id": "7808",
         "line": {
             "en": "'If this is about me, tell her I'm not here!'",
-            "ru": ""
+            "ru": "«Скажи ей, что меня здесь нет!»",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -4875,7 +4882,8 @@
         "id": "7c08",
         "line": {
             "en": "'Quack...'",
-            "ru": ""
+            "ru": "«Кря...»",
+            "state": "1"
         },
         "name": "Hat"
     },

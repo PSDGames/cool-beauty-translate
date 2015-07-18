@@ -4,7 +4,7 @@
         "line": {
             "en": "My first job as dorm mother.",
             "ru": "Первым делом, как новая горничная...",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -12,8 +12,8 @@
         "id": "0400",
         "line": {
             "en": "That is, to make breakfast for the boarders.",
-            "ru": "Я делаю завтрак для ребят.",
-            "state": "1"
+            "ru": "Я готовлю завтрак для ребят.",
+            "state": "2"
         },
         "name": ""
     },
@@ -22,7 +22,7 @@
         "line": {
             "en": "'Munch, munch... That's some good eatin'!'",
             "ru": "«Ням, ням... Как вкусно!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Kanako"
     },
@@ -31,7 +31,7 @@
         "line": {
             "en": "'Aoi, you're good at cooking. Can I have some\\nmore rice?'",
             "ru": "«Аои, ты отлично готовишь. Можно мне еще немного риса?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Kanako"
     },
@@ -40,7 +40,7 @@
         "line": {
             "en": "'Sure. A big bowl, right?'",
             "ru": "«Конечно. В большую тарелку, так?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -49,7 +49,7 @@
         "line": {
             "en": "'You know it!'",
             "ru": "«Ты сам знаешь!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Kanako"
     },
@@ -57,7 +57,7 @@
         "id": "1800",
         "line": {
             "en": "I'm pretty confident in my cooking.",
-            "ru": "Я знаю, что хорошо готовлю.",
+            "ru": "Я уверен, что вкусно готовлю.",
             "state": "1"
         },
         "name": ""
@@ -66,7 +66,7 @@
         "id": "1c00",
         "line": {
             "en": "Until recently, I was living with my father who\\nwas transferred to the countryside, and every day\\nI helped with the housework.",
-            "ru": "До недавних пор я жил с моим отцом в деревне и помогал ему с работой по дому.",
+            "ru": "До недавних пор, я жил с моим отцом в деревне и каждый день помогал с работой по дому.",
             "state": "1"
         },
         "name": ""
@@ -75,7 +75,7 @@
         "id": "2000",
         "line": {
             "en": "I was in charge of preparing the meals and it's\\nnot like I hated cooking or anything.",
-            "ru": "Каждый день я готовил для нас двоих и мне это даже нравилось.",
+            "ru": "В мои обязанности входила готовка для нас двоих и мне это даже нравилось.",
             "state": "1"
         },
         "name": ""
@@ -84,8 +84,8 @@
         "id": "2400",
         "line": {
             "en": "That's one of the reasons why I accepted the job\\nas dorm mother.",
-            "ru": "Это одна из причин, почему я согласился на работу горничной.",
-            "state": "1"
+            "ru": "Вот почему я согласился на работу горничной.",
+            "state": "2"
         },
         "name": ""
     },
@@ -94,7 +94,7 @@
         "line": {
             "en": "'So the others don't need breakfast, huh...?'",
             "ru": "«Значит остальным завтрак не нужен, да...?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -103,7 +103,7 @@
         "line": {
             "en": "Until now, no one has come into the dining hall.",
             "ru": "До сих пор никто не зашел в столовую.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -111,8 +111,8 @@
         "id": "3000",
         "line": {
             "en": "Sometimes there would be someone walking through\\nthe hallway in front, but they seem to be\\nsneaking around.",
-            "ru": "Иногда кто-то проходит мимо, но кажется, что они прячутся от меня.",
-            "state": "1"
+            "ru": "Иногда кто-то проходит мимо, но казалось, что они прячутся от меня.",
+            "state": "2"
         },
         "name": ""
     },
@@ -121,7 +121,7 @@
         "line": {
             "en": "'Hmmmm?'",
             "ru": "«Хммм?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Kanako"
     },
@@ -129,8 +129,8 @@
         "id": "3800",
         "line": {
             "en": "Kanako looked towards the hallway, just as the\\noldest boarder Yuka was peeking in before swiftly\\ndashing off.",
-            "ru": "Канако выглянула из комнаты, как раз в тот момент, когда самая старшая из учеников Юка заглядывала внутрь, чтобы проскочить незаметно.",
-            "state": "1"
+            "ru": "Канако выглянула из комнаты, как раз в тот момент, когда Юка заглядывала внутрь, пытаясь проскочить незаметно.",
+            "state": "2"
         },
         "name": ""
     },
@@ -138,8 +138,8 @@
         "id": "3c00",
         "line": {
             "en": "'Geez, they're all so naive. They still haven't\\ngotten used to boys.'",
-            "ru": "«Блин, вот идиоты. Они до сих пор не привыкли к мальчику.»",
-            "state": "1"
+            "ru": "«Блин, вот идиоты. Они до сих пор не привыкли к мальчикам».",
+            "state": "2"
         },
         "name": "Kanako"
     },
@@ -147,8 +147,8 @@
         "id": "4000",
         "line": {
             "en": "'But Keifuu is a coed school, right?'",
-            "ru": "«Но в Кейфуу учатся мальчики, так?»",
-            "state": "1"
+            "ru": "«Но в Кейфу учатся мальчики, разве нет?»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -156,8 +156,8 @@
         "id": "4400",
         "line": {
             "en": "'Even if you go to the same school, you won't see\\nthem with their bed-head and faces without\\nmakeup.'",
-            "ru": "«Даже если вы учитесь в одной школе, ты не увидишь их с заспанным лицом или без макияжа.»",
-            "state": "1"
+            "ru": "«Даже если вы учитесь в одной школе, ты не увидишь их с заспанным лицом или без макияжа».",
+            "state": "2"
         },
         "name": "Kanako"
     },
@@ -166,7 +166,7 @@
         "line": {
             "en": "'I see...'",
             "ru": "«Ясно...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -174,8 +174,8 @@
         "id": "4c00",
         "line": {
             "en": "It seems that a guy being the dorm mother of a\\ngirl's dormitory will have its problems after\\nall.",
-            "ru": "Похоже быть парнем-горничной в женском общежитии будет тяжело.",
-            "state": "1"
+            "ru": "Похоже быть парнем-горничной в женском общежитии будет не легко.",
+            "state": "2"
         },
         "name": ""
     },
@@ -183,8 +183,8 @@
         "id": "5000",
         "line": {
             "en": "There is a reason why I accepted the job as dorm\\nmother at 'Flying Fish Manor'.",
-            "ru": "Есть еще одна причина, почему я согласился на работу горничной в «Поместье летучей рыбы»",
-            "state": "1"
+            "ru": "Есть еще одна причина, почему я согласился на работу горничной в «Поместье летучей рыбы».",
+            "state": "2"
         },
         "name": ""
     },
@@ -192,8 +192,8 @@
         "id": "5400",
         "line": {
             "en": "Not long ago, the owner-janitor collapsed.",
-            "ru": "Недавно предыдущая горничная не смогла продолжать работу.",
-            "state": "1"
+            "ru": "Недавно предыдущая горничная упала.",
+            "state": "2"
         },
         "name": ""
     },
@@ -201,8 +201,8 @@
         "id": "5800",
         "line": {
             "en": "It sounds like she was pretty old and in addition\\nto straining her back, she caught a summer cold,\\nwhich worsened.",
-            "state": "1",
-            "ru": "Кажется она была очень старой и с больной спиной, которую простудила на холоде."
+            "state": "2",
+            "ru": "Старая женщина серьезно потянула спину и что еще хуже вскоре она застудила ушибленную спину на холоде."
         },
         "name": ""
     },
@@ -210,8 +210,8 @@
         "id": "5c00",
         "line": {
             "en": "The owner soon began looking for a replacement\\nbut it was hard to find one.",
-            "state": "1",
-            "ru": "Владелец общежития стал искать замену, но найти кого-то оказалось нелегко."
+            "state": "2",
+            "ru": "Хозяйка общежития стала искать замену, но найти кого-то оказалось нелегко."
         },
         "name": ""
     },
@@ -219,7 +219,7 @@
         "id": "6000",
         "line": {
             "en": "Then, she sought help from the real estate\\ncompany where my mother works.",
-            "state": "1",
+            "state": "2",
             "ru": "Тогда она обратилась в компанию, где работала моя мама."
         },
         "name": ""
@@ -228,8 +228,8 @@
         "id": "6400",
         "line": {
             "en": "This is one of the properties that my mom\\nmanages, and is an old acquaintance of the owner\\nfrom decades ago.",
-            "ru": "Это была специальность моей мамы и они с хозяйкой были знакомы очень давно.",
-            "state": "1"
+            "ru": "Мама занималась подобной работой и была давно знакома с хозяйкой.",
+            "state": "2"
         },
         "name": ""
     },
@@ -237,8 +237,8 @@
         "id": "6800",
         "line": {
             "en": "She nominated me for this job, just as I was\\nplanning to come back here.",
-            "ru": "Она предложила меня на эту работу, всё равно я собирался переехать туда.",
-            "state": "1"
+            "ru": "Она предложила меня на эту должность. Всё равно я собирался переезжать.",
+            "state": "2"
         },
         "name": ""
     },
@@ -246,8 +246,8 @@
         "id": "6c00",
         "line": {
             "en": "On the documents, my mom is the one responsible\\nfor this place but she got me to carry out the\\npractical duties, in other words, the work of the\\ndorm mother.",
-            "ru": "По документам ответственной была мама, в то время как её обязанности горничной выполнял я.",
-            "state": "1"
+            "ru": "По документам ответственной была мама, но по факту её обязанности горничной выполнял я.",
+            "state": "2"
         },
         "name": ""
     },
@@ -255,8 +255,8 @@
         "id": "7000",
         "line": {
             "en": "Then, that became the condition for me coming\\nback to this town.",
-            "ru": "Это было условием для возвращения в город.",
-            "state": "1"
+            "ru": "Она разрешила мне вернуться в город только на таких условиях.",
+            "state": "2"
         },
         "name": ""
     },
@@ -264,8 +264,8 @@
         "id": "7400",
         "line": {
             "en": "As always, she's very crafty but I wasn't really\\nagainst the idea, so I accepted.",
-            "ru": "Она как всегда схитрила, но я был совсем не против.",
-            "state": "1"
+            "ru": "Мама как всегда схитрила, но я был совсем не против.",
+            "state": "2"
         },
         "name": ""
     },
@@ -274,7 +274,7 @@
         "line": {
             "en": "'(If I had known it was a girl's dormitory, of\\ncourse, I would've refused...!)'",
             "ru": "«(Если бы я только знал, что это женское общежитие, то сразу бы отказался...!)»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -283,7 +283,7 @@
         "line": {
             "en": "This place is old and a little far from the\\nschool but the rent is cheap.",
             "ru": "Здание очень старое и немного далековато от школы, но зато дешёвое.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -291,8 +291,8 @@
         "id": "8000",
         "line": {
             "en": "Apart from the food and admin expenses, it costs\\nnext to nothing.",
-            "ru": "Если не считать еду и всякие мелочи, то комната здесь практически бесплатна.",
-            "state": "1"
+            "ru": "Если не считать расходы на еду и прочие мелочи, то я жил здесь почти бесплатно.",
+            "state": "2"
         },
         "name": ""
     },
@@ -300,8 +300,8 @@
         "id": "8400",
         "line": {
             "en": "That's why it would be a big problem for me if I\\ncouldn't stay here, and in the worst case\\nscenario, the boarders won't be able to go to\\nschool.",
-            "ru": "Вот почему будет нелегко найти новое место, если меня выгонят отсюда. В худшем случае жильцы не смогут ходить в школу.",
-            "state": "1"
+            "ru": "Вот почему я должен остаться здесь. В худшем случае жильцы не смогут ходить в школу.",
+            "state": "2"
         },
         "name": ""
     },
@@ -310,7 +310,7 @@
         "line": {
             "en": "'Thanks for the meal. Whew, that was good!'",
             "ru": "«Спасибо за завтрак. Фьюх, было очень вкусно!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Kanako"
     },
@@ -318,8 +318,8 @@
         "id": "8c00",
         "line": {
             "en": "Kanako stacked up the dishes on the counter and\\nlicked her lips in satisfaction.",
-            "ru": "Канако поставила все свои миски стопочкой на стол и удовлетворённо облизнула губы.",
-            "state": "1"
+            "ru": "Канако собрала миски стопочкой и удовлетворённо облизнула губы.",
+            "state": "2"
         },
         "name": ""
     },
@@ -328,7 +328,7 @@
         "line": {
             "en": "'Everyone will get used to you soon! Well then,\\nI'm off now!'",
             "ru": "«Все скоро привыкнут к тебе! Ну всё, я побежала!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Kanako"
     },
@@ -337,7 +337,7 @@
         "line": {
             "en": "She had eaten it all, not even a single grain of\\nrice was left.",
             "ru": "Она съела весь рис до последнего зёрнышка.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -345,8 +345,8 @@
         "id": "9800",
         "line": {
             "en": "'To have people enjoy my cooking feels pretty\\ngood.'",
-            "ru": "«Хорошо, когда есть люди, которым нравится как ты готовишь.»",
-            "state": "1"
+            "ru": "«Хорошо, когда есть люди, которым нравится как ты готовишь».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -355,7 +355,7 @@
         "line": {
             "en": "I feel deeply relieved. I'm happy that things are\\ngoing well.",
             "ru": "Я почувствовал облегчение. Кажется, пока всё идёт хорошо.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -363,8 +363,8 @@
         "id": "a000",
         "line": {
             "en": "'Aw geez! I'd better get ready for school.'",
-            "ru": "«Блин! Надо собираться в школу.»",
-            "state": "1"
+            "ru": "«Черт! Пора собираться в школу».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -373,7 +373,7 @@
         "line": {
             "en": "'Ah...!'",
             "ru": "«Ах...!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Kotori"
     },
@@ -381,8 +381,8 @@
         "id": "a800",
         "line": {
             "en": "In the entrance of the dormitory, there was\\nKotori.",
-            "ru": "На входе в общежитие стояла Котори.",
-            "state": "1"
+            "ru": "У выхода из общежития я встретил Котори.",
+            "state": "2"
         },
         "name": ""
     },
@@ -390,8 +390,8 @@
         "id": "ac00",
         "line": {
             "en": "She was dressed in her uniform and looked like\\nshe was about to go to school.",
-            "ru": "Она одета в школьную форму и похоже собиралась в школу.",
-            "state": "1"
+            "ru": "На ней была школьная форма. Похоже она собиралась в школу.",
+            "state": "2"
         },
         "name": ""
     },
@@ -399,8 +399,8 @@
         "id": "b000",
         "line": {
             "en": "'Morning Kotori.'",
-            "ru": "«Утречка, Котори.»",
-            "state": "1"
+            "ru": "«Утречка, Котори».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -408,8 +408,8 @@
         "id": "b400",
         "line": {
             "en": "'M...morning.'",
-            "ru": "«У...Утречка.»",
-            "state": "1"
+            "ru": "«У...Утречка».",
+            "state": "2"
         },
         "name": "Kotori"
     },
@@ -418,7 +418,7 @@
         "line": {
             "en": "'Are you going to school? Shall we go together?'",
             "ru": "«Ты собираешься в школу? Может пойдем вместе?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -427,7 +427,7 @@
         "line": {
             "en": "'Huh... why do you wanna do that...?'",
             "ru": "«Хах...с чего это вдруг...?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Kotori"
     },
@@ -436,7 +436,7 @@
         "line": {
             "en": "'Why?... Well...'",
             "ru": "«С чего?... Ну...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -445,7 +445,7 @@
         "line": {
             "en": "'If you're worried about my legs, then there's no\\nneed. Hmph!'",
             "ru": "«Если ты беспокоишься о моих ногах, то не стоит. Хмпф!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Kotori"
     },
@@ -454,7 +454,7 @@
         "line": {
             "en": "She put it bluntly as she quickly went out the\\nfront door.",
             "ru": "Говоря это она быстро направилась к выходу.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -463,7 +463,7 @@
         "line": {
             "en": "'I don't have any friends at school, so I was\\njust asking...'",
             "ru": "«У меня совсем нет друзей и я просто спросил...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -471,8 +471,8 @@
         "id": "d000",
         "line": {
             "en": "It looked like we had a strange misunderstanding.",
-            "ru": "Выглядело так, как будто мы не поняли друг друга.",
-            "state": "1"
+            "ru": "Кажется, мы друг друга не поняли.",
+            "state": "2"
         },
         "name": ""
     },
@@ -481,7 +481,7 @@
         "line": {
             "en": "Wearing my new uniform, I made my way to school.",
             "ru": "Одевшись в школьную форму я пошел в школу.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -489,8 +489,8 @@
         "id": "d800",
         "line": {
             "en": "I'm a dorm mother but also a student of Keifuu\\nAcademy. I mean, this is my real occupation.",
-            "ru": "Я не только горничная, но и ученик Академии Кейфуу. И учёба моя основная обязанность.",
-            "state": "1"
+            "ru": "Я не только горничная, но и ученик Академии Кейфу. И учёба моя основная обязанность.",
+            "state": "2"
         },
         "name": ""
     },
@@ -498,8 +498,8 @@
         "id": "dc00",
         "line": {
             "en": "Today is the first day at my new school.",
-            "ru": "Сегодня первый день в моей новой школе.",
-            "state": "1"
+            "ru": "Сегодня первый день в новой школе.",
+            "state": "2"
         },
         "name": ""
     },
@@ -507,8 +507,8 @@
         "id": "e000",
         "line": {
             "en": "I'm not really the shy type but I guess I am kind\\nof nervous.",
-            "ru": "Я совсем не застенчивый, но всё же немного нервничаю.",
-            "state": "1"
+            "ru": "Я не считаю себя застенчивым, но всё же немного нервничаю.",
+            "state": "2"
         },
         "name": ""
     },
@@ -517,7 +517,7 @@
         "line": {
             "en": "I would say that the school I was going to before\\nwas a sports-focused all-boys school.",
             "ru": "К слову, раньше я ходил в спортивную школу для мальчиков.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -525,8 +525,8 @@
         "id": "e800",
         "line": {
             "en": "Keifuu Academy, the school I'll be going to now,\\nis a coed engineering school and the school\\ntraditions are quite different too.",
-            "ru": "Академия Кейфуу - это школа с инженерным уклоном для всех. Я думаю школьные порядки будут сильно отличаться.",
-            "state": "1"
+            "ru": "Академия Кейфу - это школа с инженерным уклоном для мальчиков и девочек. Я думаю школьные порядки будут сильно отличаться.",
+            "state": "2"
         },
         "name": ""
     },
@@ -534,8 +534,8 @@
         "id": "ec00",
         "line": {
             "en": "As I walked along the streets that lead to\\nschool, there are more and more groups of people\\nwearing the same uniform.",
-            "ru": "Идя по улице по направлению к школе я замечаю всё больше и больше групп людей в форме как у меня.",
-            "state": "1"
+            "ru": "Идя по улице по направлению к школе я замечал всё больше и больше ребят в форме как у меня.",
+            "state": "2"
         },
         "name": ""
     },
@@ -543,8 +543,8 @@
         "id": "f000",
         "line": {
             "en": "This is the same area in which I lived five years\\nago. There should be a few people that I know but\\nmost of the people who I'd recognize went on to\\nregular schools.",
-            "ru": "Я жил здесь 5 лет назад. Возможно я встречу ребят, которых знал, но большинство моих знакомых ходят в обычную школу.",
-            "state": "1"
+            "ru": "Я жил здесь пять лет назад. Возможно я встречу ребят, которых знал, но большинство моих знакомых ходят в обычную школу.",
+            "state": "2"
         },
         "name": ""
     },
@@ -552,8 +552,8 @@
         "id": "f400",
         "line": {
             "en": "I wonder if the ones who chose to go to Keifuu\\nAcademy remember me?",
-            "ru": "Интересно, встречу ли я кого-нибудь знакомого?",
-            "state": "1"
+            "ru": "Интересно, помнят ли они меня?",
+            "state": "2"
         },
         "name": ""
     },
@@ -561,7 +561,7 @@
         "id": "f800",
         "line": {
             "en": "'Even if I only get to know one person, it would\\nmake a big difference.'",
-            "ru": "«Даже если бы он был один, то было бы совсем другое дело.»",
+            "ru": "«Даже если бы мне встретился кто-то один, то было бы совсем другое дело».",
             "state": "1"
         },
         "name": "Aoi"
@@ -570,8 +570,8 @@
         "id": "fc00",
         "line": {
             "en": "There'll be more weird misunderstandings with\\nMiss 'Allule' too.",
-            "ru": "Было еще недопонимание с Мисс «Аллуле».",
-            "state": "1"
+            "ru": "А еще это недоразумение с Мисс «Аллуле».",
+            "state": "2"
         },
         "name": ""
     },
@@ -579,8 +579,8 @@
         "id": "0100",
         "line": {
             "en": "'Oh yeah, which school do Ageha and the others go\\nto?'",
-            "ru": "«О, может Агеха и другие тоже ходят в эту школу?»",
-            "state": "1"
+            "ru": "«О, а может Агеха и другие тоже ходят в эту школу?»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -589,7 +589,7 @@
         "line": {
             "en": "They're my childhood friends who I always played\\nwith when I was a kid.",
             "ru": "Друзья детства с которыми я играл с ними, когда был маленьким.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -598,7 +598,7 @@
         "line": {
             "en": "There's Ageha, Ma-bou, Hotaru and An-chan.",
             "ru": "Агеха, Ма-боу, Хотару и Ан-чан.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -607,7 +607,7 @@
         "line": {
             "en": "Out of that group, Ageha and Ma-bou are the same\\nage as me but...",
             "ru": "Мы с Агехой и Ма-боу были одногодками, но...",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -615,8 +615,8 @@
         "id": "1100",
         "line": {
             "en": "We haven't met in five years and haven't really\\nstayed in touch.",
-            "ru": "Мы не виделись пять лет. И не поддерживали наши отношения.",
-            "state": "1"
+            "ru": "Мы не виделись пять лет и не совсем не общались.",
+            "state": "2"
         },
         "name": ""
     },
@@ -625,7 +625,7 @@
         "line": {
             "en": "We barely manage to exchange New Year cards\\nbut...",
             "ru": "Каждый год мы обменивались новогодними открытками и...",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -633,8 +633,8 @@
         "id": "1900",
         "line": {
             "en": "That reminds me, in the corner of last year's New\\nYear card, I think there was a small message\\nabout which school we were planning to go to.\\nWhat did it say?",
-            "ru": "Я помню, что в уголке на последней было маленькое сообщение. Кажется оно было насчёт школы в которую они собираются поступать. Что же там говорилось?",
-            "state": "1"
+            "ru": "Я помню, что в уголке на последней было небольшое сообщение. Кажется, оно было насчёт школы в которую мы собирались поступать. Что же там говорилось?",
+            "state": "2"
         },
         "name": ""
     },
@@ -642,8 +642,8 @@
         "id": "1d00",
         "line": {
             "en": "A lot of things happened, or maybe I'm just lazy,\\nbut I haven't told anyone apart from An-chan that\\nI'm coming back.",
-            "ru": "Многое всего произошло или может я просто лентяй, но я не рассказал Ан-чан, что возвращаюсь.",
-            "state": "1"
+            "ru": "Много всего произошло или может я просто лентяй, но я не рассказал никому, кроме Ан-чан, что возвращаюсь.",
+            "state": "2"
         },
         "name": ""
     },
@@ -651,8 +651,8 @@
         "id": "2100",
         "line": {
             "en": "To be honest, I'm not even sure how I should act\\nif I met them...",
-            "ru": "Если честно, я даже не уверен что нужно сказать, если встречу их...",
-            "state": "1"
+            "ru": "Если честно, я даже не знаю что сказать, если мы встретимся...",
+            "state": "2"
         },
         "name": ""
     },
@@ -660,8 +660,8 @@
         "id": "2500",
         "line": {
             "en": "'With people like Ageha, she'd probably smash my\\nface in! She'd say 'Why didn't you contact\\nme...!!' or something.'",
-            "ru": "«Думаю Агеха просто даст мне в нос! И скажет «Почему ты мне ничего не рассказал...!!!» или типа того»",
-            "state": "1"
+            "ru": "«Думаю Агеха просто даст мне в нос! И скажет «Почему ты мне ничего не рассказал...!!!» или типа того».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -669,8 +669,8 @@
         "id": "2900",
         "line": {
             "en": "'She looked and acted like a real tomboy.'",
-            "ru": "«Она выглядит как настоящая пацанка.»",
-            "state": "1"
+            "ru": "«Она всегда вела себя как настоящая пацанка и выглядела соответствующе».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -678,8 +678,8 @@
         "id": "2d00",
         "line": {
             "en": "When I remember the past, it makes me smile\\nbut...",
-            "ru": "Я помню, что раньше мне это нравилось, но...",
-            "state": "1"
+            "ru": "Воспоминания о прошлом вызывают у меня улыбку, но...",
+            "state": "2"
         },
         "name": ""
     },
@@ -688,7 +688,7 @@
         "line": {
             "en": "'Hey...'",
             "ru": "«Эй...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -696,8 +696,8 @@
         "id": "3500",
         "line": {
             "en": "At the intersection leading to school, there was\\na girl wearing a Keifuu uniform standing there,\\nlooking towards me.",
-            "ru": "На моем пути стояла девочка, одетая в форму Кейфуу и смотрела на меня.",
-            "state": "1"
+            "ru": "На моем пути стояла девочка, одетая в форму Кейфу, и смотрела прямо на меня.",
+            "state": "2"
         },
         "name": ""
     },
@@ -705,8 +705,8 @@
         "id": "3900",
         "line": {
             "en": "The other girls that she was walking to school\\nwith asked 'What's up?' and seemed puzzled as\\nthey spoke to her.",
-            "ru": "Другие девочки, с которыми она шла спрашивали «Что случилось?» и похоже были удивлены не меньше меня.",
-            "state": "1"
+            "ru": "Другие девочки, которые были с ней спрашивали «Что случилось?» и похоже были удивлены не меньше меня.",
+            "state": "2"
         },
         "name": ""
     },
@@ -714,8 +714,8 @@
         "id": "3d00",
         "line": {
             "en": "However, it seems that the girl couldn't hear\\nthem and she's looking over here, at me.",
-            "ru": "Но девочка казалось не слышала их и смотрела только на меня.",
-            "state": "1"
+            "ru": "Девочка, казалось, не слышала их и смотрела только на меня.",
+            "state": "2"
         },
         "name": ""
     },
@@ -724,7 +724,7 @@
         "line": {
             "en": "Just faintly, her eyes seemed full of surprise.",
             "ru": "Мне показалось, что она очень удивлена.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -733,7 +733,7 @@
         "line": {
             "en": "'(She's pretty cute...)'",
             "ru": "«(А она миленькая...)»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -742,7 +742,7 @@
         "line": {
             "en": "Without realizing, I'd stopped walking and was\\nstaring at the girl.",
             "ru": "Пытаясь понять что происходит я остановился и уставился на девочку.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -751,7 +751,7 @@
         "line": {
             "en": "Until a few days ago, I was going to an all-boys\\nschool.",
             "ru": "Раньше я ходил в школу для мальчиков.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -759,8 +759,8 @@
         "id": "5100",
         "line": {
             "en": "The sight of a girl on the way to school in her\\nuniform (she was pretty cute too) caused me to\\ntremble is perfectly reasonable.",
-            "ru": "И взгляд девочки в школьной форме(она тоже была миленькой) заставлял меня меня дрожать.",
-            "state": "1"
+            "ru": "И взгляд девочки в школьной форме (форма ей очень шла) заставлял меня меня дрожать.",
+            "state": "2"
         },
         "name": ""
     },
@@ -769,7 +769,7 @@
         "line": {
             "en": "'Is that you... Aoi?'",
             "ru": "«Это ты...Аои?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -778,7 +778,7 @@
         "line": {
             "en": "'Yes... it is.'",
             "ru": "«Да...это я.»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -786,8 +786,8 @@
         "id": "5d00",
         "line": {
             "en": "Suddenly having someone call my name in such a\\ncarefree manner, made me feel a little nervous.",
-            "ru": "Столь внезапное внимание ко мне заставляет меня нервничать.",
-            "state": "1"
+            "ru": "Столь внезапное и беспечное обращение ко мне заставило меня нервничать.",
+            "state": "2"
         },
         "name": ""
     },
@@ -796,7 +796,7 @@
         "line": {
             "en": "...Who is it?",
             "ru": "...Кто она?",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -805,7 +805,7 @@
         "line": {
             "en": "'It is you, Aoi!' No way, it really is you!'",
             "ru": "«Это ты, Аои! Не может быть, это действительно ты!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Girl"
     },
@@ -814,7 +814,7 @@
         "line": {
             "en": "There, she said my name again and she has such a\\nhappy expression on her face.",
             "ru": "Она повторяет моё имя снова и снова и кажется она этому очень рада.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -823,7 +823,7 @@
         "line": {
             "en": "Do I know any girls this cute?",
             "ru": "Знаю ли я таких милых девочек?",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -832,7 +832,7 @@
         "line": {
             "en": "No, wait, I've seen this face before...",
             "ru": "Подождите, я видел её раньше...",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -841,7 +841,7 @@
         "line": {
             "en": "When she smiles like this, and her eyes sparkle\\nlike a little kid's...",
             "ru": "Когда она улыбается в её глазах пляшут искорки, как у маленького ребёнка...",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -850,7 +850,7 @@
         "line": {
             "en": "'...Is that you, Ageha?'",
             "ru": "«...Агеха?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -859,7 +859,7 @@
         "line": {
             "en": "'Yeah, of course, it's me, Ageha! Did you forget\\nmy face?'",
             "ru": "«Да, конечно это я! Ты что меня забыл?!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -867,8 +867,8 @@
         "id": "8100",
         "line": {
             "en": "She asked as she briskly moved closer, bringing\\nher face right up to mine.",
-            "ru": "Она внезапно подошла ближе и уставилась на меня в упор.",
-            "state": "1"
+            "ru": "Сказала она и внезапно подошла ближе, уставившись на меня в упор.",
+            "state": "2"
         },
         "name": ""
     },
@@ -876,8 +876,8 @@
         "id": "8500",
         "line": {
             "en": "It's definitely Ageha... She's changed a lot but\\nif I just look at her face, there's no doubt that\\nit's her.",
-            "ru": "Да, это действительно Агеха...Она очень изменилась, но если приглядеться...Без сомнений, это она.",
-            "state": "1"
+            "ru": "Да, это действительно Агеха... Она очень изменилась, но если приглядеться... Без сомнений, это она.",
+            "state": "2"
         },
         "name": ""
     },
@@ -886,7 +886,7 @@
         "line": {
             "en": "'Is it really 'that' Ageha!?'",
             "ru": "«Ты действительно «та» Агеха?!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -895,7 +895,7 @@
         "line": {
             "en": "'Yeah, very funny. How many other Agehas do you\\nknow!?'",
             "ru": "«Очень смешно. Как много Агех ты знаешь?!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -904,7 +904,7 @@
         "line": {
             "en": "'100 percent authentic, the real Ageha Himegi!'",
             "ru": "«На 100% настоящая Агеха Химеги!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -913,7 +913,7 @@
         "line": {
             "en": "'What is it, what is it?' said the other girls as\\nthey gathered round in a circle.",
             "ru": "«Что случилось? Что происходит?» повторяли девочки, собираясь вокруг нас.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -922,7 +922,7 @@
         "line": {
             "en": "Ageha turned to face them and introduced me.",
             "ru": "Агеха повернулась к ним и представила меня.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -930,8 +930,8 @@
         "id": "9d00",
         "line": {
             "en": "'This is Aoi Minase. He's a transfer student. You\\nremember him, don't you Sacchin?'",
-            "ru": "«Это Аои Минасе. Он новенький. Но вы должны помнить его, так ведь, Сачин?»",
-            "state": "1"
+            "ru": "«Это Аои Минасе. Он новенький. Ты помнишь его, так ведь, Сачин?»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -939,8 +939,8 @@
         "id": "a100",
         "line": {
             "en": "Sacchin replied 'No way, Aoi?' as she warmly\\nraised her voice in surprise.",
-            "ru": "Сачин удивлённо воскликнула «Не может быть! Аои?».",
-            "state": "1"
+            "ru": "«Не может быть! Аои?» удивлённо воскликнула Саччин.",
+            "state": "2"
         },
         "name": ""
     },
@@ -949,7 +949,7 @@
         "line": {
             "en": "When we were in the fourth grade of elementary\\nschool, we were in the same class once.",
             "ru": "Мы учились вместе в четвёртом классе начальной школы.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -958,7 +958,7 @@
         "line": {
             "en": "'Aoi and I are childhood friends. He used to live\\nhere but he got transferred to another school,\\nright?'",
             "ru": "«Аои и я друзья детства. Он жил здесь раньше, но потом переехал, так?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -967,7 +967,7 @@
         "line": {
             "en": "The girls seemed impressed by Ageha's explanation\\nand they looked at me with eyes full of\\nexpectation.",
             "ru": "Девочек впечатлило объяснение Агехи и они смотрели на меня с ожиданием.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -975,8 +975,8 @@
         "id": "b100",
         "line": {
             "en": "'Nice to meet you, I'm Aoi Minase.'",
-            "ru": "«Рад познокомиться. Я Аои Минаси.»",
-            "state": "1"
+            "ru": "«Рад познакомиться. Я Аои Минаси».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -985,7 +985,7 @@
         "line": {
             "en": "In front of all these girls in their uniforms, I\\ngreeted them with a stern look on my face as I\\ntried to hide my embarrassment.",
             "ru": "Перед всеми этими девочками я старался сохранить серьезное выражение на лице, чтобы скрыть смущение.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -993,8 +993,8 @@
         "id": "b900",
         "line": {
             "en": "Ageha laughed as she looked on with relish.",
-            "ru": "Агеха от души засмеялась.",
-            "state": "1"
+            "ru": "Агеха громко засмеялась.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1002,8 +1002,8 @@
         "id": "bd00",
         "line": {
             "en": "I never thought I would find myself doing\\nintroductions in the street on the way to school\\nlike this, so I was totally unprepared.",
-            "ru": "Никогда бы не подумал, что подобное может произойти. Я был совершенно не готов.",
-            "state": "1"
+            "ru": "Никогда бы не подумал, что буду представляться подобным образом на улице. Я был совершенно не готов.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1012,7 +1012,7 @@
         "line": {
             "en": "I'll say it again! Let me do it again!!",
             "ru": "Я должен попробовать еще раз! Дайте мне представиться еще раз!!",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1020,8 +1020,8 @@
         "id": "c500",
         "line": {
             "en": "'You've gotten taller. I didn't recognize you at\\nfirst.'",
-            "ru": "«Ты стал выше. Я сначала не узнала тебя.»",
-            "state": "1"
+            "ru": "«Ты стал выше. Я не сразу узнала тебя».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1029,8 +1029,8 @@
         "id": "c900",
         "line": {
             "en": "As she spoke, Ageha was moving her hands around\\nmy head, to show the difference in height between\\nmyself and her.",
-            "ru": "Агеха помахала рукой над моей головой, показывая нашу с ней разницу в росте.",
-            "state": "1"
+            "ru": "Сказала Агеха и помахала рукой над моей головой, показывая нашу с ней разницу в росте.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1038,8 +1038,8 @@
         "id": "cd00",
         "line": {
             "en": "Our bodies were making contact but she either\\ndidn't notice or didn't really mind.",
-            "ru": "Мы стояли вплотную и слегка соприкасались но она кажется не замечала или не обращала внимания.",
-            "state": "1"
+            "ru": "Мы стояли вплотную и слегка соприкасались, но она кажется не замечала или не обращала внимания.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1048,7 +1048,7 @@
         "line": {
             "en": "I flinched slightly but the fact that she was so\\nunreserved actually made me feel more\\ncomfortable.",
             "ru": "Я немного вздрогнул, но её уверенность в себе передалась и мне.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1057,7 +1057,7 @@
         "line": {
             "en": "'Back in the day, we used to have such good\\nmatches! Boys are so unfair...'",
             "ru": "«Раньше мы были одного роста! Блин, это несправедливо...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1066,7 +1066,7 @@
         "line": {
             "en": "'Speaking of which, you've changed too...'",
             "ru": "«Кстати говоря, ты тоже изменилась...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1075,7 +1075,7 @@
         "line": {
             "en": "'Really?'",
             "ru": "«Правда?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1084,7 +1084,7 @@
         "line": {
             "en": "As she said 'You think so?', she looked at\\nherself.",
             "ru": "«Ты так думаешь?» сказала она, разглядывая себя.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1092,8 +1092,8 @@
         "id": "e500",
         "line": {
             "en": "'Yeah. You always looked like a boy, so I was\\nsurprised to see that you became a girl.'",
-            "ru": "«Да. Ты всегда выглядела как мальчишка и я очень удивлён, что ты теперь совсем как девочка.»",
-            "state": "1"
+            "ru": "«Да. Ты всегда выглядела как мальчишка и я очень удивлён, что ты стала девушкой».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1101,8 +1101,8 @@
         "id": "e900",
         "line": {
             "en": "Those were my honest thoughts but I said them in\\na way that sounded weird.",
-            "ru": "Это было правдой, но вслух звучало очень странно.",
-            "state": "1"
+            "ru": "Это было правдой, но вслух прозвучало очень странно.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1110,8 +1110,8 @@
         "id": "ed00",
         "line": {
             "en": "I thought she might find it slightly charming\\nbut...",
-            "ru": "Я подумал, что она может посчитать, что это мило, но...",
-            "state": "1"
+            "ru": "Я надеялся, что она решит, что это мило, но...",
+            "state": "2"
         },
         "name": ""
     },
@@ -1119,8 +1119,8 @@
         "id": "f100",
         "line": {
             "en": "'Hahaha... ...So, I've become quite the woman,\\nhaven't I?'",
-            "ru": "«Хахаха...Значит, я стала настоящей женщиной, так?»",
-            "state": "1"
+            "ru": "«Хахаха... Значит, я стала настоящей красоткой, так?»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1129,7 +1129,7 @@
         "line": {
             "en": "Ageha laughed happily and did a little turn on\\nthe spot.",
             "ru": "Агеха смеялась и немного покачивалась на месте.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1137,8 +1137,8 @@
         "id": "f900",
         "line": {
             "en": "The force of her spin made her skirt float around\\ngently.",
-            "ru": "Её юбка слегка приподнималась.",
-            "state": "1"
+            "ru": "От этого её юбка слегка приподнималась.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1146,8 +1146,8 @@
         "id": "fd00",
         "line": {
             "en": "'...Yeah, it's like you're not really Ageha.'",
-            "ru": "«...Да, как будто бы ты совсем другая Агеха.»",
-            "state": "1"
+            "ru": "«...Да, как будто бы совсем другая Агеха».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1155,8 +1155,8 @@
         "id": "0200",
         "line": {
             "en": "While dazed and not really thinking, those\\nthoughts just kind of slipped out.",
-            "ru": "Я был сбит с толку и просто говорил что приходило в голову.",
-            "state": "1"
+            "ru": "Я был сбит с толку и просто говорил то, что приходило в голову.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1165,7 +1165,7 @@
         "line": {
             "en": "'Yay, alright!'",
             "ru": "«Йей, отличненько!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1173,8 +1173,8 @@
         "id": "0a00",
         "line": {
             "en": "Ageha was pleased and did high fives with her\\nfriends.",
-            "ru": "Агеха обрадовалась и дала пять своим друзьям.",
-            "state": "1"
+            "ru": "Агеха с довольной улыбкой дала пять своим друзьям.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1182,8 +1182,8 @@
         "id": "0e00",
         "line": {
             "en": "Seeing her in high spirits like that felt just\\nlike old times.",
-            "ru": "Кажется внутри она совсем не изменилась.",
-            "state": "1"
+            "ru": "Кажется, в душе она совсем не изменилась.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1191,8 +1191,8 @@
         "id": "1200",
         "line": {
             "en": "Ageha, my best friend during my childhood hadn't\\nchanged in the five years that had passed.",
-            "ru": "Агеха, моя лучшая подруга детства совсем не изменилась за пять лет.",
-            "state": "1"
+            "ru": "Агеха, лучшая подруга детства, совсем не изменилась за пять лет.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1201,7 +1201,7 @@
         "line": {
             "en": "Her appearance was surprising though.",
             "ru": "Хотя её появление было неожиданным.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1209,8 +1209,8 @@
         "id": "1a00",
         "line": {
             "en": "The lessons on my first day at my new school flew\\nby in the blink of an eye.",
-            "ru": "Уроки в этот день пролетели в одно мгновение.",
-            "state": "1"
+            "ru": "Уроки в первый день пролетели в одно мгновение.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1218,7 +1218,7 @@
         "id": "1e00",
         "line": {
             "en": "Between the language and social studies lessons\\ntaught in regular schools, were those from a\\nspecialist curriculum.",
-            "ru": "",
+            "ru": "Между уроками родного языка и социальными лекциям, как в обычной школе, проводились специальные занятия.",
             "state": "1"
         },
         "name": ""
@@ -1227,8 +1227,8 @@
         "id": "2200",
         "line": {
             "en": "I was still in my second year, so I didn't have\\nmany of those classes. But, it appears that when\\nyou go into your third and fourth years, the\\nnumber of them increases.",
-            "ru": "Я учусь на втором году старшей школы и у меня пока нет многих из этих уроков. Они появляются на третьем и четвертом году обучения и их число растёт.",
-            "state": "1"
+            "ru": "Я учусь на втором году старшей школы и у меня пока их нет. Они появляются на третьем и четвертом году обучения и каждый год их число растёт.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1237,7 +1237,7 @@
         "line": {
             "en": "By the way, this is a five year school.",
             "ru": "Кстати, в нашей школе учатся пять лет.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1245,8 +1245,8 @@
         "id": "2a00",
         "line": {
             "en": "That's why when walking the hallways, this kind\\nof thing happens...",
-            "ru": "Вот почему когда я бродил по коридорам случилось...",
-            "state": "1"
+            "ru": "Вот почему я бродил по коридорам школы и...",
+            "state": "2"
         },
         "name": ""
     },
@@ -1255,7 +1255,7 @@
         "line": {
             "en": "'(Hey... She's pretty)'",
             "ru": "«(Воу...Вот это милашка)»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1263,8 +1263,8 @@
         "id": "3200",
         "line": {
             "en": "Coming from an all-boys school, with its sad\\ncustoms, I couldn't help my eyes from following\\nthe girls as I walked past them.",
-            "ru": "Переведясь из школы для мальчиков я не мог оторвать взгляд от девушек мимо которых проходил.",
-            "state": "1"
+            "ru": "Переведясь из школы для мальчиков, я не мог не глазеть на девушек, мимо которых проходил.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1272,8 +1272,8 @@
         "id": "3600",
         "line": {
             "en": "'...Ho ho! So you're already checking out the\\ngirls?'",
-            "ru": "«...Хо хо! Значит заглядываешься на девчонок?»",
-            "state": "1"
+            "ru": "«...Хо-хо! Значит заглядываешься на девчонок?»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1281,8 +1281,8 @@
         "id": "3a00",
         "line": {
             "en": "'No, that's not it! I just... thought that they\\nlooked really grown up, that's all.'",
-            "ru": "«Нет нет! Я просто....подумал, что они выглядят совсем взрослыми, только и всего.»",
-            "state": "1"
+            "ru": "«Нет нет! Я просто....подумал, что они выглядят совсем по взрослому, только и всего».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1291,7 +1291,7 @@
         "line": {
             "en": "'They're seniors from the fourth and fifth years,\\naren't they?'",
             "ru": "«Это же «ветераны» с четвёртого и пятого года, не так ли?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1300,7 +1300,7 @@
         "line": {
             "en": "At our age, a gap of three or four years is\\npretty big. The students in the upper grades look\\nvery mature.",
             "ru": "В нашем возрасте разница в три или четыре года весьма существенна. Ученики из старших классов выглядели совсем взрослыми.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1308,8 +1308,8 @@
         "id": "4600",
         "line": {
             "en": "'Also, although this is a specialist school, the\\npercentage of girls is pretty high.'",
-            "ru": "«Кстати, несмотря на то, что это специальная школа, процент девушек очень высок.»",
-            "state": "1"
+            "ru": "«Кстати, тут очень много девушек, несмотря на то, что это инженерная школа».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1318,7 +1318,7 @@
         "line": {
             "en": "'Huh? Why's that?'",
             "ru": "«Хах? Почему это?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1326,8 +1326,8 @@
         "id": "4e00",
         "line": {
             "en": "Without thinking, I really took an interest in\\nthat, and Ageha looked at me as if she wanted to\\ncall me a pervert.",
-            "ru": "Мне стал интересен этот факт, но Агеха посмотрела на меня как на извращенца.",
-            "state": "1"
+            "ru": "Мне было просто интересно, но Агеха посмотрела на меня как на извращенца.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1335,8 +1335,8 @@
         "id": "5200",
         "line": {
             "en": "'At the time that the school was rebuilt, they\\nmade an effort to accept more girls.'",
-            "ru": "«После перестройки школы руководство сделало специальное предложение, чтобы заманить побольше девушек.»",
-            "state": "1"
+            "ru": "«Во время перестройки школы руководство руководство решило заманить побольше девушек».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1345,7 +1345,7 @@
         "line": {
             "en": "I'd heard about that before I'd transferred.",
             "ru": "Я слышал об этом, когда переводился.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1353,8 +1353,8 @@
         "id": "5a00",
         "line": {
             "en": "They increased the number of courses for girls,\\nand asked famous designers to make the designs\\nfor the new building.",
-            "ru": "Они увеличили число уроков для девушек и попросили знаменитого дизайнера проработать внешний вид здания.",
-            "state": "1"
+            "ru": "Они увеличили число предметов для девушек и попросили известного дизайнера проработать внешний вид здания.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1362,8 +1362,8 @@
         "id": "5e00",
         "line": {
             "en": "'It has been said 'Thanks to that, the ratio of\\nboys and girls is about 50-50!' which is one of\\nthe selling points of the school.",
-            "ru": "Благодаря этому отношение количества парней и девушек примерно 50 на 50, что является еще одним плюсом для данной школы.",
-            "state": "1"
+            "ru": "Говорили, что благодаря этому соотношение количества парней и девушек установилось на уровне 50 на 50, что является еще одним плюсом для данной школы.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1371,7 +1371,7 @@
         "id": "6200",
         "line": {
             "en": "Bearing this in mind, I felt uneasy about\\nchoosing this school as the one I would transfer\\nto, but I'd like people to think that it can't be\\nhelped because I'm from an all-boys school.",
-            "ru": "Зная это мне было непросто выбрать эту школу для перевода, но мне хотелось, чтобы все думали ничего не поделаешь, потому что я из школы для мальчиков. <???????????>",
+            "ru": "Зная это, мне было непросто выбрать эту школу для поступления, но мне не хотелось, чтобы все думали, что я неудачник, потому что я учился в школе для мальчиков.",
             "state": "1"
         },
         "name": ""
@@ -1381,7 +1381,7 @@
         "line": {
             "en": "By the way, it's now lunchtime.",
             "ru": "Кстати, уже пора обедать.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1390,7 +1390,7 @@
         "line": {
             "en": "Ageha is in the middle of giving me a guided tour\\nof the school building.",
             "ru": "Агеха устроила мне экскурсию по школе.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1398,8 +1398,8 @@
         "id": "6e00",
         "line": {
             "en": "'Yeah but this really is an amazing school.'",
-            "ru": "«Да, но эта школа просто потрясающая.»",
-            "state": "1"
+            "ru": "«Эта школа просто потрясна».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1407,8 +1407,8 @@
         "id": "7200",
         "line": {
             "en": "The school itself is pretty old.",
-            "ru": "Сама школа очень старая.",
-            "state": "1"
+            "ru": "Сама школа очень стара.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1416,8 +1416,8 @@
         "id": "7600",
         "line": {
             "en": "Due to it being a special kind of school, of\\ncourse, it's famous in the local area. I've known\\nabout it too, since I was a little kid.",
-            "ru": "Поскольку это школа со специальным уклоном она известна в окрестностях. И я знал о ней с тех пор, как был ребёнком.",
-            "state": "1"
+            "ru": "Школа была известна в окрестностях, благодаря своей специально программе и раньше. Я знал о ней с самого детства.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1426,7 +1426,7 @@
         "line": {
             "en": "The school building has been rebuilt over the\\nlast few years, with the renovations divided into\\nseveral stages, the last of which was completed\\njust one year ago.",
             "ru": "Здание школы перестраивали последние пять лет. Изменения происходили в несколько стадий и последняя завершилась всего год назад.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1434,8 +1434,8 @@
         "id": "7e00",
         "line": {
             "en": "It's said that was because of the famous\\ndesigners.",
-            "ru": "Говорят, что всё из-за знаменитого дизайнера.",
-            "state": "1"
+            "ru": "Говорят, что всё благодаря известному дизайнеру.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1443,8 +1443,8 @@
         "id": "8200",
         "line": {
             "en": "The design uses many curved lines, so the\\nappearance is far removed from what is generally\\nassociated with the word 'school'.",
-            "ru": "В новом дизайне преобладали кривые линии, так что здание было совсем не похоже на обычную школу.",
-            "state": "1"
+            "ru": "В новом дизайне преобладали кривые линии, благодаря чему здание совсем не похоже на обычную школу.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1453,7 +1453,7 @@
         "line": {
             "en": "It felt like I had entered some kind of sci-fi\\nsetting.",
             "ru": "Было похоже, что ты попал в какой-то космический корабль.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1461,8 +1461,8 @@
         "id": "8a00",
         "line": {
             "en": "'The facilities are first-class too. Air\\nconditioning, full disabled access, so anyone can\\nfeel peace of mind as they spend their school\\ndays here.'",
-            "ru": "«...И комнаты для первоклашек тоже. Кондиционирование, доступ для инвалидов, так что каждый чувствует спокойствие, когда находится здесь.»",
-            "state": "1"
+            "ru": "«...И комнаты для первоклашек тоже. Кондиционирование, доступ для инвалидов, так что каждый может чувствовать себя тут как дома».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1471,7 +1471,7 @@
         "line": {
             "en": "'Disabled access...?'",
             "ru": "«Доступ для инвалидов...?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1480,7 +1480,7 @@
         "line": {
             "en": "That's right, Miss 'Allule', I mean Kotori,\\nshould be somewhere in this school.",
             "ru": "Точно, Мисс «Аллуле», то есть Котори, тоже учится в этой школе.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1488,8 +1488,8 @@
         "id": "9600",
         "line": {
             "en": "'But, Aoi, you really have changed...'",
-            "ru": "«Но, Аои, ты сильно изменился...»",
-            "state": "1"
+            "ru": "«Знаешь, Аои, ты и правда изменился...»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1498,7 +1498,7 @@
         "line": {
             "en": "Ageha, as she walked by my side, was happily\\nmurmuring as she looked at my face.",
             "ru": "Агеха шла рядом со мной и что-то радостно бормотала, смотря мне в глаза.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1506,8 +1506,8 @@
         "id": "9e00",
         "line": {
             "en": "'In the past, your face was a cute but now, it\\nseems more rugged somehow.'",
-            "ru": "«Ты и раньше был красивый, но сейчас ты очень возмужал.»",
-            "state": "1"
+            "ru": "«Ты и раньше был красавчиком, но сейчас ты прямо возмужал».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1515,8 +1515,8 @@
         "id": "a200",
         "line": {
             "en": "'Yeah, same to you!'",
-            "ru": "«Да, и ты тоже!»",
-            "state": "1"
+            "ru": "«Да, ты тоже!»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1525,7 +1525,7 @@
         "line": {
             "en": "'Hey!! I don't look rugged!'",
             "ru": "«Хей!! Я не возмужала!!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1534,7 +1534,7 @@
         "line": {
             "en": "If she knew that when we met on the way to school\\nearlier, I thought 'She's pretty cute', she'd\\nnever let it go, so I'd better keep quiet.",
             "ru": "Если бы она знала, что когда я встретил её по дороге в школу, то подумал «А она миленькая», то никогда бы не сказала мне этого. Поэтому я промолчал.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1542,8 +1542,8 @@
         "id": "ae00",
         "line": {
             "en": "'If I hadn't heard it from An-chan, I never\\nwould've realized.'",
-            "ru": "«Если бы я не узнала от Ан-чан, то никогда бы не догадалась.»",
-            "state": "1"
+            "ru": "«Если бы я не узнала от Ан-чана, то никогда бы не догадалась».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1551,8 +1551,8 @@
         "id": "b200",
         "line": {
             "en": "'You heard it from An-chan?'",
-            "ru": "«Ты узнала от Ан-чан?»",
-            "state": "1"
+            "ru": "«Ты узнала от Ан-чана?»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1561,7 +1561,7 @@
         "line": {
             "en": "'Yes. That you were coming back.'",
             "ru": "«Да. О том, что ты возвращаешься.»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1569,8 +1569,8 @@
         "id": "ba00",
         "line": {
             "en": "By the way, I'm in the same class as Ageha.",
-            "ru": "Кстати, мы с Агехой в одном классе.",
-            "state": "1"
+            "ru": "Кстати, мы с Агехой учимся в одном классе.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1578,8 +1578,8 @@
         "id": "be00",
         "line": {
             "en": "She knew that I might be coming as a transfer\\nstudent, which is why she wasn't that surprised\\nby our chance meeting this morning.",
-            "ru": "Она знала, что меня могут перевести к ним, поэтому не удивилась нашей встрече утром.",
-            "state": "1"
+            "ru": "Она знала, что я могу перевестись к ним, поэтому не удивилась нашей встрече утром.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1587,8 +1587,8 @@
         "id": "c200",
         "line": {
             "en": "'Hey you, if you were going to come back, you\\nshould've contacted me.'",
-            "ru": "«Эй ты! Когда ты собрался вернуться назад, то должен был рассказать мне.»",
-            "state": "1"
+            "ru": "«Знаешь! Ты должен был рассказать мне, что собрался вернуться назад».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1597,7 +1597,7 @@
         "line": {
             "en": "'S...sorry...'",
             "ru": "«И...извини...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1605,8 +1605,8 @@
         "id": "ca00",
         "line": {
             "en": "The reason why we call him 'An-chan' isn't\\nbecause he's my older brother.",
-            "ru": "Ан-чан мне не брат.",
-            "state": "1"
+            "ru": "Мы называем его Ан-чан не потому, что он мой брат.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1615,7 +1615,7 @@
         "line": {
             "en": "He was our childhood friend but he was much older\\nthan us so we nicknamed him 'An-chan'.",
             "ru": "Он был намного старше нас, но всегда играл вместе с нами в детстве, поэтому мы прозвали его «Ан-чан».",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1624,7 +1624,7 @@
         "line": {
             "en": "He's not related by blood but he's just like a\\nreal big brother.",
             "ru": "Мы не родственники, но для меня он совсем как брат.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1633,7 +1633,7 @@
         "line": {
             "en": "Ageha glared at me and said 'Geez...' as I tried\\nto laugh it off.",
             "ru": "Агеха уставилась на меня и сказала \"Блин...\", когда я попытался отшутиться.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1641,8 +1641,8 @@
         "id": "da00",
         "line": {
             "en": "'The old me would've made you taste the Axe\\nBomber Lariat!'",
-            "ru": "«Раньше я бы дала тебе попробовать Разрушительного Топора Лариата!»",
-            "state": "1"
+            "ru": "«Раньше я бы врезала тебе Разрушительным Топором Лариата!»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1651,7 +1651,7 @@
         "line": {
             "en": "She wouldn't really have hit me.",
             "ru": "Она не собиралась меня бить.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1660,7 +1660,7 @@
         "line": {
             "en": "As we talked, we went back to the classroom.",
             "ru": "Мы продолжали говорить, пока не вернулись в класс.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1669,7 +1669,7 @@
         "line": {
             "en": "The classroom's weren't exactly normal either.",
             "ru": "Наша классная комната тоже была не совсем обычной.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1678,7 +1678,7 @@
         "line": {
             "en": "I feel a little uneasy taking lessons here but\\nmaybe I'll get used to it sometime soon.",
             "ru": "Я чувствую себя немного некомфортно на уроках, но надеюсь скоро привыкнуть.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1687,7 +1687,7 @@
         "line": {
             "en": "'By the way, there's a girl in a wheelchair in\\nthis school, right?'",
             "ru": "«Кстати, девушка на инвалидном кресле тоже учится тут, так?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1695,8 +1695,8 @@
         "id": "f200",
         "line": {
             "en": "'Miss Allule... No, I mean, she's called Kotori\\nHabane.'",
-            "ru": "«Мисс Аллуле...То есть я хотел сказать Котори Хабане.»",
-            "state": "1"
+            "ru": "«Мисс Аллуле...То есть я хотел сказать Котори Хабане».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1705,7 +1705,7 @@
         "line": {
             "en": "I ask Ageha as we return to our seats.",
             "ru": "Спросил я Агеху, когда мы сели за парты.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1714,7 +1714,7 @@
         "line": {
             "en": "I didn't ask what grade she was in but even if\\nit's not the same, I thought Ageha would at least\\nbe aware of her.",
             "ru": "Я не знал сколько ей лет, но даже если мы в разных классах Агеха должна была слышать о ней.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1723,7 +1723,7 @@
         "line": {
             "en": "'Umm... yeah.'",
             "ru": "«Хмм...да...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1731,8 +1731,8 @@
         "id": "0300",
         "line": {
             "en": "Ageha reacted like she was being evasive.",
-            "ru": "Кажется Агеха попыталась уклониться от ответа.",
-            "state": "1"
+            "ru": "Кажется, Агеха попыталась уклониться от ответа.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1740,8 +1740,8 @@
         "id": "0700",
         "line": {
             "en": "It wasn't just Ageha but the other people sitting\\nnearby who heard our conversation, also seemed\\nkind of awkward.",
-            "ru": "И не только она, другие люди, что сидели поблизости и слышали мой вопрос кажется смутились.",
-            "state": "1"
+            "ru": "И не только она, другие ребята, что сидели поблизости, казалось, тоже смутились.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1750,7 +1750,7 @@
         "line": {
             "en": "'?'",
             "ru": "«?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1758,8 +1758,8 @@
         "id": "0f00",
         "line": {
             "en": "'If you're after Kotori, she's in this class. It\\nlooks like she's not here today though.'",
-            "ru": "«Если ты ищешь Котори, то она учится в нашем классе. Вот только сегодня её нет.»",
-            "state": "1"
+            "ru": "«Если ты имеешь ввиду Котори, то она учится в нашем классе. Вот только сегодня её нет».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1767,8 +1767,8 @@
         "id": "1300",
         "line": {
             "en": "After Ageha said that, someone added 'You mean\\n'today either', don't you?",
-            "ru": "После того, как Агеха сказала это кто-то добавил «Ты наверно хотела сказать «сегодня тоже».",
-            "state": "1"
+            "ru": "После того, как Агеха произнесла это кто-то добавил «Ты наверно хотела сказать «сегодня тоже».",
+            "state": "2"
         },
         "name": ""
     },
@@ -1776,8 +1776,8 @@
         "id": "1700",
         "line": {
             "en": "The way she said that seemed quite harsh.",
-            "ru": "Это звучало достаточно грубо.",
-            "state": "1"
+            "ru": "Это прозвучало очень грубо.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1786,7 +1786,7 @@
         "line": {
             "en": "'That can't be. I mean...'",
             "ru": "«Не может быть...То есть...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1794,8 +1794,8 @@
         "id": "1f00",
         "line": {
             "en": "I thought about explaining that she had left the\\ndormitory this morning in her uniform, but I held\\nmy tongue.",
-            "ru": "Я хотел сказать, что видел как она уехала из общежития утром, но промолчал.",
-            "state": "1"
+            "ru": "Я хотел сказать, что видел как она уехала из общежития в школьной форме, но промолчал.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1803,8 +1803,8 @@
         "id": "2300",
         "line": {
             "en": "The atmosphere was kind of strange.",
-            "ru": "В классе стало неуютно.",
-            "state": "1"
+            "ru": "Атмосфера в классе накалилась.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1812,8 +1812,8 @@
         "id": "2700",
         "line": {
             "en": "'Recently, she's been absent from school for a\\nlong time. Seems like she's not feeling well.'",
-            "ru": "«Последнее время она часто отсутствует. Кажется ей нездоровится.»",
-            "state": "1"
+            "ru": "«Последнее время она часто отсутствует. Кажется ей нездоровится».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1822,7 +1822,7 @@
         "line": {
             "en": "Not feeling well?",
             "ru": "Нездоровится?",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1831,7 +1831,7 @@
         "line": {
             "en": "Yesterday, she had went out to Windmill Hill, and\\nthen later she was chasing that duck around the\\nhalls of the dormitory.",
             "ru": "Вчера, она ходила на Холм Ветряков и потом гонялась за селезнем по общежитию.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1839,8 +1839,8 @@
         "id": "3300",
         "line": {
             "en": "And this morning, she left wearing her uniform.",
-            "ru": "И утром она была одета в школьную форму.",
-            "state": "1"
+            "ru": "И утром она одела свою школьную форму.",
+            "state": "2"
         },
         "name": ""
     },
@@ -1849,7 +1849,7 @@
         "line": {
             "en": "'(Is she skipping school?)'",
             "ru": "«(Неужели она прогуливает?)»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1858,7 +1858,7 @@
         "line": {
             "en": "However, more worrying than what Kotori is up to,\\nis the reaction of the others in the class when\\nthey heard us talking about her.",
             "ru": "Но еще больше меня удивила реакция одноклассников, когда я спросил о ней.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1867,7 +1867,7 @@
         "line": {
             "en": "Even Ageha looked like she had something she\\nwanted to say, but couldn't.",
             "ru": "Даже Агеха выглядела так, как будто хотела что-то сказать, но не могла.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1875,8 +1875,8 @@
         "id": "4300",
         "line": {
             "en": "'(But I don't really know what the situation is,\\nso I can't really say anything.)'",
-            "ru": "«(Наверно лучше промолчать, ока я сам во всём не разберусь.)»",
-            "state": "1"
+            "ru": "«(Наверно лучше промолчать, пока я сам во всём не разберусь.)»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -1884,8 +1884,8 @@
         "id": "4700",
         "line": {
             "en": "'Hey, Yamamoto! Can you lend me your English\\ndictionary?'",
-            "ru": "«Эй, Йамамото! Одолжи мне словарь по английскому.»",
-            "state": "1"
+            "ru": "«Эй, Йамамото! Одолжи мне словарь по английскому!»",
+            "state": "2"
         },
         "name": "Boy"
     },
@@ -1894,7 +1894,7 @@
         "line": {
             "en": "As the awkwardness started to fade, an optimistic\\nvoice called out.",
             "ru": "Этот крик немного разрядил атмосферу.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1902,7 +1902,7 @@
         "id": "4f00",
         "line": {
             "en": "From the entrance of the classroom, a carefree\\nlooking guy poked his head and started speaking\\nto a boy in our class.",
-            "ru": "У входа в класс какой-то беззаботный парень просунул голову и начал болтать с парнем из класса.",
+            "ru": "В двери класса заглянул какой-то беззаботный парень и начал болтать со знакомым из класса.",
             "state": "1"
         },
         "name": ""
@@ -1911,8 +1911,8 @@
         "id": "5300",
         "line": {
             "en": "'Oh, good timing!'",
-            "ru": "«Ох, как раз вовремя!»",
-            "state": "1"
+            "ru": "«О, как раз вовремя!»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1920,8 +1920,8 @@
         "id": "5700",
         "line": {
             "en": "'Hey, Ma-bou!'",
-            "ru": "«Привет, Ма-боу!»",
-            "state": "1"
+            "ru": "«Эй, Ма-боу!»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1929,8 +1929,8 @@
         "id": "5b00",
         "line": {
             "en": "'What is it, Ageha? You want somethin'?'",
-            "ru": "«Что такое, Агеха? Тебе что-то нужно?»",
-            "state": "1"
+            "ru": "«Что такое, Агеха? Что тебе нужно?»",
+            "state": "2"
         },
         "name": "Ma-bou"
     },
@@ -1939,7 +1939,7 @@
         "line": {
             "en": "The guy known as Ma-bou came into the classroom.",
             "ru": "Парень, которого назвали Ма-боу вошел в класс.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1948,7 +1948,7 @@
         "line": {
             "en": "'Eri-chan's in a bad mood because you and I are\\nfriends.'",
             "ru": "«Эри-тян не нравится, что я с тобой общаюсь.»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ma-bou"
     },
@@ -1957,7 +1957,7 @@
         "line": {
             "en": "'That's what you might call jealousy, right?'",
             "ru": "«Кажется, она ревнует, да?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ma-bou"
     },
@@ -1965,8 +1965,8 @@
         "id": "6b00",
         "line": {
             "en": "'Whatever, come over here.'",
-            "ru": "«Неважно, подойди сюда.»",
-            "state": "1"
+            "ru": "«Неважно, подойди сюда».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -1974,7 +1974,7 @@
         "id": "6f00",
         "line": {
             "en": "'Huh, who's this? A transfer student? Ageha looks\\npretty cute but she's like a dude on the inside,\\nso watch out.'",
-            "ru": "«Хах, кто это? Новенький? Слушай, Агеха может быть и милашка, но в душе она совсем как парень, так что будь осторожнее.»",
+            "ru": "«Хах, кто это? Новенький? Слушай, Агеха может быть и милашка, но в душе она совсем как парень, так что будь осторожнее».",
             "state": "1"
         },
         "name": "Ma-bou"
@@ -1984,7 +1984,7 @@
         "line": {
             "en": "Ageha and I both looked blankly at him for a\\nmoment.",
             "ru": "Мы с Агехой уставились на него с недоумением.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -1993,7 +1993,7 @@
         "line": {
             "en": "'Wh...what!?'",
             "ru": "«Чт...что?!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ma-bou"
     },
@@ -2001,8 +2001,8 @@
         "id": "7b00",
         "line": {
             "en": "'Long time, no see, Ma-bou.'",
-            "ru": "«Давно не виделись, Ма-боу.»",
-            "state": "1"
+            "ru": "«Давно не виделись, Ма-боу».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2011,7 +2011,7 @@
         "line": {
             "en": "'Huh?'",
             "ru": "«Ха?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ma-bou"
     },
@@ -2019,8 +2019,8 @@
         "id": "8300",
         "line": {
             "en": "'Why is this transfer student being so\\nbuddy-buddy with me?' his face seemed to say.",
-            "ru": "На его лице выражался вопрос: «Откуда он знает меня?».",
-            "state": "1"
+            "ru": "На его лице выражался вопрос «Откуда он знает меня?».",
+            "state": "2"
         },
         "name": ""
     },
@@ -2029,7 +2029,7 @@
         "line": {
             "en": "'It's me. Have you forgotten me?'",
             "ru": "«Это же я. Ты меня забыл?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2038,7 +2038,7 @@
         "line": {
             "en": "'It's 'me', you say...?'",
             "ru": "«Ты?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ma-bou"
     },
@@ -2047,7 +2047,7 @@
         "line": {
             "en": "'...Huh? Whaaaaaat!? Is that you, Aoi...!!?'",
             "ru": "«...Хах? Чтооооооо?! Это же ты, Аои....?!!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ma-bou"
     },
@@ -2056,7 +2056,7 @@
         "line": {
             "en": "I looked at Ageha and she...",
             "ru": "Я посмотрел на Агеху и она...",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2064,8 +2064,8 @@
         "id": "9700",
         "line": {
             "en": "'Hee hee!'",
-            "ru": "«Хи хи!»",
-            "state": "1"
+            "ru": "«Хи-хи!»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2074,7 +2074,7 @@
         "line": {
             "en": "She wanted to surprise him, so it seems like she\\nintentionally didn't tell him.",
             "ru": "Похоже она специально ему ничего не рассказала, чтобы удивить.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2082,8 +2082,8 @@
         "id": "9f00",
         "line": {
             "en": "This slightly superficial guy is Masatsugu\\nTasaki, or Ma-bou as we call him.",
-            "ru": "Этот немного рассеянный парень Масатсуги Тасаки или Ма-боу.",
-            "state": "1"
+            "ru": "Этот немного рассеянный парень - Масатсуги Тасаки, или Ма-боу.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2091,8 +2091,8 @@
         "id": "a300",
         "line": {
             "en": "He's our childhood friend.",
-            "ru": "Он тоже мой друг из детства.",
-            "state": "1"
+            "ru": "Он тоже мой друг детства.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2100,8 +2100,8 @@
         "id": "a700",
         "line": {
             "en": "'Wh, wh, wh, why is Aoi here!? So, is he a\\ntransfer student... huh? What!!?'",
-            "ru": "«По..по..по..по..почему Аои тут?! Значит это он новенький...хах? Чтоооо?!!»",
-            "state": "1"
+            "ru": "«По... по... по... по... почему Аои тут?! Значит это ты новенький... хах? Чтоооо?!!»",
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2109,8 +2109,8 @@
         "id": "ab00",
         "line": {
             "en": "'You're way too surprised.'",
-            "ru": "«Ты так удивлён.»",
-            "state": "1"
+            "ru": "«Ты так удивлён».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2119,7 +2119,7 @@
         "line": {
             "en": "'Of course I'm surprised! Whaaaat!?'",
             "ru": "«Конечно я удивлён! Чтоооооо?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2127,8 +2127,8 @@
         "id": "b300",
         "line": {
             "en": "'You seem well, Ma-bou. You've grown pretty big.'",
-            "ru": "«Отлично выглядишь, Ма-боу. Ты здорово вырос.»",
-            "state": "1"
+            "ru": "«Отлично выглядишь, Ма-боу. Ты здорово вырос».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2137,7 +2137,7 @@
         "line": {
             "en": "Masatsugu used to be really small but now he was\\nabout the same size as me.",
             "ru": "Масатсугу был очень маленьким, но сейчас мы с ним одного роста.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2145,8 +2145,8 @@
         "id": "bb00",
         "line": {
             "en": "It's not quite like the change in Ageha, but in\\nthe five years that have passed since we were\\nkids, it looks like he's grown to about twice the\\nsize.",
-            "ru": "Он не так сильно изменился, как Агеха, но за пять лет пока мы не виделись он вырос как минимум вдвое.",
-            "state": "1"
+            "ru": "Он не так сильно изменился, как Агеха, но за пять лет пока мы не виделись, он вырос как минимум вдвое.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2155,7 +2155,7 @@
         "line": {
             "en": "'Y...you too!'",
             "ru": "«Т..Ты тоже!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2164,7 +2164,7 @@
         "line": {
             "en": "We grabbed each other by the right hand.",
             "ru": "Мы пожали друг другу руки.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2172,8 +2172,8 @@
         "id": "c700",
         "line": {
             "en": "This was instead of a small, quiet greeting.",
-            "ru": "Это было небольшое, тихое приветствие.",
-            "state": "1"
+            "ru": "Это было скромное тихое приветствие.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2182,7 +2182,7 @@
         "line": {
             "en": "'Is it really you, Aoi...?'",
             "ru": "«Это правда ты, Аои...?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2190,8 +2190,8 @@
         "id": "cf00",
         "line": {
             "en": "'Yeah, I'm back, Ma-bou.'",
-            "ru": "«Да, я вернулся Ма-боу.»",
-            "state": "1"
+            "ru": "«Да, я вернулся Ма-боу».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2199,8 +2199,8 @@
         "id": "d300",
         "line": {
             "en": "'Welcome back... Aoiiiiiiii!'",
-            "ru": "«С возвращением....Аооооооооой!»",
-            "state": "1"
+            "ru": "«С возвращением....Аоииииииии!»",
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2209,7 +2209,7 @@
         "line": {
             "en": "This time, BAM, he gave me a full-on hug.",
             "ru": "В этот раз, БАМ, он обнял меня.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2218,7 +2218,7 @@
         "line": {
             "en": "'H...hey, hey!'",
             "ru": "«Эй, эй!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2227,7 +2227,7 @@
         "line": {
             "en": "'Ok, so this is what they call 'passionate\\nfriendship', huh?'",
             "ru": "«Кажется это называют «страстной дружбой»?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2236,7 +2236,7 @@
         "line": {
             "en": "We were the only ones who thought so, whereas all\\nof the girls around us were totally freaked out.",
             "ru": "Мы были единственными, кто так считал. Казалось все девушки вокруг сошли с ума.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2245,7 +2245,7 @@
         "line": {
             "en": "'I missed you, Aoi...'",
             "ru": "«Я скучал по тебе, Аои...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2253,8 +2253,8 @@
         "id": "eb00",
         "line": {
             "en": "'What?'",
-            "ru": "«ЧТо?»",
-            "state": "1"
+            "ru": "«Что?»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2263,7 +2263,7 @@
         "line": {
             "en": "'...No, not really, you traitor!!!'",
             "ru": "«...Нет, ничего, предатель!!!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2271,8 +2271,8 @@
         "id": "f300",
         "line": {
             "en": "Ma-bou suddenly backed off and thrust his finger\\nat the end of my nose.",
-            "ru": "Ма-боу отпустил меня и замахал пальцем у меня перед носом.",
-            "state": "1"
+            "ru": "Ма-боу неожиданно отскочил замахал пальцем у меня перед носом.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2280,8 +2280,8 @@
         "id": "f700",
         "line": {
             "en": "'Wh...what is this all of a sudden?'",
-            "ru": "«Чт...Что? С чего это вдруг?»",
-            "state": "1"
+            "ru": "«Чт... Что? С чего это?»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2289,8 +2289,8 @@
         "id": "fb00",
         "line": {
             "en": "'I thought you had just upped and left, and you\\ndidn't even contact me!'",
-            "ru": "«Ты просто взял и уехал и никогда не пытался связаться со мной!»",
-            "state": "1"
+            "ru": "«Ты просто взял и уехал и ни разу не пытался связаться со мной!»",
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2298,8 +2298,8 @@
         "id": "ff00",
         "line": {
             "en": "'Do you even know what Ageha and I have been\\nthrough, you jerk!'",
-            "ru": "«Ты хоть представляешь как я и Агеха беспокоились, придурок!»",
-            "state": "1"
+            "ru": "«Ты хоть представляешь как я и Агеха переживали, придурок!»",
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2308,7 +2308,7 @@
         "line": {
             "en": "'No, no, no. You can't involve me in this!'",
             "ru": "«Не, не. не. Не впутывай меня в это!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2317,7 +2317,7 @@
         "line": {
             "en": "'And after that, how dare you...'",
             "ru": "«И после всего этого, как ты посмел...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2325,8 +2325,8 @@
         "id": "0804",
         "line": {
             "en": "'I'm sorry. But it's not my fault that I had to\\nmove away. If you wanna complain, say it to my\\ndad.'",
-            "ru": "«Извини. Но это не моя вина, что я уехал. Если хочешь пожаловаться, то скажи это ему отцу.»",
-            "state": "1"
+            "ru": "«Извини. Но это не моя вина, что я уехал. Если хочешь кому-то пожаловаться, то расскажи всё это моему папе».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2334,8 +2334,8 @@
         "id": "0c04",
         "line": {
             "en": "'I thought about writing a letter but I felt kind\\nof embarrassed.'",
-            "ru": "«Я хотел написать письмо, но постеснялся.»",
-            "state": "1"
+            "ru": "«Я хотел написать тебе письмо, но постеснялся».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2343,8 +2343,8 @@
         "id": "1004",
         "line": {
             "en": "For the most part, the fact that there was no\\ncontact was both our faults.",
-            "ru": "По большому счёту мы оба были виноваты.",
-            "state": "1"
+            "ru": "По большому счёту, мы оба были виноваты.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2353,7 +2353,7 @@
         "line": {
             "en": "'You traitor! I'll never forgive you!'",
             "ru": "«Ты предатель! Я никогда тебя не прощу!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2362,7 +2362,7 @@
         "line": {
             "en": "'I hate you! You're an idiot!'",
             "ru": "«Ненавижу тебя! Идиот!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Masatsugu"
     },
@@ -2379,8 +2379,8 @@
         "id": "2004",
         "line": {
             "en": "'Are you a little kid or something...?'",
-            "ru": "«Ты маленький что ли...?»",
-            "state": "1"
+            "ru": "«Ведёшь себя как маленький...!»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2389,7 +2389,7 @@
         "line": {
             "en": "It wasn't just us but everyone in the classroom\\nwas shocked.",
             "ru": "Не только я, но все остальные в классе, кажется, были шокированы.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2397,8 +2397,8 @@
         "id": "2804",
         "line": {
             "en": "'I thought this might happen, which is why I\\ndidn't tell him.'",
-            "ru": "«Я знала, что так будет. Поэтому и не рассказала ему.»",
-            "state": "1"
+            "ru": "«Я знала, что так будет. Поэтому и не рассказала ему».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2406,8 +2406,8 @@
         "id": "2c04",
         "line": {
             "en": "'If he had known, he would been going full\\nthrottle like that from the beginning.'",
-            "ru": "«Если бы он знал, то ругался бы с самого начала.»",
-            "state": "1"
+            "ru": "«Если бы он знал, то ругался бы с самого начала».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2416,7 +2416,7 @@
         "line": {
             "en": "I think that was the correct decision. I want to\\nsay 'thank you'.",
             "ru": "Я думаю она правильно поступила. Нужно её поблагодорить.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2424,8 +2424,8 @@
         "id": "3404",
         "line": {
             "en": "'Even so, he did seem really upset about it.'",
-            "ru": "«Кажется он очень расстроился.»",
-            "state": "1"
+            "ru": "«Кажется, он очень расстроился».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2433,8 +2433,8 @@
         "id": "3804",
         "line": {
             "en": "'He recently got a girlfriend and he's really\\ninto her.'",
-            "ru": "«Недавно он завёл девушку и теперь думает только о ней.»",
-            "state": "1"
+            "ru": "«Недавно он завёл девушку и теперь думает только о ней».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2442,8 +2442,8 @@
         "id": "3c04",
         "line": {
             "en": "'When we were kids, he'd always say 'Aoi...!\\nAgeha...! Wait...!' as he followed us everywhere\\nwe went.'",
-            "ru": "«Когда мы были детьми, он всегда ходил за нами и кричал «Аои...! Агеха...! Подождите меня...!»",
-            "state": "1"
+            "ru": "«Когда мы были детьми, он всегда ходил за нами по пятам и кричал «Аои...! Агеха...! Подождите меня...!»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2452,7 +2452,7 @@
         "line": {
             "en": "'It's fine, he'll soon go back to how he always\\nis. That guy really likes you, Aoi!'",
             "ru": "«Всё будет хорошо. Скоро он успокоится. Он очень любит тебя, Аои!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2460,8 +2460,8 @@
         "id": "4404",
         "line": {
             "en": "'Don't say it like that, it sounds weird.'",
-            "ru": "«Не говори так, это странно.»",
-            "state": "1"
+            "ru": "«Не говори так, это странно».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2469,8 +2469,8 @@
         "id": "4804",
         "line": {
             "en": "'Really? I think it's cute!'",
-            "ru": "«Правда? Я думаю, это мило!»",
-            "state": "1"
+            "ru": "«Правда? А я думаю, что это мило!»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2479,7 +2479,7 @@
         "line": {
             "en": "While we carried on talking, the bell to mark the\\nend of lunchtime sounded.",
             "ru": "Пока мы болтали, прозвучал звонок с обеда.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2487,8 +2487,8 @@
         "id": "5004",
         "line": {
             "en": "Everyone put away their lunchboxes and got ready\\nfor the next lesson.",
-            "ru": "Все убрали свои бенто и приготовились к следующей уроку.",
-            "state": "1"
+            "ru": "Все отложили свои бенто и начали готовиться к следующему уроку.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2497,7 +2497,7 @@
         "line": {
             "en": "Ageha went back to her seat.",
             "ru": "Агеха направилась на своё место.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2506,7 +2506,7 @@
         "line": {
             "en": "She stopped halfway, then walked back.",
             "ru": "На полпути она остановилась и пошла назад.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2515,7 +2515,7 @@
         "line": {
             "en": "'What's up?'",
             "ru": "«Что такое?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2523,8 +2523,8 @@
         "id": "6004",
         "line": {
             "en": "Ageha seemed concerned about those around us and\\nlowered her voice.",
-            "ru": "Кажется Агеха не хотела, чтобы нас услышали и начала говорить шепотом.",
-            "state": "1"
+            "ru": "Кажется, Агеха не хотела, чтобы нас услышали и начала говорить шепотом.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2533,7 +2533,7 @@
         "line": {
             "en": "'...I was wondering how you know about Kotori?'",
             "ru": "«...Я хотела спросить, как ты узнал о Котори?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2541,8 +2541,8 @@
         "id": "6804",
         "line": {
             "en": "'Well... The truth is, my mom asked me to be the\\ndorm mother of a student dormitory.'",
-            "ru": "«Ну... Если честно, то моя мама попросила побыть горничной в женском общежитии.»",
-            "state": "1"
+            "ru": "«Ну... Если честно, то моя мама попросила побыть горничной в школьном общежитии».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2550,8 +2550,8 @@
         "id": "6c04",
         "line": {
             "en": "I lowered my voice so that those around us\\ncouldn't hear.",
-            "ru": "Я тоже перешёл на шепот, чтобы никто нас не усылшал.",
-            "state": "1"
+            "ru": "Я тоже перешёл на шепот, чтобы никто нас не услышал.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2559,8 +2559,8 @@
         "id": "7004",
         "line": {
             "en": "'The caretaker of a dormitory?'",
-            "ru": "«Приглядывать за общежитием?»",
-            "state": "1"
+            "ru": "«Приглядываешь за общежитием?»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2568,8 +2568,8 @@
         "id": "7404",
         "line": {
             "en": "'Kotori is boarding there.'",
-            "ru": "«Котори живёт там.»",
-            "state": "1"
+            "ru": "«Котори живёт там».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2577,8 +2577,8 @@
         "id": "7804",
         "line": {
             "en": "'Oh, really...?'",
-            "ru": "«Ох, правда...?»",
-            "state": "1"
+            "ru": "«О, правда...?»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2586,8 +2586,8 @@
         "id": "7c04",
         "line": {
             "en": "'My mom asked me to take good care of Kotori.'",
-            "ru": "«Моя мама попросила позаботиться о Котори.»",
-            "state": "1"
+            "ru": "«Мама попросила позаботиться о Котори».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2596,7 +2596,7 @@
         "line": {
             "en": "Even if she hadn't, I'd be worried about her\\nanyway.",
             "ru": "Даже если бы и нет, я всё равно переживал бы за неё.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2605,7 +2605,7 @@
         "line": {
             "en": "As she listened to my explanation, Ageha thought\\nit over.",
             "ru": "Слушая мои объяснения Агеха о чём то задумалась.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2613,8 +2613,8 @@
         "id": "8804",
         "line": {
             "en": "Her expression darkened somehow.",
-            "ru": "Кажется её лицо потемнело.",
-            "state": "1"
+            "ru": "Её лицо потемнело.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2622,8 +2622,8 @@
         "id": "8c04",
         "line": {
             "en": "'If it carries on like this, she'll stop coming\\naltogether. Everyone's worried about her.'",
-            "ru": "«Я хотела сказать, что она совсем перестала ходить в школу. Все беспокоятся о ней.»",
-            "state": "1"
+            "ru": "«Я хотела сказать, что она совсем перестала ходить в школу. Все беспокоятся о ней».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2631,8 +2631,8 @@
         "id": "9004",
         "line": {
             "en": "'It looks like she's not really enjoying school.'",
-            "ru": "«Кажется ей нравилось в школе.»",
-            "state": "1"
+            "ru": "«Кажется ей нравилось в школе».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2641,7 +2641,7 @@
         "line": {
             "en": "It looked as if she was saying 'I can't believe\\nshe doesn't enjoy school!'.",
             "ru": "Выглядело как будто она говорит «Я не верю, что ей здесь не нравилось!».",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2649,8 +2649,8 @@
         "id": "9804",
         "line": {
             "en": "'You seem to enjoy it.'",
-            "ru": "«Тебе здесь нравится.»",
-            "state": "1"
+            "ru": "«Тебе здесь, похоже, нравится».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2658,8 +2658,8 @@
         "id": "9c04",
         "line": {
             "en": "'Me? Of course I do. It's a fun school, that's\\nwhy.'",
-            "ru": "«Мне? Конечно! Здесь очень весело.»",
-            "state": "1"
+            "ru": "«Мне? Конечно! Здесь очень весело».",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2667,8 +2667,8 @@
         "id": "a004",
         "line": {
             "en": "'I guess.'",
-            "ru": "«Наверно.»",
-            "state": "1"
+            "ru": "«Наверно».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2677,7 +2677,7 @@
         "line": {
             "en": "It was still my first day at a new school but I\\nwas enjoying it quite a lot too.",
             "ru": "Это был всего лишь мой первый день в новой школе, но мне тоже здесь понравилось.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2685,8 +2685,8 @@
         "id": "a804",
         "line": {
             "en": "'Really... Is that so...'",
-            "ru": "«Правда...Это так...»",
-            "state": "1"
+            "ru": "«Правда... Это так...»",
+            "state": "2"
         },
         "name": "Ageha"
     },
@@ -2694,8 +2694,8 @@
         "id": "ac04",
         "line": {
             "en": "Whether or not she was convinced by my story,\\nAgeha mumbled something or other as she returned\\nto her seat.",
-            "ru": "Бормочя что-то под нос Агеха пошла к своему месту.",
-            "state": "1"
+            "ru": "Бормочя что-то под нос Агеха пошла к своему месту. Не знаю, поверила ли она мне.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2704,7 +2704,7 @@
         "line": {
             "en": "After school.",
             "ru": "После школы.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2712,8 +2712,8 @@
         "id": "b404",
         "line": {
             "en": "I was alone and was wandering around the school\\nbuilding.",
-            "ru": "Я был один и бродил вокруг здания школы.",
-            "state": "1"
+            "ru": "Я в одиночку бродил вокруг здания школы.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2721,8 +2721,8 @@
         "id": "b804",
         "line": {
             "en": "This was so that I could take a look at some of\\nthe club activities.",
-            "ru": "Мне хотелось взглянуть на местные кружки.",
-            "state": "1"
+            "ru": "Мне хотелось взглянуть на местные клубы.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2730,8 +2730,8 @@
         "id": "bc04",
         "line": {
             "en": "'Film Studies, Theater Club... there's even an\\nR.C. Club.'",
-            "ru": "«Кинокружок, Театральный кружок...здесь есть даже медицинский кружок.»",
-            "state": "1"
+            "ru": "«Киноклуб, Театральный клуб... здесь есть даже медицинский клуб».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2739,8 +2739,8 @@
         "id": "c004",
         "line": {
             "en": "This is, after all, a specialist school.",
-            "ru": "Всё таки это особая школа.",
-            "state": "1"
+            "ru": "Всё таки это необычная школа.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2748,8 +2748,8 @@
         "id": "c404",
         "line": {
             "en": "Looking at the playing field from the window, in\\nthe heat outside, I saw the sports clubs\\npracticing.",
-            "ru": "Смотря на стадион из окна я видел как тренируются спортивные клубы.",
-            "state": "1"
+            "ru": "Я смотрел через окно как спортивные клубы тренируются на стадионе.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2757,7 +2757,7 @@
         "id": "c804",
         "line": {
             "en": "'Compared to my school, it's pretty calm.'",
-            "ru": "«По сравнению с моей школой тут очень спокойно.»",
+            "ru": "«По сравнению с моей школой это не так уж и сложно».",
             "state": "1"
         },
         "name": "Aoi"
@@ -2767,7 +2767,7 @@
         "line": {
             "en": "The sports clubs at the school I used to go to\\nwere taken so seriously.",
             "ru": "Все спорт клубы в моей школе были очень серьезны.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2776,7 +2776,7 @@
         "line": {
             "en": "The sight of training before a match was one of\\ngrueling harshness.",
             "ru": "На каждой тренировке мы выматывались полностью.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2785,7 +2785,7 @@
         "line": {
             "en": "'...Wait, what do I mean 'my school'?'",
             "ru": "«...Подождите, что значит «моей школой»?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2793,8 +2793,8 @@
         "id": "d804",
         "line": {
             "en": "I'm a student of this school now.",
-            "ru": "Я теперь учусь в этой школе.",
-            "state": "1"
+            "ru": "Теперь я учусь в этой школе.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2802,8 +2802,8 @@
         "id": "dc04",
         "line": {
             "en": "'I'll go take a look.'",
-            "ru": "«Нужно посмотреть.»",
-            "state": "1"
+            "ru": "«Нужно посмотреть поближе».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2812,7 +2812,7 @@
         "line": {
             "en": "'...'",
             "ru": "«...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2821,7 +2821,7 @@
         "line": {
             "en": "I went down next to the playing field, to watch\\nthe sports clubs practicing.",
             "ru": "Я спустился к стадиону, чтобы посмотреть на тренировки спортивных кружков.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2829,8 +2829,8 @@
         "id": "e804",
         "line": {
             "en": "Before long, I started to feel a little down, so\\nI left.",
-            "ru": "Через некоторое время, я начал чувствовать себя немного грустно, поэтому я ушел.",
-            "state": "1"
+            "ru": "Через некоторое время у меня испортилось настроение и поэтому я ушел.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2838,8 +2838,8 @@
         "id": "ec04",
         "line": {
             "en": "'The doctor said that if it's light exercise, it\\nshouldn't be a problem.'",
-            "ru": "«Доктор сказал, что это очень лёгкие упражнения, так что проблем быть не должно.»",
-            "state": "1"
+            "ru": "«Доктор сказал, что если я буду осторожным, то проблем быть не должно».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2847,8 +2847,8 @@
         "id": "f004",
         "line": {
             "en": "I try stomping down strongly with my right foot,\\nand there isn't really any discomfort.",
-            "ru": "Я попробовал сильно потопать ногой и не ощутил никакого дискомфорта.",
-            "state": "1"
+            "ru": "Я попробовал с силой потопать ногой и не ощутил никакого дискомфорта.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2856,8 +2856,8 @@
         "id": "f404",
         "line": {
             "en": "There, the baseball club, which was returning\\nfrom the off-campus running course, entered\\nthrough the school gates.",
-            "ru": "Через ворота школы входили члены баскетбольного кружка, которые только что вернулись с пробежки.",
-            "state": "1"
+            "ru": "В воротах школы появились члены баскетбольного клуба, которые только что вернулись с пробежки.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2866,7 +2866,7 @@
         "line": {
             "en": "'Hey, Minase! It's you, Minase, isn't it?'",
             "ru": "«Эй, Минаси! Это ты, Минаси, не так ли?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Baseball club member"
     },
@@ -2875,7 +2875,7 @@
         "line": {
             "en": "The one calling me was an old acquaintance.",
             "ru": "Это был мой старый знакомый.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2884,7 +2884,7 @@
         "line": {
             "en": "'It's you, Taguchi! It's been a long time!'",
             "ru": "«Привет, Тагучи! Давно не виделись!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2892,8 +2892,8 @@
         "id": "0504",
         "line": {
             "en": "'So you came back? Have you decided which club\\nyou want to join?'",
-            "ru": "«Значит ты вернулся? Еще не решил в какой кружок вступить?»",
-            "state": "1"
+            "ru": "«Значит ты вернулся? Еще не решил в какой клуб вступить?»",
+            "state": "2"
         },
         "name": "Baseball club member"
     },
@@ -2901,8 +2901,8 @@
         "id": "0904",
         "line": {
             "en": "'No, not yet. I'm going around taking a look\\nright now.'",
-            "ru": "«Нет, пока нет. Я решил немного осмотреться для начала.»",
-            "state": "1"
+            "ru": "«Нет, пока нет. Я решил немного осмотреться для начала».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2911,7 +2911,7 @@
         "line": {
             "en": "'Join the baseball club. You'd become a regular\\nin no time!'",
             "ru": "«Вступай к нам. Ты быстро попадёшь в основной состав!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Baseball club member"
     },
@@ -2920,7 +2920,7 @@
         "line": {
             "en": "When I was a kid, I often played baseball in the\\npark.",
             "ru": "Когда я был маленьким, мы часто играли в баскетбол в парке.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2928,7 +2928,7 @@
         "id": "1504",
         "line": {
             "en": "Some of the guys in the group that were my\\nteammates or on the other team were in the\\nbaseball team.",
-            "ru": "Многие парни из кружка часто играли там вместе со мной.",
+            "ru": "Многие парни из клуба часто играли там вместе со мной.",
             "state": "1"
         },
         "name": ""
@@ -2937,8 +2937,8 @@
         "id": "1904",
         "line": {
             "en": "'I'll think about it.'",
-            "ru": "«Я подумаю.»",
-            "state": "1"
+            "ru": "«Я подумаю».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2955,8 +2955,8 @@
         "id": "2104",
         "line": {
             "en": "'If I could do physical activities, baseball, in\\nfact anything, would be OK.'",
-            "ru": "«Если бы мне можно было бы заниматься спортом, то я бы сразу вступил.»",
-            "state": "1"
+            "ru": "«Если бы я мог заниматься спортом, то сразу бы вступил».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -2964,8 +2964,8 @@
         "id": "2504",
         "line": {
             "en": "As I grumbled to myself, I felt that I didn't\\nwant to go back to the playing field, so I\\nentered the path leading to the back of the\\nschool.",
-            "ru": "Ворчал я под нос. Я почувствовал, что не хочу возвращаться на стадион и пошел к задней двери в школу.",
-            "state": "1"
+            "ru": "Ворчал я себе под нос. Я чувствовал, что не хочу возвращаться на стадион и поэтому направился на задний двор школы.",
+            "state": "2"
         },
         "name": ""
     },
@@ -2974,7 +2974,7 @@
         "line": {
             "en": "I spend a while walking around the back of the\\nschool.",
             "ru": "Некоторое время я бродил на заднем дворе.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2983,7 +2983,7 @@
         "line": {
             "en": "It was called the rear garden but it looked like\\nit hadn't been taken care of at all, and was just\\nan empty space with weeds growing everywhere.",
             "ru": "Это место называли «задним садом», но выглядел он так, как будто о нём не заботились вовсе. Повсюду были пустые клумбы и сорняки.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -2992,7 +2992,7 @@
         "line": {
             "en": "In that empty space, there was a garage.",
             "ru": "Прямо посередине стоял гараж.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3001,7 +3001,7 @@
         "line": {
             "en": "'Hello, I'm coming in...'",
             "ru": "«Эй, можно войти...?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3010,7 +3010,7 @@
         "line": {
             "en": "It looks like no one's here but I thought I\\nshould say something to let them know, just in\\ncase.",
             "ru": "Похоже тут никого не было, но я всё равно покричал на всякий случай.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3018,8 +3018,8 @@
         "id": "3d04",
         "line": {
             "en": "'Is this place used for club activities too?'",
-            "ru": "«Тут тоже есть кружок?»",
-            "state": "1"
+            "ru": "«Тут тоже есть клуб?»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3028,7 +3028,7 @@
         "line": {
             "en": "Or is it used for lessons?",
             "ru": "Или тут проводят уроки?",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3037,7 +3037,7 @@
         "line": {
             "en": "I don't know what they're used for but there are\\nmany tools and parts crammed onto the shelves\\nthat cover the walls.",
             "ru": "Не знаю зачем, но тут была куча разных инструментов и запчастей на полках вдоль стен.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3045,8 +3045,8 @@
         "id": "4904",
         "line": {
             "en": "Then, in the center, there is a huge object\\ncovered with a sheet.",
-            "ru": "А посередине огромный предмет, накрытый покрывалом.",
-            "state": "1"
+            "ru": "А посередине странный предмет, накрытый тканью.",
+            "state": "2"
         },
         "name": ""
     },
@@ -3055,7 +3055,7 @@
         "line": {
             "en": "'...'",
             "ru": "«...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3063,8 +3063,8 @@
         "id": "5104",
         "line": {
             "en": "The feelings that had washed over me like a wave\\nwhen I watched the sports clubs, strangely\\nsubsided from being here.",
-            "ru": "Кажется странное ощущение, которое накатило на стадионе утихло здесь.",
-            "state": "1"
+            "ru": "Кажется странное ощущение, которое накатило на стадионе утихло.",
+            "state": "2"
         },
         "name": ""
     },
@@ -3073,7 +3073,7 @@
         "line": {
             "en": "The tools and the dimly lit garage must've\\nreminded me of the times when I would tinker with\\nmy bicycle.",
             "ru": "Инструменты и тускло освящённый гараж напомнили мне время, когда я возился со своим велосипедом.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3082,7 +3082,7 @@
         "line": {
             "en": "'What is this used for?'",
             "ru": "«Для чего всё это?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3091,7 +3091,7 @@
         "line": {
             "en": "I conceal the sound of my footsteps as I sneak\\ninside the garage.",
             "ru": "Я зашел внутрь, стараясь не шуметь.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3100,7 +3100,7 @@
         "line": {
             "en": "'It's pretty spacious. There's a tea set here\\ntoo...'",
             "ru": "«Довольно просторно. Ух ты! Чайный набор...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3108,8 +3108,8 @@
         "id": "6504",
         "line": {
             "en": "There was no doubt about it, someone was using\\nthis place.",
-            "ru": "Без сомнений тут кто то был.",
-            "state": "1"
+            "ru": "Без сомнений тут кто-то бывал.",
+            "state": "2"
         },
         "name": ""
     },
@@ -3117,8 +3117,8 @@
         "id": "6904",
         "line": {
             "en": "'I get a strange sense of activity. I guess it\\nmust be one of the clubs... Whoa!!?'",
-            "ru": "«Кажется тут что-то происходит, наверно это один из клубов....Чтоооооо?!!»",
-            "state": "1"
+            "ru": "«Какое странное место, наверно, это один из клубов....Чтоооооо?!!»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3126,8 +3126,8 @@
         "id": "6d04",
         "line": {
             "en": "Th...there's someone here!",
-            "ru": "Тут...тут кто-то есть!",
-            "state": "1"
+            "ru": "Тут... тут кто-то есть!",
+            "state": "2"
         },
         "name": ""
     },
@@ -3136,7 +3136,7 @@
         "line": {
             "en": "I was so surprised, it felt like my heart was\\ngoing to jump out...",
             "ru": "Я был так напуган, что моё сердце чуть не выскочило из груди...",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3145,7 +3145,7 @@
         "line": {
             "en": "'Hmmm...'",
             "ru": "«Хмм...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Woman"
     },
@@ -3153,8 +3153,8 @@
         "id": "7904",
         "line": {
             "en": "The person over there seemed not to have noticed\\nme at all.",
-            "ru": "Женщина кажется совсем не заметила меня.",
-            "state": "1"
+            "ru": "Девушка кажется совсем не заметила меня.",
+            "state": "2"
         },
         "name": ""
     },
@@ -3162,8 +3162,8 @@
         "id": "7d04",
         "line": {
             "en": "I'm not sure if you could call it a drawing board\\nbut as she stared at the plans that were placed\\nthere, she was kind of groaning.",
-            "ru": "Она смотрела на какие-то схемы на том, что с натяжкой можно было бы назвать доской для рисования, и мычала под нос.",
-            "state": "1"
+            "ru": "Она рассматривала какую-то схему на небольшой доске для рисования, и что-то мычала под нос.",
+            "state": "2"
         },
         "name": ""
     },
@@ -3172,7 +3172,7 @@
         "line": {
             "en": "'Ummm...'",
             "ru": "«Ахммм...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3181,7 +3181,7 @@
         "line": {
             "en": "'...'",
             "ru": "«...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Woman"
     },
@@ -3189,8 +3189,8 @@
         "id": "8904",
         "line": {
             "en": "'I'm sorry for letting myself in here. I'll be\\ngoing now.'",
-            "ru": "«Извините, что побеспокоил. Я пойду.»",
-            "state": "1"
+            "ru": "«Извините, что побеспокоил. Я пойду».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3199,7 +3199,7 @@
         "line": {
             "en": "'...'",
             "ru": "«...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Woman"
     },
@@ -3208,7 +3208,7 @@
         "line": {
             "en": "It's no good, she didn't hear me.",
             "ru": "Это плохо, она не услышала меня.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3216,8 +3216,8 @@
         "id": "9504",
         "line": {
             "en": "Her eyes were so serious as she stared at the\\nplans, and she looked like she was really\\nconcentrating.",
-            "ru": "Она безотрывно смотрела на схему и кажется полностью на ней сосредоточена.",
-            "state": "1"
+            "ru": "Её глаза не отрывались от схемы и кажется она полностью на ней сосредоточена.",
+            "state": "2"
         },
         "name": ""
     },
@@ -3226,7 +3226,7 @@
         "line": {
             "en": "I didn't know what to do, so I just looked at her\\nfrom the side.",
             "ru": "Я не знал что делать и просто смотрел на неё.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3235,7 +3235,7 @@
         "line": {
             "en": "Now that I look closely, she's really beautiful.",
             "ru": "Теперь я заметил, что она была очень красива.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3244,7 +3244,7 @@
         "line": {
             "en": "'(...Hey, why am I staring at her!?)'",
             "ru": "«(...Хей, почему я уставился на неё?)»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3253,7 +3253,7 @@
         "line": {
             "en": "I hurriedly look away.",
             "ru": "Я быстро отвернулся.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3261,8 +3261,8 @@
         "id": "a904",
         "line": {
             "en": "However, it looks as if she still hasn't noticed\\nme, so I take another glimpse.",
-            "ru": "Кажется она всё еще не заметила меня, так что я бросил еще один взгляд.",
-            "state": "1"
+            "ru": "Кажется она всё еще не заметила меня и я бросил еще один взгляд.",
+            "state": "2"
         },
         "name": ""
     },
@@ -3270,8 +3270,8 @@
         "id": "ad04",
         "line": {
             "en": "'(She looks quite mature. Is she a fifth year?)'",
-            "ru": "«(Она выглядит очень взрослой. Ей, наверно, лет пятьдесят?)»",
-            "state": "1"
+            "ru": "«(Она выглядит взрослой. Неужели она пятиклассница?)»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3279,8 +3279,8 @@
         "id": "b104",
         "line": {
             "en": "'(She's so pretty...)'",
-            "ru": "«(Она красива...)»",
-            "state": "1"
+            "ru": "«(Она так красива...)»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3288,8 +3288,8 @@
         "id": "b504",
         "line": {
             "en": "Kotori is pretty too but this person is\\ndifferent, and has a mysterious charm.",
-            "ru": "Котори тоже была красива, но не так как это женщина. У неё было какое то необычное обаяние.",
-            "state": "1"
+            "ru": "Котори тоже была красива, но не так как эта девушка. У неё было какое-то необычное обаяние.",
+            "state": "2"
         },
         "name": ""
     },
@@ -3298,7 +3298,7 @@
         "line": {
             "en": "'Hmm!'",
             "ru": "«Хммм!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Mysterious beauty"
     },
@@ -3307,7 +3307,7 @@
         "line": {
             "en": "Fwoosh!",
             "ru": "Вуш!",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3316,7 +3316,7 @@
         "line": {
             "en": "She suddenly stood up!",
             "ru": "Она неожиданно встала!",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3324,8 +3324,8 @@
         "id": "c504",
         "line": {
             "en": "'I...I'm sorry!'",
-            "ru": "«И..извините!»",
-            "state": "1"
+            "ru": "«И... извините!»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3333,8 +3333,8 @@
         "id": "c904",
         "line": {
             "en": "Without thinking, I avert my eyes and apologize\\nbut she's looking straight...",
-            "ru": "Я отвёл глаза и извинился, но она посмотрела прямо...",
-            "state": "1"
+            "ru": "Я отвёл глаза и извинился, она посмотрела прямо...",
+            "state": "2"
         },
         "name": ""
     },
@@ -3343,7 +3343,7 @@
         "line": {
             "en": "...past me and grabs a big, thick book from the\\nshelf.",
             "ru": "...сквозь меня и взяла толстую книгу с полки.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3352,7 +3352,7 @@
         "line": {
             "en": "'...Yes, that's it!'",
             "ru": "«...Да, вот оно!»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Mysterious beauty"
     },
@@ -3360,8 +3360,8 @@
         "id": "d504",
         "line": {
             "en": "She flicked through the pages and looked like she\\nhad found something, before going straight back\\nto her seat.",
-            "ru": "Перед тем как сесть она пролистала несколько страниц и похоже нашла то, что искала.",
-            "state": "1"
+            "ru": "Перед тем как сесть, она пролистала несколько страниц и похоже нашла то, что искала.",
+            "state": "2"
         },
         "name": ""
     },
@@ -3370,7 +3370,7 @@
         "line": {
             "en": "'Aha...'",
             "ru": "«Ага...»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Mysterious beauty"
     },
@@ -3379,7 +3379,7 @@
         "line": {
             "en": "In good spirits, she began swiftly drawing the\\nplans.",
             "ru": "Она радостно начала зарисовывать схему.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3388,7 +3388,7 @@
         "line": {
             "en": "The pen made a nice 'swoosh, swoosh' sound as it\\nran across the page.",
             "ru": "Ручка забавно скрипела по бумаге «свуш, свуш».",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3397,7 +3397,7 @@
         "line": {
             "en": "The feeling of maturity that she had until just\\nnow, suddenly changed.",
             "ru": "Кажется, она стала чуточку моложе.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -3405,8 +3405,8 @@
         "id": "e904",
         "line": {
             "en": "'(When she smiles, all of a sudden, she looks\\nmore like a kid...)'",
-            "ru": "«(Она выглядит моложе, когда улыбается...)»",
-            "state": "1"
+            "ru": "«(Когда она улыбается, то становится похожа на ребёнка...)»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3415,7 +3415,7 @@
         "line": {
             "en": "As her eyes looked straight at the plans, they\\nlooked as though they had a crystal clear purity\\nto them.",
             "ru": "Она смотрела прямо на схему перед собой и в её глазах сияла кристальная чистота.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },

@@ -4,7 +4,7 @@
         "line": {
             "en": "Road bicycle racing is known as the toughest\\nsport.",
             "ru": "Шоссейный велоспорт известен своей сложностью.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -13,7 +13,7 @@
         "line": {
             "en": "Among other things, the hill climb is hell too.",
             "ru": "А горные этапы — это сущий ад.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -22,7 +22,7 @@
         "line": {
             "en": "While putting strain on every muscle in your\\nbody, you have to continue pedaling without any\\nbreaks to climb a steep hill.",
             "ru": "Вкладывая все силы в каждый мускул своего\nтела, ты вынужден безостановочно крутить\nпедали, взбираясь на холм.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -31,7 +31,7 @@
         "line": {
             "en": "At that time, I always think",
             "ru": "В такие моменты я всегда причитаю:",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -40,7 +40,7 @@
         "line": {
             "en": "'I can't do this anymore! I'll make this race my\\nlast!'",
             "ru": "«Хватит с меня! Это будет моя последняя гонка!»",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -48,8 +48,8 @@
         "id": "1400",
         "line": {
             "en": "Even though I think that every time, in the end,\\nI still take part in the next race.",
-            "ru": "И хоть я говорю так каждый раз, в конечном счёте,\nвсё же принимаю участие в следующей гонке.",
-            "state": "2"
+            "ru": "И хоть я говорю так всякий раз, в конечном счёте,\nвсё же принимаю участие в следующей гонке.",
+            "state": "3"
         },
         "name": ""
     },
@@ -58,7 +58,7 @@
         "line": {
             "en": "I've endured severe training so that I don't put\\nmy feet down halfway through the hill climb.",
             "ru": "Я прошёл через суровые тренировки, поэтому просто\nне могу бросить всё на полпути.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -67,7 +67,7 @@
         "line": {
             "en": "Why do I do that?",
             "ru": "Ради чего я это делаю?",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -76,7 +76,7 @@
         "line": {
             "en": "Because once I finish the hill climb, My reward\\nis waiting for me.",
             "ru": "Потому что на вершине холма меня ждёт\nмоя награда.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -84,8 +84,8 @@
         "id": "2400",
         "line": {
             "en": "Nothing compares to the feeling of cutting\\nthrough the wind, as I race down the downhill\\nsection at blistering speeds.",
-            "ru": "Ничто не сравнится с этим ощущением. Разрезая\nветер, мчаться на головокружительной скорости\nпо склону.",
-            "state": "2"
+            "ru": "Ничто не сравнится с этим. Разрезая ветер,\nмчаться на головокружительной скорости вниз\nпо склону.",
+            "state": "3"
         },
         "name": ""
     },
@@ -94,7 +94,7 @@
         "line": {
             "en": "At that moment, I feel an incredible rush.",
             "ru": "В этот момент я ощутил невероятный прилив сил.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -103,7 +103,10 @@
         "line": {
             "en": "Then, I realize that I have forgotten about\\neverything.",
             "ru": "А потом осознал, что позабыл обо всем.",
-            "state": "2"
+            "state": "3",
+            "comments": [
+                "Всё стало неважным."
+            ]
         },
         "name": ""
     },
@@ -111,8 +114,8 @@
         "id": "3000",
         "line": {
             "en": "The pain of the hill climb, the strain on every\\nmuscle in my body, and the days of hard practice.",
-            "ru": "И боль подъёма, и мышечное напряжение\nво всём теле, и дни изнурительных тренировок.",
-            "state": "2"
+            "ru": "Забыл боль подъёма, забыл про напряжение\nво всём теле, и про дни изнурительных тренировок.",
+            "state": "3"
         },
         "name": ""
     },
@@ -121,7 +124,7 @@
         "line": {
             "en": "It's not a matter of whether I win or lose the\\nrace.",
             "ru": "Не имеет значения одержу я победу\nили проиграю гонку.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -139,7 +142,10 @@
         "line": {
             "en": "That's how it should've been...",
             "ru": "Так должно было быть...",
-            "state": "2"
+            "state": "3",
+            "comments": [
+                "Не совсем понятно, о каком времени он говорит."
+            ]
         },
         "name": ""
     },
@@ -147,8 +153,8 @@
         "id": "4000",
         "line": {
             "en": "I still didn't have much experience in life at\\nthat time and it was something beyond my\\nimagination.",
-            "ru": "Я не могу похвастаться богатым жизненным опытом,\nпоэтому было что-то к чему я был не готов.",
-            "state": "2"
+            "ru": "Я не могу похвастаться богатым жизненным опытом,\nпоэтому было и такое к чему я был не готов.",
+            "state": "3"
         },
         "name": ""
     },
@@ -157,7 +163,7 @@
         "line": {
             "en": "Suddenly, without warning, something was 'taken'\\nfrom me.",
             "ru": "Внезапно, без предупреждения, кое-что «забрали»\nу меня.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -165,8 +171,8 @@
         "id": "4800",
         "line": {
             "en": "I could also say 'shut away' or 'lost'.",
-            "ru": "Можно было бы сказать «изолировали» или «лишили».",
-            "state": "2"
+            "ru": "Можно было бы сказать «изолировали от меня»\nили «лишили».",
+            "state": "3"
         },
         "name": ""
     },
@@ -175,7 +181,10 @@
         "line": {
             "en": "However, to directly express the emotion I felt\\nat that time, 'taken' is the word that fits best.",
             "ru": "Но если описывать то, что я почувствовал в тот момент,\n«забрали» это то слово, которое подходит лучше всего.",
-            "state": "2"
+            "state": "3",
+            "comments": [
+                "Надо ли тире перед «это»?"
+            ]
         },
         "name": ""
     },
@@ -184,7 +193,10 @@
         "line": {
             "en": "...So, there was one thing that I learned. Life\\nisn't all about having fun!",
             "ru": "...Вот так я понял для себя, что жизнь это не только\nразвлечения.",
-            "state": "2"
+            "state": "2",
+            "comments": [
+                "Криво."
+            ]
         },
         "name": ""
     },
@@ -193,7 +205,7 @@
         "line": {
             "en": "I learned a lesson in life.",
             "ru": "Я получил свой жизненный урок.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -202,7 +214,7 @@
         "line": {
             "en": "The thing I lost, was everything.",
             "ru": "То чего я лишился, было для меня всем.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -211,7 +223,7 @@
         "line": {
             "en": "I let myself get depressed about this, but I\\nshould've thought about it a little more.",
             "ru": "Обычно я впадаю в депрессию вспоминая об этом,\nно кое-что не даёт мне покоя.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -220,7 +232,7 @@
         "line": {
             "en": "If something could be 'taken' from me so\\nabruptly, then something could be 'given' to me\\njust as suddenly.",
             "ru": "Если что-то «забрали» у меня так просто,\nто могли бы и что-то «дать» взамен.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -229,7 +241,7 @@
         "line": {
             "en": "The wind blew.",
             "ru": "Ветер.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -238,7 +250,7 @@
         "line": {
             "en": "A gentle, but strong wind.",
             "ru": "Ласковый, но решительный.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -247,7 +259,7 @@
         "line": {
             "en": "It would not be unreasonable to call it an\\n'encounter'.",
             "ru": "Это была «неожиданная встреча».",
-            "state": "2",
+            "state": "3",
             "comments": [
                 "«минус на минус»"
             ]
@@ -259,7 +271,7 @@
         "line": {
             "en": "What this could be the start of...",
             "ru": "С чего же всё началось?..",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -268,9 +280,9 @@
         "line": {
             "en": "Even now, there's still no way for me to know.",
             "ru": "Даже сейчас я не смог бы определить точку старта.",
-            "state": "2",
+            "state": "3",
             "comments": [
-                "Аналогия с велоспортом?"
+                "Типа аналогия с велоспортом, ага."
             ]
         },
         "name": ""
@@ -280,7 +292,7 @@
         "line": {
             "en": "The windmill is turning.",
             "ru": "Ветряк вращал лопастями.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -289,7 +301,7 @@
         "line": {
             "en": "People are overwhelmed just because of the size\\nof such enormous things.",
             "ru": "Можно было долго стоять разинув рот, восхищаясь\nих абсурдными размерами.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -297,8 +309,8 @@
         "id": "8000",
         "line": {
             "en": "This unnatural silhouette serves a purpose, but\\nto those who don't know what that is, it would\\nappear to be something very bizarre.",
-            "ru": "На это есть свои причины, но для тех,\nкто о них не знает, они выглядят весьма\nпричудливо.",
-            "state": "2"
+            "ru": "Ветряки выглядят весьма причудливо, но\nна это есть свои причины.",
+            "state": "3"
         },
         "name": ""
     },
@@ -306,8 +318,8 @@
         "id": "8400",
         "line": {
             "en": "With so many lined up like this, it could be said\\nto be even more overwhelming.",
-            "ru": "А когда такое количество выстроено в несколько рядов,\nэто производит впечатление чего-то величественного.",
-            "state": "2"
+            "ru": "А когда такое количество выстроено в несколько рядов,\nони производят впечатление чего-то величественного.",
+            "state": "3"
         },
         "name": ""
     },
@@ -316,7 +328,7 @@
         "line": {
             "en": "But why is that?",
             "ru": "Отчего так?",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -325,7 +337,7 @@
         "line": {
             "en": "The sight of the white windmills lined up on the\\ngreen hills, somehow seemed so picturesque.",
             "ru": "Вид на зелёные холмы усеянные рядами белоснежных\nветряков был столь живописным.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -343,7 +355,7 @@
         "line": {
             "en": "At the very least, five years ago, there was\\nnothing here, just a wide open space.",
             "ru": "Каких-то пять лет назад ничего этого не было.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -352,7 +364,7 @@
         "line": {
             "en": "I heard they were going to build a large scale\\nrenewable energy research facility...",
             "ru": "Я слышал о том, что здесь собираются построить\nисследовательский центр по изучению возобновляемых\nисточников энергии...",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -361,7 +373,7 @@
         "line": {
             "en": "The cell phone in my pocket vibrated to tell me I\\nhad received a text.",
             "ru": "Телефон в моём кармане завибрировал, сигнализируя\nо том, что я получил сообщение.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -370,7 +382,7 @@
         "line": {
             "en": "'It's from An-chan...'",
             "ru": "«Сообщение от Ан-чан»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -378,8 +390,8 @@
         "id": "a400",
         "line": {
             "en": "To Aoi. Did you arrive here already? Sorry I\\ncouldn't come to meet you.",
-            "ru": "Кому: Аои\nТы уже приехал? Прости, но я не смогу\nвстретить тебя.",
-            "state": "2"
+            "ru": "Кому: Аои\nТы уже приехал? Прости, но я не смогу\nтебя встретить.",
+            "state": "3"
         },
         "name": ""
     },
@@ -388,7 +400,7 @@
         "line": {
             "en": "My name is written using a Chinese character read\\nas 'Aoi'.",
             "ru": "Моё имя записанное китайским иероглифом читается\nкак «Аои».",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -396,8 +408,8 @@
         "id": "ac00",
         "line": {
             "en": "It's a difficult character and is often mistaken\\nfor 'Midori'.",
-            "ru": "Это сложный иероглиф и его часто ошибочно\nчитают «Мидори».",
-            "state": "2",
+            "ru": "Это сложный иероглиф и его часто читают «Мидори».",
+            "state": "3",
             "comments": [
                 "碧 kun: みどり (midori), あお (ao) (видимо, можно прочитать «мидори»)"
             ]
@@ -409,7 +421,7 @@
         "line": {
             "en": "Incidentally, whether it is 'Aoi' or 'Midori', it\\nis often mistaken for a girl's name, which causes\\na few problems.",
             "ru": "Но будь то «Аои» или «Мидори», моё имя часто\nпринимают за женское, что доставляет неудобства.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -418,7 +430,7 @@
         "line": {
             "en": "I'll quickly write a reply.",
             "ru": "Я сразу же написал ответ.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -439,7 +451,10 @@
         "line": {
             "en": "I got here a little too early, so I'm just going\\nfor a stroll. The windmills are amazing.",
             "ru": "Я прибыл немного раньше, так что я просто\nпрогуляюсь. Ветряки удивительны.",
-            "state": "2"
+            "state": "3",
+            "comments": [
+                "Надо придумать как стилистически выделить текст сообщений, т. к. можно подумать, что это мысли главного героя."
+            ]
         },
         "name": ""
     },
@@ -448,7 +463,7 @@
         "line": {
             "en": "'OK, send.'",
             "ru": "«OK, отправить».",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -457,7 +472,7 @@
         "line": {
             "en": "The reply came quickly.",
             "ru": "Ответ пришёл мгновенно.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -466,7 +481,7 @@
         "line": {
             "en": "They're great aren't they? It's the new famous\\nspot of Kazegaura. If you have any problems,\\ncontact me any time.",
             "ru": "Они восхитительны, не находишь? Холм Ветряков стал\nдостопримечательностью Казегауры. Если у тебя\nвозникнут проблемы, свяжись со мной в любое время.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -475,7 +490,7 @@
         "line": {
             "en": "'An-chan...'",
             "ru": "«Ан-чан...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -484,7 +499,7 @@
         "line": {
             "en": "Thank you An-chan.",
             "ru": "Спасибо тебе, Ан-чан.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -493,7 +508,7 @@
         "line": {
             "en": "As I sent the text, I sat down on the grass.",
             "ru": "Отправив сообщение, я уселся на траву.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -502,7 +517,7 @@
         "line": {
             "en": "This place is on the hillside, so from there I\\nwas able to gaze at the lake and the town that\\nstretches across the opposite bank.",
             "ru": "Я находился на склоне холма, поэтому\nотсюда я мог видеть озеро и город, растянувшийся\nвдоль противоположного берега.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -511,7 +526,7 @@
         "line": {
             "en": "The rapid redevelopment of the town of Kazegaura\\nmeant that the remnants of the old buildings from\\nthe Showa era are intermingled with the modern\\narchitecture.",
             "ru": "Реконструкция Казегауры привела к тому, что старые здания\nэпохи Сёва смешались с образцами современной архитектуры.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -519,10 +534,10 @@
         "id": "e000",
         "line": {
             "en": "The view expresses both the past and the future\\nat the same time.",
-            "ru": "<Одновременно и прошлое и будущее открывал этот вид.>",
-            "state": "2",
+            "ru": "",
+            "state": "1",
             "comments": [
-                "Как нормально сказать?"
+                "[Одновременно и прошлое и будущее открывал этот вид] Как нормально сказать?"
             ]
         },
         "name": ""
@@ -532,7 +547,7 @@
         "line": {
             "en": "'?'",
             "ru": "«?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -540,8 +555,8 @@
         "id": "e800",
         "line": {
             "en": "Something white skimmed across my field of\\nvision.",
-            "ru": "Что-то белое мелькнуло в поле моего\nзрения.",
-            "state": "2"
+            "ru": "Что-то белое промелькнуло в поле моего\nзрения.",
+            "state": "3"
         },
         "name": ""
     },
@@ -549,8 +564,8 @@
         "id": "ec00",
         "line": {
             "en": "For a moment, it looked like one of the windmill\\nblades had come flying off, but there's no way\\nthat could happen.",
-            "ru": "На секунду мне показалось, будто это лопасть\nотлетела от ветряка, но такого просто не могло\nслучиться.",
-            "state": "2"
+            "ru": "На секунду мне показалось, будто это лопасть,\nотлетевшая от ветряка, но такого просто не могло\nслучиться.",
+            "state": "3"
         },
         "name": ""
     },
@@ -559,7 +574,7 @@
         "line": {
             "en": "'Is it a paper airplane?'",
             "ru": "«Бумажный самолётик?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -567,8 +582,11 @@
         "id": "f400",
         "line": {
             "en": "I got up and headed down the slope to look for\\nit.",
-            "ru": "Я встал и направился вниз по склону, чтобы\nпосмотреть, что это.",
-            "state": "2"
+            "ru": "Я встал и направился вниз по склону вслед за ним.",
+            "state": "3",
+            "comments": [
+                "«to look for it» вообще-то «искать», но по контексту не подходит."
+            ]
         },
         "name": ""
     },
@@ -576,8 +594,8 @@
         "id": "f800",
         "line": {
             "en": "The paper airplane, gliding gently, eventually\\nlost its momentum and descended.",
-            "ru": "Бумажный самолётик, мягко скользя, терял\nсвой импульс и опускался ниже.",
-            "state": "2"
+            "ru": "Бумажный самолётик, мягко скользя по воздуху,\nсо временем терял высоту.",
+            "state": "3"
         },
         "name": ""
     },
@@ -586,7 +604,7 @@
         "line": {
             "en": "'Gotcha!'",
             "ru": "«Попался!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -594,8 +612,8 @@
         "id": "0100",
         "line": {
             "en": "I ran ahead of it, did a small jump and caught it\\nin midair.",
-            "ru": "Я пробежал вперёд, подпрыгнул\nи поймал его в воздухе.",
-            "state": "2"
+            "ru": "Я пробежал вперёд, подпрыгнул и поймал\nего в воздухе.",
+            "state": "3"
         },
         "name": ""
     },
@@ -604,7 +622,7 @@
         "line": {
             "en": "'Where did this come flying from?'",
             "ru": "«Откуда же он прилетел?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -613,7 +631,7 @@
         "line": {
             "en": "Judging from the direction, it had come from the\\ntop of the hill.",
             "ru": "Судя по направлению, откуда-то с вершины холма.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -622,7 +640,7 @@
         "line": {
             "en": "At a time and a place like this, could there be\\nsomeone here besides me?",
             "ru": "Неужели здесь есть ещё кто-то?",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -631,7 +649,7 @@
         "line": {
             "en": "I took the paper airplane with me as I climbed up\\nthe slope.",
             "ru": "Держа самолётик в руке, я пошёл вверх по склону.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -640,7 +658,7 @@
         "line": {
             "en": "Just as I was about to be able to see the top,",
             "ru": "Стоило мне приблизиться к вершине холма,",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -648,8 +666,8 @@
         "id": "1900",
         "line": {
             "en": "A sudden gust of strong wind blew the paper\\nairplane out of my hand.",
-            "ru": "Внезапный порыв ветра выдул бумажный\nсамолётик у меня из рук.",
-            "state": "2"
+            "ru": "как внезапный порыв ветра выдул бумажный\nсамолётик у меня из рук.",
+            "state": "3"
         },
         "name": ""
     },
@@ -657,8 +675,8 @@
         "id": "1d00",
         "line": {
             "en": "'Ah! Hey, wait!'",
-            "ru": "«Ах! Эй, стой!»",
-            "state": "2"
+            "ru": "«Ах ты ж! Эй, стой!»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -667,7 +685,7 @@
         "line": {
             "en": "I chased after the paper airplane and ran up the\\nslope.",
             "ru": "Я погнался за бумажным самолётиком вверх по склону.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -675,8 +693,8 @@
         "id": "2500",
         "line": {
             "en": "Then, just as I finally caught it...",
-            "ru": "Стоило мне только наконец поймать его...",
-            "state": "2"
+            "ru": "Наконец-то я поймал его...",
+            "state": "3"
         },
         "name": ""
     },
@@ -685,7 +703,7 @@
         "line": {
             "en": "'...'",
             "ru": "«...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -694,7 +712,7 @@
         "line": {
             "en": "There was someone on top of the hill.",
             "ru": "На вершине холма кто-то был.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -703,7 +721,7 @@
         "line": {
             "en": "It was a girl sitting in a wheelchair.",
             "ru": "Это была девушка в инвалидном кресле.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -711,8 +729,8 @@
         "id": "3500",
         "line": {
             "en": "Looking fleetingly into the distant sky, a sudden\\nbreeze blew her hair and she combed it back with\\nher fingers.",
-            "ru": "Мимолетный взгляд в небо. Внезапный порыв ветра\nрастрепал её волосы, и она зачесала их обратно\nрукой.",
-            "state": "2"
+            "ru": "Мимолетный взгляд в небо. Внезапный порыв ветра\nрастрепал её волосы, и она поправила их лёгким\nдвижением руки.",
+            "state": "3"
         },
         "name": ""
     },
@@ -720,8 +738,8 @@
         "id": "3900",
         "line": {
             "en": "Against the background of the blue sky and\\nwindmills that spread across my view, the girl's\\nblack hair and white blouse looked incredible.",
-            "ru": "На фоне голубого неба и ветряков чёрные волосы\nи белая блузка девушки выглядели невероятно.",
-            "state": "2"
+            "ru": "На фоне голубого неба и ветряков чёрные волосы\nи белая блузка девушки выглядели потрясающе.",
+            "state": "3"
         },
         "name": ""
     },
@@ -730,7 +748,7 @@
         "line": {
             "en": "It was as if I was looking at a completed work of\\nart.",
             "ru": "Было ощущение, будто я смотрю на совершенное\nпроизведение искусства.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -739,7 +757,7 @@
         "line": {
             "en": "'...?'",
             "ru": "«...?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -748,7 +766,7 @@
         "line": {
             "en": "The girl noticed me.",
             "ru": "Девушка заметила меня.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -757,7 +775,7 @@
         "line": {
             "en": "'Ah, umm...'",
             "ru": "«Ах, эмм...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -765,8 +783,8 @@
         "id": "4d00",
         "line": {
             "en": "At first, I thought I should make an excuse for\\nwhy I was there.",
-            "ru": "Первым делом я подумал, что мне стоит объяснить\nсвоё появление.",
-            "state": "2"
+            "ru": "Первым делом я подумал, что мне стоит объяснить\nсвоё присутствие.",
+            "state": "3"
         },
         "name": ""
     },
@@ -774,8 +792,8 @@
         "id": "5100",
         "line": {
             "en": "It was like I had stepped into her world without\\npermission, and I started to feel guilty.",
-            "ru": "Это выглядело так будто я вторгся в её личное\nпространство без разрешения, отчего я почувствовал\nсебя виноватым.",
-            "state": "2"
+            "ru": "Я почувствовал себя виноватым оттого, что\nвторгся в её личное пространство без разрешения.",
+            "state": "3"
         },
         "name": ""
     },
@@ -784,7 +802,7 @@
         "line": {
             "en": "'...'",
             "ru": "«...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -792,8 +810,8 @@
         "id": "5900",
         "line": {
             "en": "She's not saying anything. Some guy had just\\nsuddenly appeared, so perhaps she's being\\ncautious.",
-            "ru": "Она ничего не говорила. Видимо, внезапное\nпоявление незнакомого человека заставило\nеё быть настороже.",
-            "state": "2"
+            "ru": "Она молчала. Видимо, внезапное появление\nнезнакомого человека насторожило её.",
+            "state": "3"
         },
         "name": ""
     },
@@ -801,8 +819,8 @@
         "id": "5d00",
         "line": {
             "en": "To show her the reason why I had come here, I\\nheld out the paper airplane.",
-            "ru": "Демонстрируя причину по которой я оказался здесь,\nя протянул ей бумажный самолётик.",
-            "state": "2"
+            "ru": "Демонстрируя причину, по которой я оказался здесь,\nя выставил вперёд бумажный самолётик.",
+            "state": "3"
         },
         "name": ""
     },
@@ -811,7 +829,7 @@
         "line": {
             "en": "'Did you throw this?'",
             "ru": "«Это ты его запустила?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -820,7 +838,7 @@
         "line": {
             "en": "'!...'",
             "ru": "«!...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -829,7 +847,7 @@
         "line": {
             "en": "The moment she saw it, her facial expression\\nstiffened.",
             "ru": "В тот момент, когда она увидела его, её лицо\nзастыло.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -838,7 +856,7 @@
         "line": {
             "en": "She looks like she's about to cry...",
             "ru": "Она выглядела так будто вот-вот заплачет...",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -846,8 +864,8 @@
         "id": "7100",
         "line": {
             "en": "Suddenly, tears appeared in those delicate eyes.",
-            "ru": "Как вдруг — глаза на мокром месте.",
-            "state": "2"
+            "ru": "",
+            "state": "1"
         },
         "name": ""
     },
@@ -855,8 +873,8 @@
         "id": "7500",
         "line": {
             "en": "'Huh? Whaaaat??'",
-            "ru": "«Э? Чтоооо?»",
-            "state": "2"
+            "ru": "«А? Чтоооо?»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -864,8 +882,11 @@
         "id": "7900",
         "line": {
             "en": "The tears that had welled up in the corners of\\nher eyes came running straight down.",
-            "ru": "Слёзы, появившиеся у уголков её глаз,\nпотекли вниз.",
-            "state": "2"
+            "ru": "Слёзы, навернувшиеся у уголков её глаз,\nпотекли вниз.",
+            "state": "3",
+            "comments": [
+                "Таки «навернувшиеся», сначала они появились, потом достигли критической массы и рухнули вниз"
+            ]
         },
         "name": ""
     },
@@ -874,7 +895,7 @@
         "line": {
             "en": "'So, it got to you...'",
             "ru": "«Значит, он достиг тебя...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -882,8 +903,8 @@
         "id": "8100",
         "line": {
             "en": "As I watched, great big tears came rolling down\\nher cheeks.",
-            "ru": "Я видел, как крупные слезинки скатывались\nпо её щекам.",
-            "state": "2"
+            "ru": "Глядя на неё, я видел, как крупные слезинки скатывались\nпо её щекам.",
+            "state": "3"
         },
         "name": ""
     },
@@ -891,8 +912,8 @@
         "id": "8500",
         "line": {
             "en": "'Huh? Ah... hey!'",
-            "ru": "«Ох? А... ей!»",
-            "state": "2"
+            "ru": "«Что? А... Эй!»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -900,8 +921,8 @@
         "id": "8900",
         "line": {
             "en": "Without thinking, I walked up beside her.",
-            "ru": "Без раздумий я подошёл к ней ближе.",
-            "state": "2"
+            "ru": "Не раздумывая, я приблизился к ней.",
+            "state": "3"
         },
         "name": ""
     },
@@ -910,7 +931,7 @@
         "line": {
             "en": "'What's wrong? Do you hurt somewhere?'",
             "ru": "«Что случилось? У тебя что-то болит?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -919,7 +940,7 @@
         "line": {
             "en": "'...(shakes head)'",
             "ru": "«...(трясёт головой)»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -927,8 +948,8 @@
         "id": "9500",
         "line": {
             "en": "As she shook her head, she touched the hand that\\nI had unconsciously held out as if she were\\nclinging to it.",
-            "ru": "Тряся головой, она коснулась моей руки, которую\nя бессознательно протянул.",
-            "state": "2"
+            "ru": "Тряся головой, она ухватилась за мою руку, которую\nя невольно протянул к ней.",
+            "state": "3"
         },
         "name": ""
     },
@@ -937,7 +958,7 @@
         "line": {
             "en": "Her hand was small and trembling.",
             "ru": "Её маленькие руки дрожали.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -945,8 +966,8 @@
         "id": "9d00",
         "line": {
             "en": "'I was scared...'",
-            "ru": "«Я была напугана...»",
-            "state": "2"
+            "ru": "«Я была так напугана...»",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -954,8 +975,8 @@
         "id": "a100",
         "line": {
             "en": "Squeeze...",
-            "ru": "Что?..",
-            "state": "2"
+            "ru": "Что?...",
+            "state": "3"
         },
         "name": ""
     },
@@ -964,7 +985,7 @@
         "line": {
             "en": "She gently squeezed my hand.",
             "ru": "Она нежно сжала мою руку.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -973,7 +994,7 @@
         "line": {
             "en": "'It's OK now.'",
             "ru": "«Теперь всё в порядке».",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -982,7 +1003,7 @@
         "line": {
             "en": "I didn't even know what the situation was.",
             "ru": "Я не знаю, как вести себя в подобных ситуациях.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -991,7 +1012,7 @@
         "line": {
             "en": "However, as I answered, I squeezed her hand back.",
             "ru": "Тем не менее, ответив ей, я тоже сжал её руку.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -1000,7 +1021,7 @@
         "line": {
             "en": "'Quack! Quack!'",
             "ru": "«Кря! Кря!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Chicken?"
     },
@@ -1008,8 +1029,8 @@
         "id": "b900",
         "line": {
             "en": "Peck peck peck!",
-            "ru": "[Клёв клёв клёв!]",
-            "state": "2"
+            "ru": "Клёв-клёв-клёв!",
+            "state": "3"
         },
         "name": ""
     },
@@ -1017,8 +1038,8 @@
         "id": "bd00",
         "line": {
             "en": "'Ow! Ouch!!'",
-            "ru": "«Оу! Ай!!»",
-            "state": "2"
+            "ru": "«Ой! Ай!!»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1027,7 +1048,7 @@
         "line": {
             "en": "Before I knew it, there was something like a\\nchicken at my feet and all of a sudden, it\\nstarted pecking me!",
             "ru": "Прежде чем я понял, что произошло, нечто,\nнапоминающее курицу, появилось у моих ног и\nнеожиданно принялось клевать меня!",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -1035,8 +1056,8 @@
         "id": "c500",
         "line": {
             "en": "'Gah gah! Gwaah!!'",
-            "ru": "«Га га! Гааа!!»",
-            "state": "2"
+            "ru": "«Га-га! Гааа!!»",
+            "state": "3"
         },
         "name": "Chicken?"
     },
@@ -1044,8 +1065,8 @@
         "id": "c900",
         "line": {
             "en": "Peck peck peck!",
-            "ru": "[Клёв клёв клёв!]",
-            "state": "2"
+            "ru": "Клёв-клёв-клёв!",
+            "state": "3"
         },
         "name": ""
     },
@@ -1054,7 +1075,7 @@
         "line": {
             "en": "'Ow, that hurts! What is this thing!?'",
             "ru": "«Ай, больно! Что это такое?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1063,7 +1084,7 @@
         "line": {
             "en": "'Stop! Stop that, Hat!'",
             "ru": "«Стой! Хат, перестань!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1071,8 +1092,8 @@
         "id": "d500",
         "line": {
             "en": "Hat, as it was called, calmed down at her\\ncommand.",
-            "ru": "Нечто, известное теперь под именем Хат,\nпрекратило свои атаки повинуясь команде.",
-            "state": "2"
+            "ru": "Нечто, известное теперь под именем «Хат»,\nпрекратило свои атаки повинуясь команде\nдевушки.",
+            "state": "3"
         },
         "name": ""
     },
@@ -1081,7 +1102,7 @@
         "line": {
             "en": "'Quack...'",
             "ru": "«Кря...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Hat"
     },
@@ -1090,7 +1111,7 @@
         "line": {
             "en": "'Umm... Is it a duck??'",
             "ru": "«Эм... Это селезень??»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1098,8 +1119,8 @@
         "id": "e100",
         "line": {
             "en": "With a yellow beak and white feathers, it was a\\nduck that looked like a chicken.",
-            "ru": "Жёлтый клюв и белые перья, это был селезень, который выглядел\nкак курица.",
-            "state": "2"
+            "ru": "Жёлтый клюв и белые перья. Это был селезень,\nкоторый выглядел как курица.",
+            "state": "1"
         },
         "name": ""
     },
@@ -1108,7 +1129,7 @@
         "line": {
             "en": "For some reason, it was wearing a hat.",
             "ru": "По неизвестным причинам, он носил шляпу.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -1116,8 +1137,8 @@
         "id": "e900",
         "line": {
             "en": "'...I'm sorry. It's because... I was crying.'",
-            "ru": "«...Прошу прощения. Он из-за того... что плакала.»",
-            "state": "2"
+            "ru": "«...Прошу прощения. Он сделал это\nпотому... что я заплакала».",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1125,8 +1146,8 @@
         "id": "ed00",
         "line": {
             "en": "'It seems like he mistakenly thought that you\\nmade me cry...'",
-            "ru": "«Похоже, он по ошибке подумал, что это ты довел меня до слёз...»",
-            "state": "2"
+            "ru": "«Видимо, он по ошибке подумал, что ты\nдовел меня до слёз...»",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1135,7 +1156,7 @@
         "line": {
             "en": "'Ah...'",
             "ru": "«А?..»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1143,8 +1164,8 @@
         "id": "f500",
         "line": {
             "en": "So this is how surprising it is to be suddenly\\nattacked by an animal.",
-            "ru": "<И таким вот образом можно быть внезапно\nатакованным животным.>",
-            "state": "2"
+            "ru": "",
+            "state": "1"
         },
         "name": ""
     },
@@ -1152,8 +1173,8 @@
         "id": "f900",
         "line": {
             "en": "However, thanks to that, it looked like she had\\nstopped crying.",
-            "ru": "Однако, благодаря этому, девушка прекратила\nплакать.",
-            "state": "2"
+            "ru": "",
+            "state": "1"
         },
         "name": ""
     },
@@ -1161,8 +1182,8 @@
         "id": "fd00",
         "line": {
             "en": "'Is a towel OK?'",
-            "ru": "«Полотенце сойдёт?»",
-            "state": "2"
+            "ru": "«Полотенце?»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1171,7 +1192,7 @@
         "line": {
             "en": "'?'",
             "ru": "«?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1179,8 +1200,8 @@
         "id": "0600",
         "line": {
             "en": "'...I don't carry a handkerchief around with me.'",
-            "ru": "«...Я не ношу с собой носового платка.»",
-            "state": "2"
+            "ru": "«...Я не ношу с собой носового платка».",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1188,8 +1209,8 @@
         "id": "0a00",
         "line": {
             "en": "As I said that, without waiting for her to reply,\\nI took a hand towel out of my bag. Of course, it\\nhad been washed, so it was clean.",
-            "ru": "Сказав это, не дожидаясь ответа, я достал\nполотенце для рук из моей сумки. Разумеется,\nоно было свежим и чистым.",
-            "state": "2"
+            "ru": "Не дожидаясь ответа, я достал полотенце для рук\nиз сумки. Разумеется, с момента последней стирки\nим никто не пользовался.",
+            "state": "3"
         },
         "name": ""
     },
@@ -1198,7 +1219,7 @@
         "line": {
             "en": "'Thank you...'",
             "ru": "«Благодарю...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1206,8 +1227,8 @@
         "id": "1200",
         "line": {
             "en": "'Why were you crying? If it hurts somewhere...'",
-            "ru": "«Почему ты заплакала? Если у тебя что-то болит...»",
-            "state": "2"
+            "ru": "«Почему ты плакала? Если у тебя что-то болит...»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1215,8 +1236,8 @@
         "id": "1600",
         "line": {
             "en": "'That's not it.'",
-            "ru": "«Это не так».",
-            "state": "2"
+            "ru": "«Дело не в этом».",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1224,8 +1245,8 @@
         "id": "1a00",
         "line": {
             "en": "As she answered, she pointed to one of the wheels\\nof her wheelchair.",
-            "ru": "Ответив, она указала на одно из колес\nинвалидного кресла.",
-            "state": "2"
+            "ru": "Сказав это, она указала на одно из колес\nинвалидного кресла.",
+            "state": "3"
         },
         "name": ""
     },
@@ -1234,7 +1255,7 @@
         "line": {
             "en": "It had lost its air and had collapsed.",
             "ru": "Из него сдулся весь воздух.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -1243,7 +1264,7 @@
         "line": {
             "en": "'You got a flat tire?'",
             "ru": "«У тебя спустило шину?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1251,8 +1272,8 @@
         "id": "2600",
         "line": {
             "en": "'...Because of that, I've been stuck here. I've\\nbeen here for an hour already.'",
-            "ru": "«...Из-за этого, я не могу сдвинуться с места.\nЯ провела тут уже битый час.»",
-            "state": "2"
+            "ru": "«...Именно поэтому я не могу сдвинуться с места\nи провела тут уже битый час».",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1260,8 +1281,8 @@
         "id": "2a00",
         "line": {
             "en": "What a terrible situation.",
-            "ru": "Ужасная ситуация.",
-            "state": "2"
+            "ru": "Положение не из приятных.",
+            "state": "3"
         },
         "name": ""
     },
@@ -1269,8 +1290,8 @@
         "id": "2e00",
         "line": {
             "en": "Just a mere flat tire, for her is like having her\\nlegs taken away.",
-            "ru": "Спущенная шина для ней всё равно что лишиться ног.",
-            "state": "2"
+            "ru": "Спущенная шина для неё всё равно что перелом ноги.",
+            "state": "3"
         },
         "name": ""
     },
@@ -1279,7 +1300,7 @@
         "line": {
             "en": "'Don't you have a cell phone?'",
             "ru": "«У тебя нет сотового телефона?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1287,8 +1308,8 @@
         "id": "3600",
         "line": {
             "en": "'...I left it in my room.'",
-            "ru": "«...Я оставила его у себя в комнате.»",
-            "state": "2"
+            "ru": "«...Я оставила его у себя в комнате».",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1296,8 +1317,8 @@
         "id": "3a00",
         "line": {
             "en": "She answered, dismayed.",
-            "ru": "Ответила она, смутившись.",
-            "state": "2"
+            "ru": "Ответила она смутившись.",
+            "state": "1"
         },
         "name": ""
     },
@@ -1306,7 +1327,7 @@
         "line": {
             "en": "'That's why I thought of another way to call for\\nhelp.'",
             "ru": "«Это причина, по которой я разработала другой\nспособ, чтобы позвать на помощь».",
-            "state": "2"
+            "state": "1"
         },
         "name": "Girl"
     },
@@ -1315,7 +1336,7 @@
         "line": {
             "en": "'That way, if there is someone who receives my\\nSOS, they can come here for me...'",
             "ru": "«Таким образом, если кто-нибудь получит мой сигнал СОС,\nон придёт сюда за мной...»",
-            "state": "2"
+            "state": "1"
         },
         "name": "Girl"
     },
@@ -1323,8 +1344,8 @@
         "id": "4600",
         "line": {
             "en": "'SOS? Oh, this?'",
-            "ru": "«Сигнал СОС? Это?»",
-            "state": "2"
+            "ru": "«Сигнал СОС? Ах, это?»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1332,8 +1353,8 @@
         "id": "4a00",
         "line": {
             "en": "I opened up the paper airplane that I still had\\nin my hand.",
-            "ru": "Я раскрыл бумажный самолётик, который я всё ещё держал\nв руке.",
-            "state": "2"
+            "ru": "Я раскрыл бумажный самолётик, который держал\nв руке.",
+            "state": "3"
         },
         "name": ""
     },
@@ -1341,8 +1362,8 @@
         "id": "4e00",
         "line": {
             "en": "'I'm in trouble, someone help me. I'm on Windmill\\nHill.'",
-            "ru": "«Я в беде, кто-нибудь помогите. Я на Холме Ветряков».",
-            "state": "2"
+            "ru": "«Я в беде, кто-нибудь помогите. Ищите меня\nна Холме Ветряков».",
+            "state": "3"
         },
         "name": ""
     },
@@ -1350,8 +1371,8 @@
         "id": "5200",
         "line": {
             "en": "So when someone arrived carrying the paper\\nairplane, she felt relieved and started to cry?",
-            "ru": "То есть в тот момент, когда я пришёл держа\nбумажный самолётик, она почувствовала облегчение\nи начала плакать?",
-            "state": "2"
+            "ru": "То есть в тот момент, когда я пришёл держа\nбумажный самолётик, она почувствовала облегчение\nи поэтому расплакалась?",
+            "state": "1"
         },
         "name": ""
     },
@@ -1360,7 +1381,7 @@
         "line": {
             "en": "She was fine now but until just now, she was\\nshaking. That must be how scared she was.",
             "ru": "Сейчас всё было хорошо, но перед этим она\nдрожала. Видимо, настолько она была напугана.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -1368,8 +1389,8 @@
         "id": "5a00",
         "line": {
             "en": "'Hold on a moment.'",
-            "ru": "«Подожди секунду».",
-            "state": "2"
+            "ru": "«Подожди минутку».",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1377,8 +1398,11 @@
         "id": "5e00",
         "line": {
             "en": "The bag at my feet rustled as I rummaged around\\ninside it.",
-            "ru": "Я поставил сумку у но и начал рыться внутри неё.",
-            "state": "2"
+            "ru": "Я поставил сумку у ног и принялся рыться\nвнутри неё.",
+            "state": "3",
+            "comments": [
+                "Немного не соответствует оригиналу, но сути не меняет."
+            ]
         },
         "name": ""
     },
@@ -1387,7 +1411,7 @@
         "line": {
             "en": "'?'",
             "ru": "«?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1396,7 +1420,7 @@
         "line": {
             "en": "When she saw the tools that I had taken out, she\\nseemed confused.",
             "ru": "Когда она увидела инструменты, которые я извлек,\nона выглядела удивленной.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -1405,7 +1429,7 @@
         "line": {
             "en": "'Would it be OK for you to get out for a moment?'",
             "ru": "«Тебя не затруднит освободить кресло ненадолго?»",
-            "state": "2"
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -1413,8 +1437,8 @@
         "id": "6e00",
         "line": {
             "en": "'Why...?'",
-            "ru": "«Нахуя...?»",
-            "state": "2"
+            "ru": "«Зачем...?»",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1423,7 +1447,7 @@
         "line": {
             "en": "'I'm gonna fix it. You can't go anywhere if you\\nhave a flat tire, can you?'",
             "ru": "«Я собираюсь починить его. Ты же не сможешь\nпокинуть это место со спущенной шиной, не так ли?»",
-            "state": "2"
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -1432,7 +1456,7 @@
         "line": {
             "en": "'W-Well yes but... Umm...'",
             "ru": "«Так то оно так, но... Эм...»",
-            "state": "2"
+            "state": "1"
         },
         "name": "Girl"
     },
@@ -1440,8 +1464,8 @@
         "id": "7a00",
         "line": {
             "en": "'...Would you be able to give me a hand?'",
-            "ru": "«...Не мог ты мне помочь?»",
-            "state": "2"
+            "ru": "«...Не мог бы ты мне помочь?»",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1450,7 +1474,7 @@
         "line": {
             "en": "Of course. Getting out of the wheelchair is not\\neasy for her.",
             "ru": "Естественно. Слезть с инвалидного кресла\nдля неё не так просто.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -1458,8 +1482,8 @@
         "id": "8200",
         "line": {
             "en": "'Umm... what should I do?'",
-            "ru": "«Хм... что я должен делать?»",
-            "state": "2"
+            "ru": "«Эм... что я должен делать?»",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -1468,7 +1492,7 @@
         "line": {
             "en": "'...'",
             "ru": "«...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1477,7 +1501,7 @@
         "line": {
             "en": "'...'",
             "ru": "«...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1486,7 +1510,7 @@
         "line": {
             "en": "From the methods I'd seen on TV, the care workers\\ndo it by embracing them from the front.",
             "ru": "Судя по методам, которые я видел по телевизору,\nсоциальные работники делают это обхватив их\nспереди.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -1495,7 +1519,7 @@
         "line": {
             "en": "We both looked as though we'd imagined that\\nsituation and froze.",
             "ru": "Мы оба представили эту ситуацию и застыли.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -1503,8 +1527,8 @@
         "id": "9600",
         "line": {
             "en": "'I... I think I'll do it myself.'",
-            "ru": "«Я... Я думаю, что сделаю\nэто самостоятельно».",
-            "state": "2"
+            "ru": "«Д... Думаю, что я сделаю\nэто самостоятельно».",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1513,7 +1537,7 @@
         "line": {
             "en": "'Excuse me a moment.'",
             "ru": "«Прощу меня извинить».",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1522,7 +1546,7 @@
         "line": {
             "en": "'Huh?'",
             "ru": "«Что?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1530,8 +1554,8 @@
         "id": "a200",
         "line": {
             "en": "'Eeeeek!!'",
-            "ru": "«Ааааай!!»",
-            "state": "2"
+            "ru": "«Ааааа!!»",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1539,8 +1563,8 @@
         "id": "a600",
         "line": {
             "en": "As I put my arms around her sides to her back, I\\nsuddenly lifted her up.",
-            "ru": "Заведя свои руки ей за спину, я резко\nподнял её.",
-            "state": "2"
+            "ru": "Заведя руки ей за спину, я резко поднял\nеё с кресла.",
+            "state": "3"
         },
         "name": ""
     },
@@ -1549,7 +1573,7 @@
         "line": {
             "en": "'!!!??!!???!!!??'",
             "ru": "«!!!??!!???!!!??»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1557,8 +1581,8 @@
         "id": "ae00",
         "line": {
             "en": "'(Whoa, she's so light...!)'",
-            "ru": "«(Такая лёгкая...!)»",
-            "state": "2"
+            "ru": "«(Ух! Такая лёгкая...!)»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1567,7 +1591,7 @@
         "line": {
             "en": "Because she was much lighter than I had expected,\\nthere was a bit too much momentum.",
             "ru": "Так как она оказалась легче, чем я ожидал,\n<рывок получился чересчур быстрым.>",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -1575,8 +1599,8 @@
         "id": "b600",
         "line": {
             "en": "'Hup...'",
-            "ru": "«Оп...»",
-            "state": "2"
+            "ru": "«Опа...»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1584,8 +1608,8 @@
         "id": "ba00",
         "line": {
             "en": "Before she could grasp the situation, I put her\\ndown on the soft grass.",
-            "ru": "Прежде, чем она успела осознать происходящее, я\nусадил её на траву.",
-            "state": "2"
+            "ru": "Прежде, чем она успела осознать происходящее,\nя уже усадил её на траву.",
+            "state": "3"
         },
         "name": ""
     },
@@ -1594,7 +1618,7 @@
         "line": {
             "en": "'...(Blushing)'",
             "ru": "«...(Краснь)»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1602,8 +1626,8 @@
         "id": "c200",
         "line": {
             "en": "'I'll have it fixed soon, so hold on a moment.'",
-            "ru": "«Я скоро починю это, так что подожди немного.»",
-            "state": "2"
+            "ru": "«Я скоро починю это, так что подожди немного».",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -1611,8 +1635,8 @@
         "id": "c600",
         "line": {
             "en": "'Sure...'",
-            "ru": "«Конечно...»",
-            "state": "2"
+            "ru": "«Хорошо...»",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1621,7 +1645,7 @@
         "line": {
             "en": "'They're made in the same way as bicycle tires.'",
             "ru": "«Они сделаны по тому же принципу, что и велосипедные шины».",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -1630,7 +1654,7 @@
         "line": {
             "en": "I immediately started on the repairs.",
             "ru": "Я незамедлительно начал ремонт.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -1639,7 +1663,7 @@
         "line": {
             "en": "She's behind me so I can't see her expression but\\nI had a feeling I was being stared at with\\ncontempt.",
             "ru": "Она была позади меня, так что я не мог видеть выражения её лица, но у меня было чувство, будто\nна меня смотрят с недоверием.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -1648,7 +1672,7 @@
         "line": {
             "en": "As I was quietly working, the duck was waddling\\naround me and pecking at the soil.",
             "ru": "Пока я молча работал, селезень бродил вокруг меня\nи клевал что-то на земле.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -1657,7 +1681,10 @@
         "line": {
             "en": "'Is this duck your pet?'",
             "ru": "«Этот селезень твой питомец?»",
-            "state": "2"
+            "state": "3",
+            "comments": [
+                "Нужно ли тире?"
+            ]
         },
         "name": "Aoi"
     },
@@ -1665,8 +1692,8 @@
         "id": "de00",
         "line": {
             "en": "'No, he isn't. We're housemates.'",
-            "ru": "«Нет. Он — сожитель»",
-            "state": "2"
+            "ru": "«Нет. Он скорее сожитель»",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -1675,7 +1702,7 @@
         "line": {
             "en": "Housemates...??",
             "ru": "Сожитель...??",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -1702,7 +1729,7 @@
         "line": {
             "en": "'Quack...'",
             "ru": "«Кря...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Hat"
     },
@@ -4309,7 +4336,7 @@
         "line": {
             "en": "'As much as possible... That's right, if I had to\\nsay...'",
             "ru": "«Как можно больше... Хорошо, я скажу прямо...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4317,8 +4344,8 @@
         "id": "7b04",
         "line": {
             "en": "She stopped talking and stared at Kanako, who was\\nstanding behind listening.",
-            "ru": "Она перестала говорить и уставилась на Канако,\nкоторая стояла позади, слушая нас.",
-            "state": "2"
+            "ru": "Она замолчала и уставилась на Канако, которая\nстояла позади, слушая нас.",
+            "state": "3"
         },
         "name": ""
     },
@@ -4336,7 +4363,7 @@
         "line": {
             "en": "'I...'",
             "ru": "«Я...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4390,7 +4417,7 @@
         "line": {
             "en": "'Have you forgotten it?'",
             "ru": "«Ты уже забыл об этом?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4398,8 +4425,8 @@
         "id": "9f04",
         "line": {
             "en": "'Huh? No, not yet.'",
-            "ru": "«А? Нет, ещё нет.»",
-            "state": "2"
+            "ru": "«А? Нет, ещё нет».",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -4407,8 +4434,8 @@
         "id": "a304",
         "line": {
             "en": "'Forget about it! Right now!!'",
-            "ru": "«Забудь всё! Сейчас же!!»",
-            "state": "2"
+            "ru": "«Забудь обо всём! Сейчас же!!»",
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4417,7 +4444,7 @@
         "line": {
             "en": "'Don't be so silly!'",
             "ru": "«Не требуй от меня невозможного!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -4426,7 +4453,7 @@
         "line": {
             "en": "When you say it like that, it just becomes more\\nstrongly engraved in my memory.",
             "ru": "Твои действия имеют обратный эффект.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -4443,7 +4470,7 @@
         "id": "b304",
         "line": {
             "en": "'Look, you're new here, so you don't know. Even\\nlike this, I...'",
-            "ru": "«Слушай, ты впервые здесь, так что ты ещё не\nв курсе. Разве ты...»",
+            "ru": "«Слушай, ты впервые здесь, так что ты ещё не\nв курсе. Неужели ты...»",
             "state": "2"
         },
         "name": "Kotori"
@@ -4639,7 +4666,7 @@
         "line": {
             "en": "When I remember her lifting her hair and being so\\nfull of confidence, I feel like I could burst out\\nlaughing.",
             "ru": "Я едва сдерживал смех.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },

@@ -3348,8 +3348,8 @@
         "id": "a504",
         "line": {
             "en": "The front door opened slightly and the girls from\\njust now were peeking through.",
-            "ru": "Парадная дверь немного приоткрылась и девушки\nизучали окрестности сквозь образовавшуюся\nщель.",
-            "state": "1"
+            "ru": "Парадная дверь немного приоткрылась и оттуда\nвыглянули две девушки.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3411,7 +3411,7 @@
         "id": "c104",
         "line": {
             "en": "'...Well, this is the situation.'",
-            "ru": "«...В общем, таково положение дел.»",
+            "ru": "«...В общем, положение дел таково.»",
             "state": "3"
         },
         "name": "Aoi"
@@ -3429,8 +3429,11 @@
         "id": "c904",
         "line": {
             "en": "While I was explaining the situation, the\\nboarding students, apart from the girl in her\\nunderwear (who was putting on some clothes)\\nsurrounded me but kept their distance, and\\nwatched me.",
-            "ru": "Пока я объяснял ситуацию, девушки, за исключением\nдевушки в нижнем белье (которая теперь было одета)\nокружили меня, но держали дистанцию и наблюдали за мной.",
-            "state": "1"
+            "ru": "Пока я объяснял ситуацию, девушки, за исключением\nнеглиже-чан (благо она надела кое-что из одежды),\nвстали вокруг меня, но сохраняли дистанцию.",
+            "state": "3",
+            "comments": [
+                "Хочется добавить «и следили за мной» (будто дикие животные), но пока оставил так."
+            ]
         },
         "name": ""
     },
@@ -3438,8 +3441,8 @@
         "id": "cd04",
         "line": {
             "en": "'This is no good is it...? A boy being the dorm\\nmother of a girl's dormitory.'",
-            "ru": "«Это ведь не к добру...? Парень-горничная\nв женском общежитии».",
-            "state": "1"
+            "ru": "«Вас не смущает, что горничной в женском\nобщежитии будет парень?».",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -3456,8 +3459,8 @@
         "id": "d504",
         "line": {
             "en": "From behind the underwear girl (she was wearing\\nclothes now but they were pretty gaudy) were some\\ngirls who looked like they were hiding but they\\nwere nodding and agreeing.",
-            "ru": "Позади девушки в нижнем белье (хоть она и оделась,\nно смотрелась вызывающе) стояли другие, будто\nпрячась за ней, но они закивали, соглашаясь с ней.",
-            "state": "1"
+            "ru": "Другие девушки, стоящие позади неглиже-чан\n(хоть она и была одета, но всё равно смотрелась\nвызывающе) будто прячась за ней, закивали,\nсоглашаясь с ней.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3465,8 +3468,11 @@
         "id": "d904",
         "line": {
             "en": "'If nobody comes here, that will be a bigger\\nproblem.'",
-            "ru": "«Если никто не займёт это место, это будет\nкуда большая проблема».",
-            "state": "1"
+            "ru": "«Будет хуже, если мы останемся совсем\nбез горничной».",
+            "state": "3",
+            "comments": [
+                "Я так понял, что им срочно нужна замена."
+            ]
         },
         "name": "Girl wearing glasses"
     },
@@ -3474,7 +3480,7 @@
         "id": "dd04",
         "line": {
             "en": "'Y...yes, that's right. But I just thought it\\nwould be someone older...'",
-            "ru": "«Д...да, верно. Но я думала, что это будет\nкто-то постарше...»",
+            "ru": "«Д...да, верно. Но, честно говоря, я думала,\nчто это будет кто-то постарше...»",
             "state": "3"
         },
         "name": "Tall girl"
@@ -3492,8 +3498,8 @@
         "id": "e504",
         "line": {
             "en": "Incidentally, there is now one more person than\\nbefore.",
-            "ru": "Стоит заметить, что девушек стало на одну больше.",
-            "state": "1"
+            "ru": "Стоит отметить, что девушек стало на одну больше.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3501,8 +3507,11 @@
         "id": "e904",
         "line": {
             "en": "She was kind of timid and looked to be the same\\nage, or maybe a year younger than me.",
-            "ru": "Она была своего рода робкой и на вид того же\nвозраста, или возможно на год младше, чем я.",
-            "state": "1"
+            "ru": "Она выглядела застенчиво и, похоже, мы с ней были\nодногодками.",
+            "state": "2",
+            "comments": [
+                "Про «на год младше» не получается воткнуть."
+            ]
         },
         "name": ""
     },
@@ -3528,8 +3537,8 @@
         "id": "f504",
         "line": {
             "en": "'Did you say your name was Aoi? How old are you?'",
-            "ru": "«Ты говоришь тебя зовут Аои? Сколько тебе лет?»",
-            "state": "1"
+            "ru": "«Говоришь тебя зовут Аои? Сколько тебе лет?»",
+            "state": "3"
         },
         "name": "Lightly dressed girl"
     },
@@ -3573,7 +3582,7 @@
         "id": "0a04",
         "line": {
             "en": "'The person who came to speak to all of you is my\\nmother, and, well, she kind of half-tricked me\\ninto accepting this job as dorm mother...'",
-            "ru": "«Женщина, которая приходила, поговорить со всеми\nвами моя мать, и, как оказалось, она немного\nсхитрила вынудив меня взяться за эту работу».",
+            "ru": "«Женщина, которая приходила, поговорить со всеми\nвами моя мать, и, как оказалось, она немного\nсхитрила вынудив меня взяться эту работу горничной».",
             "state": "1"
         },
         "name": "Aoi"
@@ -3582,8 +3591,11 @@
         "id": "0e04",
         "line": {
             "en": "My mom has a job connected to real estate and her\\ncompany manages this property.",
-            "ru": "Моя мать работает с недвижимостью и её компания\nвладеет этим общежитием.",
-            "state": "1"
+            "ru": "Моя мама работает с недвижимостью и её компания\nуправляет этим общежитием.",
+            "state": "3",
+            "comments": [
+                "Осуществляет доверительное управление, как управляющая компания."
+            ]
         },
         "name": ""
     },
@@ -3591,7 +3603,7 @@
         "id": "1204",
         "line": {
             "en": "'Well then. What should we do, Yuka? Should we\\nchange?'",
-            "ru": "«Итак. Что нам делать, Юка?»",
+            "ru": "«Итак. Похоже, нам придётся с этим смириться.\nЧто думаешь, Юка?»",
             "state": "1"
         },
         "name": "Lightly dressed girl"
@@ -3600,8 +3612,11 @@
         "id": "1604",
         "line": {
             "en": "'If that's the situation...'",
-            "ru": "«В такой ситуации...»",
-            "state": "1"
+            "ru": "«Ничего не поделаешь...»",
+            "state": "3",
+            "comments": [
+                "When You Can't Change Your Circumstances, Change Yourself"
+            ]
         },
         "name": "Tall girl"
     },
@@ -3609,8 +3624,8 @@
         "id": "1a04",
         "line": {
             "en": "The person who seemed the oldest said so, and the\\nother people reluctantly nodded in agreement.",
-            "ru": "",
-            "state": "1"
+            "ru": "Та, что выглядела старше всех, выразила своё согласие,\nи остальные девушки нехотя закивали.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3618,7 +3633,7 @@
         "id": "1e04",
         "line": {
             "en": "'This is just until the owner-caretaker comes\\nback or we find someone else.'",
-            "ru": "«Это до тех пор, пока владелец-смотритель\nне вернётся или мы не найдём кого-то другого».",
+            "ru": "«Что ж... До тех пор, пока владелец-смотритель\nне вернётся или мы не найдём кого-то другого».",
             "state": "1"
         },
         "name": "Aoi"
@@ -3636,8 +3651,8 @@
         "id": "2604",
         "line": {
             "en": "Once the conversation was over, naturally,\\neveryone left and went back to their rooms.",
-            "ru": "Когда разговор был закончен, все разошлись\nпо своим комнатам.",
-            "state": "1"
+            "ru": "Стоило разговору закончится, как все, что и\nследовало ожидать, разошлись по своим комнатам.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3729,7 +3744,7 @@
         "id": "4e04",
         "line": {
             "en": "'Ah, well there is one more person but she's what\\nyou might call the reclusive type...'",
-            "ru": "«Ну, вообще-то, тут есть ещё один человек, правда\nона ведёт затворнический образ жизни...»",
+            "ru": "«Ну, вообще-то тут есть ещё одна девушка, правда\nона ведёт затворнический образ жизни...»",
             "state": "1"
         },
         "name": "Kanako"
@@ -3738,8 +3753,8 @@
         "id": "5204",
         "line": {
             "en": "'I wonder if she'll come out of her room at some\\npoint?'",
-            "ru": "",
-            "state": "1"
+            "ru": "«Я удивлюсь, если она когда-нибудь выйдет\nиз своей комнаты».",
+            "state": "3"
         },
         "name": "Kanako"
     },

@@ -3582,8 +3582,8 @@
         "id": "0a04",
         "line": {
             "en": "'The person who came to speak to all of you is my\\nmother, and, well, she kind of half-tricked me\\ninto accepting this job as dorm mother...'",
-            "ru": "«Женщина, которая приходила, поговорить со всеми\nвами моя мать, и, как оказалось, она немного\nсхитрила вынудив меня взяться эту работу горничной».",
-            "state": "1"
+            "ru": "«Женщина, которая приходила к вам, — это моя мать,\nи, как оказалось, она немного схитрила вынудив\nменя взяться работу горничной».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -3603,8 +3603,8 @@
         "id": "1204",
         "line": {
             "en": "'Well then. What should we do, Yuka? Should we\\nchange?'",
-            "ru": "«Итак. Похоже, нам придётся с этим смириться.\nЧто думаешь, Юка?»",
-            "state": "1"
+            "ru": "«Ну что ж, похоже, нам придётся смириться.\nКак думаешь, Юка?»",
+            "state": "3"
         },
         "name": "Lightly dressed girl"
     },
@@ -3612,7 +3612,7 @@
         "id": "1604",
         "line": {
             "en": "'If that's the situation...'",
-            "ru": "«Ничего не поделаешь...»",
+            "ru": "«Альтернативы у нас всё равно нет...»",
             "state": "3",
             "comments": [
                 "When You Can't Change Your Circumstances, Change Yourself"
@@ -3633,8 +3633,8 @@
         "id": "1e04",
         "line": {
             "en": "'This is just until the owner-caretaker comes\\nback or we find someone else.'",
-            "ru": "«Что ж... До тех пор, пока владелец-смотритель\nне вернётся или мы не найдём кого-то другого».",
-            "state": "1"
+            "ru": "«Потерпите до тех пор, пока владелец-смотритель\nне вернётся или мы не найдём замену».",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -3642,8 +3642,8 @@
         "id": "2204",
         "line": {
             "en": "'I apologize for the inconvenience but for the\\ntime being, let's all try to get along.'",
-            "ru": "«Прошу прощения за доставленные неудобства, но\nдавайте попробуем пожить дружно некоторое время».",
-            "state": "1"
+            "ru": "«Прошу прощения за возможные неудобства,\nно некоторое время время нам придётся\nуживаться вместе».",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -3661,7 +3661,7 @@
         "line": {
             "en": "'Hey, I'm sorry. Everyone can be so childish and\\nthey got carried away in front of a young guy\\nlike you.'",
             "ru": "",
-            "state": "1"
+            "state": "0"
         },
         "name": "Lightly dressed girl"
     },
@@ -3744,8 +3744,8 @@
         "id": "4e04",
         "line": {
             "en": "'Ah, well there is one more person but she's what\\nyou might call the reclusive type...'",
-            "ru": "«Ну, вообще-то тут есть ещё одна девушка, правда\nона ведёт затворнический образ жизни...»",
-            "state": "1"
+            "ru": "«Ну, честно говоря, с нами живёт ещё одна девушка,\nно она ведёт затворнический образ жизни...»",
+            "state": "3"
         },
         "name": "Kanako"
     },
@@ -3753,7 +3753,7 @@
         "id": "5204",
         "line": {
             "en": "'I wonder if she'll come out of her room at some\\npoint?'",
-            "ru": "«Я удивлюсь, если она когда-нибудь выйдет\nиз своей комнаты».",
+            "ru": "«Я удивлюсь, если она вообще когда-нибудь выйдет\nиз своей комнаты».",
             "state": "3"
         },
         "name": "Kanako"
@@ -4038,7 +4038,7 @@
         "id": "ce04",
         "line": {
             "en": "I remembered seeing that before.",
-            "ru": "Дежавю.",
+            "ru": "Меня посетило ощущение дежа вю.",
             "state": "3"
         },
         "name": ""
@@ -4048,7 +4048,7 @@
         "line": {
             "en": "However,",
             "ru": "Однако,",
-            "state": "1"
+            "state": "3"
         },
         "name": ""
     },
@@ -4056,8 +4056,8 @@
         "id": "d604",
         "line": {
             "en": "'(...It's somehow a lot different compared to the\\nimage she had during the day!)'",
-            "ru": "«(...То что я видел существенно отличается от того\nобраза, который был у неё в течение дня!)»",
-            "state": "1"
+            "ru": "«(...Всё это существенно отличалось от того\nобраза, который был у неё днём!)»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -4065,8 +4065,8 @@
         "id": "da04",
         "line": {
             "en": "In the daytime, she seemed more dainty and\\ndelicate.",
-            "ru": "Днём, она казалась более изящной и деликатной.",
-            "state": "1"
+            "ru": "Днём она создавала впечатление более\nутонченной и изысканной натуры.",
+            "state": "3"
         },
         "name": ""
     },
@@ -4074,8 +4074,8 @@
         "id": "de04",
         "line": {
             "en": "However, her appearance was the same. It's not\\noften that you see such a pretty girl.",
-            "ru": "Хотя выглядела она так же. Редко удаётся\nвстретить такую очаровательную девушку.",
-            "state": "1"
+            "ru": "Хотя внешне она никак не изменилась. Редко\nудаётся повстречать такую симпатичную девушку.",
+            "state": "2"
         },
         "name": ""
     },
@@ -4173,8 +4173,11 @@
         "id": "0b04",
         "line": {
             "en": "She got as far as saying that but then realized\\nthat she has the small cloth in her hand, and\\ntried to hide it by stuffing it under her\\nbackside.",
-            "ru": "Она пыталась что-то сказать, но потом осознала,\nчто держит кусочек ткани в своей руке, и поспешно\nспрятала его позади себя.",
-            "state": "1"
+            "ru": "Она собиралась ещё что-то сказать, но потом вдруг\nосознала, что держит кусочек ткани в руке,\nи поспешно спрятала его за спиной.",
+            "state": "2",
+            "comments": [
+                "На самом деле «запихала под зад», но на русском это звучит грубовато."
+            ]
         },
         "name": ""
     },
@@ -4200,8 +4203,8 @@
         "id": "1704",
         "line": {
             "en": "Kanako, who was supposed to be taking a bath,\\npoked her head out.",
-            "ru": "Канако, которая предположительно принимает ванну,\nвысунула её голову наружу.",
-            "state": "1"
+            "ru": "Канако, которая как предполагалось принимает ванну,\nвысунула голову наружу.",
+            "state": "2"
         },
         "name": ""
     },
@@ -4209,7 +4212,7 @@
         "id": "1b04",
         "line": {
             "en": "'Really? What do you mean? I hadn't heard about\\nthat!!'",
-            "ru": "«Ты шутишь? Кто так решил? Я ничего об этом не\nслышала!!»",
+            "ru": "«Ты шутишь? Кто так решил? Я впервые об этом\nслышу!!»",
             "state": "3"
         },
         "name": "Kotori"
@@ -4218,8 +4221,8 @@
         "id": "1f04",
         "line": {
             "en": "'Even if I tried to tell you, Kotori-chan, you\\nhardly ever come out of your room!'",
-            "ru": "«Даже если бы я попыталась рассказать тебе,\nты вряд ли бы вышла из своей комнаты»",
-            "state": "1"
+            "ru": "«Даже если бы я попыталась тебе что-то рассказать,\nты бы даже не вышла из своей комнаты!»",
+            "state": "2"
         },
         "name": "Kanako"
     },
@@ -4236,7 +4239,7 @@
         "id": "2704",
         "line": {
             "en": "Hey, look! Hey, look!",
-            "ru": "Посмотри! Посмотри!",
+            "ru": "Посмотрите! Посмотрите!",
             "state": "3"
         },
         "name": ""
@@ -4245,8 +4248,8 @@
         "id": "2b04",
         "line": {
             "en": "is what it felt like she was saying as she\\nrelentlessly pointed at me.",
-            "ru": "с таким грубым выражением она указывала\nна меня.",
-            "state": "1"
+            "ru": "",
+            "state": "0"
         },
         "name": ""
     },
@@ -4335,8 +4338,8 @@
         "id": "5304",
         "line": {
             "en": "Hat turned to face me and flapped his wings. He's\\na clever duck.",
-            "ru": "Хат повернулся ко мне и захлопал крыльями.\nВоспитанный селезень.",
-            "state": "1"
+            "ru": "Хат повернулся ко мне и взмахнул крыльями. Какой\nвоспитанный селезень.",
+            "state": "2"
         },
         "name": ""
     },
@@ -4353,7 +4356,7 @@
         "id": "5b04",
         "line": {
             "en": "'Yes, that's right. So you... are against it?'",
-            "ru": "«Да, это так. Ты... против этого?»",
+            "ru": "«Правда. Ты... против этого?»",
             "state": "3"
         },
         "name": "Aoi"
@@ -4362,8 +4365,8 @@
         "id": "5f04",
         "line": {
             "en": "If she says she doesn't like the fact the dorm\\nmother of a girl's dormitory is a guy, or the\\nfact that we're the same age, there's nothing I\\ncan do about it.",
-            "ru": "Если она скажет, что ей не нравится тот факт, что\nгорничная женского общежития парень или, что\nмы одного возраста, то я ничего не смогу с этим\nподелать.",
-            "state": "1"
+            "ru": "Если ей не нравится тот факт, что горничной\nв женском общежитии работает парень, или что мы\nодного возраста, то с этим ничего не поделаешь.",
+            "state": "2"
         },
         "name": ""
     },
@@ -4380,8 +4383,8 @@
         "id": "6704",
         "line": {
             "en": "Kotori closes her eyes, and quietly takes a deep\\nbreath as if trying to focus her mind.",
-            "ru": "Котори закрыла глаза, безмятежно сделала\nглубокий вдох и <приняла сосредоточенный вид.>",
-            "state": "1"
+            "ru": "Котори закрыла глаза и сделала глубокий вдох\nбудто собираясь с мыслями.",
+            "state": "2"
         },
         "name": ""
     },
@@ -4425,7 +4428,7 @@
         "id": "7b04",
         "line": {
             "en": "She stopped talking and stared at Kanako, who was\\nstanding behind listening.",
-            "ru": "Она замолчала и уставилась на Канако, которая\nстояла позади, слушая нас.",
+            "ru": "Она замолчала и уставилась на Канако, которая\nстояла позади нас.",
             "state": "3"
         },
         "name": ""
@@ -4434,8 +4437,8 @@
         "id": "7f04",
         "line": {
             "en": "Kanako looked as if she was saying 'OK, OK' as\\nshe disappeared down the hallway.",
-            "ru": "Канако поняла этот взгляд и молча исчезла\nв глубине коридора.",
-            "state": "1"
+            "ru": "Канако поняла этот взгляд и, ни слова не сказав,\nисчезла в глубине коридора.",
+            "state": "2"
         },
         "name": ""
     },
@@ -4452,8 +4455,11 @@
         "id": "8704",
         "line": {
             "en": "'That I made a careless mistake, and that I\\nstarted crying!!'",
-            "ru": "«Забудь про мой опрометчивый поступок, и то,\nкак я заплакала!!»",
-            "state": "1"
+            "ru": "«Забудь про безвыходное положение, в котором\nя оказалась, и о том как я заплакала!!»",
+            "state": "2",
+            "comments": [
+                "Речь о том, что положение её было безвыходным и ей требовалась помощь."
+            ]
         },
         "name": "Kotori"
     },
@@ -4461,7 +4467,7 @@
         "id": "8b04",
         "line": {
             "en": "'Oh...'",
-            "ru": "«Ох...»",
+            "ru": "«Эм...»",
             "state": "3"
         },
         "name": "Aoi"
@@ -4470,8 +4476,8 @@
         "id": "8f04",
         "line": {
             "en": "That incident was quite startling and I remember\\nit well.",
-            "ru": "Такое событие сложно было забыть, и я запомнил\nего в мельчайших деталях.",
-            "state": "1"
+            "ru": "Честно говоря, те события достаточно хорошо\nотпечатались в моей памяти.",
+            "state": "2"
         },
         "name": ""
     },
@@ -4479,8 +4485,11 @@
         "id": "9304",
         "line": {
             "en": "To see a girl's tears from so close like that is\\nsomething I don't experience very often.",
-            "ru": "<Увидеть слезы девушки так близко, это не то\nчто случается со мной так часто.>",
-            "state": "1"
+            "ru": "Не припомню, чтобы когда-либо ещё мне удавалось\nвидеть слезы девушки.",
+            "state": "2",
+            "comments": [
+                "У них «не так часто», но тогда получается, что видел и уникальность момента теряется."
+            ]
         },
         "name": ""
     },
@@ -4488,8 +4497,8 @@
         "id": "9704",
         "line": {
             "en": "I don't know what she thinks about it but those\\ntears were very beautiful.",
-            "ru": "Не знаю, что она об этом думает, но эти слезы\nбыли так прекрасны.",
-            "state": "1"
+            "ru": "Не знаю, как она видит для себя эту ситуацию,\nно эти слезы были прекрасны.",
+            "state": "2"
         },
         "name": ""
     },
@@ -4551,8 +4560,8 @@
         "id": "b304",
         "line": {
             "en": "'Look, you're new here, so you don't know. Even\\nlike this, I...'",
-            "ru": "«Слушай, ты впервые здесь, так что ты ещё не\nв курсе. Неужели ты...»",
-            "state": "1"
+            "ru": "«Слушай, ты здесь новенький, так что ты ещё не\nзнаешь».",
+            "state": "2"
         },
         "name": "Kotori"
     },
@@ -4561,7 +4570,7 @@
         "line": {
             "en": "Kotori straightened her back,",
             "ru": "Котори выпрямила спину,",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -4569,8 +4578,8 @@
         "id": "bb04",
         "line": {
             "en": "composed her expression and smiled,",
-            "ru": "фальшиво улыбнулась,",
-            "state": "1"
+            "ru": "",
+            "state": "0"
         },
         "name": ""
     },
@@ -4578,8 +4587,8 @@
         "id": "bf04",
         "line": {
             "en": "and 'swish', with a natural gesture, she lifted\\nher hair up.",
-            "ru": "и, сделав жест рукой, она приподняла волосы.",
-            "state": "1"
+            "ru": "",
+            "state": "0"
         },
         "name": ""
     },
@@ -4587,8 +4596,8 @@
         "id": "c304",
         "line": {
             "en": "'Don't you feel my cool 'allule'?'",
-            "ru": "«Ощущаешь ли ты моё ['allule']»",
-            "state": "1"
+            "ru": "«Разве ты не чувствуешь моё кулаллуле?»",
+            "state": "2"
         },
         "name": "Kotori"
     },
@@ -4596,8 +4605,8 @@
         "id": "c704",
         "line": {
             "en": "'What's 'allule'?'",
-            "ru": "«О чём речь?»",
-            "state": "1"
+            "ru": "«Аллуле?»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -4605,8 +4614,8 @@
         "id": "cb04",
         "line": {
             "en": "'Ah, allure! I just said it a bit wrong, that's\\nall!'",
-            "ru": "«То есть [allure]! Я все го лишь произнесла\nэто с ошибкой!»",
-            "state": "1"
+            "ru": "«А... аллуре! Я лишь произнесла это немного\nне так, только и всего!»",
+            "state": "2"
         },
         "name": "Kotori"
     },
@@ -4614,8 +4623,8 @@
         "id": "cf04",
         "line": {
             "en": "'Oh... I've heard that word before.'",
-            "ru": "«Хм... Я уже слышал это слово раньше.»",
-            "state": "1"
+            "ru": "«О... Кажется я уже слышал это слово».",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -4632,8 +4641,8 @@
         "id": "d704",
         "line": {
             "en": "She said that and then straightened her back and\\nmade a composed smile again.",
-            "ru": "Она сказала это, а затем снова выпрямила спину\nи фальшиво улыбнулась.",
-            "state": "1"
+            "ru": "",
+            "state": "0"
         },
         "name": ""
     },
@@ -4642,7 +4651,7 @@
         "line": {
             "en": "'OK, that's enough! I get it, all right?'",
             "ru": "«Достаточно! Я всё понял, хорошо?»",
-            "state": "1"
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -4659,8 +4668,8 @@
         "id": "e304",
         "line": {
             "en": "'Geez! You're such a jerk! Nitpicker! Lowlife!'",
-            "ru": "«Боже! Ты придурок! Зануда! Одноклеточное!»",
-            "state": "3"
+            "ru": "«Боже! Вот ведь придурок! Зануда! Одноклеточное!»",
+            "state": "2"
         },
         "name": "Kotori"
     },
@@ -4668,8 +4677,11 @@
         "id": "e704",
         "line": {
             "en": "Kotori used just about every insult there is,\\nthen turned her wheelchair around.",
-            "ru": "Котори продолжала выкрикивать всевозможные\nоскорбления, а потом развернула своё кресло.",
-            "state": "1"
+            "ru": "Котори, продолжая сыпать оскорблениями,\nразвернула своё кресло...",
+            "state": "2",
+            "comments": [
+                "В английском варианте она сначала обругала главного героя, и лишь затем уехала. Но у меня не получилось сформировать предложение с таким смыслом оО"
+            ]
         },
         "name": ""
     },
@@ -4677,8 +4689,8 @@
         "id": "eb04",
         "line": {
             "en": "Then, she hurriedly raced back down the hallway\\nand back into her room.",
-            "ru": "И поспешно уехала по коридору обратно\nв свою комнату.",
-            "state": "1"
+            "ru": "...и торопливо уехала в свою комнату.",
+            "state": "2"
         },
         "name": ""
     },
@@ -4695,8 +4707,11 @@
         "id": "f304",
         "line": {
             "en": "Along the way, Hat, who had been thrown off,\\nchased after her and entered the room through a\\nsmall door (maybe a special door for ducks) built\\ninto the bottom of the main door.",
-            "ru": "<Хат, которого скинули на пол, проследовал за ней\nи вошёл в комнату через небольшую дверцу (видимо,\nспециально для него) сделанную у основания.>",
-            "state": "1"
+            "ru": "Хат, которого в какой-то момент скинули на пол,\nпроследовал за девушкой и вошёл в её комнату\nчерез небольшую дверцу снизу.",
+            "state": "2",
+            "comments": [
+                "Вырезал лишнее."
+            ]
         },
         "name": ""
     },
@@ -4713,8 +4728,8 @@
         "id": "fb04",
         "line": {
             "en": "I don't need to say this but the dainty and\\ndelicate image that she had in the daytime had\\ncompletely crumbled away.",
-            "ru": "",
-            "state": "1"
+            "ru": "Не стоит говорить, о том что от утонченного и\nизысканного образа, который был у неё днем,\nне осталось и следа.",
+            "state": "2"
         },
         "name": ""
     },
@@ -4723,7 +4738,7 @@
         "line": {
             "en": "A delicate bud was beginning to sprout, and we\\nshared a fleeting love.",
             "ru": "",
-            "state": "1"
+            "state": "0"
         },
         "name": ""
     },
@@ -4740,8 +4755,8 @@
         "id": "0408",
         "line": {
             "en": "'Cool 'allule'...right?'",
-            "ru": "",
-            "state": "1"
+            "ru": "«Кулаллуле?»",
+            "state": "2"
         },
         "name": "Aoi"
     },
@@ -4750,7 +4765,7 @@
         "line": {
             "en": "When I remember her lifting her hair and being so\\nfull of confidence, I feel like I could burst out\\nlaughing.",
             "ru": "Я едва сдерживал смех.",
-            "state": "1"
+            "state": "2"
         },
         "name": ""
     },
@@ -4768,7 +4783,7 @@
         "line": {
             "en": "From the beginning, everything has been so messed\\nup.",
             "ru": "С самого начала всё пошло наперекосяк.",
-            "state": "1"
+            "state": "3"
         },
         "name": ""
     },
@@ -4776,8 +4791,8 @@
         "id": "1408",
         "line": {
             "en": "From tomorrow onwards, it looks like things will\\nstart getting interesting. I really felt that\\nprediction would come true.",
-            "ru": "<Но начиная с завтрашнего дня, похоже, всё\nстанет ещё интереснее.>",
-            "state": "1"
+            "ru": "Но у меня было предчувствие, что начиная\nс завтрашнего дня всё станет только интереснее.",
+            "state": "2"
         },
         "name": ""
     }

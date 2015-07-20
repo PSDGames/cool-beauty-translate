@@ -535,7 +535,7 @@
         "line": {
             "en": "That part actually wasn't a lie, and I became\\nquite defiant, then pushed the 'Close Door'\\nbutton in the elevator.",
             "state": "1",
-            "ru": "Эта часть даже не была ложью, и я поступил весьма дерзко, нажав кнопку закрытия дверей"
+            "ru": "Эта часть даже не была ложью, и я поступил весьма\nдерзко, нажав кнопку закрытия дверей."
         },
         "name": ""
     },
@@ -553,7 +553,7 @@
         "line": {
             "en": "Akari's voice chased us through the gap in the\\nclosing doors.",
             "state": "1",
-            "ru": "Голос Акари "
+            "ru": "Голос Акари доносился в щель между закрывающимися\nдверями."
         },
         "name": ""
     },
@@ -561,7 +561,8 @@
         "id": "f800",
         "line": {
             "en": "'Whoa, this wind is unbelievable...!'",
-            "ru": ""
+            "ru": "«Уаа, ветер просто невероятный...!»",
+            "state": "1"
         },
         "name": "Kotori"
     },
@@ -577,7 +578,8 @@
         "id": "0100",
         "line": {
             "en": "'Quack, quack!!'",
-            "ru": ""
+            "ru": "«Кряк кряк!!»",
+            "state": "1"
         },
         "name": "Hat"
     },
@@ -585,7 +587,8 @@
         "id": "0500",
         "line": {
             "en": "'No, Hat, don't come out here! You're fat but\\nyou're still small, so you'd get blown away for\\nsure!'",
-            "ru": ""
+            "ru": "«Нет, Хат, не выходи сюда! Ты, конечно, толстяк,\nно всё равно очень маленький, так что тебя легко\nунесёт ветром!»",
+            "state": "1"
         },
         "name": "Kotori"
     },
@@ -593,7 +596,8 @@
         "id": "0900",
         "line": {
             "en": "'Quack!!'",
-            "ru": ""
+            "ru": "«Кряк!!»",
+            "state": "1"
         },
         "name": "Hat"
     },
@@ -601,7 +605,8 @@
         "id": "0d00",
         "line": {
             "en": "'Hey you, stop playing around and come help.'",
-            "ru": ""
+            "ru": "«Эй, хватит играть, лучше иди помоги».",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -609,7 +614,8 @@
         "id": "1100",
         "line": {
             "en": "'Urk!'",
-            "ru": ""
+            "ru": "«Урк!»",
+            "state": "1"
         },
         "name": "Kotori"
     },
@@ -617,7 +623,8 @@
         "id": "1500",
         "line": {
             "en": "I came back in a hurry, and got all of the\\nboarders to help with the repairs.",
-            "ru": ""
+            "ru": "Я вернулся в спешке. Все жильцы помогали мне\nс ремонтом.",
+            "state": "1"
         },
         "name": ""
     },
@@ -625,7 +632,8 @@
         "id": "1900",
         "line": {
             "en": "The strong winds had picked up momentum since we\\nleft school, and howling sounds were coming from\\nthe old dormitory.",
-            "ru": ""
+            "ru": "С тех пор, как мы ушли из школы, ветер всё набирал\nсилу. Из старого общежития доносились его завывания.",
+            "state": "1"
         },
         "name": ""
     },
@@ -633,7 +641,8 @@
         "id": "1d00",
         "line": {
             "en": "'Hey, you know Akari wanted to talk about\\nsomething. It was 'that', wasn't it...?'",
-            "ru": ""
+            "ru": "«Эй, Акари хотела поговорить о чем-то.\nЭто ведь то самое, да...?»",
+            "state": "1"
         },
         "name": "Ageha"
     },
@@ -641,7 +650,8 @@
         "id": "2100",
         "line": {
             "en": "Ageha seemed worried as she asked.",
-            "ru": ""
+            "ru": "Агеха выглядела обеспокоенной этим вопросом.",
+            "state": "1"
         },
         "name": ""
     },
@@ -649,7 +659,8 @@
         "id": "2500",
         "line": {
             "en": "'Maybe. That's what it looked like.'",
-            "ru": ""
+            "ru": "«Возможно. Всё выглядело именно так».",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -657,7 +668,8 @@
         "id": "2900",
         "line": {
             "en": "'What'll we do?'",
-            "ru": ""
+            "ru": "«Что мы будем делать?»",
+            "state": "1"
         },
         "name": "Ageha"
     },
@@ -665,7 +677,8 @@
         "id": "2d00",
         "line": {
             "en": "'There's not much we can do. We'll just have to\\nplay dumb.'",
-            "ru": ""
+            "ru": "«У нас не так уж много вариантов. Нам просто\nнужно молчать.»",
+            "state": "1"
         },
         "name": "Kotori"
     },
@@ -681,7 +694,8 @@
         "id": "3500",
         "line": {
             "en": "'Seems like it...'",
-            "ru": ""
+            "ru": "«Похоже на то...»",
+            "state": "1"
         },
         "name": "Ageha"
     },
@@ -689,7 +703,8 @@
         "id": "3900",
         "line": {
             "en": "We had a secret.",
-            "ru": ""
+            "ru": "У нас был секрет.",
+            "state": "1"
         },
         "name": ""
     },
@@ -697,7 +712,8 @@
         "id": "3d00",
         "line": {
             "en": "We'll be in big trouble if the uppity student\\ncouncil president finds out about it.",
-            "ru": ""
+            "ru": "И у нас будут большие проблемы, если нахальный\nпрезидент студсовета узнает о нём.",
+            "state": "1"
         },
         "name": ""
     },
@@ -705,7 +721,8 @@
         "id": "4100",
         "line": {
             "en": "'Even if we are found out, we should face it with\\ndignity!'",
-            "ru": ""
+            "ru": "«Даже если нас раскроют, мы должны держаться достойно!»",
+            "state": "1"
         },
         "name": "Kotori"
     },
@@ -713,7 +730,8 @@
         "id": "4500",
         "line": {
             "en": "'I envy your unfounded self-confidence.'",
-            "ru": ""
+            "ru": "«Завидую твоей необоснованной самоуверенности».",
+            "state": "1"
         },
         "name": "Ageha"
     },
@@ -721,7 +739,8 @@
         "id": "4900",
         "line": {
             "en": "'More importantly, I get really fired up when\\nthere's a typhoon! It really fills me with\\nintense emotions!'",
-            "ru": ""
+            "ru": "",
+            "state": "1"
         },
         "name": "Kotori"
     },
@@ -729,7 +748,8 @@
         "id": "4d00",
         "line": {
             "en": "Kotori holds both hands up in the air in sheer\\nexcitement. She really is an odd one.",
-            "ru": ""
+            "ru": "Котори подняла руки в воздух в полнейшем восхищении.\nОна и правда странная.",
+            "state": "1"
         },
         "name": ""
     },
@@ -737,7 +757,8 @@
         "id": "5100",
         "line": {
             "en": "'I'm more worried that this old dormitory might\\nget blown away.'",
-            "ru": ""
+            "ru": "«Меня больше беспокоит то, что старое общежитие\nможет унести ветром.»",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -745,7 +766,8 @@
         "id": "5500",
         "line": {
             "en": "As I speak, I throw some of the repair materials\\ndown on Kotori's lap with a thud.",
-            "ru": ""
+            "ru": "Я бросил отделочные материалы Котори на колени\nс глухим звуком.",
+            "state": "1"
         },
         "name": ""
     },
@@ -753,7 +775,8 @@
         "id": "5900",
         "line": {
             "en": "'Take these to Yuka and the others.'",
-            "ru": ""
+            "ru": "«Отвези их Юке и остальным».",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -761,7 +784,8 @@
         "id": "5d00",
         "line": {
             "en": "'Okay. Let's go, Hat!'",
-            "ru": ""
+            "ru": "«Хорошо. Пошли, Хат!»",
+            "state": "1"
         },
         "name": "Kotori"
     },
@@ -769,7 +793,8 @@
         "id": "6100",
         "line": {
             "en": "'Quack!'",
-            "ru": ""
+            "ru": "«Кряк!»",
+            "state": "1"
         },
         "name": "Hat"
     },
@@ -777,7 +802,8 @@
         "id": "6500",
         "line": {
             "en": "Kotori doesn't put up any resistance and heads\\ntoward the other boarders.",
-            "ru": ""
+            "ru": "Котори без сопротивления отправилась к другим\nжильцам.",
+            "state": "1"
         },
         "name": ""
     },
@@ -785,7 +811,8 @@
         "id": "6900",
         "line": {
             "en": "She's changed a lot, too, in the last year.",
-            "ru": ""
+            "ru": "Она тоже сильно изменилась за этот год.",
+            "state": "1"
         },
         "name": ""
     },
@@ -793,7 +820,8 @@
         "id": "6d00",
         "line": {
             "en": "When I first came here, she hardly spoke to the\\nother boarders at all. But now, she speaks to\\nthem normally.",
-            "ru": ""
+            "ru": "Когда я впервые попал сюда, она почти не общалась\nс другими жильцами. А сейчас она нормально разговаривает\nс ними.",
+            "state": "1"
         },
         "name": ""
     },
@@ -809,7 +837,8 @@
         "id": "7500",
         "line": {
             "en": "All of the other boarders are such nice people.\\nAs soon as Kotori started being herself, they\\naccepted her.",
-            "ru": ""
+            "ru": "Все постояльцы очень милые. Когда Котори начала\nбыть собой, они приняли её.",
+            "state": "1"
         },
         "name": ""
     },
@@ -817,7 +846,8 @@
         "id": "7900",
         "line": {
             "en": "That's why, these days, Flying Fish Manor is so\\npeaceful.",
-            "ru": ""
+            "ru": "Поэтому сейчас в  Поместье Летучей Рыбы так спокойно.",
+            "state": "1"
         },
         "name": ""
     },
@@ -825,7 +855,8 @@
         "id": "7d00",
         "line": {
             "en": "'Well then, I'm all done here.'",
-            "ru": ""
+            "ru": "«Так, здесь я закончил».",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -833,7 +864,8 @@
         "id": "8100",
         "line": {
             "en": "I was about to head to the next place, when...",
-            "ru": ""
+            "ru": "Я собирался переместиться к следующему месту,\nкак вдруг...",
+            "state": "1"
         },
         "name": ""
     },
@@ -841,7 +873,8 @@
         "id": "8500",
         "line": {
             "en": "...my cell phone rang.",
-            "ru": ""
+            "ru": "...мой телефон зазвонил.",
+            "state": "1"
         },
         "name": ""
     },
@@ -849,7 +882,8 @@
         "id": "8900",
         "line": {
             "en": "I take it out, and on the display, it said 'Mom'.",
-            "ru": ""
+            "ru": "Я достал его и посмотрел на дисплей. «Мама».",
+            "state": "1"
         },
         "name": ""
     },
@@ -857,7 +891,8 @@
         "id": "8d00",
         "line": {
             "en": "'Hello?'",
-            "ru": ""
+            "ru": "«Алло?»",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -865,7 +900,8 @@
         "id": "9100",
         "line": {
             "en": "'Hello Aoi? It's me.'",
-            "ru": ""
+            "ru": "«Алло, Аои? Это я».",
+            "state": "1"
         },
         "name": "Mother"
     },
@@ -873,7 +909,8 @@
         "id": "9500",
         "line": {
             "en": "'What's up?'",
-            "ru": ""
+            "ru": "«Что случилось?»",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -881,7 +918,8 @@
         "id": "9900",
         "line": {
             "en": "'A typhoon's coming, isn't it? I was wondering if\\nyou were okay.'",
-            "ru": ""
+            "ru": "«Приближается тайфун, ведь так? Я подумала,\nв порядке ли ты».",
+            "state": "1"
         },
         "name": "Mother"
     },
@@ -889,7 +927,8 @@
         "id": "9d00",
         "line": {
             "en": "'Don't worry. Everyone's helping me work on the\\nrepairs.'",
-            "ru": ""
+            "ru": "«Не беспокойся. Все помогают мне с ремонтом».",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -897,7 +936,8 @@
         "id": "a100",
         "line": {
             "en": "'I see. You being so hardworking is a big help.'",
-            "ru": ""
+            "ru": "«Понятно. Твоя тяжелая работа очень помогает».",
+            "state": "1"
         },
         "name": "Mother"
     },
@@ -905,7 +945,8 @@
         "id": "a500",
         "line": {
             "en": "'If that's how you feel, why don't you bump up my\\nwages?'",
-            "ru": ""
+            "ru": "«Если ты так думаешь, то почему бы тебе не повысить\nмою зарплату?»",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -913,7 +954,8 @@
         "id": "a900",
         "line": {
             "en": "'I'll think about it.'",
-            "ru": ""
+            "ru": "«Я подумаю об этом».",
+            "state": "1"
         },
         "name": "Mother"
     },
@@ -921,7 +963,8 @@
         "id": "ad00",
         "line": {
             "en": "She always just leaves it at that.",
-            "ru": ""
+            "ru": "Она всегда так.",
+            "state": "1"
         },
         "name": ""
     },
@@ -929,7 +972,8 @@
         "id": "b100",
         "line": {
             "en": "'Anyway, Aoi, there's something I need to\\ndiscuss.'",
-            "ru": ""
+            "ru": "«Кстати, Аои, я хотела кое-что обсудить.»",
+            "state": "1"
         },
         "name": "Mother"
     },

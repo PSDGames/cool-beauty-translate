@@ -4257,8 +4257,8 @@
         "id": "3704",
         "line": {
             "en": "The girl known as Kotori, glared at Kanako like\\nshe was interfering.",
-            "ru": "Девушка, отныне известная под именем Котори,\nбросила свирепый взгляд на Канако.",
-            "state": "2"
+            "ru": "Девушка, известная теперь под именем «Котори»,\nбросила свирепый взгляд на Канако.",
+            "state": "3"
         },
         "name": ""
     },
@@ -4267,7 +4267,7 @@
         "line": {
             "en": "'I'm the new dorm mother, Aoi Minase.'",
             "ru": "«Аои Минасе, новая горничная общежития».",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -4276,7 +4276,7 @@
         "line": {
             "en": "'I'm Kotori Habane.'",
             "ru": "«Котори Хабане».",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4285,7 +4285,7 @@
         "line": {
             "en": "Kotori seemed to meet my introduction with\\nreluctance.",
             "ru": "Котори с неохотой ответила на моё приветствие.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -4294,7 +4294,7 @@
         "line": {
             "en": "'Quack!'",
             "ru": "«Кря!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Hat"
     },
@@ -4302,8 +4302,8 @@
         "id": "4b04",
         "line": {
             "en": "'This is Hat. But you know that already.'",
-            "ru": "«Это Хат. Но вы уже знакомы.»",
-            "state": "2"
+            "ru": "«А это Хат. Но вы уже знакомы.»",
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4312,7 +4312,7 @@
         "line": {
             "en": "'Quaaack!'",
             "ru": "«Кряяя!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Hat"
     },
@@ -4321,7 +4321,7 @@
         "line": {
             "en": "Hat turned to face me and flapped his wings. He's\\na clever duck.",
             "ru": "Хат повернулся ко мне и захлопал крыльями.\nВоспитанный селезень.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4330,7 +4330,7 @@
         "line": {
             "en": "'Are you really the new dorm mother...?'",
             "ru": "«Ты и правда будешь нашей новой\nгорничной...?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4338,8 +4338,8 @@
         "id": "5b04",
         "line": {
             "en": "'Yes, that's right. So you... are against it?'",
-            "ru": "«Да, всё верно. Ты... против этого?»",
-            "state": "2"
+            "ru": "«Да, это так. Ты... против этого?»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -4348,7 +4348,7 @@
         "line": {
             "en": "If she says she doesn't like the fact the dorm\\nmother of a girl's dormitory is a guy, or the\\nfact that we're the same age, there's nothing I\\ncan do about it.",
             "ru": "Если она скажет, что ей не нравится тот факт, что\nгорничная женского общежития парень или, что\nмы одного возраста, то я ничего не смогу с этим\nподелать.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4357,7 +4357,7 @@
         "line": {
             "en": "'...'",
             "ru": "«...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4366,7 +4366,7 @@
         "line": {
             "en": "Kotori closes her eyes, and quietly takes a deep\\nbreath as if trying to focus her mind.",
             "ru": "Котори закрыла глаза, безмятежно сделала\nглубокий вдох и <приняла сосредоточенный вид.>",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4375,7 +4375,7 @@
         "line": {
             "en": "'Kotori?'",
             "ru": "«Котори?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -4384,7 +4384,7 @@
         "line": {
             "en": "'Forget about what happened during the day.'",
             "ru": "«Забудь всё, что сегодня произошло».",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4393,7 +4393,7 @@
         "line": {
             "en": "'During the day? Which part?'",
             "ru": "«Сегодня? Что именно?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -4420,7 +4420,7 @@
         "line": {
             "en": "Kanako looked as if she was saying 'OK, OK' as\\nshe disappeared down the hallway.",
             "ru": "Канако поняла этот взгляд и молча исчезла\nв глубине коридора.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4438,7 +4438,7 @@
         "line": {
             "en": "'That I made a careless mistake, and that I\\nstarted crying!!'",
             "ru": "«Забудь про мой опрометчивый поступок, и то,\nкак я заплакала!!»",
-            "state": "2"
+            "state": "1"
         },
         "name": "Kotori"
     },
@@ -4447,7 +4447,7 @@
         "line": {
             "en": "'Oh...'",
             "ru": "«Ох...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -4456,7 +4456,7 @@
         "line": {
             "en": "That incident was quite startling and I remember\\nit well.",
             "ru": "Такое событие сложно было забыть, и я запомнил\nего в мельчайших деталях.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4465,7 +4465,7 @@
         "line": {
             "en": "To see a girl's tears from so close like that is\\nsomething I don't experience very often.",
             "ru": "<Увидеть слезы девушки так близко, это не то\nчто случается со мной так часто.>",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4474,7 +4474,7 @@
         "line": {
             "en": "I don't know what she thinks about it but those\\ntears were very beautiful.",
             "ru": "Не знаю, что она об этом думает, но эти слезы\nбыли так прекрасны.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4528,7 +4528,7 @@
         "line": {
             "en": "'Sniff...'",
             "ru": "«Фырк...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4537,7 +4537,7 @@
         "line": {
             "en": "'Look, you're new here, so you don't know. Even\\nlike this, I...'",
             "ru": "«Слушай, ты впервые здесь, так что ты ещё не\nв курсе. Неужели ты...»",
-            "state": "2"
+            "state": "1"
         },
         "name": "Kotori"
     },
@@ -4546,7 +4546,7 @@
         "line": {
             "en": "Kotori straightened her back,",
             "ru": "Котори выпрямила спину,",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4599,8 +4599,8 @@
         "id": "cf04",
         "line": {
             "en": "'Oh... I've heard that word before.'",
-            "ru": "«Ох... Я уже слышал это слово раньше.»",
-            "state": "2"
+            "ru": "«Хм... Я уже слышал это слово раньше.»",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -4609,7 +4609,7 @@
         "line": {
             "en": "'I'll say it again! Let me do it again!!'",
             "ru": "«Я скажу это ещё раз! Позволь мне сказать\nэто ещё раз!!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4627,7 +4627,7 @@
         "line": {
             "en": "'OK, that's enough! I get it, all right?'",
             "ru": "«Достаточно! Я всё понял, хорошо?»",
-            "state": "2"
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -4636,7 +4636,7 @@
         "line": {
             "en": "'Grrrr...'",
             "ru": "«Грррр...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4645,7 +4645,7 @@
         "line": {
             "en": "'Geez! You're such a jerk! Nitpicker! Lowlife!'",
             "ru": "«Боже! Ты придурок! Зануда! Одноклеточное!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4654,7 +4654,7 @@
         "line": {
             "en": "Kotori used just about every insult there is,\\nthen turned her wheelchair around.",
             "ru": "Котори продолжала выкрикивать всевозможные\nоскорбления, а потом развернула своё кресло.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4663,7 +4663,7 @@
         "line": {
             "en": "Then, she hurriedly raced back down the hallway\\nand back into her room.",
             "ru": "И поспешно уехала по коридору обратно\nв свою комнату.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4672,7 +4672,7 @@
         "line": {
             "en": "'Quack!!'",
             "ru": "«Кря!!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Hat"
     },
@@ -4681,7 +4681,7 @@
         "line": {
             "en": "Along the way, Hat, who had been thrown off,\\nchased after her and entered the room through a\\nsmall door (maybe a special door for ducks) built\\ninto the bottom of the main door.",
             "ru": "<Хат, которого скинули на пол, проследовал за ней\nи вошёл в комнату через небольшую дверцу (видимо,\nспециально для него) сделанную у основания.>",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4690,7 +4690,7 @@
         "line": {
             "en": "I looked on in disbelief.",
             "ru": "Я не верил своим глазам.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -4698,7 +4698,8 @@
         "id": "fb04",
         "line": {
             "en": "I don't need to say this but the dainty and\\ndelicate image that she had in the daytime had\\ncompletely crumbled away.",
-            "ru": ""
+            "ru": "",
+            "state": "1"
         },
         "name": ""
     },
@@ -4706,7 +4707,8 @@
         "id": "ff04",
         "line": {
             "en": "A delicate bud was beginning to sprout, and we\\nshared a fleeting love.",
-            "ru": ""
+            "ru": "",
+            "state": "1"
         },
         "name": ""
     },
@@ -4715,7 +4717,7 @@
         "line": {
             "en": "But...",
             "ru": "Но...",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -4723,7 +4725,8 @@
         "id": "0408",
         "line": {
             "en": "'Cool 'allule'...right?'",
-            "ru": ""
+            "ru": "",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -4732,7 +4735,7 @@
         "line": {
             "en": "When I remember her lifting her hair and being so\\nfull of confidence, I feel like I could burst out\\nlaughing.",
             "ru": "Я едва сдерживал смех.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4740,8 +4743,8 @@
         "id": "0c08",
         "line": {
             "en": "'She's so funny.'",
-            "ru": "«Она такая забавная.»",
-            "state": "2"
+            "ru": "«Она такая забавная».",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -4750,7 +4753,7 @@
         "line": {
             "en": "From the beginning, everything has been so messed\\nup.",
             "ru": "С самого начала всё пошло наперекосяк.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },

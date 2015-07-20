@@ -3502,7 +3502,7 @@
         "line": {
             "en": "She was kind of timid and looked to be the same\\nage, or maybe a year younger than me.",
             "ru": "Она была своего рода робкой и на вид того же\nвозраста, или возможно на год младше, чем я.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -3574,7 +3574,7 @@
         "line": {
             "en": "'The person who came to speak to all of you is my\\nmother, and, well, she kind of half-tricked me\\ninto accepting this job as dorm mother...'",
             "ru": "«Женщина, которая приходила, поговорить со всеми\nвами моя мать, и, как оказалось, она немного\nсхитрила вынудив меня взяться за эту работу».",
-            "state": "2"
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -3583,7 +3583,7 @@
         "line": {
             "en": "My mom has a job connected to real estate and her\\ncompany manages this property.",
             "ru": "Моя мать работает с недвижимостью и её компания\nвладеет этим общежитием.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -3592,7 +3592,7 @@
         "line": {
             "en": "'Well then. What should we do, Yuka? Should we\\nchange?'",
             "ru": "«Итак. Что нам делать, Юка?»",
-            "state": "2"
+            "state": "1"
         },
         "name": "Lightly dressed girl"
     },
@@ -3601,7 +3601,7 @@
         "line": {
             "en": "'If that's the situation...'",
             "ru": "«В такой ситуации...»",
-            "state": "2"
+            "state": "1"
         },
         "name": "Tall girl"
     },
@@ -3619,7 +3619,7 @@
         "line": {
             "en": "'This is just until the owner-caretaker comes\\nback or we find someone else.'",
             "ru": "«Это до тех пор, пока владелец-смотритель\nне вернётся или мы не найдём кого-то другого».",
-            "state": "2"
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -3628,7 +3628,7 @@
         "line": {
             "en": "'I apologize for the inconvenience but for the\\ntime being, let's all try to get along.'",
             "ru": "«Прошу прощения за доставленные неудобства, но\nдавайте попробуем пожить дружно некоторое время».",
-            "state": "2"
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -3637,7 +3637,7 @@
         "line": {
             "en": "Once the conversation was over, naturally,\\neveryone left and went back to their rooms.",
             "ru": "Когда разговор был закончен, все разошлись\nпо своим комнатам.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -3645,7 +3645,8 @@
         "id": "2a04",
         "line": {
             "en": "'Hey, I'm sorry. Everyone can be so childish and\\nthey got carried away in front of a young guy\\nlike you.'",
-            "ru": ""
+            "ru": "",
+            "state": "1"
         },
         "name": "Lightly dressed girl"
     },
@@ -3729,7 +3730,7 @@
         "line": {
             "en": "'Ah, well there is one more person but she's what\\nyou might call the reclusive type...'",
             "ru": "«Ну, вообще-то, тут есть ещё один человек, правда\nона ведёт затворнический образ жизни...»",
-            "state": "2"
+            "state": "1"
         },
         "name": "Kanako"
     },
@@ -3737,7 +3738,8 @@
         "id": "5204",
         "line": {
             "en": "'I wonder if she'll come out of her room at some\\npoint?'",
-            "ru": ""
+            "ru": "",
+            "state": "1"
         },
         "name": "Kanako"
     },
@@ -3745,8 +3747,8 @@
         "id": "5604",
         "line": {
             "en": "'Oh.'",
-            "ru": "«Ох».",
-            "state": "2"
+            "ru": "«Вот как».",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -3755,7 +3757,7 @@
         "line": {
             "en": "In other words, there are five boarders in total.",
             "ru": "Другими словами, всего было пять жильцов.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -3763,8 +3765,8 @@
         "id": "5e04",
         "line": {
             "en": "This building is pretty big but there are only\\nfive people living here.",
-            "ru": "Здание достаточно большое, но в нём проживает\nвсего пять человек.",
-            "state": "2"
+            "ru": "Само здание общежития достаточно большое,\nно в нём проживает всего пять человек.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3772,8 +3774,8 @@
         "id": "6204",
         "line": {
             "en": "Come to think of it, my mom did say that there\\nare quite a few empty rooms. It's old and a\\nlittle far from the school, so maybe it's not\\nthat popular.",
-            "ru": "Если подумать, то моя мама говорила мне, что здесь\nесть несколько свободных комнат. Здание старое\nи довольно далеко от школы, возможно поэтому\nоно не такое популярное.",
-            "state": "2"
+            "ru": "Если вспомнить, моя мама говорила, что тут есть\nнесколько свободных комнат. Здание старое\nи далековато от школы, скорее всего, поэтому\nоно не пользуется популярностью.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3781,8 +3783,11 @@
         "id": "6604",
         "line": {
             "en": "'Whew... I've worked up a sweat so I'm gonna take\\nanother bath.'",
-            "ru": "«Уф... Я уработалась до седьмого пота, так что\nпойду приму ещё одну ванну».",
-            "state": "2"
+            "ru": "«Фух... С меня уже семь потов сошло,\nпойду приму ещё одну ванну».",
+            "state": "3",
+            "comments": [
+                "И так сойдёт."
+            ]
         },
         "name": "Kanako"
     },
@@ -3790,8 +3795,8 @@
         "id": "6a04",
         "line": {
             "en": "Anyway, the conversation ended well, so I'll call\\nmy mother to let her know.",
-            "ru": "Таким образом, наш разговор завершился, и я решил\nпозвонить маме, чтобы сообщить ей новости.",
-            "state": "2"
+            "ru": "На этой ноте наш разговор закончился, и я решил\nпозвонить маме, чтобы сообщить ей новости.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3800,7 +3805,7 @@
         "line": {
             "en": "'...so, in the end, we somehow worked things\\nout.'",
             "ru": "«...в итоге дела пошли на лад».",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -3808,8 +3813,8 @@
         "id": "7204",
         "line": {
             "en": "'Really, that's good. I'll tell you this now\\nthough, keep your hands off the girls!'",
-            "ru": "«Правда? Ну и хорошо. Но я на всякий случай\nпредупреждаю тебя, чтобы ты держал свои руки\nподальше от девушек!»",
-            "state": "2"
+            "ru": "«Правда? Хорошо. Но на всякий случай\nпредупреждаю тебя, чтобы ты держал свои руки\nподальше от девушек!»",
+            "state": "3"
         },
         "name": "Mother"
     },
@@ -3817,8 +3822,8 @@
         "id": "7604",
         "line": {
             "en": "'Wha, what are you talking about, Mom!!?'",
-            "ru": "«Чо? Что ты такое говоришь, мам!!?»",
-            "state": "2"
+            "ru": "«А? Что ты такое говоришь, мам!!?»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -3826,8 +3831,8 @@
         "id": "7a04",
         "line": {
             "en": "'Well, as long as it doesn't cause any problems,\\nit's OK. Oh and also...'",
-            "ru": "«В общем, постарайся доставлять проблем,\nхорошо? О, и ещё кое-что...»",
-            "state": "2"
+            "ru": "«В общем, постарайся не доставлять проблем,\nхорошо? О, и ещё кое-что...»",
+            "state": "3"
         },
         "name": "Mother"
     },
@@ -3835,8 +3840,8 @@
         "id": "7e04",
         "line": {
             "en": "'I told you before, but one of them has a walking\\ndisability.'",
-            "ru": "«Я тебе уже говорила, но одна из них не может\nходить».",
-            "state": "2"
+            "ru": "«Я ведь тебе уже говорила, что одна из них не может\nходить».",
+            "state": "3"
         },
         "name": "Mother"
     },
@@ -3844,8 +3849,8 @@
         "id": "8204",
         "line": {
             "en": "Flap flap flap!!",
-            "ru": "Хлоп хлоп хлоп!!",
-            "state": "2"
+            "ru": "Хлоп-хлоп-хлоп!!",
+            "state": "3"
         },
         "name": ""
     },
@@ -3853,8 +3858,8 @@
         "id": "8604",
         "line": {
             "en": "Suddenly, the sound of flapping wings came from\\ndown the hallway.",
-            "ru": "Вдруг, звук хлопающих крыльев донесся из\nкоридора.",
-            "state": "2"
+            "ru": "Внезапно звук хлопающих крыльев разнесся\nпо коридору.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3862,8 +3867,8 @@
         "id": "8a04",
         "line": {
             "en": "Then, a shrill voice sounded out.",
-            "ru": "Следом за ним зазвучал пронзительный голос.",
-            "state": "2"
+            "ru": "Следом за ним прозвучал пронзительный голос.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3872,7 +3877,7 @@
         "line": {
             "en": "'Wait, Hat!'",
             "ru": "«Хат, стой!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -3881,7 +3886,7 @@
         "line": {
             "en": "'Quack! Quaaaaaaack!!!'",
             "ru": "«Кря! Кряяяяяяя!!!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Hat"
     },
@@ -3890,7 +3895,7 @@
         "line": {
             "en": "'Huh...??'",
             "ru": "«Что...??»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -3898,8 +3903,11 @@
         "id": "9a04",
         "line": {
             "en": "Something big and white came flying down the\\nhallway, and behind it, at breakneck speed...",
-            "ru": "Нечто крупное и белое вылетело из коридора, и,\nпозади этого, на опасной скорости...",
-            "state": "2"
+            "ru": "Нечто белое вылетело из коридора, а следом,\nс превышением скорости...",
+            "state": "3",
+            "comments": [
+                "Нужна ли запятая после «следом»?"
+            ]
         },
         "name": ""
     },
@@ -3908,7 +3916,7 @@
         "line": {
             "en": "...was the girl in the wheelchair.",
             "ru": "...девушка в инвалидном кресле.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -3917,7 +3925,7 @@
         "line": {
             "en": "'Wait, you stupid duck!! Give my panties\\nback...!!'",
             "ru": "«Остановись, глупый селезень! Верни мне\nмои трусики...!!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -3926,7 +3934,7 @@
         "line": {
             "en": "'Quack, Quack! Quaaaaaack!!'",
             "ru": "«Кря, кря! Кряяяяяя!!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Hat"
     },
@@ -3934,8 +3942,8 @@
         "id": "aa04",
         "line": {
             "en": "The big white thing... which somehow seemed like\\na duck, was flapping its wings and flew behind\\nme.",
-            "ru": "Белое нечто... что каким-то образом напоминало\nселезня, хлопая крыльями залетел мне за спину.",
-            "state": "2"
+            "ru": "Белое нечто... что, вероятно, было селезнем,\nхлопая крыльями залетел ко мне за спину.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3943,8 +3951,8 @@
         "id": "ae04",
         "line": {
             "en": "The girl in the wheelchair avoided all the\\nobstacles in her path, in other words, me, and\\nchased down the duck like a drift racer.",
-            "ru": "Девушка на инвалидном кресле объехала все\nпрепятствия на своём пути, другими словами, меня, и\nпреследовала селезня дрифтуя на поворотах.",
-            "state": "2"
+            "ru": "Девушка в инвалидном кресле, преследуя\nселезня, вошла в дрифт и объехала все\nпрепятствия на своём пути (другими словами, меня).",
+            "state": "3"
         },
         "name": ""
     },
@@ -3952,8 +3960,8 @@
         "id": "b204",
         "line": {
             "en": "I was so overwhelmed by the speed that I couldn't\\nsay anything.",
-            "ru": "Я был так поражён скоростью, что не мог\nвымолвить и слова",
-            "state": "2"
+            "ru": "Я был так поражён происходящим, что не мог\nвымолвить и слова.",
+            "state": "3"
         },
         "name": ""
     },
@@ -3961,8 +3969,8 @@
         "id": "b604",
         "line": {
             "en": "'I've got you, Hat!'",
-            "ru": "«Я поймала тебя, Хат!»",
-            "state": "2"
+            "ru": "«Попался, Хат!»",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -3971,7 +3979,7 @@
         "line": {
             "en": "'Quack, quack!'",
             "ru": "«Кря, кря!»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Hat"
     },
@@ -3980,7 +3988,7 @@
         "line": {
             "en": "The girl in the wheelchair caught the duck at my\\nfeet, and snatched away a small, white cloth\\n(possibly panties) from his beak.",
             "ru": "Девушка в инвалидном кресле поймала селезня у моих\nног, и вырвала кусочек белой ткани (возможно\nтрусики) у него из клюва.",
-            "state": "2"
+            "state": "3"
         },
         "name": ""
     },
@@ -3988,8 +3996,8 @@
         "id": "c204",
         "line": {
             "en": "'Jeez, you're always playing tricks! If you do it\\nagain, I'll turn you into Peking Duck!'",
-            "ru": "«Чёрт побери, вечно ты бедокуришь! Только попробуй\nсделать это ещё раз и я сделаю из тебя утку\nпо-пекински!»",
-            "state": "2"
+            "ru": "«Боже, снова твои шалости! Только попробуй\nвыкинуть что-нибудь подобное, и я сделаю\nиз тебя утку по-пекински!»",
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -3998,7 +4006,7 @@
         "line": {
             "en": "'Quack...'",
             "ru": "«Кря...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Hat"
     },
@@ -4006,8 +4014,8 @@
         "id": "ca04",
         "line": {
             "en": "The girl put the duck on her knee and lectured\\nhim.",
-            "ru": "Девушка положила селезня на колени и прочитала\nему лекцию.",
-            "state": "2"
+            "ru": "Девушка положила селезня к себе на колени\nи отчитала его.",
+            "state": "3"
         },
         "name": ""
     },
@@ -4015,8 +4023,8 @@
         "id": "ce04",
         "line": {
             "en": "I remembered seeing that before.",
-            "ru": "Кажется, я такое уже где-то видел.",
-            "state": "2"
+            "ru": "Дежавю.",
+            "state": "3"
         },
         "name": ""
     },
@@ -4025,7 +4033,7 @@
         "line": {
             "en": "However,",
             "ru": "Однако,",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4034,7 +4042,7 @@
         "line": {
             "en": "'(...It's somehow a lot different compared to the\\nimage she had during the day!)'",
             "ru": "«(...То что я видел существенно отличается от того\nобраза, который был у неё в течение дня!)»",
-            "state": "2"
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -4043,7 +4051,7 @@
         "line": {
             "en": "In the daytime, she seemed more dainty and\\ndelicate.",
             "ru": "Днём, она казалась более изящной и деликатной.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4052,7 +4060,7 @@
         "line": {
             "en": "However, her appearance was the same. It's not\\noften that you see such a pretty girl.",
             "ru": "Хотя выглядела она так же. Редко удаётся\nвстретить такую очаровательную девушку.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4060,8 +4068,8 @@
         "id": "e204",
         "line": {
             "en": "'Looks like your tire is in good condition!'",
-            "ru": "«Похоже, что с колесом всё в порядке!»",
-            "state": "2"
+            "ru": "«Похоже, что с твоим колесом всё в порядке!»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -4070,7 +4078,7 @@
         "line": {
             "en": "'...?'",
             "ru": "«...?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -4078,8 +4086,8 @@
         "id": "ea04",
         "line": {
             "en": "She finally realized that there was a guy\\nstanding there.",
-            "ru": "Она наконец поняла, что рядом с ней стоит парень.",
-            "state": "2"
+            "ru": "Она, наконец, обратила на меня внимание.",
+            "state": "3"
         },
         "name": ""
     },
@@ -4088,7 +4096,7 @@
         "line": {
             "en": "'Aah...'",
             "ru": "«Аах...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -4096,8 +4104,8 @@
         "id": "f204",
         "line": {
             "en": "'Hello, Aoi, are you listening?'",
-            "ru": "«Алло, Аои, ты слушаешь?»",
-            "state": "1"
+            "ru": "«Алло, Аои, ты слышишь меня?»",
+            "state": "3"
         },
         "name": "Mother"
     },
@@ -4105,8 +4113,8 @@
         "id": "f604",
         "line": {
             "en": "'Ahh, yeah. What was it?'",
-            "ru": "«Ахх, да. О чём ты?»",
-            "state": "2"
+            "ru": "«Эмм, да. О чём ты?»",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -4114,8 +4122,8 @@
         "id": "fa04",
         "line": {
             "en": "'I was saying there's a disabled girl, so take\\ngood care of her.'",
-            "ru": "«Я говорила о том, что среди них есть девушка-\nинвалид. Позаботься о ней».",
-            "state": "2"
+            "ru": "«Я только что сказала, что среди них есть девушка-\nинвалид. Пожалуйста, позаботься о ней».",
+            "state": "3"
         },
         "name": "Mother"
     },
@@ -4123,8 +4131,8 @@
         "id": "fe04",
         "line": {
             "en": "'Sure, I got it. Ok, talk to you soon mom.'",
-            "ru": "«Естественно, принято. До скорого, мам».",
-            "state": "2"
+            "ru": "«Принято. Поговорим позже, мам».",
+            "state": "3"
         },
         "name": "Aoi"
     },
@@ -4132,8 +4140,8 @@
         "id": "0304",
         "line": {
             "en": "I replied as I ended the call.",
-            "ru": "Я ответил, завершая разговор.",
-            "state": "2"
+            "ru": "Ответил я, завершая разговор.",
+            "state": "3"
         },
         "name": ""
     },
@@ -4142,7 +4150,7 @@
         "line": {
             "en": "'Why are you...?'",
             "ru": "«Почему ты...?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -4151,7 +4159,7 @@
         "line": {
             "en": "She got as far as saying that but then realized\\nthat she has the small cloth in her hand, and\\ntried to hide it by stuffing it under her\\nbackside.",
             "ru": "Она пыталась что-то сказать, но потом осознала,\nчто держит кусочек ткани в своей руке, и поспешно\nспрятала его позади себя.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4160,7 +4168,7 @@
         "line": {
             "en": "'...why are you here?'",
             "ru": "«...почему ты здесь?»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Girl"
     },
@@ -4168,8 +4176,8 @@
         "id": "1304",
         "line": {
             "en": "'He's the new dorm mother, Kotori-chan.'",
-            "ru": "«Это наша новая горничная, Котори-чан».",
-            "state": "1"
+            "ru": "«Котори-чан, это наша новая горничная».",
+            "state": "3"
         },
         "name": "Kanako"
     },
@@ -4178,7 +4186,7 @@
         "line": {
             "en": "Kanako, who was supposed to be taking a bath,\\npoked her head out.",
             "ru": "Канако, которая предположительно принимает ванну,\nвысунула её голову наружу.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4186,8 +4194,8 @@
         "id": "1b04",
         "line": {
             "en": "'Really? What do you mean? I hadn't heard about\\nthat!!'",
-            "ru": "«Что? Что ты имеешь ввиду? Я ничего такого не\nслышала!!»",
-            "state": "2"
+            "ru": "«Ты шутишь? Кто так решил? Я ничего об этом не\nслышала!!»",
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4195,7 +4203,7 @@
         "id": "1f04",
         "line": {
             "en": "'Even if I tried to tell you, Kotori-chan, you\\nhardly ever come out of your room!'",
-            "ru": "«Даже если бы я попыталась рассказать тебе,\nКотори-чан, ты вряд ли бы вышла из своей\nкомнаты»",
+            "ru": "«Даже если бы я попыталась рассказать тебе,\nты вряд ли бы вышла из своей комнаты»",
             "state": "1"
         },
         "name": "Kanako"
@@ -4204,8 +4212,8 @@
         "id": "2304",
         "line": {
             "en": "'You mean the new dorm mother, is a boy!!!?'",
-            "ru": "«Ты хочешь сказать, что новая горничная -\nпарень!!!?»",
-            "state": "1"
+            "ru": "«Ты хочешь сказать, что новая горничная —\nпарень!!!?»",
+            "state": "3"
         },
         "name": "Kotori"
     },
@@ -4213,8 +4221,8 @@
         "id": "2704",
         "line": {
             "en": "Hey, look! Hey, look!",
-            "ru": "Смотри! Смотри!",
-            "state": "2"
+            "ru": "Посмотри! Посмотри!",
+            "state": "3"
         },
         "name": ""
     },
@@ -4223,7 +4231,7 @@
         "line": {
             "en": "is what it felt like she was saying as she\\nrelentlessly pointed at me.",
             "ru": "с таким грубым выражением она указывала\nна меня.",
-            "state": "2"
+            "state": "1"
         },
         "name": ""
     },
@@ -4232,7 +4240,7 @@
         "line": {
             "en": "'We already had this conversation a long time\\nago.'",
             "ru": "«Мы уже обсуждали это».",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kanako"
     },
@@ -4241,7 +4249,7 @@
         "line": {
             "en": "'...'",
             "ru": "«...»",
-            "state": "2"
+            "state": "3"
         },
         "name": "Kotori"
     },

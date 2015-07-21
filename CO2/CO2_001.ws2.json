@@ -1,2194 +1,2468 @@
 {
-   "0000": {
-      "data": {
-         "en": {
-            "line": "'I thought you might be here.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「やっぱりここだったわね」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Так и знала, что ты здесь.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0001": {
-      "data": {
-         "en": {
-            "line": "'Yoru.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「依瑠ちゃん」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Ёру.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0002": {
-      "data": {
-         "en": {
-            "line": "'If you don't go back now, you'll be late for\\ndinner.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「そろそろ帰らないと、夕飯に遅れるわよ？」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Если не вернешься сейчас, то опоздаешь\nна ужин.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0003": {
-      "data": {
-         "en": {
-            "line": "'Yeah... but, can I stay a little longer?'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「うん……でも、もうちょっとだけ」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Да... но можно я подожду еще немного?»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0004": {
-      "data": {
-         "en": {
-            "line": "'There's no use waiting, it won't appear, you\\nknow.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「待ってても無駄よ。もう現れないわ」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Незачем ждать, он не появится.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0005": {
-      "data": {
-         "en": {
-            "line": "'Huh? How do you know that?'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「え？　どうしてわかるの？」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«А? Откуда ты знаешь?»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0006": {
-      "data": {
-         "en": {
-            "line": "'It hasn't flown once since that time, has it? I\\nwent to take a look at the runway but it's\\novergrown with weeds and there are no signs of it\\nhaving been used.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「あれから一度も飛んでないじゃない。\\n　滑走路を見に行ってみたけど、雑草が生い茂ってて、\\n　使われてる形跡はなかったわ」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«С тех пор он ни разу не взлетал, так? Я ходила\nпосмотреть на взлётно-посадочную полосу, но она \nзаросла травой, и, по всей видимости, не используется.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0007": {
-      "data": {
-         "en": {
-            "line": "'Yeah... but...'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「うん……でも」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Да... но...»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0008": {
-      "data": {
-         "en": {
-            "line": "'Uhhhh...'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「うー……」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Ээээ...»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0009": {
-      "data": {
-         "en": {
-            "line": "'Sheesh...'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「ふぅ……」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Ээх...»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "000a": {
-      "data": {
-         "en": {
-            "line": "'I asked about it today at school.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「今日、学校で聞いたんだけど」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Я спросила сегодня в школе.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "000b": {
-      "data": {
-         "en": {
-            "line": "'?'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「？」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«?»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "000c": {
-      "data": {
-         "en": {
-            "line": "'It was the members of the Soaring Club at our\\nschool.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「あの人たち、\\n　{う:・}{ち:・}{の:・}{学:・}{校:・}のソアリング部だったんだって」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Это были члены Парящего Клуба нашей школы.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "000d": {
-      "data": {
-         "en": {
-            "line": "'Huh? The people flying in the glider were...?'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「え？　あのグライダーで飛んでた人たちが……？」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«А? Люди, летающие в планёре...?»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "000e": {
-      "data": {
-         "en": {
-            "line": "'Yes.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「そうよ」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Да.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "000f": {
-      "data": {
-         "en": {
-            "line": "'They were performing club activities. It's\\nsimpler to look for them at the more common\\nareas.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「うちの学校の部活動だったってわけ。\\n　灯台もと暗しとはこのことね」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Это было их клубное мероприятие. Проще \nнайти их в более доступных местах.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0010": {
-      "data": {
-         "en": {
-            "line": "'...so that means, if I ask, they might let me\\njoin?'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「……ってことは、わたしも頼めば\\n　入れてもらえるかもしれないんだ」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«...это значит, что если я попрошу, то они \nразрешат мне присоединиться к ним?»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0011": {
-      "data": {
-         "en": {
-            "line": "'That's too bad.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「残念でした」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Всё плохо.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0012": {
-      "data": {
-         "en": {
-            "line": "'Huh?'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「へ？」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«А?»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0013": {
-      "data": {
-         "en": {
-            "line": "'The Soaring Club had its status revoked. The\\nso-called 'Legendary Senpai' quit, and that was\\nit.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「ソアリング部はとっくに廃部になってたわ。\\n　伝説の先輩とやらが引退して、そのままね」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Парящий Клуб утратил свой статус. Всё закончилось \nс уходом так называемого «Легендарного Семпая.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0014": {
-      "data": {
-         "en": {
-            "line": "'Really...?'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「そうなんだ……」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Правда?...»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0015": {
-      "data": {
-         "en": {
-            "line": "'That's why they're not flying. So that's why\\nthere's no point waiting here.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「飛ばないのはそのせいよ。\\n　だから、もうここで待ってても意味ないの」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Вот почему они не летают. И вот почему \nнет смысла ждать.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0016": {
-      "data": {
-         "en": {
-            "line": "'Come on, let's go back. I'm hungry.'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「さ、帰りましょ。\\n　わたし、お腹が空いちゃった」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Пошли, возвращаемся. Я проголодалась.»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0017": {
-      "data": {
-         "en": {
-            "line": "'...'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「……」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«...»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0018": {
-      "data": {
-         "en": {
-            "line": "'I see... So they won't be flying anymore...'",
-            "name": "Girl"
-         },
-         "jp": {
-            "line": "「そっか……\\n　もう飛ばないんだ……」",
-            "name": "女の子"
-         },
-         "ru": {
-            "line": "«Понятно... Значит, они больше не будут летать...»",
-            "name": "Девушка"
-         }
-      }
-   },
-   "0019": {
-      "data": {
-         "en": {
-            "line": "A sky so blue, it almost hurts the eyes, and a\\ntowering thunderhead.",
-            "name": ""
-         },
-         "jp": {
-            "line": "目に痛いほど青い空と、そびえ立つ入道雲。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Небо, такое голубое, что глазам почти что больно, \nи возвышающаяся грозовая туча.",
-            "name": ""
-         }
-      }
-   },
-   "001a": {
-      "data": {
-         "en": {
-            "line": "Cicadas are singing their hearts out. Lush\\nvegetation is growing, bathed in the sunlight.",
-            "name": ""
-         },
-         "jp": {
-            "line": "蝉たちは命の限り高らかと鳴き、陽を浴びた草木は青々と茂る。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Неистово стрекочут цикады. Бурная растительность \nкупается в солнечных лучах.",
-            "name": ""
-         }
-      }
-   },
-   "001b": {
-      "data": {
-         "en": {
-            "line": "Summer has come again!!",
-            "name": ""
-         },
-         "jp": {
-            "line": "また巡ってきた――夏が！！",
-            "name": ""
-         },
-         "ru": {
-            "line": "Снова лето!!",
-            "name": ""
-         }
-      }
-   },
-   "001c": {
-      "data": {
-         "en": {
-            "line": "'It's so hot...'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「あっちぃなぁ……」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«Так жарко...»",
-            "name": "Аои"
-         }
-      }
-   },
-   "001d": {
-      "data": {
-         "en": {
-            "line": "I complain, while hanging the sheets on the\\nclothesline.",
-            "name": ""
-         },
-         "jp": {
-            "line": "ぼやきながら、物干し竿にかけたシーツを伸ばしていく。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Жаловался я, развешивая простыни сушиться \nна верёвке.",
-            "name": ""
-         }
-      }
-   },
-   "001e": {
-      "data": {
-         "en": {
-            "line": "'In this heat, they should be dry by lunchtime.'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「この調子なら、昼前には乾いてそうだな」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«На такой жаре они высохнут к обеду.»",
-            "name": "Аои"
-         }
-      }
-   },
-   "001f": {
-      "data": {
-         "en": {
-            "line": "As I speak, I gaze at the distant thunderhead.",
-            "name": ""
-         },
-         "jp": {
-            "line": "そう言いつつ、遠くに見える入道雲を眺める。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Я смотрел на далёкую грозовую тучу.",
-            "name": ""
-         }
-      }
-   },
-   "0020": {
-      "data": {
-         "en": {
-            "line": "It's said that thunderheads, or giant\\ncumulonimbus clouds, can extend upwards out of\\nthe stratosphere.",
-            "name": ""
-         },
-         "jp": {
-            "line": "入道雲、つまり積乱雲は巨大なものになると、その雲頂が成層圏まで突き抜けるというが。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Говорят, что грозовые тучи, или гигантские \nкучево-дождевые облака, могут вырастать\nвыше стратосферы.",
-            "name": ""
-         }
-      }
-   },
-   "0021": {
-      "data": {
-         "en": {
-            "line": "The world record for highest flight in a glider\\nalso went beyond the stratosphere.",
-            "name": ""
-         },
-         "jp": {
-            "line": "グライダーの高高度世界記録もまた、成層圏へ達している。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Планёр, поставивший мировой рекорд по самому \nвысокому полёту, тоже вышел за пределы стратосферы.",
-            "name": ""
-         }
-      }
-   },
-   "0022": {
-      "data": {
-         "en": {
-            "line": "They both seem hard to believe at first.",
-            "name": ""
-         },
-         "jp": {
-            "line": "どちらも、にわかには信じがたい話だ。",
-            "name": ""
-         },
-         "ru": {
-            "line": "В оба этих факта трудно поверить.",
-            "name": ""
-         }
-      }
-   },
-   "0023": {
-      "data": {
-         "en": {
-            "line": "'Morning.'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「おはようっす」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«Утро.»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "0024": {
-      "data": {
-         "en": {
-            "line": "As I take the sheets out of the wash basket, I\\nhear a voice from behind. It's Ageha.",
-            "name": ""
-         },
-         "jp": {
-            "line": "洗濯カゴからシーツを取り上げていると、後ろから声をかけられた。あげはだ。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Доставая простыни из корзины с бельём,\nя услышал сзади голос. Это Агеха.",
-            "name": ""
-         }
-      }
-   },
-   "0025": {
-      "data": {
-         "en": {
-            "line": "'It's hot today too, isn't it?'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「今日も暑いねぇ」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«Жарко сегодня, да?»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "0026": {
-      "data": {
-         "en": {
-            "line": "'I'll be with you in a moment. Can you wait\\ninside?'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「まだ出られないんだ。\\n　中で待っててくれ」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«Я буду через секунду. Подождешь внутри?»",
-            "name": "Аои"
-         }
-      }
-   },
-   "0027": {
-      "data": {
-         "en": {
-            "line": "'...'",
-            "name": "Kanako"
-         },
-         "jp": {
-            "line": "「……」",
-            "name": "佳奈子"
-         },
-         "ru": {
-            "line": "«...»",
-            "name": "Канако"
-         }
-      }
-   },
-   "0028": {
-      "data": {
-         "en": {
-            "line": "'...'",
-            "name": "Yuka"
-         },
-         "jp": {
-            "line": "「……」",
-            "name": "由佳"
-         },
-         "ru": {
-            "line": "«...»",
-            "name": ""
-         }
-      }
-   },
-   "0029": {
-      "data": {
-         "en": {
-            "line": "'...'",
-            "name": "Sanae"
-         },
-         "jp": {
-            "line": "「……」",
-            "name": "早苗"
-         },
-         "ru": {
-            "line": "«...»",
-            "name": ""
-         }
-      }
-   },
-   "002a": {
-      "data": {
-         "en": {
-            "line": "'Is it here!?'",
-            "name": "Kotori"
-         },
-         "jp": {
-            "line": "「きたッ！？」",
-            "name": "小鳥"
-         },
-         "ru": {
-            "line": "«Он здесь?!»",
-            "name": "Котори"
-         }
-      }
-   },
-   "002b": {
-      "data": {
-         "en": {
-            "line": "'Good mor...'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「おはようござい……」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«Доброе ут...»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "002c": {
-      "data": {
-         "en": {
-            "line": "'...Whoa, what are you all doing here?'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「……わっ、どしたのみなさんお揃いで！？」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«...Воу, что вы все здесь делаете?»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "002d": {
-      "data": {
-         "en": {
-            "line": "'What? It's Ageha...'",
-            "name": "Kotori"
-         },
-         "jp": {
-            "line": "「なんだ、あげはか……」",
-            "name": "小鳥"
-         },
-         "ru": {
-            "line": "«Что? Это Агеха...»",
-            "name": "Котори"
-         }
-      }
-   },
-   "002e": {
-      "data": {
-         "en": {
-            "line": "'Whew... I was so excited...'",
-            "name": "Ryouko"
-         },
-         "jp": {
-            "line": "「はぅぅ、ドキドキしたよぉ……」",
-            "name": "亮子"
-         },
-         "ru": {
-            "line": "«Ууу... Я уже успела обрадоваться...»",
-            "name": ""
-         }
-      }
-   },
-   "002f": {
-      "data": {
-         "en": {
-            "line": "'What is this? Why are you all so disappointed??'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「なになに、なんでガッカリしてんの？？」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«Что такое? Почему вы все так разочарованы??»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "0030": {
-      "data": {
-         "en": {
-            "line": "'It'll be here soon...'",
-            "name": "Yuka"
-         },
-         "jp": {
-            "line": "「ついにくるのよ……」",
-            "name": "由佳"
-         },
-         "ru": {
-            "line": "«Он скоро будет здесь...»",
-            "name": ""
-         }
-      }
-   },
-   "0031": {
-      "data": {
-         "en": {
-            "line": "'...What will be?'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「……なにが？」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«...Кто будет?»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "0032": {
-      "data": {
-         "en": {
-            "line": "'The new refrigerator!!'",
-            "name": "Kotori"
-         },
-         "jp": {
-            "line": "「新しい冷蔵庫が！！」",
-            "name": "小鳥"
-         },
-         "ru": {
-            "line": "«Новый холодильник!!»",
-            "name": "Котори"
-         }
-      }
-   },
-   "0033": {
-      "data": {
-         "en": {
-            "line": "'Aoi's been trying really hard.'",
-            "name": "Yuka"
-         },
-         "jp": {
-            "line": "「よくがんばってくれたわ、水瀬くん」",
-            "name": "由佳"
-         },
-         "ru": {
-            "line": "«Аои очень постарался.»",
-            "name": ""
-         }
-      }
-   },
-   "0034": {
-      "data": {
-         "en": {
-            "line": "'We didn't think we'd be able to do it\\nourselves.'",
-            "name": "Sanae"
-         },
-         "jp": {
-            "line": "「あたしたち、もう無理だと思ってたもの」",
-            "name": "早苗"
-         },
-         "ru": {
-            "line": "«Мы не думали, что сами сможем это сделать.»",
-            "name": ""
-         }
-      }
-   },
-   "0035": {
-      "data": {
-         "en": {
-            "line": "'We don't need to compete to keep our juice cool\\nanymore.'",
-            "name": "Ryouko"
-         },
-         "jp": {
-            "line": "「もう狭いスペースを奪い合って\\n　ジュースを冷やす必要もなくなるんですね」",
-            "name": "亮子"
-         },
-         "ru": {
-            "line": "«Нам больше не нужно будет соревноваться \nради холодного сока.»",
-            "name": ""
-         }
-      }
-   },
-   "0036": {
-      "data": {
-         "en": {
-            "line": "'Oh.'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「はぁ」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«Оу.»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "0037": {
-      "data": {
-         "en": {
-            "line": "'Our refrigerator has been used for decades, and\\nis a relic from the last century.'",
-            "name": "Kanako"
-         },
-         "jp": {
-            "line": "「うちの冷蔵庫、年号が昭和の時代から使われてる\\n　前世紀の遺物だったからねー」",
-            "name": "佳奈子"
-         },
-         "ru": {
-            "line": "«Наш холодильник служил десятилетиями,\nэто реликвия из прошлого века.»",
-            "name": "Канако"
-         }
-      }
-   },
-   "0038": {
-      "data": {
-         "en": {
-            "line": "'It's been in bad condition for a long time, and\\nwe often find that it has no power.'",
-            "name": "Yuka"
-         },
-         "jp": {
-            "line": "「もうずっと調子悪くて、\\n　気が付くと電源が切れてるなんてことしょっちゅう」",
-            "name": "由佳"
-         },
-         "ru": {
-            "line": "«Долгое время он был в плохом состоянии, и частенько \nмы обнаруживали, что он выключился.»",
-            "name": ""
-         }
-      }
-   },
-   "0039": {
-      "data": {
-         "en": {
-            "line": "'But with this, tragic accidents where our\\nexpensive ice cream melts on us, will also go\\naway...!!'",
-            "name": "Kotori"
-         },
-         "jp": {
-            "line": "「でもこれで、高価いアイスを溶かしてしまう\\n　痛ましい事故もなくなるのよ……！！」",
-            "name": "小鳥"
-         },
-         "ru": {
-            "line": "«Но теперь трагичные происшествия с дорогим \nмороженым, тающим на нас, останутся в прошлом...!!»",
-            "name": "Котори"
-         }
-      }
-   },
-   "003a": {
-      "data": {
-         "en": {
-            "line": "'A few days ago, Kotori's Haagen-Dazs was\\ncompletely ruined...'",
-            "name": "Ryouko"
-         },
-         "jp": {
-            "line": "「こないだ、小鳥ちゃんのハーゲンダッチ、\\n　全滅しちゃったんだよね……」",
-            "name": "亮子"
-         },
-         "ru": {
-            "line": "«Несколько дней Häagen-Dazs Котори было \nполностью уничтожено...»",
-            "name": ""
-         }
-      }
-   },
-   "003b": {
-      "data": {
-         "en": {
-            "line": "'That really is a tragedy.'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「それは悲劇ね」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«Настоящая трагедия.»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "003c": {
-      "data": {
-         "en": {
-            "line": "'The food won't be spoiled anymore, and the\\nelectric bill will be cheaper.'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「食材を腐らせることもないし、\\n　電気代だってぐっと安くなる」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«Больше не будет пропадать еда и уменьшится \nсчет за электричество.»",
-            "name": "Аои"
-         }
-      }
-   },
-   "003d": {
-      "data": {
-         "en": {
-            "line": "'And it won't be a problem for the owner,\\neither.'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「オーナーさんにとっても悪い話じゃないさ」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«И для хозяйки никаких проблем.»",
-            "name": "Аои"
-         }
-      }
-   },
-   "003e": {
-      "data": {
-         "en": {
-            "line": "I finished hanging up the laundry, and then while\\njoining everyone, I explained.",
-            "name": ""
-         },
-         "jp": {
-            "line": "洗濯物を干し終えた俺は、みんなと合流しながら説明する。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Объяснял я, присоединившись к остальным, \nкогда закончил развешивать белье.",
-            "name": ""
-         }
-      }
-   },
-   "003f": {
-      "data": {
-         "en": {
-            "line": "'She didn't give it the okay right away, though,\\ndid she?'",
-            "name": "Kanako"
-         },
-         "jp": {
-            "line": "「でも、なかなかＯＫでなかったんでしょ？」",
-            "name": "佳奈子"
-         },
-         "ru": {
-            "line": "«Хотя она еще не согласилась, не так ли?»",
-            "name": "Канако"
-         }
-      }
-   },
-   "0040": {
-      "data": {
-         "en": {
-            "line": "'Yeah, well...'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「ええ、まあ……」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«Ну...»",
-            "name": "Аои"
-         }
-      }
-   },
-   "0041": {
-      "data": {
-         "en": {
-            "line": "I was the one who approached the owner about it,\\nbut it wasn't exactly a smooth process to get to\\nthis point.",
-            "name": ""
-         },
-         "jp": {
-            "line": "オーナーさんに掛け合ったのは俺だが、ここに至るまでは、必ずしも平坦な{道程:みちのり}ではなかった。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Я говорил об этом с хозяйкой, но дела шли \nне очень гладко.",
-            "name": ""
-         }
-      }
-   },
-   "0042": {
-      "data": {
-         "en": {
-            "line": "The owner herself was okay with it, but her sons\\nwant to get rid of this place as soon as\\npossible, and that's why they were against the\\nidea of getting a new fridge.",
-            "name": ""
-         },
-         "jp": {
-            "line": "オーナーさんはともかく、その息子さんたちはさっさとこのトビウオ荘を取り壊したがってて、そのせいで冷蔵庫買い換えにも反対された。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Сама хозяйка была не против, но её сыновья хотели \nкак можно скорее избавиться от этого дома, \nи поэтому были против приобретения нового холодильника.",
-            "name": ""
-         }
-      }
-   },
-   "0043": {
-      "data": {
-         "en": {
-            "line": "I persistently pursued the negotiations, and\\nfinally won out.",
-            "name": ""
-         },
-         "jp": {
-            "line": "俺は粘り強く交渉を続け、ようやく勝ち取ったのだ。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Я был настойчив в переговорах и, в конце концов, победил.",
-            "name": ""
-         }
-      }
-   },
-   "0044": {
-      "data": {
-         "en": {
-            "line": "'It's all thanks to Aoi.'",
-            "name": "Yuka"
-         },
-         "jp": {
-            "line": "「水瀬くんのおかげだよ！」",
-            "name": "由佳"
-         },
-         "ru": {
-            "line": "«Всё благодаря Аои.»",
-            "name": ""
-         }
-      }
-   },
-   "0045": {
-      "data": {
-         "en": {
-            "line": "'Yeah, he's a great dorm mother!'",
-            "name": "Sanae"
-         },
-         "jp": {
-            "line": "「そうそう、寮母さん偉い♪」",
-            "name": "早苗"
-         },
-         "ru": {
-            "line": "«Да, он отличная горничная!»",
-            "name": ""
-         }
-      }
-   },
-   "0046": {
-      "data": {
-         "en": {
-            "line": "'Nah, not really...'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「いや、そんな」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«Ну, неправда...»",
-            "name": "Аои"
-         }
-      }
-   },
-   "0047": {
-      "data": {
-         "en": {
-            "line": "'The old lady said that Aoi is doing a good job.'",
-            "name": "Kanako"
-         },
-         "jp": {
-            "line": "「お婆ちゃん言ってたよ、\\n　碧くんはよくやってくれてるって」",
-            "name": "佳奈子"
-         },
-         "ru": {
-            "line": "«Бабуля говорит, что Аои хорошо справляется.»",
-            "name": "Канако"
-         }
-      }
-   },
-   "0048": {
-      "data": {
-         "en": {
-            "line": "When she says 'old lady', she means the owner.",
-            "name": ""
-         },
-         "jp": {
-            "line": "お婆ちゃんとは、オーナーさんのことだ。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Говоря «бабуля», она имеет в виду хозяйку.",
-            "name": ""
-         }
-      }
-   },
-   "0049": {
-      "data": {
-         "en": {
-            "line": "'I think that's the reason she agreed to it.'",
-            "name": "Kanako"
-         },
-         "jp": {
-            "line": "「そのおかげだと思うよー？」",
-            "name": "佳奈子"
-         },
-         "ru": {
-            "line": "«Думаю, именно поэтому она согласилась.»",
-            "name": "Канако"
-         }
-      }
-   },
-   "004a": {
-      "data": {
-         "en": {
-            "line": "Then, the doorbell rang.",
-            "name": ""
-         },
-         "jp": {
-            "line": "その時、玄関チャイムが鳴った。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Зазвонил входной звонок.",
-            "name": ""
-         }
-      }
-   },
-   "004b": {
-      "data": {
-         "en": {
-            "line": "'It's here!'",
-            "name": "Kotori"
-         },
-         "jp": {
-            "line": "「きた！」",
-            "name": "小鳥"
-         },
-         "ru": {
-            "line": "«Он здесь!»",
-            "name": "Котори"
-         }
-      }
-   },
-   "004c": {
-      "data": {
-         "en": {
-            "line": "'...(Gulp!)'",
-            "name": "Yuka"
-         },
-         "jp": {
-            "line": "「……（ゴクリ）」",
-            "name": "由佳"
-         },
-         "ru": {
-            "line": "«...(!)»",
-            "name": ""
-         }
-      }
-   },
-   "004d": {
-      "data": {
-         "en": {
-            "line": "All the boarders were getting excited.",
-            "name": ""
-         },
-         "jp": {
-            "line": "色めき立つ寮生のみんな。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Жильцы снова заволновались.",
-            "name": ""
-         }
-      }
-   },
-   "004e": {
-      "data": {
-         "en": {
-            "line": "'Hello there.'",
-            "name": "Electrician"
-         },
-         "jp": {
-            "line": "「失礼しまーす」",
-            "name": "電気屋"
-         },
-         "ru": {
-            "line": "«Добрый день.»",
-            "name": ""
-         }
-      }
-   },
-   "004f": {
-      "data": {
-         "en": {
-            "line": "The guy from the electronics store came straight\\nin and when he saw all the girls standing there\\n(plus one boy) he said, 'Whoa'.",
-            "name": ""
-         },
-         "jp": {
-            "line": "勢い良く入ってきた電気屋さんは、そこに居並ぶ女子たち\\n（＋男子１名）を見て「うわっ」と声をあげた。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Парень из магазина бытовой техники зашел внутрь,\nи когда он увидел всех девушек (плюс один парень),\nу него вырвалось «Воу».",
-            "name": ""
-         }
-      }
-   },
-   "0050": {
-      "data": {
-         "en": {
-            "line": "'...Refrigerator delivery.'",
-            "name": "Electrician"
-         },
-         "jp": {
-            "line": "「……冷蔵庫、お届けにあがりました」",
-            "name": "電気屋"
-         },
-         "ru": {
-            "line": "«...Доставка холодильника.»",
-            "name": ""
-         }
-      }
-   },
-   "0051": {
-      "data": {
-         "en": {
-            "line": "'Please install it over here. Could you also take\\naway the old one?'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「ここに設置してください。\\n　古いのは回収お願いします」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«Пожалуйста, ставьте сюда. А вы можете сразу\nзабрать старый?»",
-            "name": "Аои"
-         }
-      }
-   },
-   "0052": {
-      "data": {
-         "en": {
-            "line": "The new fridge will be installed in the dining\\nhall, and the old one will be taken away for\\nrecycling.",
-            "name": ""
-         },
-         "jp": {
-            "line": "新しい冷蔵庫が食堂に設置され、古い物はリサイクルのために運び出されていく。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Новый холодильник поставят в столовой, \nа старый увезут на переработку.",
-            "name": ""
-         }
-      }
-   },
-   "0053": {
-      "data": {
-         "en": {
-            "line": "I sign the receipt, then...",
-            "name": ""
-         },
-         "jp": {
-            "line": "俺は受け取りにサインをすると、",
-            "name": ""
-         },
-         "ru": {
-            "line": "Я расписался за получение...",
-            "name": ""
-         }
-      }
-   },
-   "0054": {
-      "data": {
-         "en": {
-            "line": "'I'll leave the rest to you.'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「あとの事は任せます」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«Оставляю остальное на вас.»",
-            "name": "Аои"
-         }
-      }
-   },
-   "0055": {
-      "data": {
-         "en": {
-            "line": "'Sure.'",
-            "name": "Kanako"
-         },
-         "jp": {
-            "line": "「あいよー」",
-            "name": "佳奈子"
-         },
-         "ru": {
-            "line": "«Конечно.»",
-            "name": "Канако"
-         }
-      }
-   },
-   "0056": {
-      "data": {
-         "en": {
-            "line": "I let Kanako take care of it and then I left the\\ndormitory.",
-            "name": ""
-         },
-         "jp": {
-            "line": "佳奈子さんに任せて寮を出た。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Я оставил холодильник на Канако и вышел из общежития.",
-            "name": ""
-         }
-      }
-   },
-   "0057": {
-      "data": {
-         "en": {
-            "line": "'Aoi, we'll miss the train.'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「碧、電車乗り遅れちゃうよ」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«Аои, мы опоздаем на поезд.»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "0058": {
-      "data": {
-         "en": {
-            "line": "'Okay, sorry.'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「おお、わりぃ」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«Хорошо, извини.»",
-            "name": "Аои"
-         }
-      }
-   },
-   "0059": {
-      "data": {
-         "en": {
-            "line": "'It must be nice for them. I wanted to go too,'",
-            "name": "Kotori"
-         },
-         "jp": {
-            "line": "「いいなー。私もいきたかった」",
-            "name": "小鳥"
-         },
-         "ru": {
-            "line": "«Я так им завидую. Я тоже хотела пойти,»",
-            "name": "Котори"
-         }
-      }
-   },
-   "005a": {
-      "data": {
-         "en": {
-            "line": "grumbled Kotori.",
-            "name": ""
-         },
-         "jp": {
-            "line": "小鳥がうじうじと言う。",
-            "name": ""
-         },
-         "ru": {
-            "line": "проворчала Котори.",
-            "name": ""
-         }
-      }
-   },
-   "005b": {
-      "data": {
-         "en": {
-            "line": "'I can't believe they would go without their\\nleader.'",
-            "name": "Kotori"
-         },
-         "jp": {
-            "line": "「{会長:・・}の私がお留守番なんて」",
-            "name": "小鳥"
-         },
-         "ru": {
-            "line": "«Не могу поверить, что они пойдут без лидера.»",
-            "name": "Котори"
-         }
-      }
-   },
-   "005c": {
-      "data": {
-         "en": {
-            "line": "'It can't be helped. Today, you have to help out\\nat An-chan's place.'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「しょうがないじゃん。\\n　今日は小鳥、あんちゃんとこの手伝いがあるんだから」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«Ничего не поделать. Сегодня тебе нужно работать \nу Ан-тян.»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "005d": {
-      "data": {
-         "en": {
-            "line": "'I know that.'",
-            "name": "Kotori"
-         },
-         "jp": {
-            "line": "「わかってるわよぉ」",
-            "name": "小鳥"
-         },
-         "ru": {
-            "line": "«Я знаю.»",
-            "name": "Котори"
-         }
-      }
-   },
-   "005e": {
-      "data": {
-         "en": {
-            "line": "It's been a year since the Soaring Club lost its\\nstatus.",
-            "name": ""
-         },
-         "jp": {
-            "line": "ソアリング部が廃部となって一年が過ぎ――",
-            "name": ""
-         },
-         "ru": {
-            "line": "Прошел год с того момента, как Парящий Клуб\nутратил свой статус.",
-            "name": ""
-         }
-      }
-   },
-   "005f": {
-      "data": {
-         "en": {
-            "line": "Then, summer had come around again.",
-            "name": ""
-         },
-         "jp": {
-            "line": "そして、また夏が巡ってきていた。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Снова пришло лето.",
-            "name": ""
-         }
-      }
-   },
-   "0060": {
-      "data": {
-         "en": {
-            "line": "'We've got to hurry up with our plan.'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「急がないとね、わたしらの計画」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«Нам нужно поторопиться.»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "0061": {
-      "data": {
-         "en": {
-            "line": "'Yeah.'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「ああ」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«Да.»",
-            "name": "Аои"
-         }
-      }
-   },
-   "0062": {
-      "data": {
-         "en": {
-            "line": "Our revival of the club's activities hadn't been\\naccepted, so we still had the status of a\\nsociety...",
-            "name": ""
-         },
-         "jp": {
-            "line": "部活動としての復活を認められず、一応同好会という形で残ってはいるものの……",
-            "name": ""
-         },
-         "ru": {
-            "line": "Предложение возобновить деятельность клуба \nне было принято, поэтому у нас всё еще \nбыл статус общества...",
-            "name": ""
-         }
-      }
-   },
-   "0063": {
-      "data": {
-         "en": {
-            "line": "Under the supervision of Tobioka, it had become\\neffectively impossible to carry out our club\\nactivities in the school grounds.",
-            "name": ""
-         },
-         "jp": {
-            "line": "飛岡の監視の中、学校内では事実上、活動不可能となった。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Под контролем Тобиоки заниматься клубной деятельностью \nна территории школы стало фактически невозможно.",
-            "name": ""
-         }
-      }
-   },
-   "0064": {
-      "data": {
-         "en": {
-            "line": "Just now, Kotori had patronizingly referred to\\nherself as 'club leader'. She was the second in\\ncharge before, so naturally she inherited the\\ntitle.",
-            "name": ""
-         },
-         "jp": {
-            "line": "小鳥はさっき偉そうに「会長」とか言ってたけど、順当にいけば副部長だった小鳥が、部長の肩書きを継ぐはずだった。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Сейчас Котори высокомерно называет себя 'лидер клуба'.\nРаньше она была второй после лидера, поэтому конечно же \nона унаследовала эту должность.",
-            "name": ""
-         }
-      }
-   },
-   "0065": {
-      "data": {
-         "en": {
-            "line": "Anyway, we've been demoted to the status of a\\nsociety. So now, she's just the 'leader'.",
-            "name": ""
-         },
-         "jp": {
-            "line": "ところが、同好会に格下げになってしまったので「会長」。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Как бы то ни было, нас понизили до статуса общества.\nТак что сейчас она просто 'лидер'.",
-            "name": ""
-         }
-      }
-   },
-   "0066": {
-      "data": {
-         "en": {
-            "line": "It looks like Kotori has really taken a liking to\\nthat title.",
-            "name": ""
-         },
-         "jp": {
-            "line": "小鳥はその肩書きが、いたく気に入ってる様子だ。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Кажется, Котори пристрастилась к этому титулу.",
-            "name": ""
-         }
-      }
-   },
-   "0067": {
-      "data": {
-         "en": {
-            "line": "It's weird, but doesn't 'leader' sound a lot more\\nhigh and mighty than 'club leader'?",
-            "name": ""
-         },
-         "jp": {
-            "line": "曰く――部長より会長の方が偉そうじゃない？",
-            "name": ""
-         },
-         "ru": {
-            "line": "Странно, но разве «лидер» не кажется более властным,\nчем «лидер клуба»?",
-            "name": ""
-         }
-      }
-   },
-   "0068": {
-      "data": {
-         "en": {
-            "line": "That's kind of beside the point, but we don't\\nhave a clubhouse or a glider.",
-            "name": ""
-         },
-         "jp": {
-            "line": "話が逸れたが、俺たちには活動場所もなく、グライダーもない。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Кстати, у нас нет здания клуба и даже планёра.",
-            "name": ""
-         }
-      }
-   },
-   "0069": {
-      "data": {
-         "en": {
-            "line": "But there are things that we can do.",
-            "name": ""
-         },
-         "jp": {
-            "line": "けど、できることはある。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Но кое-что мы всё же можем делать.",
-            "name": ""
-         }
-      }
-   },
-   "006a": {
-      "data": {
-         "en": {
-            "line": "One of those is working at a part-time job.",
-            "name": ""
-         },
-         "jp": {
-            "line": "その一つが、アルバイト。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Например, работать парт-тайм.",
-            "name": ""
-         }
-      }
-   },
-   "006b": {
-      "data": {
-         "en": {
-            "line": "Even after the owner got better, I carried on as\\nthe the dorm mother.",
-            "name": ""
-         },
-         "jp": {
-            "line": "俺は、オーナーさんが快復した後も、寮母の仕事を続けることにした。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Даже когда хозяйке стало лучше, я продолжал \nработать горничной.",
-            "name": ""
-         }
-      }
-   },
-   "006c": {
-      "data": {
-         "en": {
-            "line": "My mom pays me for the work, and the money is\\nused for my living expenses.",
-            "name": ""
-         },
-         "jp": {
-            "line": "その分、母さんからバイト代を貰い、それを活動費に{充:あ}てている。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Мама платит мне за эту работу, и эти деньги\nя использую для текущих расходов.",
-            "name": ""
-         }
-      }
-   },
-   "006d": {
-      "data": {
-         "en": {
-            "line": "Ageha and Kotori are working at An-chan's\\nfactory.",
-            "name": ""
-         },
-         "jp": {
-            "line": "あげはと小鳥は、あんちゃんとこの工場で働かせてもらっている。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Агеха и Котори работают на фабрике у Ан-тян.",
-            "name": ""
-         }
-      }
-   },
-   "006e": {
-      "data": {
-         "en": {
-            "line": "They don't receive wages, but they get paid in\\nglider materials.",
-            "name": ""
-         },
-         "jp": {
-            "line": "もらうのは給料じゃなく、給料分のグライダーの資材。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Они не получают зарплату, но им платят материалами\nдля планёра.",
-            "name": ""
-         }
-      }
-   },
-   "006f": {
-      "data": {
-         "en": {
-            "line": "Factories can get those materials more cheaply,\\nand they chose good quality materials, which is a\\nbig help.",
-            "name": ""
-         },
-         "jp": {
-            "line": "工場で仕入れてもらった方が安いし、質のいい物を選んでくれるから助かる。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Фабричное производство дешевле, и они выбирают \nвысококачественные материалы, что очень помогает.",
-            "name": ""
-         }
-      }
-   },
-   "0070": {
-      "data": {
-         "en": {
-            "line": "We have a plan coming up that requires the use of\\nlarge amounts of FRP and so on.",
-            "name": ""
-         },
-         "jp": {
-            "line": "この先、ＦＲＰの素材などが大量に必要になる予定だ。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Наш план требует большого количества волоконно-\nармированного пластика и многого другого.",
-            "name": ""
-         }
-      }
-   },
-   "0071": {
-      "data": {
-         "en": {
-            "line": "Ageha and I are heading to the site of another of\\nour activities now.",
-            "name": ""
-         },
-         "jp": {
-            "line": "そして、もう一つの活動が、俺とあげはがこれからいく場所。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Мы с Агехой сейчас направляемся к участку другой \nнашей деятельности.",
-            "name": ""
-         }
-      }
-   },
-   "0072": {
-      "data": {
-         "en": {
-            "line": "It's at a runway two hours away by train.",
-            "name": ""
-         },
-         "jp": {
-            "line": "ここから電車で２時間ほどいった場所にある滑空場だ。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Это взлетно-посадочная полоса в двух часах \nезды на поезде.",
-            "name": ""
-         }
-      }
-   },
-   "0073": {
-      "data": {
-         "en": {
-            "line": "I go there often to attend glider flight\\ntraining...",
-            "name": ""
-         },
-         "jp": {
-            "line": "俺はそこに通い詰め、グライダーの訓練飛行に明け暮れ……",
-            "name": ""
-         },
-         "ru": {
-            "line": "Раньше я часто ходил туда на лётные тренировки.",
-            "name": ""
-         }
-      }
-   },
-   "0074": {
-      "data": {
-         "en": {
-            "line": "A few days ago, I finally managed to get the\\npilot's license that I'd wanted for so long!",
-            "name": ""
-         },
-         "jp": {
-            "line": "先日、ついに念願のパイロットの資格を取得した！",
-            "name": ""
-         },
-         "ru": {
-            "line": "Несколько дней назад я наконец получил лётную \nлицензию, которую так давно хотел!",
-            "name": ""
-         }
-      }
-   },
-   "0075": {
-      "data": {
-         "en": {
-            "line": "It was pretty hard work, but with this, I can fly\\na glider by myself!",
-            "name": ""
-         },
-         "jp": {
-            "line": "かなり無理をしたけど、これで一人でグライダーに乗れる！",
-            "name": ""
-         },
-         "ru": {
-            "line": "Было довольно сложно, но теперь я могу сам летать \nна планёре!",
-            "name": ""
-         }
-      }
-   },
-   "0076": {
-      "data": {
-         "en": {
-            "line": "Ageha's been coming with me when she has spare\\ntime, to be in contact with the aircraft and help\\nwith the maintenance.",
-            "name": ""
-         },
-         "jp": {
-            "line": "あげはも暇な時は一緒についてきて、機体に触れたり、整備を手伝わせてもらったりしていた。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Агеха ходит со мной в свободное время, чтобы \nне терять контакт с самолётами и помогать \nс техническим обслуживанием.",
-            "name": ""
-         }
-      }
-   },
-   "0077": {
-      "data": {
-         "en": {
-            "line": "Kotori comes too but she always just comes to\\nwatch.",
-            "name": ""
-         },
-         "jp": {
-            "line": "小鳥も来ることがあるけど、いつも見学だけしている。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Котори тоже приходит, но она всегда просто смотрит.",
-            "name": ""
-         }
-      }
-   },
-   "0078": {
-      "data": {
-         "en": {
-            "line": "She could go for a flight with a local pilot, but\\nshe stubbornly refused.",
-            "name": ""
-         },
-         "jp": {
-            "line": "現地のパイロットに乗せてもらっての体験飛行もできるのだけど、それは頑なに拒否していた。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Она может летать с местными пилотами, но категорически \nотказывается.",
-            "name": ""
-         }
-      }
-   },
-   "0079": {
-      "data": {
-         "en": {
-            "line": "...It's okay. I'll fly with Aoi.",
-            "name": ""
-         },
-         "jp": {
-            "line": "――いいの。碧くんに乗せてもらうから。",
-            "name": ""
-         },
-         "ru": {
-            "line": "...Всё нормально. Я буду летать с Аои.",
-            "name": ""
-         }
-      }
-   },
-   "007a": {
-      "data": {
-         "en": {
-            "line": "It seems she still remembers the promise I made\\nto her before. Of course, I secretly still\\nremember it too.",
-            "name": ""
-         },
-         "jp": {
-            "line": "昔、俺が約束したことを、まだ覚えていたらしい。\\nもちろん、俺も密かに覚えていたが。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Кажется, она все еще помнит моё обещание.\nКонечно же, я тоже тайно помню его.",
-            "name": ""
-         }
-      }
-   },
-   "007b": {
-      "data": {
-         "en": {
-            "line": "We had a goal.",
-            "name": ""
-         },
-         "jp": {
-            "line": "俺たちには、目標があった。",
-            "name": ""
-         },
-         "ru": {
-            "line": "У нас есть цель.",
-            "name": ""
-         }
-      }
-   },
-   "007c": {
-      "data": {
-         "en": {
-            "line": "To complete an aircraft according to the designs\\nthat Amane had left behind.",
-            "name": ""
-         },
-         "jp": {
-            "line": "天音先輩が残した設計図の通りの機体を完成させること。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Построить летательный аппарат по чертежам,\nкоторые оставила Амане.",
-            "name": ""
-         }
-      }
-   },
-   "007d": {
-      "data": {
-         "en": {
-            "line": "Then, to fly that glider through the passage of\\nclouds.",
-            "name": ""
-         },
-         "jp": {
-            "line": "そして、そのグライダーであの雲の廻廊を飛ぶこと。",
-            "name": ""
-         },
-         "ru": {
-            "line": "И полететь на этом планёре сквозь коридор\nиз облаков.",
-            "name": ""
-         }
-      }
-   },
-   "007e": {
-      "data": {
-         "en": {
-            "line": "'Compared to past data, the weather conditions\\nthis year are similar to those of years when\\nMorning Glories occurred.'",
-            "name": "Kotori"
-         },
-         "jp": {
-            "line": "「過去のデータと照らし合わせてみたけど、\\n　今年の気象条件は、モーニンググローリーの発生した\\n　年によく似てる」",
-            "name": "小鳥"
-         },
-         "ru": {
-            "line": "«В соответствии с последними данными, погодные \nусловия в этом году похожи на те, при которых\nпоявляется утренняя глория.»",
-            "name": "Котори"
-         }
-      }
-   },
-   "007f": {
-      "data": {
-         "en": {
-            "line": "'It could come this summer.'",
-            "name": "Ageha"
-         },
-         "jp": {
-            "line": "「くるかもしれないのね、今年の夏に」",
-            "name": "あげは"
-         },
-         "ru": {
-            "line": "«Может, она появится этим летом.»",
-            "name": "Агеха"
-         }
-      }
-   },
-   "0080": {
-      "data": {
-         "en": {
-            "line": "'It's possible.'",
-            "name": "Kotori"
-         },
-         "jp": {
-            "line": "「可能性はあるってこと」",
-            "name": "小鳥"
-         },
-         "ru": {
-            "line": "«Возможно.»",
-            "name": "Котори"
-         }
-      }
-   },
-   "0081": {
-      "data": {
-         "en": {
-            "line": "We don't know if it'll come or not.",
-            "name": ""
-         },
-         "jp": {
-            "line": "くるかどうかなんてわからない。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Мы не знаем, произойдет это или нет.",
-            "name": ""
-         }
-      }
-   },
-   "0082": {
-      "data": {
-         "en": {
-            "line": "It came last year, so it's more natural to think\\nthat it won't come again this year too.",
-            "name": ""
-         },
-         "jp": {
-            "line": "去年現れたんだから、今年はもうこないと考える方が自然な気もする。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Она была прошлым летом, поэтому разумно было бы\nдумать, что в этом году её не будет.",
-            "name": ""
-         }
-      }
-   },
-   "0083": {
-      "data": {
-         "en": {
-            "line": "But...",
-            "name": ""
-         },
-         "jp": {
-            "line": "だけど――",
-            "name": ""
-         },
-         "ru": {
-            "line": "Но...",
-            "name": ""
-         }
-      }
-   },
-   "0084": {
-      "data": {
-         "en": {
-            "line": "'It's no use thinking about it not coming. Let's\\nbelieve that it will come, and keep going.'",
-            "name": "Kotori"
-         },
-         "jp": {
-            "line": "「こなかった時のことなんか、考えるだけ無駄だもん。\\n　くると信じて、前へ進みましょ」",
-            "name": "小鳥"
-         },
-         "ru": {
-            "line": "«Не надо думать, что она не появится. Давай верить,\nчто это случится, и продолжать идти вперед.»",
-            "name": "Котори"
-         }
-      }
-   },
-   "0085": {
-      "data": {
-         "en": {
-            "line": "'That's why we need to make all the necessary\\npreparations.'",
-            "name": "Aoi"
-         },
-         "jp": {
-            "line": "「そのためにも、準備は万全にしとかないとな」",
-            "name": "碧"
-         },
-         "ru": {
-            "line": "«И поэтому нам нужно как следует подготовиться.»",
-            "name": "Аои"
-         }
-      }
-   },
-   "0086": {
-      "data": {
-         "en": {
-            "line": "I look up to see a sky so blue, that it almost\\nhurts to look at. A thundering thunderhead.",
-            "name": ""
-         },
-         "jp": {
-            "line": "見上げると、目に痛いほど青い空と、そびえ立つ入道雲。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Я посмотрел на небо, такое голубое, что глазам \nпочти больно. Громадная грозовая туча.",
-            "name": ""
-         }
-      }
-   },
-   "0087": {
-      "data": {
-         "en": {
-            "line": "The sky's so high, that it looks like it goes on\\nendlessly.",
-            "name": ""
-         },
-         "jp": {
-            "line": "この空が、どこまでも高いことを見せつけるような。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Небо, такое высокое, что кажется бесконечным.",
-            "name": ""
-         }
-      }
-   },
-   "0088": {
-      "data": {
-         "en": {
-            "line": "The real summer was beginning.",
-            "name": ""
-         },
-         "jp": {
-            "line": "夏が、本格的に始まろうとしていた。",
-            "name": ""
-         },
-         "ru": {
-            "line": "Начиналось настоящее лето.",
-            "name": ""
-         }
-      }
-   }
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I thought you might be here.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「やっぱりここだったわね」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Так и знала, что ты здесь.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yoru.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「依瑠ちゃん」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Ёру.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If you don't go back now, you'll be late for\\ndinner.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「そろそろ帰らないと、夕飯に遅れるわよ？」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Если не вернешься сейчас, то опоздаешь\nна ужин.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah... but, can I stay a little longer?'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「うん……でも、もうちょっとだけ」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Да... но можно я подожду еще немного?»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There's no use waiting, it won't appear, you\\nknow.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「待ってても無駄よ。もう現れないわ」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Незачем ждать, он не появится.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh? How do you know that?'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「え？　どうしてわかるの？」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«А? Откуда ты знаешь?»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It hasn't flown once since that time, has it? I\\nwent to take a look at the runway but it's\\novergrown with weeds and there are no signs of it\\nhaving been used.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「あれから一度も飛んでないじゃない。\\n　滑走路を見に行ってみたけど、雑草が生い茂ってて、\\n　使われてる形跡はなかったわ」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«С тех пор он ни разу не взлетал, так? Я ходила\nпосмотреть на взлётно-посадочную полосу, но она \nзаросла травой, и, по всей видимости, не используется.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah... but...'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「うん……でも」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Да... но...»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Uhhhh...'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「うー……」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Ээээ...»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sheesh...'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「ふぅ……」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Ээх...»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I asked about it today at school.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「今日、学校で聞いたんだけど」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Я спросила сегодня в школе.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'?'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「？」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«?»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It was the members of the Soaring Club at our\\nschool.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「あの人たち、\\n　{う:・}{ち:・}{の:・}{学:・}{校:・}のソアリング部だったんだって」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Это были члены Парящего Клуба нашей школы.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh? The people flying in the glider were...?'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「え？　あのグライダーで飛んでた人たちが……？」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«А? Люди, летающие в планёре...?»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yes.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「そうよ」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Да.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'They were performing club activities. It's\\nsimpler to look for them at the more common\\nareas.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「うちの学校の部活動だったってわけ。\\n　灯台もと暗しとはこのことね」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Это было их клубное мероприятие. Проще \nнайти их в более доступных местах.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...so that means, if I ask, they might let me\\njoin?'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「……ってことは、わたしも頼めば\\n　入れてもらえるかもしれないんだ」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«...это значит, что если я попрошу, то они \nразрешат мне присоединиться к ним?»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's too bad.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「残念でした」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Всё плохо.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh?'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「へ？」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«А?»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The Soaring Club had its status revoked. The\\nso-called 'Legendary Senpai' quit, and that was\\nit.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「ソアリング部はとっくに廃部になってたわ。\\n　伝説の先輩とやらが引退して、そのままね」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Парящий Клуб утратил свой статус. Всё закончилось \nс уходом так называемого «Легендарного Семпая.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Really...?'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「そうなんだ……」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Правда?...»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's why they're not flying. So that's why\\nthere's no point waiting here.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「飛ばないのはそのせいよ。\\n　だから、もうここで待ってても意味ないの」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Вот почему они не летают. И вот почему \nнет смысла ждать.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Come on, let's go back. I'm hungry.'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「さ、帰りましょ。\\n　わたし、お腹が空いちゃった」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Пошли, возвращаемся. Я проголодалась.»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«...»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see... So they won't be flying anymore...'",
+                "name": "Girl"
+            },
+            "jp": {
+                "line": "「そっか……\\n　もう飛ばないんだ……」",
+                "name": "女の子"
+            },
+            "ru": {
+                "line": "«Понятно... Значит, они больше не будут летать...»",
+                "name": "Девушка"
+            }
+        },
+        "state": "1"
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A sky so blue, it almost hurts the eyes, and a\\ntowering thunderhead.",
+                "name": ""
+            },
+            "jp": {
+                "line": "目に痛いほど青い空と、そびえ立つ入道雲。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Небо, такое голубое, что глазам почти что больно, \nи возвышающаяся грозовая туча.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Cicadas are singing their hearts out. Lush\\nvegetation is growing, bathed in the sunlight.",
+                "name": ""
+            },
+            "jp": {
+                "line": "蝉たちは命の限り高らかと鳴き、陽を浴びた草木は青々と茂る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Неистово стрекочут цикады. Бурная растительность \nкупается в солнечных лучах.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Summer has come again!!",
+                "name": ""
+            },
+            "jp": {
+                "line": "また巡ってきた――夏が！！",
+                "name": ""
+            },
+            "ru": {
+                "line": "Снова лето!!",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's so hot...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あっちぃなぁ……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«Так жарко...»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I complain, while hanging the sheets on the\\nclothesline.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ぼやきながら、物干し竿にかけたシーツを伸ばしていく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Жаловался я, развешивая простыни сушиться \nна верёвке.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'In this heat, they should be dry by lunchtime.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「この調子なら、昼前には乾いてそうだな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«На такой жаре они высохнут к обеду.»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I speak, I gaze at the distant thunderhead.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そう言いつつ、遠くに見える入道雲を眺める。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Я смотрел на далёкую грозовую тучу.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's said that thunderheads, or giant\\ncumulonimbus clouds, can extend upwards out of\\nthe stratosphere.",
+                "name": ""
+            },
+            "jp": {
+                "line": "入道雲、つまり積乱雲は巨大なものになると、その雲頂が成層圏まで突き抜けるというが。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Говорят, что грозовые тучи, или гигантские \nкучево-дождевые облака, могут вырастать\nвыше стратосферы.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The world record for highest flight in a glider\\nalso went beyond the stratosphere.",
+                "name": ""
+            },
+            "jp": {
+                "line": "グライダーの高高度世界記録もまた、成層圏へ達している。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Планёр, поставивший мировой рекорд по самому \nвысокому полёту, тоже вышел за пределы стратосферы.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "They both seem hard to believe at first.",
+                "name": ""
+            },
+            "jp": {
+                "line": "どちらも、にわかには信じがたい話だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "В оба этих факта трудно поверить.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Morning.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「おはようっす」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«Утро.»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I take the sheets out of the wash basket, I\\nhear a voice from behind. It's Ageha.",
+                "name": ""
+            },
+            "jp": {
+                "line": "洗濯カゴからシーツを取り上げていると、後ろから声をかけられた。あげはだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Доставая простыни из корзины с бельём,\nя услышал сзади голос. Это Агеха.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's hot today too, isn't it?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「今日も暑いねぇ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«Жарко сегодня, да?»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll be with you in a moment. Can you wait\\ninside?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「まだ出られないんだ。\\n　中で待っててくれ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«Я буду через секунду. Подождешь внутри?»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Kanako"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "佳奈子"
+            },
+            "ru": {
+                "line": "«...»",
+                "name": "Канако"
+            }
+        },
+        "state": "1"
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Yuka"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "由佳"
+            },
+            "ru": {
+                "line": "«...»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Sanae"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "早苗"
+            },
+            "ru": {
+                "line": "«...»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Is it here!?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「きたッ！？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "«Он здесь?!»",
+                "name": "Котори"
+            }
+        },
+        "state": "1"
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Good mor...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「おはようござい……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«Доброе ут...»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Whoa, what are you all doing here?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……わっ、どしたのみなさんお揃いで！？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«...Воу, что вы все здесь делаете?»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What? It's Ageha...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「なんだ、あげはか……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "«Что? Это Агеха...»",
+                "name": "Котори"
+            }
+        },
+        "state": "1"
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Whew... I was so excited...'",
+                "name": "Ryouko"
+            },
+            "jp": {
+                "line": "「はぅぅ、ドキドキしたよぉ……」",
+                "name": "亮子"
+            },
+            "ru": {
+                "line": "«Ууу... Я уже успела обрадоваться...»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What is this? Why are you all so disappointed??'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「なになに、なんでガッカリしてんの？？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«Что такое? Почему вы все так разочарованы??»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It'll be here soon...'",
+                "name": "Yuka"
+            },
+            "jp": {
+                "line": "「ついにくるのよ……」",
+                "name": "由佳"
+            },
+            "ru": {
+                "line": "«Он скоро будет здесь...»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...What will be?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……なにが？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«...Кто будет?»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The new refrigerator!!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「新しい冷蔵庫が！！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "«Новый холодильник!!»",
+                "name": "Котори"
+            }
+        },
+        "state": "1"
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi's been trying really hard.'",
+                "name": "Yuka"
+            },
+            "jp": {
+                "line": "「よくがんばってくれたわ、水瀬くん」",
+                "name": "由佳"
+            },
+            "ru": {
+                "line": "«Аои очень постарался.»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We didn't think we'd be able to do it\\nourselves.'",
+                "name": "Sanae"
+            },
+            "jp": {
+                "line": "「あたしたち、もう無理だと思ってたもの」",
+                "name": "早苗"
+            },
+            "ru": {
+                "line": "«Мы не думали, что сами сможем это сделать.»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We don't need to compete to keep our juice cool\\nanymore.'",
+                "name": "Ryouko"
+            },
+            "jp": {
+                "line": "「もう狭いスペースを奪い合って\\n　ジュースを冷やす必要もなくなるんですね」",
+                "name": "亮子"
+            },
+            "ru": {
+                "line": "«Нам больше не нужно будет соревноваться \nради холодного сока.»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「はぁ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«Оу.»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Our refrigerator has been used for decades, and\\nis a relic from the last century.'",
+                "name": "Kanako"
+            },
+            "jp": {
+                "line": "「うちの冷蔵庫、年号が昭和の時代から使われてる\\n　前世紀の遺物だったからねー」",
+                "name": "佳奈子"
+            },
+            "ru": {
+                "line": "«Наш холодильник служил десятилетиями,\nэто реликвия из прошлого века.»",
+                "name": "Канако"
+            }
+        },
+        "state": "1"
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's been in bad condition for a long time, and\\nwe often find that it has no power.'",
+                "name": "Yuka"
+            },
+            "jp": {
+                "line": "「もうずっと調子悪くて、\\n　気が付くと電源が切れてるなんてことしょっちゅう」",
+                "name": "由佳"
+            },
+            "ru": {
+                "line": "«Долгое время он был в плохом состоянии, и частенько \nмы обнаруживали, что он выключился.»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But with this, tragic accidents where our\\nexpensive ice cream melts on us, will also go\\naway...!!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「でもこれで、高価いアイスを溶かしてしまう\\n　痛ましい事故もなくなるのよ……！！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "«Но теперь трагичные происшествия с дорогим \nмороженым, тающим на нас, останутся в прошлом...!!»",
+                "name": "Котори"
+            }
+        },
+        "state": "1"
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'A few days ago, Kotori's Haagen-Dazs was\\ncompletely ruined...'",
+                "name": "Ryouko"
+            },
+            "jp": {
+                "line": "「こないだ、小鳥ちゃんのハーゲンダッチ、\\n　全滅しちゃったんだよね……」",
+                "name": "亮子"
+            },
+            "ru": {
+                "line": "«Несколько дней Häagen-Dazs Котори было \nполностью уничтожено...»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That really is a tragedy.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「それは悲劇ね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«Настоящая трагедия.»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The food won't be spoiled anymore, and the\\nelectric bill will be cheaper.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「食材を腐らせることもないし、\\n　電気代だってぐっと安くなる」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«Больше не будет пропадать еда и уменьшится \nсчет за электричество.»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'And it won't be a problem for the owner,\\neither.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「オーナーさんにとっても悪い話じゃないさ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«И для хозяйки никаких проблем.»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I finished hanging up the laundry, and then while\\njoining everyone, I explained.",
+                "name": ""
+            },
+            "jp": {
+                "line": "洗濯物を干し終えた俺は、みんなと合流しながら説明する。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Объяснял я, присоединившись к остальным, \nкогда закончил развешивать белье.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'She didn't give it the okay right away, though,\\ndid she?'",
+                "name": "Kanako"
+            },
+            "jp": {
+                "line": "「でも、なかなかＯＫでなかったんでしょ？」",
+                "name": "佳奈子"
+            },
+            "ru": {
+                "line": "«Хотя она еще не согласилась, не так ли?»",
+                "name": "Канако"
+            }
+        },
+        "state": "1"
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, well...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ええ、まあ……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«Ну...»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "0041": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I was the one who approached the owner about it,\\nbut it wasn't exactly a smooth process to get to\\nthis point.",
+                "name": ""
+            },
+            "jp": {
+                "line": "オーナーさんに掛け合ったのは俺だが、ここに至るまでは、必ずしも平坦な{道程:みちのり}ではなかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Я говорил об этом с хозяйкой, но дела шли \nне очень гладко.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0042": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The owner herself was okay with it, but her sons\\nwant to get rid of this place as soon as\\npossible, and that's why they were against the\\nidea of getting a new fridge.",
+                "name": ""
+            },
+            "jp": {
+                "line": "オーナーさんはともかく、その息子さんたちはさっさとこのトビウオ荘を取り壊したがってて、そのせいで冷蔵庫買い換えにも反対された。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Сама хозяйка была не против, но её сыновья хотели \nкак можно скорее избавиться от этого дома, \nи поэтому были против приобретения нового холодильника.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0043": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I persistently pursued the negotiations, and\\nfinally won out.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は粘り強く交渉を続け、ようやく勝ち取ったのだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Я был настойчив в переговорах и, в конце концов, победил.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0044": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's all thanks to Aoi.'",
+                "name": "Yuka"
+            },
+            "jp": {
+                "line": "「水瀬くんのおかげだよ！」",
+                "name": "由佳"
+            },
+            "ru": {
+                "line": "«Всё благодаря Аои.»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0045": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, he's a great dorm mother!'",
+                "name": "Sanae"
+            },
+            "jp": {
+                "line": "「そうそう、寮母さん偉い♪」",
+                "name": "早苗"
+            },
+            "ru": {
+                "line": "«Да, он отличная горничная!»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0046": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Nah, not really...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いや、そんな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«Ну, неправда...»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "0047": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The old lady said that Aoi is doing a good job.'",
+                "name": "Kanako"
+            },
+            "jp": {
+                "line": "「お婆ちゃん言ってたよ、\\n　碧くんはよくやってくれてるって」",
+                "name": "佳奈子"
+            },
+            "ru": {
+                "line": "«Бабуля говорит, что Аои хорошо справляется.»",
+                "name": "Канако"
+            }
+        },
+        "state": "1"
+    },
+    "0048": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When she says 'old lady', she means the owner.",
+                "name": ""
+            },
+            "jp": {
+                "line": "お婆ちゃんとは、オーナーさんのことだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Говоря «бабуля», она имеет в виду хозяйку.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0049": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I think that's the reason she agreed to it.'",
+                "name": "Kanako"
+            },
+            "jp": {
+                "line": "「そのおかげだと思うよー？」",
+                "name": "佳奈子"
+            },
+            "ru": {
+                "line": "«Думаю, именно поэтому она согласилась.»",
+                "name": "Канако"
+            }
+        },
+        "state": "1"
+    },
+    "004a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, the doorbell rang.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その時、玄関チャイムが鳴った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Зазвонил входной звонок.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "004b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's here!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「きた！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "«Он здесь!»",
+                "name": "Котори"
+            }
+        },
+        "state": "1"
+    },
+    "004c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...(Gulp!)'",
+                "name": "Yuka"
+            },
+            "jp": {
+                "line": "「……（ゴクリ）」",
+                "name": "由佳"
+            },
+            "ru": {
+                "line": "«...(!)»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "004d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "All the boarders were getting excited.",
+                "name": ""
+            },
+            "jp": {
+                "line": "色めき立つ寮生のみんな。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Жильцы снова заволновались.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "004e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hello there.'",
+                "name": "Electrician"
+            },
+            "jp": {
+                "line": "「失礼しまーす」",
+                "name": "電気屋"
+            },
+            "ru": {
+                "line": "«Добрый день.»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "004f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The guy from the electronics store came straight\\nin and when he saw all the girls standing there\\n(plus one boy) he said, 'Whoa'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "勢い良く入ってきた電気屋さんは、そこに居並ぶ女子たち\\n（＋男子１名）を見て「うわっ」と声をあげた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Парень из магазина бытовой техники зашел внутрь,\nи когда он увидел всех девушек (плюс один парень),\nу него вырвалось «Воу».",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0050": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Refrigerator delivery.'",
+                "name": "Electrician"
+            },
+            "jp": {
+                "line": "「……冷蔵庫、お届けにあがりました」",
+                "name": "電気屋"
+            },
+            "ru": {
+                "line": "«...Доставка холодильника.»",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0051": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Please install it over here. Could you also take\\naway the old one?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ここに設置してください。\\n　古いのは回収お願いします」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«Пожалуйста, ставьте сюда. А вы можете сразу\nзабрать старый?»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "0052": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The new fridge will be installed in the dining\\nhall, and the old one will be taken away for\\nrecycling.",
+                "name": ""
+            },
+            "jp": {
+                "line": "新しい冷蔵庫が食堂に設置され、古い物はリサイクルのために運び出されていく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Новый холодильник поставят в столовой, \nа старый увезут на переработку.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0053": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I sign the receipt, then...",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は受け取りにサインをすると、",
+                "name": ""
+            },
+            "ru": {
+                "line": "Я расписался за получение...",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0054": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll leave the rest to you.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あとの事は任せます」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«Оставляю остальное на вас.»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "0055": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sure.'",
+                "name": "Kanako"
+            },
+            "jp": {
+                "line": "「あいよー」",
+                "name": "佳奈子"
+            },
+            "ru": {
+                "line": "«Конечно.»",
+                "name": "Канако"
+            }
+        },
+        "state": "1"
+    },
+    "0056": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I let Kanako take care of it and then I left the\\ndormitory.",
+                "name": ""
+            },
+            "jp": {
+                "line": "佳奈子さんに任せて寮を出た。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Я оставил холодильник на Канако и вышел из общежития.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0057": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi, we'll miss the train.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「碧、電車乗り遅れちゃうよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«Аои, мы опоздаем на поезд.»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "0058": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Okay, sorry.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おお、わりぃ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«Хорошо, извини.»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "0059": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It must be nice for them. I wanted to go too,'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「いいなー。私もいきたかった」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "«Я так им завидую. Я тоже хотела пойти,»",
+                "name": "Котори"
+            }
+        },
+        "state": "1"
+    },
+    "005a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "grumbled Kotori.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥がうじうじと言う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "проворчала Котори.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "005b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I can't believe they would go without their\\nleader.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「{会長:・・}の私がお留守番なんて」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "«Не могу поверить, что они пойдут без лидера.»",
+                "name": "Котори"
+            }
+        },
+        "state": "1"
+    },
+    "005c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It can't be helped. Today, you have to help out\\nat An-chan's place.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「しょうがないじゃん。\\n　今日は小鳥、あんちゃんとこの手伝いがあるんだから」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«Ничего не поделать. Сегодня тебе нужно работать \nу Ан-тян.»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "005d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I know that.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「わかってるわよぉ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "«Я знаю.»",
+                "name": "Котори"
+            }
+        },
+        "state": "1"
+    },
+    "005e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's been a year since the Soaring Club lost its\\nstatus.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ソアリング部が廃部となって一年が過ぎ――",
+                "name": ""
+            },
+            "ru": {
+                "line": "Прошел год с того момента, как Парящий Клуб\nутратил свой статус.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "005f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, summer had come around again.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして、また夏が巡ってきていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Снова пришло лето.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0060": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We've got to hurry up with our plan.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「急がないとね、わたしらの計画」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«Нам нужно поторопиться.»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "0061": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ああ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«Да.»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "0062": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Our revival of the club's activities hadn't been\\naccepted, so we still had the status of a\\nsociety...",
+                "name": ""
+            },
+            "jp": {
+                "line": "部活動としての復活を認められず、一応同好会という形で残ってはいるものの……",
+                "name": ""
+            },
+            "ru": {
+                "line": "Предложение возобновить деятельность клуба \nне было принято, поэтому у нас всё еще \nбыл статус общества...",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0063": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Under the supervision of Tobioka, it had become\\neffectively impossible to carry out our club\\nactivities in the school grounds.",
+                "name": ""
+            },
+            "jp": {
+                "line": "飛岡の監視の中、学校内では事実上、活動不可能となった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Под контролем Тобиоки заниматься клубной деятельностью \nна территории школы стало фактически невозможно.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0064": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Just now, Kotori had patronizingly referred to\\nherself as 'club leader'. She was the second in\\ncharge before, so naturally she inherited the\\ntitle.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥はさっき偉そうに「会長」とか言ってたけど、順当にいけば副部長だった小鳥が、部長の肩書きを継ぐはずだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Сейчас Котори высокомерно называет себя 'лидер клуба'.\nРаньше она была второй после лидера, поэтому конечно же \nона унаследовала эту должность.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0065": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Anyway, we've been demoted to the status of a\\nsociety. So now, she's just the 'leader'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ところが、同好会に格下げになってしまったので「会長」。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Как бы то ни было, нас понизили до статуса общества.\nТак что сейчас она просто 'лидер'.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0066": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It looks like Kotori has really taken a liking to\\nthat title.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥はその肩書きが、いたく気に入ってる様子だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Кажется, Котори пристрастилась к этому титулу.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0067": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's weird, but doesn't 'leader' sound a lot more\\nhigh and mighty than 'club leader'?",
+                "name": ""
+            },
+            "jp": {
+                "line": "曰く――部長より会長の方が偉そうじゃない？",
+                "name": ""
+            },
+            "ru": {
+                "line": "Странно, но разве «лидер» не кажется более властным,\nчем «лидер клуба»?",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0068": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That's kind of beside the point, but we don't\\nhave a clubhouse or a glider.",
+                "name": ""
+            },
+            "jp": {
+                "line": "話が逸れたが、俺たちには活動場所もなく、グライダーもない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Кстати, у нас нет здания клуба и даже планёра.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0069": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But there are things that we can do.",
+                "name": ""
+            },
+            "jp": {
+                "line": "けど、できることはある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Но кое-что мы всё же можем делать.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "006a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "One of those is working at a part-time job.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その一つが、アルバイト。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Например, работать парт-тайм.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "006b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even after the owner got better, I carried on as\\nthe the dorm mother.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、オーナーさんが快復した後も、寮母の仕事を続けることにした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Даже когда хозяйке стало лучше, я продолжал \nработать горничной.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "006c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "My mom pays me for the work, and the money is\\nused for my living expenses.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その分、母さんからバイト代を貰い、それを活動費に{充:あ}てている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Мама платит мне за эту работу, и эти деньги\nя использую для текущих расходов.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "006d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha and Kotori are working at An-chan's\\nfactory.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはと小鳥は、あんちゃんとこの工場で働かせてもらっている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Агеха и Котори работают на фабрике у Ан-тян.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "006e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "They don't receive wages, but they get paid in\\nglider materials.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もらうのは給料じゃなく、給料分のグライダーの資材。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Они не получают зарплату, но им платят материалами\nдля планёра.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "006f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Factories can get those materials more cheaply,\\nand they chose good quality materials, which is a\\nbig help.",
+                "name": ""
+            },
+            "jp": {
+                "line": "工場で仕入れてもらった方が安いし、質のいい物を選んでくれるから助かる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Фабричное производство дешевле, и они выбирают \nвысококачественные материалы, что очень помогает.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0070": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We have a plan coming up that requires the use of\\nlarge amounts of FRP and so on.",
+                "name": ""
+            },
+            "jp": {
+                "line": "この先、ＦＲＰの素材などが大量に必要になる予定だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Наш план требует большого количества волоконно-\nармированного пластика и многого другого.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0071": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha and I are heading to the site of another of\\nour activities now.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして、もう一つの活動が、俺とあげはがこれからいく場所。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Мы с Агехой сейчас направляемся к участку другой \nнашей деятельности.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0072": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's at a runway two hours away by train.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ここから電車で２時間ほどいった場所にある滑空場だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Это взлетно-посадочная полоса в двух часах \nезды на поезде.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0073": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I go there often to attend glider flight\\ntraining...",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺はそこに通い詰め、グライダーの訓練飛行に明け暮れ……",
+                "name": ""
+            },
+            "ru": {
+                "line": "Раньше я часто ходил туда на лётные тренировки.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0074": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A few days ago, I finally managed to get the\\npilot's license that I'd wanted for so long!",
+                "name": ""
+            },
+            "jp": {
+                "line": "先日、ついに念願のパイロットの資格を取得した！",
+                "name": ""
+            },
+            "ru": {
+                "line": "Несколько дней назад я наконец получил лётную \nлицензию, которую так давно хотел!",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0075": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It was pretty hard work, but with this, I can fly\\na glider by myself!",
+                "name": ""
+            },
+            "jp": {
+                "line": "かなり無理をしたけど、これで一人でグライダーに乗れる！",
+                "name": ""
+            },
+            "ru": {
+                "line": "Было довольно сложно, но теперь я могу сам летать \nна планёре!",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0076": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha's been coming with me when she has spare\\ntime, to be in contact with the aircraft and help\\nwith the maintenance.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはも暇な時は一緒についてきて、機体に触れたり、整備を手伝わせてもらったりしていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Агеха ходит со мной в свободное время, чтобы \nне терять контакт с самолётами и помогать \nс техническим обслуживанием.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0077": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori comes too but she always just comes to\\nwatch.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥も来ることがあるけど、いつも見学だけしている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Котори тоже приходит, но она всегда просто смотрит.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0078": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She could go for a flight with a local pilot, but\\nshe stubbornly refused.",
+                "name": ""
+            },
+            "jp": {
+                "line": "現地のパイロットに乗せてもらっての体験飛行もできるのだけど、それは頑なに拒否していた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Она может летать с местными пилотами, но категорически \nотказывается.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0079": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...It's okay. I'll fly with Aoi.",
+                "name": ""
+            },
+            "jp": {
+                "line": "――いいの。碧くんに乗せてもらうから。",
+                "name": ""
+            },
+            "ru": {
+                "line": "...Всё нормально. Я буду летать с Аои.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "007a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It seems she still remembers the promise I made\\nto her before. Of course, I secretly still\\nremember it too.",
+                "name": ""
+            },
+            "jp": {
+                "line": "昔、俺が約束したことを、まだ覚えていたらしい。\\nもちろん、俺も密かに覚えていたが。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Кажется, она все еще помнит моё обещание.\nКонечно же, я тоже тайно помню его.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "007b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We had a goal.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺たちには、目標があった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "У нас есть цель.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "007c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "To complete an aircraft according to the designs\\nthat Amane had left behind.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩が残した設計図の通りの機体を完成させること。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Построить летательный аппарат по чертежам,\nкоторые оставила Амане.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "007d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, to fly that glider through the passage of\\nclouds.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして、そのグライダーであの雲の廻廊を飛ぶこと。",
+                "name": ""
+            },
+            "ru": {
+                "line": "И полететь на этом планёре сквозь коридор\nиз облаков.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "007e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Compared to past data, the weather conditions\\nthis year are similar to those of years when\\nMorning Glories occurred.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「過去のデータと照らし合わせてみたけど、\\n　今年の気象条件は、モーニンググローリーの発生した\\n　年によく似てる」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "«В соответствии с последними данными, погодные \nусловия в этом году похожи на те, при которых\nпоявляется утренняя глория.»",
+                "name": "Котори"
+            }
+        },
+        "state": "1"
+    },
+    "007f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It could come this summer.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「くるかもしれないのね、今年の夏に」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "«Может, она появится этим летом.»",
+                "name": "Агеха"
+            }
+        },
+        "state": "1"
+    },
+    "0080": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's possible.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「可能性はあるってこと」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "«Возможно.»",
+                "name": "Котори"
+            }
+        },
+        "state": "1"
+    },
+    "0081": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We don't know if it'll come or not.",
+                "name": ""
+            },
+            "jp": {
+                "line": "くるかどうかなんてわからない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Мы не знаем, произойдет это или нет.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0082": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It came last year, so it's more natural to think\\nthat it won't come again this year too.",
+                "name": ""
+            },
+            "jp": {
+                "line": "去年現れたんだから、今年はもうこないと考える方が自然な気もする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Она была прошлым летом, поэтому разумно было бы\nдумать, что в этом году её не будет.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0083": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But...",
+                "name": ""
+            },
+            "jp": {
+                "line": "だけど――",
+                "name": ""
+            },
+            "ru": {
+                "line": "Но...",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0084": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's no use thinking about it not coming. Let's\\nbelieve that it will come, and keep going.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「こなかった時のことなんか、考えるだけ無駄だもん。\\n　くると信じて、前へ進みましょ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "«Не надо думать, что она не появится. Давай верить,\nчто это случится, и продолжать идти вперед.»",
+                "name": "Котори"
+            }
+        },
+        "state": "1"
+    },
+    "0085": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's why we need to make all the necessary\\npreparations.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そのためにも、準備は万全にしとかないとな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "«И поэтому нам нужно как следует подготовиться.»",
+                "name": "Аои"
+            }
+        },
+        "state": "1"
+    },
+    "0086": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I look up to see a sky so blue, that it almost\\nhurts to look at. A thundering thunderhead.",
+                "name": ""
+            },
+            "jp": {
+                "line": "見上げると、目に痛いほど青い空と、そびえ立つ入道雲。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Я посмотрел на небо, такое голубое, что глазам \nпочти больно. Громадная грозовая туча.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0087": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The sky's so high, that it looks like it goes on\\nendlessly.",
+                "name": ""
+            },
+            "jp": {
+                "line": "この空が、どこまでも高いことを見せつけるような。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Небо, такое высокое, что кажется бесконечным.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    },
+    "0088": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The real summer was beginning.",
+                "name": ""
+            },
+            "jp": {
+                "line": "夏が、本格的に始まろうとしていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "Начиналось настоящее лето.",
+                "name": ""
+            }
+        },
+        "state": "1"
+    }
 }

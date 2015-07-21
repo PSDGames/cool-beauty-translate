@@ -2033,7 +2033,8 @@
         "id": "8b00",
         "line": {
             "en": "Girl B jumped in to finish what Girl A was\\ndesperately trying to say.",
-            "ru": ""
+            "ru": "Девушка Б выскочила, чтобы закончить то,\nчто безуспешно пыталась сказать Девушка А.",
+            "state": "1"
         },
         "name": ""
     },
@@ -2041,7 +2042,8 @@
         "id": "8f00",
         "line": {
             "en": "...Hey, hold on a second.",
-            "ru": ""
+            "ru": "...Эй, погодите-ка.",
+            "state": "1"
         },
         "name": ""
     },
@@ -2049,7 +2051,8 @@
         "id": "9300",
         "line": {
             "en": "'...What did you just say?'",
-            "ru": ""
+            "ru": "«...Что вы только что сказали?»",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -2057,7 +2060,8 @@
         "id": "9700",
         "line": {
             "en": "'Umm, we...'",
-            "ru": ""
+            "ru": "«Эмм, мы...»",
+            "state": "1"
         },
         "name": "Girl A"
     },
@@ -2065,7 +2069,8 @@
         "id": "9b00",
         "line": {
             "en": "'They're going to live here.'",
-            "ru": ""
+            "ru": "«Они собираются жить здесь.»",
+            "state": "1"
         },
         "name": "Kanako"
     },
@@ -2073,7 +2078,8 @@
         "id": "9f00",
         "line": {
             "en": "Kanako speaks like it's got nothing to do with\\nus.",
-            "ru": ""
+            "ru": "Канако говорила так, как будто к нам это не имело\nникакого отношения.",
+            "state": "1"
         },
         "name": ""
     },
@@ -2081,7 +2087,8 @@
         "id": "a300",
         "line": {
             "en": "'...Whaaaaaaaaaaaaat!!!!!??'",
-            "ru": ""
+            "ru": "«...Чтоооооооооооооо??!!!!!»",
+            "state": "1"
         },
         "name": "Aoi"
     },
@@ -2089,7 +2096,8 @@
         "id": "a700",
         "line": {
             "en": "Girl A was frightened again by my loud voice.",
-            "ru": ""
+            "ru": "Девушка снова испугалась моего громкого голоса.",
+            "state": "1"
         },
         "name": ""
     },
@@ -2097,7 +2105,8 @@
         "id": "ab00",
         "line": {
             "en": "'I'm... Asa Kazato.'",
-            "ru": ""
+            "ru": "«Я... Аса Казато.»",
+            "state": "1"
         },
         "name": "Asa"
     },
@@ -2105,7 +2114,8 @@
         "id": "af00",
         "line": {
             "en": "'I'm Yoru Kazato.'",
-            "ru": ""
+            "ru": "«Я Ёру Казато.»",
+            "state": "1"
         },
         "name": "Yoru"
     },

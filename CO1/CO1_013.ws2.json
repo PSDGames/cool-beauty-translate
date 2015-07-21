@@ -1,352 +1,902 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "'You mustn't go to sleep with your stomach\\nexposed just because it's summer, you'll catch a\\ncold.'"
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You mustn't go to sleep with your stomach\\nexposed just because it's summer, you'll catch a\\ncold.'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「夏だからって\\n　お腹出して寝ちゃダメよ？」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Hibari"
+        "state": 0
     },
-    {
-        "id": "0400",
-        "line": {
-            "en": "'Make sure you brush your teeth, and send me a\\ntext once... No, three times a day.'"
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Make sure you brush your teeth, and send me a\\ntext once... No, three times a day.'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「ちゃんと歯を磨いて、\\n　１日１回……ううん３回、\\n　お姉ちゃんにメールして……」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Hibari"
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'I've got it, I've got it, okay?'"
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I've got it, I've got it, okay?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「わかった、\\n　わーーかーーったから」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'Aoi.'"
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi.'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「水瀬さん」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Hibari"
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'Yes?'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yes?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「はい」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'Please, take good care of Kotori.'"
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Please, take good care of Kotori.'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「どうか、小鳥ちゃんのこと、\\n　よろしくお願いします」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Hibari"
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'Sure, leave it to me.'"
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sure, leave it to me.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ええ、任せてください」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "I thought I sounded a little arrogant, but I\\nanswered as the dorm mother and as Kotori's\\nfriend."
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I thought I sounded a little arrogant, but I\\nanswered as the dorm mother and as Kotori's\\nfriend.",
+                "name": ""
+            },
+            "jp": {
+                "line": "少し偉そうかとも思ったけど、寮母として、小鳥の友達として、そう答えた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'See you, Kotori. If anything happens, call me\\nright away.'"
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'See you, Kotori. If anything happens, call me\\nright away.'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「じゃあね、小鳥ちゃん。\\n　何かあったら、すぐお姉ちゃんに報せるのよ」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Hibari"
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "Worried about her sister until the end, Hibari\\ngot in the car and left."
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Worried about her sister until the end, Hibari\\ngot in the car and left.",
+                "name": ""
+            },
+            "jp": {
+                "line": "最後まで妹を心配して、お姉さんは車で帰っていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "Today is Monday, the start of the week. It looks\\nlike she's going straight to work."
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Today is Monday, the start of the week. It looks\\nlike she's going straight to work.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今日は週が明けて月曜日。\\nこのまま直接会社へ向かうらしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "She came here in her own car and apparently her\\nworkplace and her house are about an hour away."
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She came here in her own car and apparently her\\nworkplace and her house are about an hour away.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ここまでは自分の車で来ていて、家も会社もだいたい１時間ほどでいけるんだそうな。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3000",
-        "line": {
-            "en": "'...Hibari stayed for two nights, so I'm\\nworn-out.'"
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Hibari stayed for two nights, so I'm\\nworn-out.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……ひばり姉に二泊されると、\\n　疲れるわ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "3400",
-        "line": {
-            "en": "'She's a good sister, isn't she?'"
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'She's a good sister, isn't she?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「優しいお姉さんじゃないか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'Yes, I realize that. I just want her to know\\nwhen to leave me by myself.'"
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yes, I realize that. I just want her to know\\nwhen to leave me by myself.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「それは認めるけど。\\n　いい加減、妹離れしてほしいもんだわ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "Would Kotori be able to leave her sister alone?"
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Would Kotori be able to leave her sister alone?",
+                "name": ""
+            },
+            "jp": {
+                "line": "自分は姉離れできてるんだろうか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4000",
-        "line": {
-            "en": "'Okay then, shall we go to school now?'"
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Okay then, shall we go to school now?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それじゃ、俺たちも学校いくか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'Therefore... That is to say, this situation...'"
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Therefore... That is to say, this situation...'",
+                "name": "Teacher"
+            },
+            "jp": {
+                "line": "「であるからして……\\n　つまりこの場合……」",
+                "name": "先生"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Teacher"
+        "state": 0
     },
-    {
-        "id": "4800",
-        "line": {
-            "en": "In the sixth class of the day, I felt restless."
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In the sixth class of the day, I felt restless.",
+                "name": ""
+            },
+            "jp": {
+                "line": "６限目の授業中、俺はずっとそわそわしていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "When this finishes, school is done for the day."
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When this finishes, school is done for the day.",
+                "name": ""
+            },
+            "jp": {
+                "line": "これが終わったら放課後。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5000",
-        "line": {
-            "en": "In other words, it's time for club activities."
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In other words, it's time for club activities.",
+                "name": ""
+            },
+            "jp": {
+                "line": "つまり、部活の時間だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5400",
-        "line": {
-            "en": "Yesterday was Sunday, so clubs take the day off."
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Yesterday was Sunday, so clubs take the day off.",
+                "name": ""
+            },
+            "jp": {
+                "line": "昨日は日曜日で、部活は休みだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5800",
-        "line": {
-            "en": "I was told that my pilot training would start\\ntoday, so I couldn't stop myself from feeling\\nlike I was itching to go."
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I was told that my pilot training would start\\ntoday, so I couldn't stop myself from feeling\\nlike I was itching to go.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今日からパイロットの訓練をすると言われているので、待ち遠しくて仕方なかったのだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'This is covered in the end of term test, so take\\ngood notes.'"
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This is covered in the end of term test, so take\\ngood notes.'",
+                "name": "Teacher"
+            },
+            "jp": {
+                "line": "「ここ、期末の範囲内だからな。\\n　しっかりノートとっとけよー」",
+                "name": "先生"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Teacher"
+        "state": 0
     },
-    {
-        "id": "6000",
-        "line": {
-            "en": "The teacher's laidback way of speaking actually\\nmakes me feel even more annoyed."
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The teacher's laidback way of speaking actually\\nmakes me feel even more annoyed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先生ののんびりしたしゃべりが、余計に焦らされてる感覚を強める。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6400",
-        "line": {
-            "en": "While I stare at the clock on the wall at the\\nback of the classroom, I wait for time to pass."
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "While I stare at the clock on the wall at the\\nback of the classroom, I wait for time to pass.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は教室の壁にかかった時計を睨みながら、その時を待った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6800",
-        "line": {
-            "en": "It rang! The bell rang!"
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It rang! The bell rang!",
+                "name": ""
+            },
+            "jp": {
+                "line": "鳴った！\\nチャイムが！！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "'Okay, that's all for today. The things we\\nstudied today will be on the end of term test, so\\nmake sure to review it later.'"
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Okay, that's all for today. The things we\\nstudied today will be on the end of term test, so\\nmake sure to review it later.'",
+                "name": "Teacher"
+            },
+            "jp": {
+                "line": "「あー、じゃあ今日はここまでー。\\n　今日のところ期末に出るから、\\n　しっかり復習しとけよー」",
+                "name": "先生"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Teacher"
+        "state": 0
     },
-    {
-        "id": "7000",
-        "line": {
-            "en": "The teacher repeats the contents of the lesson,\\nthen the class chairperson gives the order to\\n'Stand!', then 'Bow!"
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The teacher repeats the contents of the lesson,\\nthen the class chairperson gives the order to\\n'Stand!', then 'Bow!",
+                "name": ""
+            },
+            "jp": {
+                "line": "先生が、さっきも言った内容を繰り返すと、ようやく委員長が「起立、礼！」の号令をかけた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7400",
-        "line": {
-            "en": "'See you, teach!'"
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'See you, teach!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「先生、さようなら！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'Yeah. Don't run in the hallway.'"
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah. Don't run in the hallway.'",
+                "name": "Teacher"
+            },
+            "jp": {
+                "line": "「おう。\\n　廊下走るなー」",
+                "name": "先生"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Teacher"
+        "state": 0
     },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "As I go into the hallway, Kotori, whose seat is\\nnear the doorway, is already outside waiting."
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I go into the hallway, Kotori, whose seat is\\nnear the doorway, is already outside waiting.",
+                "name": ""
+            },
+            "jp": {
+                "line": "廊下に出ると、席がドアに近い小鳥は、すでにそこでスタンバっていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'You took your time.'"
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You took your time.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「おっそい」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'I can't do much about that, my seat's next to\\nthe window.'"
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I can't do much about that, my seat's next to\\nthe window.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「しゃーないだろ、\\n　席が窓際なんだから」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'Okay, let's go.'"
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Okay, let's go.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「さ、いくわよ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'Ah, hold on. Ageha's not here yet.'"
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah, hold on. Ageha's not here yet.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あ、待ってくれ。\\n　あげはがまだだ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "9000",
-        "line": {
-            "en": "We looked into the classroom, where Ageha was\\nsurrounded by several girls, talking to them\\nabout something."
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We looked into the classroom, where Ageha was\\nsurrounded by several girls, talking to them\\nabout something.",
+                "name": ""
+            },
+            "jp": {
+                "line": "教室を覗くと、あげはは数名の女子に囲まれて何やら話していた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'That's why this is...'"
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's why this is...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「だから、ここは……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "9800",
-        "line": {
-            "en": "It looks like there was something in the lesson\\njust now that they didn't understand, and they\\nwere asking her about it."
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It looks like there was something in the lesson\\njust now that they didn't understand, and they\\nwere asking her about it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "どうやら、さっきの授業でわからなかったところを、他の女子から聞かれているらしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "They make a big deal about grades at this school."
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "They make a big deal about grades at this school.",
+                "name": ""
+            },
+            "jp": {
+                "line": "この学校は成績についてはかなりうるさい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "a000",
-        "line": {
-            "en": "If you fail any subjects, it's possible that you\\nhave to repeat the year."
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If you fail any subjects, it's possible that you\\nhave to repeat the year.",
+                "name": ""
+            },
+            "jp": {
+                "line": "赤点なんてとろうものなら、留年だってあり得る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "a400",
-        "line": {
-            "en": "It's not like Ageha's grades are anything\\nspecial. But, in certain subjects, she's usually\\nnear the top of the rankings."
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's not like Ageha's grades are anything\\nspecial. But, in certain subjects, she's usually\\nnear the top of the rankings.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはは成績が特別いいわけじゃないが、特定の専門科目については、いつも上位にいるらしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "a800",
-        "line": {
-            "en": "That's why, just before the end of term exams,\\nher friends go to her for help."
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That's why, just before the end of term exams,\\nher friends go to her for help.",
+                "name": ""
+            },
+            "jp": {
+                "line": "なので、こうして期末試験前になると、友人らから頼られるわけだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'Hey, Ageha!'"
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Ageha!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おーい、あげはー」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "b000",
-        "line": {
-            "en": "'Oh, Aoi. Hang on, I'll be finished soon.'"
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, Aoi. Hang on, I'll be finished soon.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あ、碧。\\n　ちょっと待ってて、もうすぐ終わるから」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "b400",
-        "line": {
-            "en": "Ageha waves through a gap in the wall of girls\\nsurrounding her."
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha waves through a gap in the wall of girls\\nsurrounding her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "取り囲む女子の壁の隙間から、あげはが手を振る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "b800",
-        "line": {
-            "en": "'Hey, Aoi.'"
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Aoi.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ねえ、碧くん」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'She said it would take just a little longer.'"
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'She said it would take just a little longer.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「もうちょいかかるって」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'Oh. Well then, let's go on ahead.'"
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh. Well then, let's go on ahead.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「そ。じゃあ、先いってましょうよ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "c400",
-        "line": {
-            "en": "'But she asked us to wait for her.'"
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But she asked us to wait for her.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「でも、待っててくれって言ってるから」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     }
-]
+}

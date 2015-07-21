@@ -1,79 +1,200 @@
-[
-    {
-        "id": "0400",
-        "line": {
-            "en": "'...Maybe Ageha.'"
+{
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Maybe Ageha.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あげはかな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'...Something seems weird.'"
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Something seems weird.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……なんか違う」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'Huh?'"
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「はい？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'You wouldn't normally do something like praise a\\ngirl's swimsuit so easily.'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You wouldn't normally do something like praise a\\ngirl's swimsuit so easily.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「碧って、女の子の水着褒めるのに、\\n　そんなさらっとしてないよね？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'... I've never praised something like that\\nbefore. I don't know anything about that.'"
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'... I've never praised something like that\\nbefore. I don't know anything about that.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……褒めた経験が今までなかったから、\\n　そんなこと知らん」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'That can't be true! As a test, try praising\\nAmane's swimsuit!'"
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That can't be true! As a test, try praising\\nAmane's swimsuit!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「絶対ちがうよ！\\n　試しに、天音先輩の水着褒めてみて」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'Uh... umm... It really suits you, Amane.'"
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Uh... umm... It really suits you, Amane.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「う……いや、えぇと……お似合いですよ先輩」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'Thanks.'"
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Thanks.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ありがとう」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'See, he's totally embarrassed! Why weren't you\\nembarrassed when you said it to me!?'"
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'See, he's totally embarrassed! Why weren't you\\nembarrassed when you said it to me!?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ほらほらー、すっごい照れてるじゃーん！\\n　なんでわたしの時は照れないかなぁ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'I don't know! Because we're childhood friends!?'"
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I don't know! Because we're childhood friends!?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「知るかっ！\\n　幼なじみだからだろっ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'Uh... being childhood friends can be a\\ndrawback.'"
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Uh... being childhood friends can be a\\ndrawback.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「うー、損だなぁ、幼なじみって」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     }
-]
+}

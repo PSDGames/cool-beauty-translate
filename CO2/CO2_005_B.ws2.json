@@ -1,1122 +1,2882 @@
-[
-    {
-        "id": "0400",
-        "line": {
-            "en": "'I'm going to the secret base too.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'Hmph! I see.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "Ageha had a bored-sounding tone to her voice as\\nshe said 'See you tomorrow' and left the\\nclassroom."
-        },
-        "name": ""
-    },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'OK, let's go, Kotori.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'Yeah.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'Was it really alright for your to turn down\\nAgeha's invitation?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'What do you mean?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'Well...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'...Aoi, do you have something you need to do at\\nthe secret base?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'Umm, well not really.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3000",
-        "line": {
-            "en": "Since Kotori's going, I thought I'd go with her."
-        },
-        "name": ""
-    },
-    {
-        "id": "3400",
-        "line": {
-            "en": "Even if I did go with Ageha, I'd only end up\\ncarrying her bags for her."
-        },
-        "name": ""
-    },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'You were about to say something just then. What\\nwas it?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "'No, it's nothing really.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4000",
-        "line": {
-            "en": "We spoke on our way out of the school gate."
-        },
-        "name": ""
-    },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'Aoi!'"
-        },
-        "name": "First grade girl A"
-    },
-    {
-        "id": "4800",
-        "line": {
-            "en": "'Hello, Aoi!'"
-        },
-        "name": "First grade girl B"
-    },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "A group of first-year girls called out to me."
-        },
-        "name": ""
-    },
-    {
-        "id": "5000",
-        "line": {
-            "en": "Almost immediately, they had surrounded me."
-        },
-        "name": ""
-    },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'Erm... hello.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'Are you leaving now?'"
-        },
-        "name": "First grade girl A"
-    },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'Do you have club activities now?'"
-        },
-        "name": "First grade girl B"
-    },
-    {
-        "id": "6000",
-        "line": {
-            "en": "'Yeah, well, I guess so.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6400",
-        "line": {
-            "en": "It seems that they are Asa's friends."
-        },
-        "name": ""
-    },
-    {
-        "id": "6800",
-        "line": {
-            "en": "Seems like Asa was proudly talking in her\\nclassroom about how she'd joined the Soaring\\nClub, which is fine, but it looks like her\\nfriends have become interested in it."
-        },
-        "name": ""
-    },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "It's strange that their interest isn't in the\\nglider, but rather, in me."
-        },
-        "name": ""
-    },
-    {
-        "id": "7000",
-        "line": {
-            "en": "Now they're coming to greet me and ask all kinds\\nof questions."
-        },
-        "name": ""
-    },
-    {
-        "id": "7400",
-        "line": {
-            "en": "'Asa's clumsy, so does that cause you any\\ninconvenience?'"
-        },
-        "name": "First grade girl A"
-    },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'Hahaha, that's not true. Asa is trying really\\nhard.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "There's nothing really wrong with this, but I'm\\nnot used to it, so I feel kind of uncomfortable."
-        },
-        "name": ""
-    },
-    {
-        "id": "8000",
-        "line": {
-            "en": "With a fake smile on her face, Kotori watches me\\nfrom outside the circle."
-        },
-        "name": ""
-    },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'Hey, Aoi. I'm going on ahead.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'Ah! Wait!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'You're so cool! And you're tall as well!'"
-        },
-        "name": "First grade girl A"
-    },
-    {
-        "id": "9000",
-        "line": {
-            "en": "'Asa said you're really kind too!'"
-        },
-        "name": "First grade girl B"
-    },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'Oh, did she now?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'...No, I mean, hey, Kotori!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "Kotori had made a face that said that she\\ncouldn't stay with me, and had already gone off\\nahead."
-        },
-        "name": ""
-    },
-    {
-        "id": "a000",
-        "line": {
-            "en": "Opening the metal door and going inside, there\\nwas Kotori working alone in the huge dock."
-        },
-        "name": ""
-    },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'I can't believe you left me behind!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a800",
-        "line": {
-            "en": "'More importantly, I couldn't bear watching you\\nwith that stupid expression on your face.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "She wasn't as angry as I thought she'd be, but\\nshe was still a little blunt."
-        },
-        "name": ""
-    },
-    {
-        "id": "b000",
-        "line": {
-            "en": "'Come here, I bought you some ice cream. It's\\nHargen Darch Strawberry flavor!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "b400",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "b800",
-        "line": {
-            "en": "Kotori glared at me from a distance."
-        },
-        "name": ""
-    },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "Then, she pushed her wheelchair towards me."
-        },
-        "name": ""
-    },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'Here you go.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c400",
-        "line": {
-            "en": "'Thanks.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "c800",
-        "line": {
-            "en": "We sat in the corner of the dock, eating ice\\ncream."
-        },
-        "name": ""
-    },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "'I think you have to eat ice cream in a hot\\nplace.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "d000",
-        "line": {
-            "en": "Where we are now couldn't be any hotter."
-        },
-        "name": ""
-    },
-    {
-        "id": "d400",
-        "line": {
-            "en": "'Hey, Aoi.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "d800",
-        "line": {
-            "en": "'Yeah?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "'When people eat ice cream, it puts them in a\\nbetter mood, don't you think?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "e000",
-        "line": {
-            "en": "With the plastic spoon still in her mouth, she\\ngives me a sideways look."
-        },
-        "name": ""
-    },
-    {
-        "id": "e400",
-        "line": {
-            "en": "'I don't think so.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "e800",
-        "line": {
-            "en": "'Well, whatever. It tastes good.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "I guess that's her perspective on it, but it\\nlooks like she accepted this as a form of\\napology."
-        },
-        "name": ""
-    },
-    {
-        "id": "f000",
-        "line": {
-            "en": "'What were you doing?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f400",
-        "line": {
-            "en": "'...Maintaining the tools. After that, I was\\ngonna do some cleaning.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "f800",
-        "line": {
-            "en": "'You came here all by yourself to do that?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "fc00",
-        "line": {
-            "en": "Kotori nods while eating her Hargen Darch."
-        },
-        "name": ""
-    },
-    {
-        "id": "0100",
-        "line": {
-            "en": "'We could all do that tomorrow, together.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0500",
-        "line": {
-            "en": "'...If we all did it together, I'd just be a\\nburden.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "0900",
-        "line": {
-            "en": "Kotori seems a bit sullen as she speaks."
-        },
-        "name": ""
-    },
-    {
-        "id": "0d00",
-        "line": {
-            "en": "I reflect on having said something that didn't\\nneed to be said."
-        },
-        "name": ""
-    },
-    {
-        "id": "1100",
-        "line": {
-            "en": "Kotori's in a wheelchair, so whether we're\\nworking, cleaning, or whatever it may be, she\\ncan't do it the same way as everyone else."
-        },
-        "name": ""
-    },
-    {
-        "id": "1500",
-        "line": {
-            "en": "No one thinks of her as a burden, but I guess\\nthere is a difference in the amount of work she\\ncan do."
-        },
-        "name": ""
-    },
-    {
-        "id": "1900",
-        "line": {
-            "en": "Kotori's worried about that, and everyone else\\nseems to be aware of that."
-        },
-        "name": ""
-    },
-    {
-        "id": "1d00",
-        "line": {
-            "en": "'When we do something, everyone is always looking\\nout for me, I realize that.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "2100",
-        "line": {
-            "en": "'I don't like it. It makes me sad.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "2500",
-        "line": {
-            "en": "'Yeah...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2900",
-        "line": {
-            "en": "We can't completely avoid looking out for her."
-        },
-        "name": ""
-    },
-    {
-        "id": "2d00",
-        "line": {
-            "en": "The reason we do that is because she's important\\nto us."
-        },
-        "name": ""
-    },
-    {
-        "id": "3100",
-        "line": {
-            "en": "But I can understand why that makes things tough\\nfor her."
-        },
-        "name": ""
-    },
-    {
-        "id": "3500",
-        "line": {
-            "en": "When I got injured and had to quit the Cycle\\nRacing Club, having my friends look out for me\\nsometimes made me happy, and sometimes it was\\ntough."
-        },
-        "name": ""
-    },
-    {
-        "id": "3900",
-        "line": {
-            "en": "Kotori usually doesn't show that she sometimes\\nfinds that tough."
-        },
-        "name": ""
-    },
-    {
-        "id": "3d00",
-        "line": {
-            "en": "She can be cheerful at times, and at others, she\\nmakes selfish request like it's no big deal."
-        },
-        "name": ""
-    },
-    {
-        "id": "4100",
-        "line": {
-            "en": "The fact that she can say what she really thinks\\naround us is a relief to us."
-        },
-        "name": ""
-    },
-    {
-        "id": "4500",
-        "line": {
-            "en": "'It's really pitiful, you know. Even though I'm\\nthe leader.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4900",
-        "line": {
-            "en": "'I caused problems with that thing with the\\nrunway...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4d00",
-        "line": {
-            "en": "'I think you know this but no one except you\\nworries about it.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5100",
-        "line": {
-            "en": "'Yeah.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "5500",
-        "line": {
-            "en": "...(wells up)."
-        },
-        "name": ""
-    },
-    {
-        "id": "5900",
-        "line": {
-            "en": "Tears appear in Kotori's eyes."
-        },
-        "name": ""
-    },
-    {
-        "id": "5d00",
-        "line": {
-            "en": "'Don't start crying all of a sudden. C'mon,\\nyou'll spoil the ice cream that I went to the\\neffort of buying for you.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6100",
-        "line": {
-            "en": "'OK...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6500",
-        "line": {
-            "en": "Oh no, she's hanging her head even more now."
-        },
-        "name": ""
-    },
-    {
-        "id": "6900",
-        "line": {
-            "en": "I don't know what's triggered this but she's gone\\ninto 'fainthearted mode'."
-        },
-        "name": ""
-    },
-    {
-        "id": "6d00",
-        "line": {
-            "en": "I put my hand on her head, the same as always,\\nand start stroking it."
-        },
-        "name": ""
-    },
-    {
-        "id": "7100",
-        "line": {
-            "en": "'There, there, it's nothing to cry about, is it?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7500",
-        "line": {
-            "en": "'I'm... not crying. ...It's sweat. Sniff.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7900",
-        "line": {
-            "en": "Kotori starts sniffing."
-        },
-        "name": ""
-    },
-    {
-        "id": "7d00",
-        "line": {
-            "en": "This year, Kotori has been working really hard as\\nthe leader of the Soaring Society."
-        },
-        "name": ""
-    },
-    {
-        "id": "8100",
-        "line": {
-            "en": "She doesn't have the same level of expert\\nknowledge or techniques as Ageha, and she can't\\nbe a pilot like me either."
-        },
-        "name": ""
-    },
-    {
-        "id": "8500",
-        "line": {
-            "en": "It looks like there's nothing that only Kotori\\ncan do."
-        },
-        "name": ""
-    },
-    {
-        "id": "8900",
-        "line": {
-            "en": "But, in the past, like the time that we found out\\nthat Amane would be leaving, whenever there's a\\ndifficult situation,"
-        },
-        "name": ""
-    },
-    {
-        "id": "8d00",
-        "line": {
-            "en": "Kotori is always the one who says 'I wanna do it\\nlike this!' and expresses herself the strongest\\nof all of us."
-        },
-        "name": ""
-    },
-    {
-        "id": "9100",
-        "line": {
-            "en": "'Kotori has a straightforward nature, like a\\nchild, and she's like a compass, showing us the\\ndirection in which he should be heading.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9500",
-        "line": {
-            "en": "'Yeah...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "9900",
-        "line": {
-            "en": "Kotori slowly ate her ice cream while crying."
-        },
-        "name": ""
-    },
-    {
-        "id": "9d00",
-        "line": {
-            "en": "She looked like a child who'd become timid after\\nbeing scolded by her mother."
-        },
-        "name": ""
-    },
-    {
-        "id": "a100",
-        "line": {
-            "en": "It was kind of... cute."
-        },
-        "name": ""
-    },
-    {
-        "id": "a500",
-        "line": {
-            "en": "'...What is it?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "a900",
-        "line": {
-            "en": "'It's...it's nothing. C'mon, eat up!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ad00",
-        "line": {
-            "en": "I couldn't help myself looking at her crying, and\\nwithout thinking, I blushed while trying to cover\\nit up."
-        },
-        "name": ""
-    },
-    {
-        "id": "b100",
-        "line": {
-            "en": "I think everyone knows how hard she's trying."
-        },
-        "name": ""
-    },
-    {
-        "id": "b500",
-        "line": {
-            "en": "She's disabled, so even something like pushing\\nher wheelchair all the way to the secret base all\\nby herself is really tough."
-        },
-        "name": ""
-    },
-    {
-        "id": "b900",
-        "line": {
-            "en": "But to Kotori, that is perfectly natural, but she\\nis also worried about not being able to move\\naround like everyone else."
-        },
-        "name": ""
-    },
-    {
-        "id": "bd00",
-        "line": {
-            "en": "She has an unusually strong sense of\\nresponsibility, so she's concerned about\\ninconveniencing other people."
-        },
-        "name": ""
-    },
-    {
-        "id": "c100",
-        "line": {
-            "en": "However, originally, the girl known as Kotori\\nHabane, was just a regular girl."
-        },
-        "name": ""
-    },
-    {
-        "id": "c500",
-        "line": {
-            "en": "She looks cute, and her grades and general\\nsporting abilities were probably better than most\\npeople, but that's about it."
-        },
-        "name": ""
-    },
-    {
-        "id": "c900",
-        "line": {
-            "en": "Also, she's easily moved to tears, she's a little\\nself-conscious, and when she tries too hard, she\\nsometimes cries."
-        },
-        "name": ""
-    },
-    {
-        "id": "cd00",
-        "line": {
-            "en": "When did it start? I guess from the time I\\npersuaded her not to quit school, it's been my\\nduty to comfort her."
-        },
-        "name": ""
-    },
-    {
-        "id": "d100",
-        "line": {
-            "en": "It seems like she only cries in front of me."
-        },
-        "name": ""
-    },
-    {
-        "id": "d500",
-        "line": {
-            "en": "Maybe that's what she needs."
-        },
-        "name": ""
-    },
-    {
-        "id": "d900",
-        "line": {
-            "en": "I think that when she cries, she can let out all\\nthe things she's been bottling up."
-        },
-        "name": ""
-    },
-    {
-        "id": "dd00",
-        "line": {
-            "en": "'There, there, you're trying ever so hard,\\nKotori. You're trying ever so, ever so hard.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "e100",
-        "line": {
-            "en": "'...Geez, don't make fun of me, alright?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "e500",
-        "line": {
-            "en": "While still crying, she gives me a punch in the\\nside."
-        },
-        "name": ""
-    },
-    {
-        "id": "e900",
-        "line": {
-            "en": "It doesn't really hurt though."
-        },
-        "name": ""
-    },
-    {
-        "id": "ed00",
-        "line": {
-            "en": "I stroke her head and hug her gently."
-        },
-        "name": ""
-    },
-    {
-        "id": "f100",
-        "line": {
-            "en": "'Sorry. But... this is kind of embarrassing.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f500",
-        "line": {
-            "en": "As I speak honestly to her, Kotori pushes her\\nforehead into my chest, then cries without making\\na sound."
-        },
-        "name": ""
-    },
-    {
-        "id": "f900",
-        "line": {
-            "en": "While holding Kotori's head, one part of me wants\\nher to stop crying, but another part of me wanted\\nto stay like this for a little longer."
-        },
-        "name": ""
-    },
-    {
-        "id": "fd00",
-        "line": {
-            "en": "'...Thank you, I feel better now.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "0200",
-        "line": {
-            "en": "said Kotori, moving her forehead away from me."
-        },
-        "name": ""
-    },
-    {
-        "id": "0600",
-        "line": {
-            "en": "She pours the totally melted ice cream into her\\nmouth as though it were juice."
-        },
-        "name": ""
-    },
-    {
-        "id": "0a00",
-        "line": {
-            "en": "'Anytime you need to borrow my chest, you let me\\nknow. I won't charge you any rental fees.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0e00",
-        "line": {
-            "en": "I said jokingly, then..."
-        },
-        "name": ""
-    },
-    {
-        "id": "1200",
-        "line": {
-            "en": "'Of course. Because in return, you get to stroke\\nthe head of a beautiful girl, and gently... hug\\nher.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "1600",
-        "line": {
-            "en": "'I'd say those are the perks of the job, wouldn't\\nyou?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "1a00",
-        "line": {
-            "en": "'You can't say things like that about yourself,\\nyou know.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1e00",
-        "line": {
-            "en": "'Alright, you can go now.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "2200",
-        "line": {
-            "en": "'...So now that you've stopped crying, my work\\nhere is done?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2600",
-        "line": {
-            "en": "'Why don't you go and hang out with all those\\nfirst-year girls from before?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "2a00",
-        "line": {
-            "en": "As she says that, she goes back to work."
-        },
-        "name": ""
-    },
-    {
-        "id": "2e00",
-        "line": {
-            "en": "'Oh. Is this what they call jealousy?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3200",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "3600",
-        "line": {
-            "en": "Fwoosh!"
-        },
-        "name": ""
-    },
-    {
-        "id": "3a00",
-        "line": {
-            "en": "'Woah, that's dangerous!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3e00",
-        "line": {
-            "en": "A spanner came flying at me."
-        },
-        "name": ""
-    },
-    {
-        "id": "4200",
-        "line": {
-            "en": "'Damn, I missed.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4600",
-        "line": {
-            "en": "'What the hell are you doing!? What would you\\nhave done if that had hit me?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4a00",
-        "line": {
-            "en": "'Why on earth would I be jealous!? What are you,\\nstupid?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4e00",
-        "line": {
-            "en": "'But it sounds like you're jealous to me.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5200",
-        "line": {
-            "en": "Fwoosh, fwoosh!"
-        },
-        "name": ""
-    },
-    {
-        "id": "5600",
-        "line": {
-            "en": "'Woooah!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5a00",
-        "line": {
-            "en": "This time, it's a screwdriver and a pair of\\nnippers that came flying."
-        },
-        "name": ""
-    },
-    {
-        "id": "5e00",
-        "line": {
-            "en": "'Please just go already. You're stopping me from\\nworking.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6200",
-        "line": {
-            "en": "she said, while clutching a power drill."
-        },
-        "name": ""
-    },
-    {
-        "id": "6600",
-        "line": {
-            "en": "Sensing danger, I do as she says."
-        },
-        "name": ""
-    },
-    {
-        "id": "6a00",
-        "line": {
-            "en": "'Alright, I'm off now but if you need anything,\\nyou can reach me on my cell.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6e00",
-        "line": {
-            "en": "'Also, let me know when you're gonna come leave,\\nI'll come and get you.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7200",
-        "line": {
-            "en": "'There's no need.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7600",
-        "line": {
-            "en": "'No, no. Once it gets dark, I can't let you go\\nback by yourself.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7a00",
-        "line": {
-            "en": "'Make sure you call me, OK?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7e00",
-        "line": {
-            "en": "As I emphasize my point, I open the metal doors\\nand leave the dock."
-        },
-        "name": ""
-    },
-    {
-        "id": "8200",
-        "line": {
-            "en": "'You don't even think of me... as a girl. Hmph!'"
-        },
-        "name": "Kotori"
+{
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm going to the secret base too.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺も秘密基地いくよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmph! I see.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ふぅん、そ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha had a bored-sounding tone to her voice as\\nshe said 'See you tomorrow' and left the\\nclassroom.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげははなんとなくつまんなそうにすると、「また明日ねー」と、教室を出ていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, let's go, Kotori.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それじゃ、いくか小鳥」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Was it really alright for your to turn down\\nAgeha's invitation?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「あげはの誘い、断ってよかったの？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What do you mean?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんで？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「だって……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Aoi, do you have something you need to do at\\nthe secret base?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……碧くん、秘密基地に何か用事があるの？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Umm, well not really.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ああ、いや、そういうわけじゃないけど」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Since Kotori's going, I thought I'd go with her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥がいくなら、なんとなくって感じだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even if I did go with Ageha, I'd only end up\\ncarrying her bags for her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはについてっても、どうせ荷物持ちをさせられるだけだろうし。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You were about to say something just then. What\\nwas it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「さっきなんか言いかけてたじゃん。\\n　なんだよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, it's nothing really.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「別に。なんでもない」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We spoke on our way out of the school gate.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そんな話をしながら校門を抜けようとしていると、",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi!'",
+                "name": "First grade girl A"
+            },
+            "jp": {
+                "line": "「水瀬せんぱーーい」",
+                "name": "１年生女子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hello, Aoi!'",
+                "name": "First grade girl B"
+            },
+            "jp": {
+                "line": "「こんにちは、せんぱいっ！」",
+                "name": "１年生女子Ｂ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A group of first-year girls called out to me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "１年生の女子のグループに声をかけられた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Almost immediately, they had surrounded me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "たちまち、取り囲まれてしまう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Erm... hello.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「えーっと……こんにちは」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Are you leaving now?'",
+                "name": "First grade girl A"
+            },
+            "jp": {
+                "line": "「いま帰りなんですか？」",
+                "name": "１年生女子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Do you have club activities now?'",
+                "name": "First grade girl B"
+            },
+            "jp": {
+                "line": "「これから部活なんですか？」",
+                "name": "１年生女子Ｂ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, well, I guess so.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うん、まあ、そんなところ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It seems that they are Asa's friends.",
+                "name": ""
+            },
+            "jp": {
+                "line": "彼女らは、亜紗ちゃんのお友達らしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Seems like Asa was proudly talking in her\\nclassroom about how she'd joined the Soaring\\nClub, which is fine, but it looks like her\\nfriends have become interested in it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "彼女はソアリング部に入部したことを、教室で自慢げに語っているそうで、それはそれでいいんだが、友人らが興味を持っているらしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's strange that their interest isn't in the\\nglider, but rather, in me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "で、その興味はなぜかグライダーではなく、俺に向けられているから不思議だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Now they're coming to greet me and ask all kinds\\nof questions.",
+                "name": ""
+            },
+            "jp": {
+                "line": "こうして顔を合わせると挨拶され、あれこれ質問される。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Asa's clumsy, so does that cause you any\\ninconvenience?'",
+                "name": "First grade girl A"
+            },
+            "jp": {
+                "line": "「亜紗、どんくさいから、\\n　迷惑かけてるんじゃないですかぁ？」",
+                "name": "１年生女子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hahaha, that's not true. Asa is trying really\\nhard.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ははは、そんなことないよ。\\n　亜紗ちゃん、すごくがんばってくれてるから」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "There's nothing really wrong with this, but I'm\\nnot used to it, so I feel kind of uncomfortable.",
+                "name": ""
+            },
+            "jp": {
+                "line": "悪い気はしないのだが、こういうのに慣れてないので、なんとなく居心地はよくない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "With a fake smile on her face, Kotori watches me\\nfrom outside the circle.",
+                "name": ""
+            },
+            "jp": {
+                "line": "愛想笑いを振りまく俺を、輪の外から小鳥が見ていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Aoi. I'm going on ahead.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「あー、碧くん。\\n　私、先にいくから」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah! Wait!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あ、待てって」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You're so cool! And you're tall as well!'",
+                "name": "First grade girl A"
+            },
+            "jp": {
+                "line": "「先輩、カッコイイですよね！\\n　背も高いし！！」",
+                "name": "１年生女子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Asa said you're really kind too!'",
+                "name": "First grade girl B"
+            },
+            "jp": {
+                "line": "「亜紗ちゃんが、すごく優しいって言ってました」",
+                "name": "１年生女子Ｂ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, did she now?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「へぇ、そうなんだ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...No, I mean, hey, Kotori!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……じゃなくて、おい、小鳥っ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori had made a face that said that she\\ncouldn't stay with me, and had already gone off\\nahead.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥は付き合いきれん、って顔で、さっさと先にいってしまった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Opening the metal door and going inside, there\\nwas Kotori working alone in the huge dock.",
+                "name": ""
+            },
+            "jp": {
+                "line": "金属のドアを開いて中に入ると、広いドックの中で、小鳥が一人で何か作業をしていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I can't believe you left me behind!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ひでーな、さっさといっちまうなんて」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'More importantly, I couldn't bear watching you\\nwith that stupid expression on your face.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「あれ以上、碧くんのへらへらみっともない顔、\\n　見ていたくなかったんだもん」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She wasn't as angry as I thought she'd be, but\\nshe was still a little blunt.",
+                "name": ""
+            },
+            "jp": {
+                "line": "思ってたほど怒ってる様子はないが、素っ気ない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Come here, I bought you some ice cream. It's\\nHargen Darch Strawberry flavor!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「こっちこいよ、アイス買ってきたから。\\n　ハーゲンダッチのストロベリーだぞ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori glared at me from a distance.",
+                "name": ""
+            },
+            "jp": {
+                "line": "離れたところで、小鳥がじとっと睨む。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, she pushed her wheelchair towards me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それから、車椅子の車輪を押して近寄ってきた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Here you go.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ほら」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Thanks.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ありがと」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We sat in the corner of the dock, eating ice\\ncream.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ドックの隅っこに座ってアイスを食べる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I think you have to eat ice cream in a hot\\nplace.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「やっぱアイスは暑いところで食うに限るな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Where we are now couldn't be any hotter.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その点、ここは申し分ない暑さだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Aoi.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ねえ、碧くん」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんだ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When people eat ice cream, it puts them in a\\nbetter mood, don't you think?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「アイス食べさせとけば、\\n　機嫌が直るだろう、とか思ってない？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "With the plastic spoon still in her mouth, she\\ngives me a sideways look.",
+                "name": ""
+            },
+            "jp": {
+                "line": "プラスチックのスプーンをくわえたまま、横目にじとっと睨まれた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I don't think so.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そ、そんなことねーよ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, whatever. It tastes good.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ま、いいけど。\\n　おいしいから」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I guess that's her perspective on it, but it\\nlooks like she accepted this as a form of\\napology.",
+                "name": ""
+            },
+            "jp": {
+                "line": "どうやらお見通しらしいが、そこに謝罪の意思があることは受け取ってくれたみたいだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What were you doing?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なにしてたんだ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Maintaining the tools. After that, I was\\ngonna do some cleaning.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……道具の手入れ。\\n　あと、掃除とか」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You came here all by yourself to do that?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「わざわざ一人で来てか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori nods while eating her Hargen Darch.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ハーゲンダッチを食べながら、小鳥は頷く。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We could all do that tomorrow, together.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「んなの、明日みんなでやればいいじゃん」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0041": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...If we all did it together, I'd just be a\\nburden.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……みんなとだと、私、足手まといになるし」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0042": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori seems a bit sullen as she speaks.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥が、ぶすっと言う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0043": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I reflect on having said something that didn't\\nneed to be said.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、余計な発言だったと反省する。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0044": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori's in a wheelchair, so whether we're\\nworking, cleaning, or whatever it may be, she\\ncan't do it the same way as everyone else.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥は車椅子なので、作業にしろ掃除にしろ、何かする時、他のみんなと同じようには動けない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0045": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "No one thinks of her as a burden, but I guess\\nthere is a difference in the amount of work she\\ncan do.",
+                "name": ""
+            },
+            "jp": {
+                "line": "誰も足手まといとは思っちゃいないが、やっぱり作業量には差が出てしまう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0046": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori's worried about that, and everyone else\\nseems to be aware of that.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥がそれを気にしてることも、みんななんとなく察している。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0047": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When we do something, everyone is always looking\\nout for me, I realize that.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「何かする時、みんなが私のこと気遣ってるの、\\n　わかってるもん」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0048": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I don't like it. It makes me sad.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「それが嫌なの。\\n　悲しくなる」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0049": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うん……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We can't completely avoid looking out for her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "完全に気遣わないってことはできない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The reason we do that is because she's important\\nto us.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それに、気遣うのは小鳥のことを大切に想ってるからだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But I can understand why that makes things tough\\nfor her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "でも、それが辛い気持ちもわかる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When I got injured and had to quit the Cycle\\nRacing Club, having my friends look out for me\\nsometimes made me happy, and sometimes it was\\ntough.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺も怪我をして自転車部を辞めた時、仲間たちの気遣いが嬉しくもあり、辛くもあった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori usually doesn't show that she sometimes\\nfinds that tough.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥はその“辛い気持ち”を、普段はまったく見せない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She can be cheerful at times, and at others, she\\nmakes selfish request like it's no big deal.",
+                "name": ""
+            },
+            "jp": {
+                "line": "明るく振る舞って、時にはワガママだって平気で言う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0050": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The fact that she can say what she really thinks\\naround us is a relief to us.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺たちは、こいつがワガママを言ってくれることに安心する。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0051": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's really pitiful, you know. Even though I'm\\nthe leader.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「情けないわ、ほんと。\\n　私、部長なのに」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0052": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I caused problems with that thing with the\\nrunway...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「滑走路の時も、迷惑かけちゃったし……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0053": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I think you know this but no one except you\\nworries about it.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「わかってると思うけど、あのことは、\\n　おまえ以外、誰も気にしてないぞ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0054": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0055": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...(wells up).",
+                "name": ""
+            },
+            "jp": {
+                "line": "……じわ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0056": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Tears appear in Kotori's eyes.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥の瞳に涙が浮かんだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0057": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Don't start crying all of a sudden. C'mon,\\nyou'll spoil the ice cream that I went to the\\neffort of buying for you.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おまっ、急に泣くなよっ。\\n　ほら、せっかくのアイスが不味くなるぞっ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0058": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0059": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Oh no, she's hanging her head even more now.",
+                "name": ""
+            },
+            "jp": {
+                "line": "いかん、ますます俯いてしまったぞ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I don't know what's triggered this but she's gone\\ninto 'fainthearted mode'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "何がスイッチだったのか知らないが、弱気モードに入ってしまったようだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I put my hand on her head, the same as always,\\nand start stroking it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、{い:・}{つ:・}{も:・}{の:・}{よ:・}{う:・}{に:・}小鳥の頭に手をのせ、撫でてやる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There, there, it's nothing to cry about, is it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「よしよし、泣くことないだろ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm... not crying. ...It's sweat. Sniff.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「泣いて……ないもん。\\n　……これは汗だもん。ぐすっ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori starts sniffing.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥が鼻をすすりあげる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This year, Kotori has been working really hard as\\nthe leader of the Soaring Society.",
+                "name": ""
+            },
+            "jp": {
+                "line": "この一年、小鳥はソアリング同好会の会長として、がんばってきた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0060": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She doesn't have the same level of expert\\nknowledge or techniques as Ageha, and she can't\\nbe a pilot like me either.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはほど専門知識や技術はなく、俺と違って操縦ができるわけでもない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0061": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It looks like there's nothing that only Kotori\\ncan do.",
+                "name": ""
+            },
+            "jp": {
+                "line": "目に見えて“小鳥じゃなきゃできないこと”というものはない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0062": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But, in the past, like the time that we found out\\nthat Amane would be leaving, whenever there's a\\ndifficult situation,",
+                "name": ""
+            },
+            "jp": {
+                "line": "でも、例えば昔、天音先輩の引退を知った時そうだったように、いざという時、「こうしたい！」という気持ちを一番強く表してくれるのは小鳥だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0063": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori is always the one who says 'I wanna do it\\nlike this!' and expresses herself the strongest\\nof all of us.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥のそういう子供っぽい真っ直ぐさは、俺たちが向かうべき方向を指し示す{羅針盤:コンパス}になっている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0064": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Kotori has a straightforward nature, like a\\nchild, and she's like a compass, showing us the\\ndirection in which he should be heading.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ほら、アイス溶けるぞ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0065": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0066": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori slowly ate her ice cream while crying.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥が、泣きながらアイスをもそもそ食べる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0067": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She looked like a child who'd become timid after\\nbeing scolded by her mother.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その様子は、母親に叱られていじけて泣いてる子供みたいで、",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0068": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It was kind of... cute.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ちょっと……可愛い。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0069": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...What is it?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……なに？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's...it's nothing. C'mon, eat up!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なっ、なんでもない。\\n　ほら、食え食え」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I couldn't help myself looking at her crying, and\\nwithout thinking, I blushed while trying to cover\\nit up.",
+                "name": ""
+            },
+            "jp": {
+                "line": "泣き顔につい見とれていた俺は、思わず赤くなってごまかす。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I think everyone knows how hard she's trying.",
+                "name": ""
+            },
+            "jp": {
+                "line": "こいつが頑張ってることは、みんなわかってると思う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She's disabled, so even something like pushing\\nher wheelchair all the way to the secret base all\\nby herself is really tough.",
+                "name": ""
+            },
+            "jp": {
+                "line": "足が不自由で、車椅子を自分で押してこの秘密基地まで来るだけでも、大変な苦労だろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But to Kotori, that is perfectly natural, but she\\nis also worried about not being able to move\\naround like everyone else.",
+                "name": ""
+            },
+            "jp": {
+                "line": "でも小鳥にとってそれは当然のことで、その上でみんなと同じだけ働けないことに悩んでいる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She has an unusually strong sense of\\nresponsibility, so she's concerned about\\ninconveniencing other people.",
+                "name": ""
+            },
+            "jp": {
+                "line": "人一倍責任感が強く、他人に迷惑をかける事を恐れている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0070": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "However, originally, the girl known as Kotori\\nHabane, was just a regular girl.",
+                "name": ""
+            },
+            "jp": {
+                "line": "でも、本来の羽々音小鳥という女の子は、もっと普通の女の子だったんじゃないだろうか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0071": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She looks cute, and her grades and general\\nsporting abilities were probably better than most\\npeople, but that's about it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "見た目が可愛くて、成績もよく運動神経も恐らく人より優れていただろうが、ただそれだけの。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0072": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Also, she's easily moved to tears, she's a little\\nself-conscious, and when she tries too hard, she\\nsometimes cries.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして何より泣き虫で、ちょっと自意識過剰なところがあって、頑張りすぎて時々こうして泣いてしまう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0073": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When did it start? I guess from the time I\\npersuaded her not to quit school, it's been my\\nduty to comfort her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "いつからか――たぶん退学しないよう説得したあの夜から――小鳥を慰めるのは、俺の役目だった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0074": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It seems like she only cries in front of me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "なにせ、俺の前でくらいしか泣かないので。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0075": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Maybe that's what she needs.",
+                "name": ""
+            },
+            "jp": {
+                "line": "たぶん、必要なことなんだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0076": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I think that when she cries, she can let out all\\nthe things she's been bottling up.",
+                "name": ""
+            },
+            "jp": {
+                "line": "こうして泣くことで、溜め込んだものを吐き出してるんだと思う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0077": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There, there, you're trying ever so hard,\\nKotori. You're trying ever so, ever so hard.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「よーしよしよし、がんばってるぞ小鳥。\\n　おまえは、すごくがんばってるぞー」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0078": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Geez, don't make fun of me, alright?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……もぉ、バカにしないでっ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0079": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "While still crying, she gives me a punch in the\\nside.",
+                "name": ""
+            },
+            "jp": {
+                "line": "泣きながら、脇腹にパンチされた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It doesn't really hurt though.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あんまり痛くないけど。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I stroke her head and hug her gently.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は小鳥の頭を撫で、ゆるく抱きしめた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sorry. But... this is kind of embarrassing.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「すまん。\\n　でも……ちょっと照れるんだ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I speak honestly to her, Kotori pushes her\\nforehead into my chest, then cries without making\\na sound.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺が正直に言うと、小鳥は俺の胸におでこをつけ、声を出さずにしばらく泣いた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "While holding Kotori's head, one part of me wants\\nher to stop crying, but another part of me wanted\\nto stay like this for a little longer.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は小鳥の頭を抱きしめながら、早く泣きやんでほしいと思う反面、もう少しの間、こうしていたいと思うのだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Thank you, I feel better now.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……ありがと。もう復活した」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0080": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "said Kotori, moving her forehead away from me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "おでこを離すと、小鳥が言った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0081": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She pours the totally melted ice cream into her\\nmouth as though it were juice.",
+                "name": ""
+            },
+            "jp": {
+                "line": "すっかり{融:と}けたアイスを、ジュースのように口の中に流し込む。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0082": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Anytime you need to borrow my chest, you let me\\nknow. I won't charge you any rental fees.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「また俺の胸が借りたい時は、いつでも言ってくれ。\\n　レンタル料はただにしとくから」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0083": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I said jokingly, then...",
+                "name": ""
+            },
+            "jp": {
+                "line": "おどけた調子で言うと、",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0084": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Of course. Because in return, you get to stroke\\nthe head of a beautiful girl, and gently... hug\\nher.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「当然よ。私みたいな美少女の頭撫でたり、\\n　軽く、だ、抱きしめたり……できるんだから」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0085": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'd say those are the perks of the job, wouldn't\\nyou?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「そういうの、役得って言うんでしょ？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0086": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You can't say things like that about yourself,\\nyou know.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「自分で言うな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0087": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Alright, you can go now.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ほら、もう帰っていいわよ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0088": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...So now that you've stopped crying, my work\\nhere is done?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……泣きやんだら、用済みってわけかよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0089": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why don't you go and hang out with all those\\nfirst-year girls from before?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「さっきの１年生の女の子らと、\\n　遊んでくれば？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As she says that, she goes back to work.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そんなこと言いながら、小鳥は作業に戻る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh. Is this what they call jealousy?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なあ。それって焼き餅ってやつか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Fwoosh!",
+                "name": ""
+            },
+            "jp": {
+                "line": "ぶん！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Woah, that's dangerous!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あぶねっ！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A spanner came flying at me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "スパナが飛んできた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0090": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Damn, I missed.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「おしい」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0091": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What the hell are you doing!? What would you\\nhave done if that had hit me?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おまえな！\\n　当たったらどーすんだっ！！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0092": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why on earth would I be jealous!? What are you,\\nstupid?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「なんで私が\\n　焼き餅なんか妬かなくちゃいけないのよ。\\n　バッカじゃないの？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0093": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But it sounds like you're jealous to me.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それが焼き餅っぽいって言ってるんだが」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0094": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Fwoosh, fwoosh!",
+                "name": ""
+            },
+            "jp": {
+                "line": "ぶんぶん！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0095": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Woooah!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うわっと！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0096": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This time, it's a screwdriver and a pair of\\nnippers that came flying.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今度はドライバーとニッパーが飛んできた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0097": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Please just go already. You're stopping me from\\nworking.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「さっさと帰ってちょうだい。\\n　作業の邪魔だから」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0098": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "she said, while clutching a power drill.",
+                "name": ""
+            },
+            "jp": {
+                "line": "と、電動ドリルを握りしめて言う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0099": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Sensing danger, I do as she says.",
+                "name": ""
+            },
+            "jp": {
+                "line": "身の危険を感じたので、言われた通りにすることにした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Alright, I'm off now but if you need anything,\\nyou can reach me on my cell.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「じゃあ俺帰るけど、\\n　なんかあったらケータイに連絡しろよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Also, let me know when you're gonna come leave,\\nI'll come and get you.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それから、帰る時も言えよ、迎えに来るから」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There's no need.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「いらない」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, no. Once it gets dark, I can't let you go\\nback by yourself.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ダメだ。暗くなってから、\\n　一人で帰らせるわけにはいかないからな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Make sure you call me, OK?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「絶対電話してこいよー」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I emphasize my point, I open the metal doors\\nand leave the dock.",
+                "name": ""
+            },
+            "jp": {
+                "line": "念を押すと、俺は金属製のドアを開いてドックを出ていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You don't even think of me... as a girl. Hmph!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「どうせ私なんか……女の子だって思ってないくせに。\\n　ふんっだ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
     }
-]
+}

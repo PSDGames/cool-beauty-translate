@@ -1,79 +1,200 @@
-[
-    {
-        "id": "0400",
-        "line": {
-            "en": "'I... I do like you.'"
+{
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I... I do like you.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「す、好きですよ、そりゃ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "I'm a little flustered as I answer."
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I'm a little flustered as I answer.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、ちょっとどぎまぎしながら答えた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'...'"
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "Amane blushes slightly."
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane blushes slightly.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩が、ちょっとだけ赤くなる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'...In the same way I like Kotori and Ageha.'"
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...In the same way I like Kotori and Ageha.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……小鳥やあげはと同じように」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "I follow that up kind of sheepishly, while\\nblushing."
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I follow that up kind of sheepishly, while\\nblushing.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺も赤くなりながら、ささやかなフォローをする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'That's obvious, isn't it? If I didn't like you,\\nI wouldn't be with you, like this.'"
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's obvious, isn't it? If I didn't like you,\\nI wouldn't be with you, like this.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「当然じゃないですか。\\n　好きじゃなきゃ、こうして一緒にいたりしません」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'Amane, do you dislike me?'"
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Amane, do you dislike me?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「先輩は、俺のこと嫌いですか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'No, that's not it. I like you. You and everyone\\nelse.'"
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, that's not it. I like you. You and everyone\\nelse.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「そんなことない。\\n　好きだぞ、碧くんやみんなのこと」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'I have fun when I'm with you, that's why.'"
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I have fun when I'm with you, that's why.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「一緒にいて楽しいからな」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'...I see, so that's what you mean.'"
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...I see, so that's what you mean.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……そうか、そういうことかぁ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     }
-]
+}

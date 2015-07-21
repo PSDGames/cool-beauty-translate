@@ -1,373 +1,956 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "'There will be one more meeting before we deliver\\nthe parts. I'll let you know before then.'"
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There will be one more meeting before we deliver\\nthe parts. I'll let you know before then.'",
+                "name": "Tatsuya"
+            },
+            "jp": {
+                "line": "「納品前にもう一度、打ち合わせすることになってる。\\n　その時は先に教えるようにするよ」",
+                "name": "達也"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Tatsuya"
+        "state": 0
     },
-    {
-        "id": "0400",
-        "line": {
-            "en": "'OK, thanks An-chan.'"
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, thanks An-chan.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うん、ありがとうあんちゃん」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'I'll take you back to the dormitory.'"
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll take you back to the dormitory.'",
+                "name": "Tatsuya"
+            },
+            "jp": {
+                "line": "「寮まで送っていこう」",
+                "name": "達也"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Tatsuya"
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'No, here's fine. I have some shopping to do for\\ndinner anyway.'"
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, here's fine. I have some shopping to do for\\ndinner anyway.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ううん、ここでいいよ。\\n　夕飯の買い出しもあるし」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'Sure. OK, see you next time.'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sure. OK, see you next time.'",
+                "name": "Tatsuya"
+            },
+            "jp": {
+                "line": "「そうか。\\n　じゃあ、またな」",
+                "name": "達也"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Tatsuya"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'Yeah, thanks An-chan.'"
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, thanks An-chan.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うん、ありがとうあんちゃん」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "As An-chan's light truck drove away, I stood\\nthere, dazed."
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As An-chan's light truck drove away, I stood\\nthere, dazed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あんちゃんの軽トラが走り去ると、俺はその場で呆然としてしまった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "It was true that I had to do some shopping but I\\ndidn't feel like doing it right away."
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It was true that I had to do some shopping but I\\ndidn't feel like doing it right away.",
+                "name": ""
+            },
+            "jp": {
+                "line": "買い出しにいかなきゃいけないのはほんとだけど、すぐにそんな気分にはなれなかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "While I was wandering around, before I knew it, I\\nfound myself at the runway."
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "While I was wandering around, before I knew it, I\\nfound myself at the runway.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ぶらぶら歩くうちに、いつの間にか滑走路へ来ていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "A few days ago, we came here to cut the grass, so\\nit looks quite tidy, but before that, it was\\novergrown with weeds."
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A few days ago, we came here to cut the grass, so\\nit looks quite tidy, but before that, it was\\novergrown with weeds.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先日、みんなで草刈りをしたおかげで随分キレイになったけど、その前は雑草が伸び放題だった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "Between those weeds, were lines where the soil\\nwas exposed."
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Between those weeds, were lines where the soil\\nwas exposed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その雑草の間に、土が露出して一筋のラインができている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "These were marks from where the wheels of the\\nglider had ran over it so many times."
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "These were marks from where the wheels of the\\nglider had ran over it so many times.",
+                "name": ""
+            },
+            "jp": {
+                "line": "グライダーの車輪が、何度も繰り返し走った跡だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3000",
-        "line": {
-            "en": "Usually, a glider is launched into the oncoming\\nwind."
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Usually, a glider is launched into the oncoming\\nwind.",
+                "name": ""
+            },
+            "jp": {
+                "line": "普通、グライダーは向かい風に向かって発航する。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3400",
-        "line": {
-            "en": "However, because it was complicated to move the\\nwinch which had been positioned there to face the\\nwind, we always launched in the same direction."
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "However, because it was complicated to move the\\nwinch which had been positioned there to face the\\nwind, we always launched in the same direction.",
+                "name": ""
+            },
+            "jp": {
+                "line": "だが、ここに設置されたウインチを風向きに応じて移動させるのは困難で、俺たちはいつも同じ方向へ向けて離陸していた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3800",
-        "line": {
-            "en": "I stood in the middle of the huge, wide runway,\\nand gazed towards the winch."
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I stood in the middle of the huge, wide runway,\\nand gazed towards the winch.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺はだだっ{広:ぴろ}い滑走路の真ん中に立って、ウインチがある方を眺めた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "Memories of the acceleration of being pulled by\\nthe tow rope, then floating into the sky, came\\nflooding back to me."
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Memories of the acceleration of being pulled by\\nthe tow rope, then floating into the sky, came\\nflooding back to me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "{曳航索:えいこうさく}に引かれ急加速し、空へと舞い上がっていく感覚が蘇ってくる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4000",
-        "line": {
-            "en": "As I look up, I see the bright blue sky, and a\\ntowering thunderhead."
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I look up, I see the bright blue sky, and a\\ntowering thunderhead.",
+                "name": ""
+            },
+            "jp": {
+                "line": "見上げれば、真っ青な空と、地平線の果てにもくもくとそびえる入道雲。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4400",
-        "line": {
-            "en": "I envision riding on the wind in the glider."
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I envision riding on the wind in the glider.",
+                "name": ""
+            },
+            "jp": {
+                "line": "風を受けて滑空するグライダーを夢想する。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4800",
-        "line": {
-            "en": "'I want to fly... in our glider.'"
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I want to fly... in our glider.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「飛びたいなぁ……俺たちのグライダーで」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "I've been traveling to the airfield for the\\npurpose of training."
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I've been traveling to the airfield for the\\npurpose of training.",
+                "name": ""
+            },
+            "jp": {
+                "line": "訓練のために、滑空場へ通って飛んではいる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5000",
-        "line": {
-            "en": "But flying in the glider that we made... is\\ntotally different."
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But flying in the glider that we made... is\\ntotally different.",
+                "name": ""
+            },
+            "jp": {
+                "line": "けれど、俺たちの――仲間たちと造ったグライダーで飛ぶのとは、やはり全然違うものだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5400",
-        "line": {
-            "en": "The wind that blows over Kazegaura is not the\\nsame as there."
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The wind that blows over Kazegaura is not the\\nsame as there.",
+                "name": ""
+            },
+            "jp": {
+                "line": "風ヶ浦に吹く風は、他とはちがうんだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'We will definitely fly again!'"
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We will definitely fly again!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いつか必ず、また飛ぶぞ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "...In this sky!"
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...In this sky!",
+                "name": ""
+            },
+            "jp": {
+                "line": "――この空を！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6000",
-        "line": {
-            "en": "As I look to the blue sky that field like it's\\ndrawing me towards it, I feel energy building up\\ninside me."
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I look to the blue sky that field like it's\\ndrawing me towards it, I feel energy building up\\ninside me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "吸い込まれそうな青空を見ていると、再び気力が湧いてくるのだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6400",
-        "line": {
-            "en": "But in the end, we couldn't find a teacher to act\\nas advisor."
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But in the end, we couldn't find a teacher to act\\nas advisor.",
+                "name": ""
+            },
+            "jp": {
+                "line": "しかし、結局顧問の先生は見付からなかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6800",
-        "line": {
-            "en": "To find someone qualified, I tried asking the\\npeople I knew at the airfield that I went to to\\nget my pilot's license, but there was no one who\\ncould do it."
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "To find someone qualified, I tried asking the\\npeople I knew at the airfield that I went to to\\nget my pilot's license, but there was no one who\\ncould do it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "有資格者の方は、パイロット資格を取るために通った滑空場の知り合いに当たってみて、なんとかなったのだけど。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "Even so, we still didn't give up."
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even so, we still didn't give up.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それでも俺たちは、諦めなかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7000",
-        "line": {
-            "en": "Dreaming of the day that we could fly again, we\\ncontinued to work on the improvements to the\\nglider."
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Dreaming of the day that we could fly again, we\\ncontinued to work on the improvements to the\\nglider.",
+                "name": ""
+            },
+            "jp": {
+                "line": "いつか飛べる日を夢見て、グライダーの改良作業を進めていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7400",
-        "line": {
-            "en": "Time passed..."
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Time passed...",
+                "name": ""
+            },
+            "jp": {
+                "line": "時は過ぎ――",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7800",
-        "line": {
-            "en": "We realized that the cries of the cicadas were\\ngetting fewer, and that the end of the summer was\\napproaching."
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We realized that the cries of the cicadas were\\ngetting fewer, and that the end of the summer was\\napproaching.",
+                "name": ""
+            },
+            "jp": {
+                "line": "気が付くと蝉の鳴き声も少なくなり、夏も終わりに近付いていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'OK, let's go everyone!'"
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, let's go everyone!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「さあ、いくわよみんな！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "8000",
-        "line": {
-            "en": "It was a day in the second term, after the summer\\nholiday had ended."
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It was a day in the second term, after the summer\\nholiday had ended.",
+                "name": ""
+            },
+            "jp": {
+                "line": "夏休みが明けた２学期のある日。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "8400",
-        "line": {
-            "en": "Under a sky which still had the lingering summer\\nheat, we headed to the runway."
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Under a sky which still had the lingering summer\\nheat, we headed to the runway.",
+                "name": ""
+            },
+            "jp": {
+                "line": "まだ残暑が厳しい空の下、俺たちは滑走路にいた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "8800",
-        "line": {
-            "en": "To fly."
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "To fly.",
+                "name": ""
+            },
+            "jp": {
+                "line": "飛ぶために。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'The day has finally arrived!'"
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The day has finally arrived!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「やっとこの日が来たんですね！」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Asa"
+        "state": 0
     },
-    {
-        "id": "9000",
-        "line": {
-            "en": "'It came around quicker than I thought it would!'"
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It came around quicker than I thought it would!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「思ったより早かったわね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'It's thanks to all our hard work!'"
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's thanks to all our hard work!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「これも、みんなの頑張りのおかげよ！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "9800",
-        "line": {
-            "en": "A teacher who couldn't stand by and ignore us as\\nwe carried on our club activities had agreed to\\nbecome our advisor."
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A teacher who couldn't stand by and ignore us as\\nwe carried on our club activities had agreed to\\nbecome our advisor.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺たちが活動を続けているのを見かねたとある先生が、顧問になることを承諾してくれたのだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "The summer would soon be over, but..."
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The summer would soon be over, but...",
+                "name": ""
+            },
+            "jp": {
+                "line": "夏はもう終わってしまうけれど……",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "a000",
-        "line": {
-            "en": "We're going to fly again!"
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We're going to fly again!",
+                "name": ""
+            },
+            "jp": {
+                "line": "これでまた飛べる！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'Maybe this is like that saying... 'Blind faith\\nwill move rocks'... or something like that.'"
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Maybe this is like that saying... 'Blind faith\\nwill move rocks'... or something like that.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「{虚仮:こけ}の一念岩をも通す……って言うのかしら」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Yoru"
+        "state": 0
     },
-    {
-        "id": "a800",
-        "line": {
-            "en": "'It's up to you now, Aoi!'"
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's up to you now, Aoi!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「頼んだわよ、碧くん！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'Yeah, leave it to me!'"
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, leave it to me!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ああ、任せとけ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "b000",
-        "line": {
-            "en": "I got my pilot's license for this day."
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I got my pilot's license for this day.",
+                "name": ""
+            },
+            "jp": {
+                "line": "この日のために、パイロット資格を取った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "b400",
-        "line": {
-            "en": "I climb into the cockpit and wait for the launch\\npreparations to be completed."
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I climb into the cockpit and wait for the launch\\npreparations to be completed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺はコックピットに乗り込み、発航準備が整うのを待つ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "b800",
-        "line": {
-            "en": "I look up through the canopy at the sky, which is\\nas high as always."
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I look up through the canopy at the sky, which is\\nas high as always.",
+                "name": ""
+            },
+            "jp": {
+                "line": "キャノピー越しに見上げる空は、今日も高い。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'The runway is clear!'"
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The runway is clear!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「ランウェイ・イズ・クリアー！」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Asa"
+        "state": 0
     },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'Here we go, Aoi!'"
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Here we go, Aoi!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いくよ、碧ー！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "c400",
-        "line": {
-            "en": "We have wings."
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We have wings.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺たちには翼がある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "c800",
-        "line": {
-            "en": "We're clumsy so there's no way we can fly by our\\nstrength alone."
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We're clumsy so there's no way we can fly by our\\nstrength alone.",
+                "name": ""
+            },
+            "jp": {
+                "line": "不器用で、自分だけの力じゃとても飛べないけれど。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "But..."
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But...",
+                "name": ""
+            },
+            "jp": {
+                "line": "でも――",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "d000",
-        "line": {
-            "en": "Let's flap our wings as we head straight forward,\\nchasing our dreams!"
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Let's flap our wings as we head straight forward,\\nchasing our dreams!",
+                "name": ""
+            },
+            "jp": {
+                "line": "夢に向かって、真っ直ぐに羽ばたいていこう！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     }
-]
+}

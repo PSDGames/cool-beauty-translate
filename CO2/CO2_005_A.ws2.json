@@ -1,2032 +1,5222 @@
-[
-    {
-        "id": "0400",
-        "line": {
-            "en": "'Geez, OK, I'll carry your bags for you.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'Oh, I'm glad you understand that! I'll buy you a\\ndonut!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'That's a bit stingy... Well, that'll be fine.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1000",
-        "line": {
-            "en": "I feel a slightly hard done by as I see Kotori\\noff, then follow Ageha."
-        },
-        "name": ""
-    },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'Let's go, let's go!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'What are you gonna buy?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'I'm not sure, what should I buy?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'What the hell...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2400",
-        "line": {
-            "en": "We arrived at Windy."
-        },
-        "name": ""
-    },
-    {
-        "id": "2800",
-        "line": {
-            "en": "After walking on the hot streets, the cooled air\\ninside is irresistibly comfortable."
-        },
-        "name": ""
-    },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'Hee hee hee!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3000",
-        "line": {
-            "en": "Ageha has a strange smile on her face as she\\nwalks."
-        },
-        "name": ""
-    },
-    {
-        "id": "3400",
-        "line": {
-            "en": "'We're shopping aren't we, so where do you want\\nto go?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'Anywhere is OK, I just want to browse, and if I\\nsee something I want, I'll buy it.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "'Hey... Aren't I supposed to be carrying your\\nbags?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4000",
-        "line": {
-            "en": "'If I find something I want you to carry, you can\\ndo it then.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'Say...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4800",
-        "line": {
-            "en": "'Am I just here to help you kill time?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "'No, we're just shopping, that's all.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5000",
-        "line": {
-            "en": "'I'm not really sure what you mean.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'...I came here to buy feelings.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'Feelings?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'Yes, feelings.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6000",
-        "line": {
-            "en": "'I ain't gon' lose! Ain't no way!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'You're talking kinda strangely.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6800",
-        "line": {
-            "en": "'Ah ain't never gon' lose!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "'That's even more strange!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7000",
-        "line": {
-            "en": "'Well, that's what I mean.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7400",
-        "line": {
-            "en": "'I still don't understand!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'Ah ha ha! First of all, let's have some juice or\\nice cream. Which is it to be? My treat.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'Hmm, which one...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'...Wait, if I know you like I think I do,\\nthere's something you want me to do, isn't\\nthere?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'No, not at all. Why do you treat people with\\nsuch suspicion?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'Well, it's true that there is something I want\\nyou to do.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'I want you to help me buy feelings.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9000",
-        "line": {
-            "en": "'I just told you, I don't understand what you\\nmean...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'The advisor.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9800",
-        "line": {
-            "en": "Ageha spoke over me."
-        },
-        "name": ""
-    },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'Uh...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'We can't find one, can we?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'I guess not.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a800",
-        "line": {
-            "en": "'We still haven't given up but, on a day like\\ntoday, we've got nothing to do, do we?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'Thinking about all these annoying things kind of\\nmakes my heart sink.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "b000",
-        "line": {
-            "en": "'You?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "b400",
-        "line": {
-            "en": "To be honest, I didn't expect this from her."
-        },
-        "name": ""
-    },
-    {
-        "id": "b800",
-        "line": {
-            "en": "Ageha is always so cheerful and optimistic... I\\nthought that she'd never been depressed in her\\nlife."
-        },
-        "name": ""
-    },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'Who do you think I am? The woman of steel? An\\nexpressionless girl with FRP plastered on her\\nface?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'I didn't say that.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c400",
-        "line": {
-            "en": "'Well, I sometimes sink to rock bottom too, you\\nknow.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "c800",
-        "line": {
-            "en": "'You do look kind of heavy, I guess.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "'Oh, you are just the worst!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "d000",
-        "line": {
-            "en": "'In that case, let's get some juice.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "d400",
-        "line": {
-            "en": "'Yeah yeah.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "d800",
-        "line": {
-            "en": "'Like I said, I'll pay for yours. What'll it be?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "'I'll just have water.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "e000",
-        "line": {
-            "en": "While doing pilot training for the glider, I've\\nbeen running and weight training, and watching\\nwhat I eat."
-        },
-        "name": ""
-    },
-    {
-        "id": "e400",
-        "line": {
-            "en": "If you can tone up your body, you can react more\\nquickly when maneuvering."
-        },
-        "name": ""
-    },
-    {
-        "id": "e800",
-        "line": {
-            "en": "Ageha knew that already, so she didn't say\\nanything about it, and bought me some water."
-        },
-        "name": ""
-    },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "'I'll have this new recipe. Here you go.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "f000",
-        "line": {
-            "en": "'OK, this one.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f400",
-        "line": {
-            "en": "I put the coins in, push the button, and hear the\\nsound of something falling."
-        },
-        "name": ""
-    },
-    {
-        "id": "f800",
-        "line": {
-            "en": "Vending machines sure are amazing."
-        },
-        "name": ""
-    },
-    {
-        "id": "fc00",
-        "line": {
-            "en": "It's been a year since I transferred to Keifuu\\nAcademy. The more I study machinery, the more I\\nrespect technology, or rather, the people who\\nmake it."
-        },
-        "name": ""
-    },
-    {
-        "id": "0100",
-        "line": {
-            "en": "These things are all around us, and are a\\nculmination of knowledge and technology."
-        },
-        "name": ""
-    },
-    {
-        "id": "0500",
-        "line": {
-            "en": "It's not just vending machines, even this juice,\\nis a marvel of this kind of extraordinary\\ntechnology..."
-        },
-        "name": ""
-    },
-    {
-        "id": "0900",
-        "line": {
-            "en": "'It's gonna go warm isn't it? Can I have it,\\nplease?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0d00",
-        "line": {
-            "en": "Taking this marvel of technology, Ageha just\\nopens it up and starts drinking it."
-        },
-        "name": ""
-    },
-    {
-        "id": "1100",
-        "line": {
-            "en": "'Gulp, gulp, gulp...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1500",
-        "line": {
-            "en": "She swigs it back with considerable momentum."
-        },
-        "name": ""
-    },
-    {
-        "id": "1900",
-        "line": {
-            "en": "'...I'm not sure if I like this.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1d00",
-        "line": {
-            "en": "'Is it kind of horrible?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2100",
-        "line": {
-            "en": "'It's not horrible but it's not like it's that\\nmuch better than the other flavors up until now.\\nIt's hard to judge.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2500",
-        "line": {
-            "en": "'I see.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2900",
-        "line": {
-            "en": "'Well, it could last half a year, or at worst,\\nit'll have disappeared by fall.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2d00",
-        "line": {
-            "en": "'It's a tricky one.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3100",
-        "line": {
-            "en": "'There are so many different things. It must be\\nreally tough to make a new one.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3500",
-        "line": {
-            "en": "'That's why, I think that Amane is so awesome.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3900",
-        "line": {
-            "en": "'Yeah. She made a new design for a glider, didn't\\nshe?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3d00",
-        "line": {
-            "en": "'So that means that we are awesome too, because\\nwe're going to build and fly it!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4100",
-        "line": {
-            "en": "'Oh, I see.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4500",
-        "line": {
-            "en": "'Soaring Club, aim for the top! Woo-hoo!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4900",
-        "line": {
-            "en": "'Can you stop that? It's kind of embarrassing.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4d00",
-        "line": {
-            "en": "'Come forth, advisor! The world is waiting for\\nyou!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5100",
-        "line": {
-            "en": "'Even if you shout it out loud...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5500",
-        "line": {
-            "en": "'Can't you just go along with it?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5900",
-        "line": {
-            "en": "'Woo-hoo!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5d00",
-        "line": {
-            "en": "'Woah, that guy is sooooo embarrassing!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6100",
-        "line": {
-            "en": "'Hey!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6500",
-        "line": {
-            "en": "Ageha dashes off with a smile on her face."
-        },
-        "name": ""
-    },
-    {
-        "id": "6900",
-        "line": {
-            "en": "'C'mon, just try and catch me!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6d00",
-        "line": {
-            "en": "'If you don't chase me, I'll run around all the\\nstores shouting your name with tears in my eyes!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7100",
-        "line": {
-            "en": "'Why do you want to suddenly start playing some\\nkind of forfeit game that could ruin my life!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7500",
-        "line": {
-            "en": "I chase after her, with a wry smile."
-        },
-        "name": ""
-    },
-    {
-        "id": "7900",
-        "line": {
-            "en": "Of course, Ageha and I don't actually run around\\nin places like this."
-        },
-        "name": ""
-    },
-    {
-        "id": "7d00",
-        "line": {
-            "en": "Just like how we played in the past, we naturally\\nmake a rule between ourselves that there is 'No\\nrunning'."
-        },
-        "name": ""
-    },
-    {
-        "id": "8100",
-        "line": {
-            "en": "'Ahahahaha!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8500",
-        "line": {
-            "en": "Pitter patter pitter patter."
-        },
-        "name": ""
-    },
-    {
-        "id": "8900",
-        "line": {
-            "en": "'Wait, wait, wait!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8d00",
-        "line": {
-            "en": "Stomp stomp stomp stomp."
-        },
-        "name": ""
-    },
-    {
-        "id": "9100",
-        "line": {
-            "en": "Like a walking race, Ageha walks away as quickly\\nas she can, while I chase her."
-        },
-        "name": ""
-    },
-    {
-        "id": "9500",
-        "line": {
-            "en": "From the underground level, we go to the first,\\nthe second, the third and finally, the fourth\\nfloor, where Himegi Sports is."
-        },
-        "name": ""
-    },
-    {
-        "id": "9900",
-        "line": {
-            "en": "'Oh, Ageha and Aoi... huh?'"
-        },
-        "name": "Ageha's father"
-    },
-    {
-        "id": "9d00",
-        "line": {
-            "en": "A voice called out from the store but we went\\nstraight past."
-        },
-        "name": ""
-    },
-    {
-        "id": "a100",
-        "line": {
-            "en": "Sorry, Mr. Himegi, see you next time."
-        },
-        "name": ""
-    },
-    {
-        "id": "a500",
-        "line": {
-            "en": "'C'mon, c'mon, you still can't catch me!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "a900",
-        "line": {
-            "en": "'Why you...!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ad00",
-        "line": {
-            "en": "We go back down to the lower levels, walking\\naround the wide open floor, down the stairs, up\\nthe stairs, walking around the floor again..."
-        },
-        "name": ""
-    },
-    {
-        "id": "b100",
-        "line": {
-            "en": "'Huff, puff, huff, puff, OK... no more...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "b500",
-        "line": {
-            "en": "Ageha slumped down on a bench, loosening her\\ncollar, and tried to catch her breath."
-        },
-        "name": ""
-    },
-    {
-        "id": "b900",
-        "line": {
-            "en": "'Don't go thinking you can beat me when it comes\\nto endurance.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "bd00",
-        "line": {
-            "en": "'I guess you're right, huff, puff...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "c100",
-        "line": {
-            "en": "Ageha kept wiping off her sweat."
-        },
-        "name": ""
-    },
-    {
-        "id": "c500",
-        "line": {
-            "en": "Naturally, I'm tired too but not as much as\\nAgeha."
-        },
-        "name": ""
-    },
-    {
-        "id": "c900",
-        "line": {
-            "en": "'Phew... Geez, why did we come all the way here,\\ninside where it's cool, and then end up sweating\\nlike this?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "cd00",
-        "line": {
-            "en": "'Hey, this brings back memories!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "d100",
-        "line": {
-            "en": "'...Brings back memories?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "d500",
-        "line": {
-            "en": "'Of the secret base.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "d900",
-        "line": {
-            "en": "'Oh.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "dd00",
-        "line": {
-            "en": "When Ageha and I talk about the 'secret base', we\\ndon't mean the place where we're making the\\nglider, we mean the place where we used to play\\nas kids."
-        },
-        "name": ""
-    },
-    {
-        "id": "e100",
-        "line": {
-            "en": "Now, it's been knocked down to make space for\\nWindy Kazegaura, but that place holds a lot of\\nmemories for us."
-        },
-        "name": ""
-    },
-    {
-        "id": "e500",
-        "line": {
-            "en": "'I think I went a little too far with my little\\njoke...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "e900",
-        "line": {
-            "en": "'You're right, I did too...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ed00",
-        "line": {
-            "en": "It felt like we'd gone back to being kids again,\\nbut it's true that I got quite excited about\\nchasing her."
-        },
-        "name": ""
-    },
-    {
-        "id": "f100",
-        "line": {
-            "en": "Well, I guess it did feel pretty good."
-        },
-        "name": ""
-    },
-    {
-        "id": "f500",
-        "line": {
-            "en": "'It must've been around this area.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "f900",
-        "line": {
-            "en": "'Oh yeah... I guess so.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "fd00",
-        "line": {
-            "en": "If the shopping street that was once here was\\nstill here now, then the secret base would be\\nwhere we are now."
-        },
-        "name": ""
-    },
-    {
-        "id": "0200",
-        "line": {
-            "en": "The secret base..."
-        },
-        "name": ""
-    },
-    {
-        "id": "0600",
-        "line": {
-            "en": "It was a store of some sort, but after the store\\nclosed down, no new tenants moved in, and it was\\njust left to rot, so it was literally a ruin."
-        },
-        "name": ""
-    },
-    {
-        "id": "0a00",
-        "line": {
-            "en": "They started to demolish it but there was a\\nproblem with the funds for the demolition, so\\nthey stopped halfway through and left it like\\nthat... I remember hearing something like that,\\nanyway."
-        },
-        "name": ""
-    },
-    {
-        "id": "0e00",
-        "line": {
-            "en": "We were just little kids, so we didn't really\\nknow, but that's what An-chan told us."
-        },
-        "name": ""
-    },
-    {
-        "id": "1200",
-        "line": {
-            "en": "Well, to kids our age who didn't really\\nunderstand difficult things like that, the fact\\nthat it was a great place to play was the most\\nimportant thing."
-        },
-        "name": ""
-    },
-    {
-        "id": "1600",
-        "line": {
-            "en": "We could climb on the outer walls, squeeze our\\nlittle bodies through the cracks where it had\\nstarted to collapse, finding paths inside, and\\ngoing deeper and deeper inside..."
-        },
-        "name": ""
-    },
-    {
-        "id": "1a00",
-        "line": {
-            "en": "If any adults came past, we'd give a signal,\\ncrouch down to hide ourselves, and we were very\\nserious about it."
-        },
-        "name": ""
-    },
-    {
-        "id": "1e00",
-        "line": {
-            "en": "That kind of thing was really fun."
-        },
-        "name": ""
-    },
-    {
-        "id": "2200",
-        "line": {
-            "en": "Basically, those were the kind of games that boys\\nplay, but Ageha came with Masatsugu and I, or\\nrather, it was her idea, and we played there\\ntogether."
-        },
-        "name": ""
-    },
-    {
-        "id": "2600",
-        "line": {
-            "en": "'Yeah, it does bring back memories, doesn't\\nit...?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2a00",
-        "line": {
-            "en": "'Yeah...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2e00",
-        "line": {
-            "en": "In the 'secret base', there was a second floor\\nand a roof."
-        },
-        "name": ""
-    },
-    {
-        "id": "3200",
-        "line": {
-            "en": "We only played on the second floor."
-        },
-        "name": ""
-    },
-    {
-        "id": "3600",
-        "line": {
-            "en": "That would be right where we are now, sitting on\\nthis bench... not just the horizontal position,\\nbut the height too."
-        },
-        "name": ""
-    },
-    {
-        "id": "3a00",
-        "line": {
-            "en": "Around here, Ageha and I would crouch down and\\nrun around while playing tag or shooting each\\nother with water pistols."
-        },
-        "name": ""
-    },
-    {
-        "id": "3e00",
-        "line": {
-            "en": "That place no longer exists."
-        },
-        "name": ""
-    },
-    {
-        "id": "4200",
-        "line": {
-            "en": "We can't go back to that time."
-        },
-        "name": ""
-    },
-    {
-        "id": "4600",
-        "line": {
-            "en": "'We were in the sixth grade... I think.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4a00",
-        "line": {
-            "en": "Ageha and I have both changed."
-        },
-        "name": ""
-    },
-    {
-        "id": "4e00",
-        "line": {
-            "en": "We've grown bigger and had many experiences."
-        },
-        "name": ""
-    },
-    {
-        "id": "5200",
-        "line": {
-            "en": "An-chan has started working, and we are also\\nfollowing our own paths."
-        },
-        "name": ""
-    },
-    {
-        "id": "5600",
-        "line": {
-            "en": "Those nostalgic memories, stay as memories, but\\ndrift further and further away..."
-        },
-        "name": ""
-    },
-    {
-        "id": "5a00",
-        "line": {
-            "en": "'But everyone's still here.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5e00",
-        "line": {
-            "en": "Ageha spoke as if tries to ease my feelings of\\nsentimentality."
-        },
-        "name": ""
-    },
-    {
-        "id": "6200",
-        "line": {
-            "en": "'The secret base has gone... but we're still\\nhere... in the same place.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6600",
-        "line": {
-            "en": "'...Yeah.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6a00",
-        "line": {
-            "en": "I understand what she's saying."
-        },
-        "name": ""
-    },
-    {
-        "id": "6e00",
-        "line": {
-            "en": "There's me, Ageha, Masatsugu, Hotaru and An-chan."
-        },
-        "name": ""
-    },
-    {
-        "id": "7200",
-        "line": {
-            "en": "It's true, all of us from back then are still\\nhere."
-        },
-        "name": ""
-    },
-    {
-        "id": "7600",
-        "line": {
-            "en": "We're still here... just about."
-        },
-        "name": ""
-    },
-    {
-        "id": "7a00",
-        "line": {
-            "en": "'I was so happy when you came back, Aoi.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7e00",
-        "line": {
-            "en": "'And also, for being just how you were before...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8200",
-        "line": {
-            "en": "'It's the same as when we played here, like we're\\ngoing back to that time.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8600",
-        "line": {
-            "en": "'But... we're not kids anyway.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8a00",
-        "line": {
-            "en": "'Yeah, I know.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8e00",
-        "line": {
-            "en": "This town isn't the same as it was in the past."
-        },
-        "name": ""
-    },
-    {
-        "id": "9200",
-        "line": {
-            "en": "When I returned to this place, I was taken aback\\nby how much the town had changed."
-        },
-        "name": ""
-    },
-    {
-        "id": "9600",
-        "line": {
-            "en": "The windmills by the lake, and Windy Kazegaura\\ntoo."
-        },
-        "name": ""
-    },
-    {
-        "id": "9a00",
-        "line": {
-            "en": "And by the fact the shopping street, that I have\\nso many fond memories of, was gone too."
-        },
-        "name": ""
-    },
-    {
-        "id": "9e00",
-        "line": {
-            "en": "'It's not the same anymore...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "a200",
-        "line": {
-            "en": "'...Hmm?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a600",
-        "line": {
-            "en": "'What's not the same?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "aa00",
-        "line": {
-            "en": "'Umm... Ah... Well, this and that, y'know.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "ae00",
-        "line": {
-            "en": "'Yeah... I guess we did a lot of different things\\nback then.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "b200",
-        "line": {
-            "en": "There are also many things that make me break\\ninto a cold sweat when I recall them now, that\\ncan't just be passed off as kids playing."
-        },
-        "name": ""
-    },
-    {
-        "id": "b600",
-        "line": {
-            "en": "On a hot day like today, we'd shoot passers-by\\nwith our water pistols."
-        },
-        "name": ""
-    },
-    {
-        "id": "ba00",
-        "line": {
-            "en": "We used a measured length of rope for bungee\\njumping, and so on... and An-chan would get\\nreally mad with us."
-        },
-        "name": ""
-    },
-    {
-        "id": "be00",
-        "line": {
-            "en": "Masatsugu and I, using the same rope, would\\nchallenge each other to see who could stay\\nupside-down for the longest."
-        },
-        "name": ""
-    },
-    {
-        "id": "c200",
-        "line": {
-            "en": "We suffered from blood congestion, and after we\\ngot down, we felt faint from anemia."
-        },
-        "name": ""
-    },
-    {
-        "id": "c600",
-        "line": {
-            "en": "Are those the kind of things that Ageha meant?"
-        },
-        "name": ""
-    },
-    {
-        "id": "ca00",
-        "line": {
-            "en": "'Yeah, this and that. So many things happened.\\nWe've done lots of reckless things, haven't we?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "ce00",
-        "line": {
-            "en": "'We have...?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "d200",
-        "line": {
-            "en": "There's something strange about Ageha's mood."
-        },
-        "name": ""
-    },
-    {
-        "id": "d600",
-        "line": {
-            "en": "Did something happen when I moved away?"
-        },
-        "name": ""
-    },
-    {
-        "id": "da00",
-        "line": {
-            "en": "But it's been a year since I came back. If it was\\nanything important, she would've told me about it\\nalready."
-        },
-        "name": ""
-    },
-    {
-        "id": "de00",
-        "line": {
-            "en": "'As long as we're all here, we can find new\\nthings to enjoy together. Right?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "e200",
-        "line": {
-            "en": "'Yeah, I guess you're right.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "e600",
-        "line": {
-            "en": "'...I'm not sure about Masatsugu, though.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ea00",
-        "line": {
-            "en": "'That traitor... He should go out with Hotaru, so\\nwhy is he chasing after the student council\\npresident?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "ee00",
-        "line": {
-            "en": "'Hold on, I think that's going a bit too far.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f200",
-        "line": {
-            "en": "'If that were the case, you and I would have to\\nget together.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f600",
-        "line": {
-            "en": "'...Huh?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "fa00",
-        "line": {
-            "en": "'Hmm?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "fe00",
-        "line": {
-            "en": "Did I say something strange?"
-        },
-        "name": ""
-    },
-    {
-        "id": "0300",
-        "line": {
-            "en": "'Erm... I guess so, yeah.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0700",
-        "line": {
-            "en": "'But we spend a lot of time together, and we're\\ntogether right now... so it's a bit late for\\nthat... ?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0b00",
-        "line": {
-            "en": "'Yeah, I guess so.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0f00",
-        "line": {
-            "en": "To tell the truth, after I said, I felt a little\\nscared."
-        },
-        "name": ""
-    },
-    {
-        "id": "1300",
-        "line": {
-            "en": "Ageha didn't really respond to it though, so I\\njust kind of let it slide."
-        },
-        "name": ""
-    },
-    {
-        "id": "1700",
-        "line": {
-            "en": "'Phew... Oh, now I'm really sweating.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1b00",
-        "line": {
-            "en": "Ageha was sweating quite a lot, as she took a\\nbreather."
-        },
-        "name": ""
-    },
-    {
-        "id": "1f00",
-        "line": {
-            "en": "'Wait here.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2300",
-        "line": {
-            "en": "I went to buy a sports drink."
-        },
-        "name": ""
-    },
-    {
-        "id": "2700",
-        "line": {
-            "en": "'Thanks...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2b00",
-        "line": {
-            "en": "'Gulp, gulp, gulp, gulp, gulp.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2f00",
-        "line": {
-            "en": "Her throat moves up and down as she gulps it down\\neven more forcefully than before."
-        },
-        "name": ""
-    },
-    {
-        "id": "3300",
-        "line": {
-            "en": "For some reason, I found myself looking at the\\nmovements of her throat."
-        },
-        "name": ""
-    },
-    {
-        "id": "3700",
-        "line": {
-            "en": "It's white and different to a boy's, since\\nthere's no part that sticks out."
-        },
-        "name": ""
-    },
-    {
-        "id": "3b00",
-        "line": {
-            "en": "Her throat was constantly moving... and her\\nexposed collarbone was also moving."
-        },
-        "name": ""
-    },
-    {
-        "id": "3f00",
-        "line": {
-            "en": "The lines of her chin and neck are round and\\nsmooth, and her skin is glistening."
-        },
-        "name": ""
-    },
-    {
-        "id": "4300",
-        "line": {
-            "en": "'Whew... It tastes great...!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4700",
-        "line": {
-            "en": "She seemed happy as a wide grin spread across her\\nsweaty face."
-        },
-        "name": ""
-    },
-    {
-        "id": "4b00",
-        "line": {
-            "en": "Even though I'm not drinking, my throat made the\\nsame kind of movement."
-        },
-        "name": ""
-    },
-    {
-        "id": "4f00",
-        "line": {
-            "en": "'...That's strange, you don't have a suntan at\\nall, do you?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5300",
-        "line": {
-            "en": "'Yeah, well, I move around a lot but I spend most\\nof the time indoors.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5700",
-        "line": {
-            "en": "'I only really went outside when we went to cut\\nthe grass.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5b00",
-        "line": {
-            "en": "After she had finished drinking, Ageha was\\ngetting ready to throw the plastic bottle into\\nthe trashcan."
-        },
-        "name": ""
-    },
-    {
-        "id": "5f00",
-        "line": {
-            "en": "It's quite far away."
-        },
-        "name": ""
-    },
-    {
-        "id": "6300",
-        "line": {
-            "en": "'...Hmm!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6700",
-        "line": {
-            "en": "'What is it?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6b00",
-        "line": {
-            "en": "'Well... if I just throw it normally, it won't\\nfly in a straight line, will it?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6f00",
-        "line": {
-            "en": "'I dunno about cans, but a plastic bottle\\nwouldn't, would it?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7300",
-        "line": {
-            "en": "'So, what should I do to make something this\\nshape fly straight?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7700",
-        "line": {
-            "en": "'If you could put wings on it, like here...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7b00",
-        "line": {
-            "en": "If the bottle is like the fuselage of a plane,\\nwe'd have the main wings, tailplane, vertical\\ntailplane... Hmm."
-        },
-        "name": ""
-    },
-    {
-        "id": "7f00",
-        "line": {
-            "en": "'Why are we talking about this?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8300",
-        "line": {
-            "en": "'I only ever think about two things.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8700",
-        "line": {
-            "en": "'Two? The first must be the glider, right?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8b00",
-        "line": {
-            "en": "'Yeah, you got it straight away. You know me\\nwell.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8f00",
-        "line": {
-            "en": "'That's because we've been together for so\\nlong... I'm the same.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9300",
-        "line": {
-            "en": "'...Eh heh heh. I see. That's good.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9700",
-        "line": {
-            "en": "She smiles happily, so why do I have this strange\\nuneasy feeling?"
-        },
-        "name": ""
-    },
-    {
-        "id": "9b00",
-        "line": {
-            "en": "'What's the other thing?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9f00",
-        "line": {
-            "en": "'Oh, I wonder?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "a300",
-        "line": {
-            "en": "Ageha's eyes sparkle, with an air of mystery\\nabout her."
-        },
-        "name": ""
-    },
-    {
-        "id": "a700",
-        "line": {
-            "en": "What could it be?"
-        },
-        "name": ""
-    },
-    {
-        "id": "ab00",
-        "line": {
-            "en": "'It must be something to do with our club. Like\\nwhat we're gonna do about the advisor.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "af00",
-        "line": {
-            "en": "'Yeah...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "b300",
-        "line": {
-            "en": "Huh? Her eyes are moving side to side."
-        },
-        "name": ""
-    },
-    {
-        "id": "b700",
-        "line": {
-            "en": "It looks like I said something she wasn't\\nexpecting."
-        },
-        "name": ""
-    },
-    {
-        "id": "bb00",
-        "line": {
-            "en": "'Well... that's it.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "bf00",
-        "line": {
-            "en": "'It's true. That's the most important thing right\\nnow.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "c300",
-        "line": {
-            "en": "In a strangely exaggerated fashion, she nods in\\nagreement."
-        },
-        "name": ""
-    },
-    {
-        "id": "c700",
-        "line": {
-            "en": "'Was it something else?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "cb00",
-        "line": {
-            "en": "'Alright, c'mon, let's head back.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "cf00",
-        "line": {
-            "en": "Without answering my question, Ageha, holding the\\nbottle horizontally, starts running off."
-        },
-        "name": ""
-    },
-    {
-        "id": "d300",
-        "line": {
-            "en": "'Take off! Whoosh!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "d700",
-        "line": {
-            "en": "'Quit doing that, it's embarrassing.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "db00",
-        "line": {
-            "en": "'Oh no, a downburst! We're losing speed!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "df00",
-        "line": {
-            "en": "She throws it into the trashcan."
-        },
-        "name": ""
-    },
-    {
-        "id": "e300",
-        "line": {
-            "en": "'Cut that out, it's bad luck!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "e700",
-        "line": {
-            "en": "'So, it makes a recovery...!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "eb00",
-        "line": {
-            "en": "'Don't put your hand in the trashcan!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ef00",
-        "line": {
-            "en": "'Huff, puff, huff...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f300",
-        "line": {
-            "en": "I feel a lot more tired than before..."
-        },
-        "name": ""
-    },
-    {
-        "id": "f700",
-        "line": {
-            "en": "'What's up? You look worn out.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "fb00",
-        "line": {
-            "en": "'Graaaaagh!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ff00",
-        "line": {
-            "en": "Is it OK for me to get mad?"
-        },
-        "name": ""
-    },
-    {
-        "id": "0004",
-        "line": {
-            "en": "'Ahahaha! Thanks, though. The shopping's done.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0404",
-        "line": {
-            "en": "'...Huh?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0804",
-        "line": {
-            "en": "I blink with surprise."
-        },
-        "name": ""
-    },
-    {
-        "id": "0c04",
-        "line": {
-            "en": "'When did that happen?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1004",
-        "line": {
-            "en": "'I told you, didn't I? That I came to buy\\nfeelings.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1404",
-        "line": {
-            "en": "'I bought a bright and sunny feeling!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1804",
-        "line": {
-            "en": "'I couldn't buy it by myself. So, thanks, Aoi.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1c04",
-        "line": {
-            "en": "'Gimme a break...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2004",
-        "line": {
-            "en": "'What's that all about?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2404",
-        "line": {
-            "en": "'Well, when you come out with embarrassing lines\\nlike that, I just of makes me... cringe, you\\nknow?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2804",
-        "line": {
-            "en": "'Oh... Is that so...?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2c04",
-        "line": {
-            "en": "Ageha's eyes light up, kind of like a cat's!"
-        },
-        "name": ""
-    },
-    {
-        "id": "3004",
-        "line": {
-            "en": "'Aoi Minase, sit down, please.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3404",
-        "line": {
-            "en": "'O...OK?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3804",
-        "line": {
-            "en": "'I'll whisper cringe-inducing things into your\\near for all eternity!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3c04",
-        "line": {
-            "en": "'Stop it!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4004",
-        "line": {
-            "en": "'Oh, seeing you all annoyed like this, will give\\nme something to nostalgically look back upon,\\nlike a page in the story of my youth.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4404",
-        "line": {
-            "en": "'No, no, no, no!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4804",
-        "line": {
-            "en": "'With everyone's power combined, let's fly, to\\nthe future! Our bonds of friendship will never be\\ntorn asunder!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4c04",
-        "line": {
-            "en": "'Nooooooo!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5004",
-        "line": {
-            "en": "Cringe, cringe, cringe, I'm so embarrassed, I'm\\ngonna die, die in agony!"
-        },
-        "name": ""
-    },
-    {
-        "id": "5404",
-        "line": {
-            "en": "'Hahaha... Now do you realize what the punishment\\nis for laughing at people when they're being\\nserious?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5804",
-        "line": {
-            "en": "'I understand, I'm sorry...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5c04",
-        "line": {
-            "en": "I surrendered from the bottom of my heart."
-        },
-        "name": ""
-    },
-    {
-        "id": "6004",
-        "line": {
-            "en": "'So, after all that, what was the other thing\\nthat you are always thinking about?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6404",
-        "line": {
-            "en": "Being able to completely change the subject is\\nanother great thing about being so used to each\\nother."
-        },
-        "name": ""
-    },
-    {
-        "id": "6804",
-        "line": {
-            "en": "We couldn't really do that with anyone else."
-        },
-        "name": ""
-    },
-    {
-        "id": "6c04",
-        "line": {
-            "en": "'I told you, right?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7004",
-        "line": {
-            "en": "'You did?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7404",
-        "line": {
-            "en": "'I told you. Well, that's it.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7804",
-        "line": {
-            "en": "I feel like she's avoided telling me the most\\nimportant thing."
-        },
-        "name": ""
-    },
-    {
-        "id": "7c04",
-        "line": {
-            "en": "'So... what are we gonna do about the\\nadvisor...?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8004",
-        "line": {
-            "en": "'Oh yeah...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8404",
-        "line": {
-            "en": "Unfortunately, we've gone from feeling all\\ncheerful, changing back to the topic of the lack\\nof an advisor, and the situation hasn't changed\\nat all."
-        },
-        "name": ""
-    },
-    {
-        "id": "8804",
-        "line": {
-            "en": "What should we do...?"
-        },
-        "name": ""
+{
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Geez, OK, I'll carry your bags for you.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「しゃーない、荷物持ちしてやるか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, I'm glad you understand that! I'll buy you a\\ndonut!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「お、ちゃんとわかってるねー。\\n　ドーナツおごるからさ♪」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's a bit stingy... Well, that'll be fine.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「安いなぁ……ま、それはいいんだけど」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I feel a slightly hard done by as I see Kotori\\noff, then follow Ageha.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は苦笑して、小鳥を見送ってから、あげはの後についていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Let's go, let's go!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「さってさて〜♪」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What are you gonna buy?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なに買うんだ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm not sure, what should I buy?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「さあ、どうしよう」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What the hell...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんだよそりゃ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We arrived at Windy.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ウィンディに来た。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "After walking on the hot streets, the cooled air\\ninside is irresistibly comfortable.",
+                "name": ""
+            },
+            "jp": {
+                "line": "暑い路上を歩いてきたので、冷房がたまらなく心地よい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hee hee hee!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ふっふっふ〜」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha has a strange smile on her face as she\\nwalks.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはは、変にニコニコしながら歩いていく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We're shopping aren't we, so where do you want\\nto go?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「買い物なんだろ、どこ行くんだ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Anywhere is OK, I just want to browse, and if I\\nsee something I want, I'll buy it.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「まー適当に、ぶらぶらと、何かあったら買うよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey... Aren't I supposed to be carrying your\\nbags?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おいおい……荷物持ちじゃなかったのかよ、俺」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If I find something I want you to carry, you can\\ndo it then.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「持ってほしいもの見つかったら頼むよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Say...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あのな……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Am I just here to help you kill time?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それじゃ何か、俺、お前の暇つぶしに\\n　つきあわされるってことか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, we're just shopping, that's all.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いや、買い物だよ、あくまで買い物」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm not really sure what you mean.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「意味わかんねえよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...I came here to buy feelings.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……気持ちを、買いに来たの」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Feelings?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「気持ち？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yes, feelings.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そ、気持ち」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I ain't gon' lose! Ain't no way!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「負けるもんか、やったるでーっていう」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You're talking kinda strangely.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なまってるなまってる」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah ain't never gon' lose!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「負けへんでー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's even more strange!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「もっとなまった！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, that's what I mean.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ま、そういうこと」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I still don't understand!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「意味わかんないままだ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah ha ha! First of all, let's have some juice or\\nice cream. Which is it to be? My treat.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あはは、とりあえず、ジュースかアイスにしよ。\\n　どっち？　おごるよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm, which one...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうだな……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Wait, if I know you like I think I do,\\nthere's something you want me to do, isn't\\nthere?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……って、お前のことだから、それで何か\\n　やらせようとしてるだろ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, not at all. Why do you treat people with\\nsuch suspicion?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いやいや。\\n　どーしてあんたはそう、人を疑うかなー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, it's true that there is something I want\\nyou to do.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あー、でも、やらせようってのは確かにそうだねえ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I want you to help me buy feelings.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「気持ちを買うの、手伝ってほしいわけだし」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I just told you, I don't understand what you\\nmean...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だから、それがわからないって……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The advisor.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「顧問」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha spoke over me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺の言葉にかぶせて、あげはは言った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Uh...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「う……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We can't find one, can we?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「見つからないよね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I guess not.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「まあ、な」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We still haven't given up but, on a day like\\ntoday, we've got nothing to do, do we?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「まだ、あきらめたつもりじゃないけど――今日みたいに、\\n　やることなくなっちゃうと、どうもね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Thinking about all these annoying things kind of\\nmakes my heart sink.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いやな方にばっかり頭向いちゃって、\\n　気持ちが沈んじゃってさ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「お前が、か？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "To be honest, I didn't expect this from her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "正直、意外な感じがした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha is always so cheerful and optimistic... I\\nthought that she'd never been depressed in her\\nlife.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはって、いつでも明るくて、前向きで……落ちこむことなんかないって思ってたから。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Who do you think I am? The woman of steel? An\\nexpressionless girl with FRP plastered on her\\nface?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「人を何だと思ってたのさ？　鋼鉄の女？\\n　ＦＲＰで顔面塗りたくった無表情女？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I didn't say that.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そんなこと言ってないだろ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, I sometimes sink to rock bottom too, you\\nknow.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ま、わたしでも、沈む時は沈むのよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You do look kind of heavy, I guess.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「重そうだもんな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, you are just the worst!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「うっわー、さいってー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'In that case, let's get some juice.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「これはジュースおごりだね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah yeah.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「はいはい」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Like I said, I'll pay for yours. What'll it be?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あんたの分は、言ったとおり、わたしがおごってあげる。何がいい？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll just have water.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「水でいいよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "While doing pilot training for the glider, I've\\nbeen running and weight training, and watching\\nwhat I eat.",
+                "name": ""
+            },
+            "jp": {
+                "line": "グライダーのパイロット講習を受け続けるついでに、走ったり筋トレしたり、節制もしてる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If you can tone up your body, you can react more\\nquickly when maneuvering.",
+                "name": ""
+            },
+            "jp": {
+                "line": "体を研ぎ澄ませておくと、操縦の際に素早く反応できるからだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha knew that already, so she didn't say\\nanything about it, and bought me some water.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それを知ってるあげはは、何もいわずに水を買ってくれた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll have this new recipe. Here you go.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「わたしは、新発売のこれ。よろしく」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, this one.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ほい、っと」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I put the coins in, push the button, and hear the\\nsound of something falling.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小銭投入、ボタン押し、落下音。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Vending machines sure are amazing.",
+                "name": ""
+            },
+            "jp": {
+                "line": "自動販売機ってのも、すごいよな。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's been a year since I transferred to Keifuu\\nAcademy. The more I study machinery, the more I\\nrespect technology, or rather, the people who\\nmake it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺が恵風学園に転入して、丸一年。機械について色々勉強すればするほど、技術というもの、あるいは作った人への敬意が強くなっていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "These things are all around us, and are a\\nculmination of knowledge and technology.",
+                "name": ""
+            },
+            "jp": {
+                "line": "周囲にあるありとあらゆるものが、積み重なった知識と技術の集合体なんだよな。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0041": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's not just vending machines, even this juice,\\nis a marvel of this kind of extraordinary\\ntechnology...",
+                "name": ""
+            },
+            "jp": {
+                "line": "販売機だけでなく、このジュースにしても、並々ならぬ技術の結晶なわけで……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0042": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's gonna go warm isn't it? Can I have it,\\nplease?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ぬるくなるじゃない、ちょうだいよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0043": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Taking this marvel of technology, Ageha just\\nopens it up and starts drinking it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その技術の結晶を、あげははあっさりフタを開けて飲みこんだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0044": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Gulp, gulp, gulp...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ごくっ、ごく、ごくっ……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0045": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She swigs it back with considerable momentum.",
+                "name": ""
+            },
+            "jp": {
+                "line": "かなりの勢いで、喉を鳴らす。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0046": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...I'm not sure if I like this.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……ビミョー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0047": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Is it kind of horrible?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「まずいのか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0048": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's not horrible but it's not like it's that\\nmuch better than the other flavors up until now.\\nIt's hard to judge.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「まずくはないよ。でも、これまでのやつより\\n　特に美味しいわけでもないから……評価に困る」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0049": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なるほど」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, it could last half a year, or at worst,\\nit'll have disappeared by fall.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「まー、もって半年、下手すりゃ秋で消えるね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's a tricky one.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「難しいもんだな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There are so many different things. It must be\\nreally tough to make a new one.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「これだけ色んなものがあるからね。\\n　新しいもの作るってのは、本当に大変なのよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's why, I think that Amane is so awesome.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「だからこそ、天音先輩は本当にすごかったって\\n　言えるわけで」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah. She made a new design for a glider, didn't\\nshe?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だよなあ。新しい設計のグライダー、だもんなあ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So that means that we are awesome too, because\\nwe're going to build and fly it!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そしてさらに、それを作って飛ばすわたしたちもまた、\\n　本当にすごいってわけよ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0050": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, I see.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なるほど」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0051": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Soaring Club, aim for the top! Woo-hoo!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「目指せ、ソアリング部復活ーっ！　えいえいおーっ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0052": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Can you stop that? It's kind of embarrassing.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「恥ずかしいからやめようぜ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0053": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Come forth, advisor! The world is waiting for\\nyou!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「来たれ顧問！　世界はあなたを待っているのだー！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0054": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Even if you shout it out loud...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ここで叫んでもなー」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0055": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Can't you just go along with it?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ノリが悪いっ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0056": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Woo-hoo!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「え、えいえいおー！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0057": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Woah, that guy is sooooo embarrassing!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「うっわーなにあの人はっずかしー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0058": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おいっ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0059": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha dashes off with a smile on her face.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはは、笑顔のまま遠ざかる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'C'mon, just try and catch me!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ほーらつかまえてごらーん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If you don't chase me, I'll run around all the\\nstores shouting your name with tears in my eyes!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「追いかけてこないと、碧の名前叫びながら、\\n　涙目で店内駆け回ってやるからー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why do you want to suddenly start playing some\\nkind of forfeit game that could ruin my life!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なぜ人生終わるような罰ゲームをいきなり！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I chase after her, with a wry smile.",
+                "name": ""
+            },
+            "jp": {
+                "line": "苦笑しつつ、後を追った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Of course, Ageha and I don't actually run around\\nin places like this.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もちろん、俺もあげはも、こういう場所で走るような真似はしない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Just like how we played in the past, we naturally\\nmake a rule between ourselves that there is 'No\\nrunning'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして、昔遊んでいた頃のように、自然に『走ってはいけない』というルールがお互いの間に設定される。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0060": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ahahahaha!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あははははー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0061": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Pitter patter pitter patter.",
+                "name": ""
+            },
+            "jp": {
+                "line": "すたすたすた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0062": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wait, wait, wait!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「待て待て待てー」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0063": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Stomp stomp stomp stomp.",
+                "name": ""
+            },
+            "jp": {
+                "line": "スタスタスタスタ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0064": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Like a walking race, Ageha walks away as quickly\\nas she can, while I chase her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "競歩のように、あくまでも『歩く』範囲であげはは逃げ、俺は追う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0065": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "From the underground level, we go to the first,\\nthe second, the third and finally, the fourth\\nfloor, where Himegi Sports is.",
+                "name": ""
+            },
+            "jp": {
+                "line": "地階から一階、二階、姫城スポーツのある四階へも。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0066": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, Ageha and Aoi... huh?'",
+                "name": "Ageha's father"
+            },
+            "jp": {
+                "line": "「おっ、あげはに碧くん……あれ？」",
+                "name": "姫城父"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0067": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A voice called out from the store but we went\\nstraight past.",
+                "name": ""
+            },
+            "jp": {
+                "line": "店の中から声がかかったが、素通りした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0068": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Sorry, Mr. Himegi, see you next time.",
+                "name": ""
+            },
+            "jp": {
+                "line": "おじさん、すみません、また今度。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0069": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'C'mon, c'mon, you still can't catch me!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ほらほらまだまだー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why you...!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「このやろ……！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We go back down to the lower levels, walking\\naround the wide open floor, down the stairs, up\\nthe stairs, walking around the floor again...",
+                "name": ""
+            },
+            "jp": {
+                "line": "また下の階に降り、広いフロアを歩き回り、階段を下り、上り、フロアをさらに歩き……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huff, puff, huff, puff, OK... no more...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「はぁ、はぁ、はぁ、はぁ、げ、限界……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha slumped down on a bench, loosening her\\ncollar, and tried to catch her breath.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげははベンチにへたりこみ、襟元をゆるめて、ぜいぜい喉を鳴らした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Don't go thinking you can beat me when it comes\\nto endurance.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「持久力で俺に勝てると思うなよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I guess you're right, huff, puff...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そりゃそうか、はぁ、はぁ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0070": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha kept wiping off her sweat.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげははしきりに汗をぬぐった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0071": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Naturally, I'm tired too but not as much as\\nAgeha.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もっとも俺も、あげはほどではないにしろ、疲れてはいる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0072": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Phew... Geez, why did we come all the way here,\\ninside where it's cool, and then end up sweating\\nlike this?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ふう……まったく、なんでこんな、せっかくの屋内で、\\n　大汗かかにゃならんのだ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0073": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, this brings back memories!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いやー、懐かしくてさ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0074": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Brings back memories?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……懐かしい？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0075": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Of the secret base.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「秘密基地」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0076": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ああ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0077": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When Ageha and I talk about the 'secret base', we\\ndon't mean the place where we're making the\\nglider, we mean the place where we used to play\\nas kids.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺とあげはが“秘密基地”と言う場合、グライダーを作っているあの場所ではなく、昔の遊び場の方を指す。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0078": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Now, it's been knocked down to make space for\\nWindy Kazegaura, but that place holds a lot of\\nmemories for us.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今では取り壊され、このウィンディ風ヶ浦となってしまった、懐かしい場所。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0079": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I think I went a little too far with my little\\njoke...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「それもあって、ちょっと、悪ノリしすぎた……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You're right, I did too...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうだな、俺も、確かに……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It felt like we'd gone back to being kids again,\\nbut it's true that I got quite excited about\\nchasing her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ガキの頃に戻った気分で、追いかけっこに盛り上がってしまったのは事実だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Well, I guess it did feel pretty good.",
+                "name": ""
+            },
+            "jp": {
+                "line": "しかしまあ……いい気持ちなのは確かだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It must've been around this area.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「大体、この辺だよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh yeah... I guess so.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ああ……そうか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If the shopping street that was once here was\\nstill here now, then the secret base would be\\nwhere we are now.",
+                "name": ""
+            },
+            "jp": {
+                "line": "かつての商店街が、もし今も残っていたとしたら、今俺たちのいるこのあたりが、秘密基地だったはず。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0080": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The secret base...",
+                "name": ""
+            },
+            "jp": {
+                "line": "秘密基地……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0081": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It was a store of some sort, but after the store\\nclosed down, no new tenants moved in, and it was\\njust left to rot, so it was literally a ruin.",
+                "name": ""
+            },
+            "jp": {
+                "line": "何かの店だった建物が、店が潰れて、新しいテナントも入らず朽ち果てた、文字通りの廃墟。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0082": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "They started to demolish it but there was a\\nproblem with the funds for the demolition, so\\nthey stopped halfway through and left it like\\nthat... I remember hearing something like that,\\nanyway.",
+                "name": ""
+            },
+            "jp": {
+                "line": "取り壊し工事が入るには入ったけど、工事費を巡ってトラブルが起きて、中途半端に壊された状態のままになってしまった……というようなことも聞いたおぼえがある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0083": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We were just little kids, so we didn't really\\nknow, but that's what An-chan told us.",
+                "name": ""
+            },
+            "jp": {
+                "line": "幼かった俺達にはよくわからなかったが、あんちゃんが、そんなことを言っていたような。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0084": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Well, to kids our age who didn't really\\nunderstand difficult things like that, the fact\\nthat it was a great place to play was the most\\nimportant thing.",
+                "name": ""
+            },
+            "jp": {
+                "line": "まあ、難しいことのわからない年頃の俺たちにとっては、それよりも、ここが最高の遊び場所ってのが何より大事だった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0085": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We could climb on the outer walls, squeeze our\\nlittle bodies through the cracks where it had\\nstarted to collapse, finding paths inside, and\\ngoing deeper and deeper inside...",
+                "name": ""
+            },
+            "jp": {
+                "line": "外壁をよじ登り、崩れてできた割れ目に小さい体をねじ入れて、道を見つけ、奥へ奥へと進み……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0086": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If any adults came past, we'd give a signal,\\ncrouch down to hide ourselves, and we were very\\nserious about it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "大人が外を通りかかると、合図して、うずくまって身を隠す、なんてのも大真面目にやっていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0087": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That kind of thing was really fun.",
+                "name": ""
+            },
+            "jp": {
+                "line": "楽しかったんだよな、ああいうの。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0088": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Basically, those were the kind of games that boys\\nplay, but Ageha came with Masatsugu and I, or\\nrather, it was her idea, and we played there\\ntogether.",
+                "name": ""
+            },
+            "jp": {
+                "line": "基本的には男子の遊びだったけど、あげはも、俺や柾次に混じって――いやむしろ率先して、そういう遊びをしていたもんだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0089": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, it does bring back memories, doesn't\\nit...?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「懐かしいなあ……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「だよね……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In the 'secret base', there was a second floor\\nand a roof.",
+                "name": ""
+            },
+            "jp": {
+                "line": "“秘密基地”には、二階も、屋上もあった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We only played on the second floor.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺たちの遊び場は、もっぱら二階で。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That would be right where we are now, sitting on\\nthis bench... not just the horizontal position,\\nbut the height too.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ちょうど今、俺たちが腰掛けているベンチのあるあたり……水平位置だけじゃなく、高さ的にも、この辺のはず。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Around here, Ageha and I would crouch down and\\nrun around while playing tag or shooting each\\nother with water pistols.",
+                "name": ""
+            },
+            "jp": {
+                "line": "このあたりを、俺やあげはが、鬼ごっこだの水鉄砲撃ちあいだの、はしゃいで、駆け回っていたんだよな。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That place no longer exists.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もう存在すらしない、あの場所。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0090": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We can't go back to that time.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もう戻れない、あの時。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0091": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We were in the sixth grade... I think.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「六年……か」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0092": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha and I have both changed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺もあげはも、変わった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0093": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We've grown bigger and had many experiences.",
+                "name": ""
+            },
+            "jp": {
+                "line": "体は大きくなり、色々な経験をして……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0094": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "An-chan has started working, and we are also\\nfollowing our own paths.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あんちゃんは働き始め、俺たちも、それぞれ別な道を進んでいる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0095": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Those nostalgic memories, stay as memories, but\\ndrift further and further away...",
+                "name": ""
+            },
+            "jp": {
+                "line": "懐かしい思い出は、思い出のまま、徐々に遠く……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0096": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But everyone's still here.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「でも、みんな、いるよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0097": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha spoke as if tries to ease my feelings of\\nsentimentality.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺の感傷にかぶせるように、あげはが言った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0098": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The secret base has gone... but we're still\\nhere... in the same place.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「秘密基地はなくなったけどさ……同じ場所に、まだ、\\n　わたしたち……いるんだよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0099": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Yeah.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……ああ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I understand what she's saying.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはの言っていることはわかる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "There's me, Ageha, Masatsugu, Hotaru and An-chan.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺にあげは、柾次にほたる、あんちゃん。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's true, all of us from back then are still\\nhere.",
+                "name": ""
+            },
+            "jp": {
+                "line": "確かに、あの頃と同じメンバーがそろっている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We're still here... just about.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そろっては……いるよな……一応。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I was so happy when you came back, Aoi.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「すごく、嬉しかったんだよ。碧が戻ってきてくれて」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'And also, for being just how you were before...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「これでまた、昔どおりだって……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's the same as when we played here, like we're\\ngoing back to that time.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ここで遊んでいた頃と同じだ、\\n　あの頃に戻れるんだって」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But... we're not kids anyway.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「でも、もう……ガキじゃないだろ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, I know.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「うん、わかってる」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This town isn't the same as it was in the past.",
+                "name": ""
+            },
+            "jp": {
+                "line": "この街だって、昔と同じじゃない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When I returned to this place, I was taken aback\\nby how much the town had changed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺にしたって、戻ってきた時は、街の変わりように面食らったもんだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The windmills by the lake, and Windy Kazegaura\\ntoo.",
+                "name": ""
+            },
+            "jp": {
+                "line": "湖畔の風車も、このウィンディ風ヶ浦も。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "And by the fact the shopping street, that I have\\nso many fond memories of, was gone too.",
+                "name": ""
+            },
+            "jp": {
+                "line": "懐かしい商店街が、消え失せてしまっていることも。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's not the same anymore...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「もう、あんなことはしないし……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Hmm?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……ん？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What's not the same?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あんなことって？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00aa": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Umm... Ah... Well, this and that, y'know.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「んー、あー、まあ、色々と、ね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ab": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah... I guess we did a lot of different things\\nback then.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ああ……まあ、色々やったもんな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ac": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "There are also many things that make me break\\ninto a cold sweat when I recall them now, that\\ncan't just be passed off as kids playing.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ガキの遊び、ってだけじゃすまない、今思えば冷や汗もののことを、それはもう沢山やらかしたもんだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ad": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "On a hot day like today, we'd shoot passers-by\\nwith our water pistols.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今みたいな暑いさかりに、道行く人を、水鉄砲で狙撃したり。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ae": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We used a measured length of rope for bungee\\njumping, and so on... and An-chan would get\\nreally mad with us.",
+                "name": ""
+            },
+            "jp": {
+                "line": "長さはかったロープ使って、バンジージャンプとか……あれはあんちゃんにこっぴどく怒られたよなあ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00af": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Masatsugu and I, using the same rope, would\\nchallenge each other to see who could stay\\nupside-down for the longest.",
+                "name": ""
+            },
+            "jp": {
+                "line": "同じくロープで、どれくらい逆さまになっていられるか、俺と柾次とで挑戦したりもしたもんだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We suffered from blood congestion, and after we\\ngot down, we felt faint from anemia.",
+                "name": ""
+            },
+            "jp": {
+                "line": "鬱血と、下ろされた後の貧血でフラフラになったもんだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Are those the kind of things that Ageha meant?",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはが言ってるのって、そういうことだよな？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, this and that. So many things happened.\\nWe've done lots of reckless things, haven't we?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そそそ、色々。本当に色々。無茶なこと、いっぱいやったよねー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We have...?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ああ……？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "There's something strange about Ageha's mood.",
+                "name": ""
+            },
+            "jp": {
+                "line": "なんか変だな、あげはの態度。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Did something happen when I moved away?",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺が引っ越した後、何かあったんだろうか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But it's been a year since I came back. If it was\\nanything important, she would've told me about it\\nalready.",
+                "name": ""
+            },
+            "jp": {
+                "line": "でもまあ、俺が戻ってきてからもう一年たつんだ、重大なことなら、とっくに話してくれてるよな。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'As long as we're all here, we can find new\\nthings to enjoy together. Right?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「でも、わたしたちがそろっていれば、いつでも、\\n　新しいこと見つけて、遊べるよ。でしょ？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, I guess you're right.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「まあ、そうだな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...I'm not sure about Masatsugu, though.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……柾次は、無理そうだけどな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ba": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That traitor... He should go out with Hotaru, so\\nwhy is he chasing after the student council\\npresident?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あの裏切り者……ほたるとくっつけばいいものを、\\n　なんで会長なのよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hold on, I think that's going a bit too far.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いやいや、そりゃ無茶すぎるだろ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If that were the case, you and I would have to\\nget together.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それに、それだと、俺とあげはがくっつかないと」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Huh?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……え？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00be": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ん？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bf": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Did I say something strange?",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺、変なこと言ったか？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Erm... I guess so, yeah.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あー、まあ、そうだねえ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But we spend a lot of time together, and we're\\ntogether right now... so it's a bit late for\\nthat... ?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「でもまあ、わたしたちは、つるんでるし、\\n　今だって一緒にいるんだし、今更……じゃない？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, I guess so.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ま、そんなもんか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "To tell the truth, after I said, I felt a little\\nscared.",
+                "name": ""
+            },
+            "jp": {
+                "line": "正直、口にした後、ちょっとどきっとしたけれど。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha didn't really respond to it though, so I\\njust kind of let it slide.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはが特に反応しなかったので、俺も流すことができた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Phew... Oh, now I'm really sweating.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ふう……ああ、今になって、汗でてきた」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha was sweating quite a lot, as she took a\\nbreather.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはが、確かに肌にやたらと汗を浮かせ、息をついている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wait here.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「待ってろ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I went to buy a sports drink.",
+                "name": ""
+            },
+            "jp": {
+                "line": "スポーツドリンクを買ってきてやった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Thanks...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ありがと……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ca": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Gulp, gulp, gulp, gulp, gulp.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ごく、ごく、ごく、ごく、ごく」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Her throat moves up and down as she gulps it down\\neven more forcefully than before.",
+                "name": ""
+            },
+            "jp": {
+                "line": "喉を動かし、さっきよりもさらにすごい勢いで飲み干す。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "For some reason, I found myself looking at the\\nmovements of her throat.",
+                "name": ""
+            },
+            "jp": {
+                "line": "何となく、その喉の動きに見入ってしまった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's white and different to a boy's, since\\nthere's no part that sticks out.",
+                "name": ""
+            },
+            "jp": {
+                "line": "男と違う、出っ張るもののない、白い喉。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ce": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Her throat was constantly moving... and her\\nexposed collarbone was also moving.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そこがしきりに動いて――のぞいている鎖骨も、揺れて。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cf": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The lines of her chin and neck are round and\\nsmooth, and her skin is glistening.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あごや喉の線は丸みをおびて、肌はつややかで。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Whew... It tastes great...!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「はぁぁぁ……おいし……！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She seemed happy as a wide grin spread across her\\nsweaty face.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それはもう幸せそうに、汗ばんだ顔に満面の笑みを浮かべる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even though I'm not drinking, my throat made the\\nsame kind of movement.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺もまた、飲んでいないのに、同じように喉が動いた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...That's strange, you don't have a suntan at\\nall, do you?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……案外、日焼けしてないのな、お前って」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, well, I move around a lot but I spend most\\nof the time indoors.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あー、まあ、動き回ってるけどさ、基本屋内だもん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I only really went outside when we went to cut\\nthe grass.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「草刈りの時ぐらいかな、外出るの」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "After she had finished drinking, Ageha was\\ngetting ready to throw the plastic bottle into\\nthe trashcan.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはは、飲み終えたペットボトルを、ゴミ箱へ投げこもうとした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's quite far away.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ちょっと距離がある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Hmm!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……むむっ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What is it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「どうした？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00da": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well... if I just throw it normally, it won't\\nfly in a straight line, will it?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いや……普通に投げたら、これ、まっすぐは飛ばないよね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00db": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I dunno about cans, but a plastic bottle\\nwouldn't, would it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「缶ならともかく、ペットボトルじゃな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00dc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So, what should I do to make something this\\nshape fly straight?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「じゃあ、この形状のものをまっすぐ飛ばすには、どうすればいいか」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00dd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If you could put wings on it, like here...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「翼をつけるなら、どの辺に……か」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00de": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If the bottle is like the fuselage of a plane,\\nwe'd have the main wings, tailplane, vertical\\ntailplane... Hmm.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ボトルを飛行機の胴体に見立てると、主翼と、尾翼、垂直尾翼……ううむ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00df": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why are we talking about this?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「って、ここでそんな話かよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I only ever think about two things.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「わたしはいつでも、ふたつのことしか考えてないよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Two? The first must be the glider, right?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ふたつ？　ひとつは、グライダーだな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, you got it straight away. You know me\\nwell.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「お、いきなり当たり。よくわかったね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's because we've been together for so\\nlong... I'm the same.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そりゃ、つきあい長いし……俺も同じだからな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Eh heh heh. I see. That's good.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……えへへ。そっか。よかった」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She smiles happily, so why do I have this strange\\nuneasy feeling?",
+                "name": ""
+            },
+            "jp": {
+                "line": "嬉しそうな笑みを向けられ、妙に落ち着かない感じになったのはなぜだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What's the other thing?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「もうひとつは？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, I wonder?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「さて、なんでしょう」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha's eyes sparkle, with an air of mystery\\nabout her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "不思議な感じに、あげはの目がきらきらとした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "What could it be?",
+                "name": ""
+            },
+            "jp": {
+                "line": "何だよ、いったい？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ea": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It must be something to do with our club. Like\\nwhat we're gonna do about the advisor.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うちの部のことだろ。顧問どうするか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00eb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あー……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ec": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Huh? Her eyes are moving side to side.",
+                "name": ""
+            },
+            "jp": {
+                "line": "お？　目が泳いだぞ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ed": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It looks like I said something she wasn't\\nexpecting.",
+                "name": ""
+            },
+            "jp": {
+                "line": "予想外のことを言われた顔だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ee": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well... that's it.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「まあ……そうだねえ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ef": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's true. That's the most important thing right\\nnow.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「確かにそうだ。それが今、一番大事なことだった」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In a strangely exaggerated fashion, she nods in\\nagreement.",
+                "name": ""
+            },
+            "jp": {
+                "line": "変に大仰に、あげははウンウンうなずく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Was it something else?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「他に何があるんだよ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Alright, c'mon, let's head back.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「よし、ほんじゃ、帰りますか」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Without answering my question, Ageha, holding the\\nbottle horizontally, starts running off.",
+                "name": ""
+            },
+            "jp": {
+                "line": "質問に答えず、あげははペットボトルを水平に持ったまま駆け出した。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Take off! Whoosh!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「テイクオフ！　ぎゅいーん！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Quit doing that, it's embarrassing.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「やめろよ、恥ずかしい」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh no, a downburst! We're losing speed!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「おっとダウンバースト！　失速だあっ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She throws it into the trashcan.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ゴミ箱へ放りこむ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Cut that out, it's bad luck!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「よせっ、縁起悪い！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So, it makes a recovery...!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「じゃあ復活――」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fa": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Don't put your hand in the trashcan!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ゴミ箱に手ぇつっこむなーっ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huff, puff, huff...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「はぁ、はぁ、はぁ……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I feel a lot more tired than before...",
+                "name": ""
+            },
+            "jp": {
+                "line": "ああ、さっきよりずっと疲れた気がする……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What's up? You look worn out.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「どうしたの、疲れてるみたいだけど」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fe": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Graaaaagh!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だーーーーっ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ff": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Is it OK for me to get mad?",
+                "name": ""
+            },
+            "jp": {
+                "line": "キレていいよな、俺！？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0100": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ahahaha! Thanks, though. The shopping's done.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あはは、でも、ありがとね。買い物、すんだ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0101": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Huh?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……へ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0102": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I blink with surprise.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺、目をぱちくり。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0103": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When did that happen?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いつの間に？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0104": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I told you, didn't I? That I came to buy\\nfeelings.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「言ったでしょ、気持ちを買いに来たって」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0105": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I bought a bright and sunny feeling!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「明るい、晴れ晴れとした気持ちを買ったのさー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0106": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I couldn't buy it by myself. So, thanks, Aoi.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ひとりじゃ買えなかったよ。だから、ありがとね、碧」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0107": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Gimme a break...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うわ、かゆい」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0108": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What's that all about?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「何よ、それ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0109": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, when you come out with embarrassing lines\\nlike that, I just of makes me... cringe, you\\nknow?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いやー、そういう恥ずかしい台詞は、\\n　何と言うか……むずがゆくなってさ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh... Is that so...?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ほぉ……そう言いますか……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha's eyes light up, kind of like a cat's!",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはの目が、猫みたいにキラーンと光った！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi Minase, sit down, please.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「水瀬碧くん、そこに座りなさい」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'O...OK?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「お、おお？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll whisper cringe-inducing things into your\\near for all eternity!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「耳元で、かゆい言葉を\\n　延々とささやいてあげようではないか！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Stop it!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「やめろーっ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0110": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, seeing you all annoyed like this, will give\\nme something to nostalgically look back upon,\\nlike a page in the story of my youth.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ああ、その嫌がる姿も時が経てば懐かしくなる\\n　青春の一ページ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0111": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, no, no, no!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うわ、うわ、うわ、うわ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0112": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'With everyone's power combined, let's fly, to\\nthe future! Our bonds of friendship will never be\\ntorn asunder!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「みんなの力を合わせて、飛ぼう、未来へ！\\n　僕たちの友情の絆はいつまでも途切れはしない！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0113": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Nooooooo!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うわわわわっ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0114": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Cringe, cringe, cringe, I'm so embarrassed, I'm\\ngonna die, die in agony!",
+                "name": ""
+            },
+            "jp": {
+                "line": "かゆいかゆいかゆいっ、恥ずかしいっ、死ぬ、悶え死ぬっ！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0115": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hahaha... Now do you realize what the punishment\\nis for laughing at people when they're being\\nserious?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「くっくっくっ……人の真剣な言葉を笑いものにした罪、\\n　思い知ったか？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0116": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I understand, I'm sorry...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「し、知りました、ごめんなさい……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0117": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I surrendered from the bottom of my heart.",
+                "name": ""
+            },
+            "jp": {
+                "line": "心底から俺は屈服したのだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0118": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So, after all that, what was the other thing\\nthat you are always thinking about?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「で、結局、お前がいつも考えてるもうひとつのことって、\\n　何だったんだよ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0119": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Being able to completely change the subject is\\nanother great thing about being so used to each\\nother.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ころっと切り替われるのも、お互い馴れきった同士の気楽なところ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "011a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We couldn't really do that with anyone else.",
+                "name": ""
+            },
+            "jp": {
+                "line": "他の相手じゃこうはいかない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "011b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I told you, right?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「言ったでしょ？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "011c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You did?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「言ったっけ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "011d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I told you. Well, that's it.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「言ったよ。ま、そういうことで」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "011e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I feel like she's avoided telling me the most\\nimportant thing.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ものすごく大切なことを、はぐらかされた気がする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "011f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So... what are we gonna do about the\\nadvisor...?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「しかし……顧問、どうしようねえ……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0120": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh yeah...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうだなあ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0121": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Unfortunately, we've gone from feeling all\\ncheerful, changing back to the topic of the lack\\nof an advisor, and the situation hasn't changed\\nat all.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あいにく、気持ちを明るくし、頭を切り替えたところで、顧問不在という状況は何も変わらないのだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0122": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "What should we do...?",
+                "name": ""
+            },
+            "jp": {
+                "line": "どうすりゃいいんだろうな……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
     }
-]
+}

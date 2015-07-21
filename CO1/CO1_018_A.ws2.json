@@ -1,79 +1,200 @@
-[
-    {
-        "id": "0400",
-        "line": {
-            "en": "'...Maybe Kotori's.'"
+{
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Maybe Kotori's.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……小鳥、かな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'...!!?'"
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...!!?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……！！？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "Kotori is stunned, and instantly goes bright red."
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori is stunned, and instantly goes bright red.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥がびくっとして、瞬時に真っ赤になる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'That's great, isn't it, Kotori? Aoi had\\nsomething nice to say about you.'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's great, isn't it, Kotori? Aoi had\\nsomething nice to say about you.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「よかったじゃないか、小鳥。\\n　碧くんが褒めてくれたぞ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'Can't do much about that, Kotori is cute, after\\nall.'"
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Can't do much about that, Kotori is cute, after\\nall.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「しゃーないかぁ、小鳥可愛いもんね〜」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'Ahh... Umm... Don't give me that lecherous\\nlook!'"
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ahh... Umm... Don't give me that lecherous\\nlook!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「あぅあぅ……え、エッチな目で見ないでっ！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'What sort of a response is that!?'"
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What sort of a response is that!?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんだその返しはっ！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "So, I praise her but I'm in a worse position than\\nbefore!?"
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "So, I praise her but I'm in a worse position than\\nbefore!?",
+                "name": ""
+            },
+            "jp": {
+                "line": "これじゃ、褒め損じゃないかっ！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'Well, well, I think that Kotori is just hiding\\nher embarrassment!'"
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, well, I think that Kotori is just hiding\\nher embarrassment!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「まあまあ、小鳥ちゃんなりに、\\n　照れ隠ししてんのよ♪」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'Uhh...'"
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Uhh...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うぅぅ……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "Kotori's bright red face looks down at the\\nground."
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori's bright red face looks down at the\\nground.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥は、真っ赤な顔したまま俯いてしまった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     }
-]
+}

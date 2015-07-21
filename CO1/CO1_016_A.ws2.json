@@ -1,184 +1,470 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "'Whew... I feel really refreshed now.'"
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Whew... I feel really refreshed now.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ふぅぅ……さっぱりした」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0400",
-        "line": {
-            "en": "As I come back from my bath, Amane is still in\\nthe dining hall staring at the designs."
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I come back from my bath, Amane is still in\\nthe dining hall staring at the designs.",
+                "name": ""
+            },
+            "jp": {
+                "line": "風呂から戻ってくると、天音先輩はまだ食堂で、設計図とにらめっこを続けていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "I take some barley tea from the fridge and sit in\\nfront of the electric fan to cool myself off."
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I take some barley tea from the fridge and sit in\\nfront of the electric fan to cool myself off.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は冷蔵庫から麦茶を取り出すと、扇風機の前に座って、ゆだった身体を冷ます。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'...'"
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'...'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "I feels like it's a little difficult to speak to\\nher right now, so I just vacantly watch her from\\nthe side, while the cool air blows over me."
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I feels like it's a little difficult to speak to\\nher right now, so I just vacantly watch her from\\nthe side, while the cool air blows over me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "声をかける雰囲気でもないので、俺は風に当たりながら、ぼーっと先輩の横顔を眺める。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'(She really is pretty, isn't she...?)'"
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'(She really is pretty, isn't she...?)'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「（やっぱキレイだよなぁ……）」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "When is deep in concentration, she looks\\ndignified and cool."
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When is deep in concentration, she looks\\ndignified and cool.",
+                "name": ""
+            },
+            "jp": {
+                "line": "集中している先輩は、凜としていてカッコイイ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "She's completely in her own world, and there's a\\ndistinctive air about her that keeps others from\\napproaching her."
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She's completely in her own world, and there's a\\ndistinctive air about her that keeps others from\\napproaching her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "完全に自分の世界に入り込んでいて、他人を寄せ付けない独特の空気を発している。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "If I had to say, she gives the impression that\\nshe's absentminded but warm and friendly."
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If I had to say, she gives the impression that\\nshe's absentminded but warm and friendly.",
+                "name": ""
+            },
+            "jp": {
+                "line": "普段はどちらかというと、ぽや〜っとした、ほんわかと柔らかい印象の人だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "That's why when I see her thinking so seriously\\nlike this from time to time, I feel like my heart\\nskips a beat."
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That's why when I see her thinking so seriously\\nlike this from time to time, I feel like my heart\\nskips a beat.",
+                "name": ""
+            },
+            "jp": {
+                "line": "だから、時折こうして真面目な顔をしているところを見ると、ドキッとしてしまう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "With these two sides to her, Amane Mochizuki is a\\nreal mystery, and I find her fascinating."
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "With these two sides to her, Amane Mochizuki is a\\nreal mystery, and I find her fascinating.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そういった二面性も、望月天音という人をミステリアスに、魅惑的に見せている気がする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3000",
-        "line": {
-            "en": "'(It wouldn't seem strange at all for her to\\nappear in a fashion magazine...)'"
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'(It wouldn't seem strange at all for her to\\nappear in a fashion magazine...)'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「（ファッション雑誌にモデルとして登場しても、\\n　まったく違和感ないんだよな、この人……）」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "3400",
-        "line": {
-            "en": "She's pretty, has a good figure, and is tall and\\nslender."
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She's pretty, has a good figure, and is tall and\\nslender.",
+                "name": ""
+            },
+            "jp": {
+                "line": "美人でスタイルもよく、背もスラリと高い。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3800",
-        "line": {
-            "en": "Even so, she seems completely unaware of this,\\nand sometimes it's like she forgets that she's a\\ngirl altogether."
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even so, she seems completely unaware of this,\\nand sometimes it's like she forgets that she's a\\ngirl altogether.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それなのに、そういった方面はまったくの無頓着で、時には自分が女であることも忘れてしまっているかのよう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "I feel like it's kind of a shame, but that's just\\nwho she is."
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I feel like it's kind of a shame, but that's just\\nwho she is.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もったいないような、それでこそ望月天音だとも思うような。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4000",
-        "line": {
-            "en": "While thinking about this and watching her from\\nthe side, still staring at the designs, Amane\\nstarts muttering as if she's just remembered\\nsomething."
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "While thinking about this and watching her from\\nthe side, still staring at the designs, Amane\\nstarts muttering as if she's just remembered\\nsomething.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そんなこと思いながら先輩の横顔を見つめていると、図面を睨んだまま、先輩がふと思い出したように呟いた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'Does Aoi like me, I wonder?'"
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Does Aoi like me, I wonder?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「碧くんは私のことが好きなのか？」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "4800",
-        "line": {
-            "en": "'Huh?'"
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「へ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "Because the way she said it was so casual, for a\\nmoment I really didn't understand what she had\\nsaid."
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Because the way she said it was so casual, for a\\nmoment I really didn't understand what she had\\nsaid.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あまりにも何気ない言い方だったので、何を言われたのか一瞬本気で解らなかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5000",
-        "line": {
-            "en": "As I struggle to find an answer, Amane looks over\\nat me."
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I struggle to find an answer, Amane looks over\\nat me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "答えに困っている俺へ、先輩が視線を投げる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'Hmm...? What did you say?'"
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm...? What did you say?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「えっと……なんですって？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'Does Aoi like me, I wonder?'"
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Does Aoi like me, I wonder?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「碧くんは、私のことが好きなのか？」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'Wh...what's this all of a sudden!? No, it's...\\nthe fact that I was looking at you... that's not\\nwhat it means at all!'"
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wh...what's this all of a sudden!? No, it's...\\nthe fact that I was looking at you... that's not\\nwhat it means at all!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なっ、なんすかいきなりっ！？\\n　や、やだなぁ、い、いま先輩のこと見てたのは、\\n　そういう意味じゃないっすよっ！！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "6000",
-        "line": {
-            "en": "I was only just that moment thinking to myself\\nhow pretty she is, so maybe that's a pretty poor\\nexcuse."
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I was only just that moment thinking to myself\\nhow pretty she is, so maybe that's a pretty poor\\nexcuse.",
+                "name": ""
+            },
+            "jp": {
+                "line": "散々、心の中でキレイだ美人だとモノローグしておいて、この言い訳は苦しいか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'Oh, I guess not...'"
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, I guess not...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「なんだ、ちがうのか……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     }
-]
+}

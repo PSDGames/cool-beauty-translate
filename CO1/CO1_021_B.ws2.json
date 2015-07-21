@@ -1,730 +1,1874 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "Amane puts her bag on her shoulder."
-        },
-        "name": ""
-    },
-    {
-        "id": "0400",
-        "line": {
-            "en": "She staggers slightly under the weight."
-        },
-        "name": ""
-    },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'I'll walk you to the bus stop.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'OK, thanks.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "1000",
-        "line": {
-            "en": "She gives a smile, as crisp and sunny as the\\nsummer sky, to the garage, then leaves it behind."
-        },
-        "name": ""
-    },
-    {
-        "id": "1400",
-        "line": {
-            "en": "The garage where she spent so many years shut\\naway inside."
-        },
-        "name": ""
-    },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'Ha ha... It really was the most fun summer\\never.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "The next day..."
-        },
-        "name": ""
-    },
-    {
-        "id": "2000",
-        "line": {
-            "en": "The first day of the new school term."
-        },
-        "name": ""
-    },
-    {
-        "id": "2400",
-        "line": {
-            "en": "What are we gonna do now that we don't have\\nenough members?"
-        },
-        "name": ""
-    },
-    {
-        "id": "2800",
-        "line": {
-            "en": "We can't ask An-chan to help every time we want\\nto do a flight, so what should we do about\\ntransporting the glider?"
-        },
-        "name": ""
-    },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "What should I do about getting my pilot's\\nlicense?"
-        },
-        "name": ""
-    },
-    {
-        "id": "3000",
-        "line": {
-            "en": "While feeling downhearted and a sense of loss now\\nthat Amane had left, we discussed our plans for\\nclub on the way to the school in the morning."
-        },
-        "name": ""
-    },
-    {
-        "id": "3400",
-        "line": {
-            "en": "When it comes to continuing the activities of the\\nSoaring Club, Kotori, Ageha and I are all of the\\nsame opinion."
-        },
-        "name": ""
-    },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'Next, time, we'll definitely fly there. To the\\npassage of clouds...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "Our dream that we were so close to, but had not\\nyet achieved."
-        },
-        "name": ""
-    },
-    {
-        "id": "4000",
-        "line": {
-            "en": "However, it was there, right at my fingertips."
-        },
-        "name": ""
-    },
-    {
-        "id": "4400",
-        "line": {
-            "en": "With that sense of reality, the dream was no\\nlonger just a dream."
-        },
-        "name": ""
-    },
-    {
-        "id": "4800",
-        "line": {
-            "en": "Now we all had a clear goal in mind."
-        },
-        "name": ""
-    },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "All three of this had clearly envisioned this in\\nour minds."
-        },
-        "name": ""
-    },
-    {
-        "id": "5000",
-        "line": {
-            "en": "That's why we don't have time to feel down."
-        },
-        "name": ""
-    },
-    {
-        "id": "5400",
-        "line": {
-            "en": "The thing that awaited us was..."
-        },
-        "name": ""
-    },
-    {
-        "id": "5800",
-        "line": {
-            "en": "...an unbelievable spectacle."
-        },
-        "name": ""
-    },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'What... is this...?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6000",
-        "line": {
-            "en": "No entry' was written on the signboard, and on\\nthe other side, heavy machinery had made a hole\\nin the wall of the garage, and had smashed in the\\nroof."
-        },
-        "name": ""
-    },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'No way, what's going on...?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6800",
-        "line": {
-            "en": "Kotori and Ageha are lost for words before this\\nhorrific spectacle."
-        },
-        "name": ""
-    },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "I stood there, stunned, and desperately tried to\\nthink of what could have happened."
-        },
-        "name": ""
-    },
-    {
-        "id": "7000",
-        "line": {
-            "en": "But there's no way I could comprehend it."
-        },
-        "name": ""
-    },
-    {
-        "id": "7400",
-        "line": {
-            "en": "The place that until yesterday, where we would\\ngather and spend time together every day, had\\nsuddenly been destroyed."
-        },
-        "name": ""
-    },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'Our garage...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8000",
-        "line": {
-            "en": "My knees where shaking."
-        },
-        "name": ""
-    },
-    {
-        "id": "8400",
-        "line": {
-            "en": "I felt like all the strength had left my body,\\nand then, intense rage burned inside me..."
-        },
-        "name": ""
-    },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'What the hell is this all about!!?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "As I approach the person who seems to be the\\nforeman, he just looks back at me with a troubled\\nlook on his face."
-        },
-        "name": ""
-    },
-    {
-        "id": "9000",
-        "line": {
-            "en": "Of course. These people have been asked to do\\nthis, they're just here to do demolition work."
-        },
-        "name": ""
-    },
-    {
-        "id": "9400",
-        "line": {
-            "en": "But I had no other outlet for my emotions."
-        },
-        "name": ""
-    },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'Why are you doing this!?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'I had no choice. This is what was promised from\\nthe beginning.'"
-        },
-        "name": "Tobioka"
-    },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'...!!?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'Tobioka...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "a800",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "Tobioka just glared at me like I was being\\nunreasonable towards the workers."
-        },
-        "name": ""
-    },
-    {
-        "id": "b000",
-        "line": {
-            "en": "Meaning, if I have any complaints, then I should\\ntalk to him about it."
-        },
-        "name": ""
-    },
-    {
-        "id": "b400",
-        "line": {
-            "en": "Oh, I'll talk to him about it, alright."
-        },
-        "name": ""
-    },
-    {
-        "id": "b800",
-        "line": {
-            "en": "'What is this all about...?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'I've told you before. After the summer holiday\\nis over, the Soaring Club is over. This place was\\nplanned to be demolished.'"
-        },
-        "name": "Tobioka"
-    },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'Even though we're still here!?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "c400",
-        "line": {
-            "en": "'You don't have enough members to be recognized\\nas a club. We have tolerated you until now, but\\nwill not allow it any longer.'"
-        },
-        "name": "Tobioka"
-    },
-    {
-        "id": "c800",
-        "line": {
-            "en": "'That's a form of oppression! It was accepted\\nthat we have the freedom to carry out our club's\\nactivities!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "'If you want to carry out your activities, feel\\nfree. But it will be as a society.'"
-        },
-        "name": "Tobioka"
-    },
-    {
-        "id": "d000",
-        "line": {
-            "en": "'Tobioka... you son of a...!!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "d400",
-        "line": {
-            "en": "'Aoi!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "d800",
-        "line": {
-            "en": "Without thinking, I was about to go nuts, but\\nAgeha stopped me at the last moment."
-        },
-        "name": ""
-    },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "'Aoi... you mustn't.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "e000",
-        "line": {
-            "en": "She shakes her head in frustration."
-        },
-        "name": ""
-    },
-    {
-        "id": "e400",
-        "line": {
-            "en": "'Hmph. Don't get in the way of their work.\\nBesides, you're already too late.'"
-        },
-        "name": "Tobioka"
-    },
-    {
-        "id": "e800",
-        "line": {
-            "en": "With those his parting words, Tobioka turns to\\nleave."
-        },
-        "name": ""
-    },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "We stare dumbfounded at the demolition works."
-        },
-        "name": ""
-    },
-    {
-        "id": "f000",
-        "line": {
-            "en": "Like he said, we were already too late."
-        },
-        "name": ""
-    },
-    {
-        "id": "f400",
-        "line": {
-            "en": "'I finally found something that I want to do, and\\nnow...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "f800",
-        "line": {
-            "en": "'...I've never had anything like this before.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "fc00",
-        "line": {
-            "en": "'...Yeah.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0100",
-        "line": {
-            "en": "Ageha hardly says anything as she quietly watches\\nthe demolition."
-        },
-        "name": ""
-    },
-    {
-        "id": "0500",
-        "line": {
-            "en": "As for me..."
-        },
-        "name": ""
-    },
-    {
-        "id": "0900",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0d00",
-        "line": {
-            "en": "'?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1100",
-        "line": {
-            "en": "'Hey, Aoi!'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "1500",
-        "line": {
-            "en": "I climbed over the 'No entry' fence and walked\\ninto the garage."
-        },
-        "name": ""
-    },
-    {
-        "id": "1900",
-        "line": {
-            "en": "'Hey you! Whadya doin'? This place is dangerous!'"
-        },
-        "name": "Foreman"
-    },
-    {
-        "id": "1d00",
-        "line": {
-            "en": "The foreman from before hurriedly rushes over."
-        },
-        "name": ""
-    },
-    {
-        "id": "2100",
-        "line": {
-            "en": "'Sorry, this won't take long.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2500",
-        "line": {
-            "en": "I say as I push past him."
-        },
-        "name": ""
-    },
-    {
-        "id": "2900",
-        "line": {
-            "en": "Then I step inside the half-destroyed garage."
-        },
-        "name": ""
-    },
-    {
-        "id": "2d00",
-        "line": {
-            "en": "Panicking, the foreman stops the machinery."
-        },
-        "name": ""
-    },
-    {
-        "id": "3100",
-        "line": {
-            "en": "'Aoi...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "3500",
-        "line": {
-            "en": "'Aoi...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3900",
-        "line": {
-            "en": "The inside of the garage was also badly crushed,\\nsmashed to smithereens along with all our\\nmemories."
-        },
-        "name": ""
-    },
-    {
-        "id": "3d00",
-        "line": {
-            "en": "Emotionless, I rummage through it, and pick out\\nthe things I was looking for."
-        },
-        "name": ""
-    },
-    {
-        "id": "4100",
-        "line": {
-            "en": "'Sorry about that. It's OK now.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4500",
-        "line": {
-            "en": "I lower my head in a bow of apology to the\\nworkers, and step outside the 'No entry' boards."
-        },
-        "name": ""
-    },
-    {
-        "id": "4900",
-        "line": {
-            "en": "'Let's go.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4d00",
-        "line": {
-            "en": "'Aoi.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "5100",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5500",
-        "line": {
-            "en": "'Is that...?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5900",
-        "line": {
-            "en": "'...These are the designs that Amane drew. She\\nsaid that she had completed them yesterday.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5d00",
-        "line": {
-            "en": "'Amane's designs...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6100",
-        "line": {
-            "en": "Then there was the photo frame from Amane's desk."
-        },
-        "name": ""
-    },
-    {
-        "id": "6500",
-        "line": {
-            "en": "Inside it was the photo that had stirred us all\\ninto action."
-        },
-        "name": ""
-    },
-    {
-        "id": "6900",
-        "line": {
-            "en": "'It's not over yet.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6d00",
-        "line": {
-            "en": "'Huh...?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7100",
-        "line": {
-            "en": "'...?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7500",
-        "line": {
-            "en": "I smiled at them, with empty bravado, with a\\nsmile as bright as the mid-summer sun."
-        },
-        "name": ""
-    },
-    {
-        "id": "7900",
-        "line": {
-            "en": "'I can't let it end like this. We will definitely\\nfly, in our glider!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7d00",
-        "line": {
-            "en": "Kotori, looking like she was going to cry, smiled\\nat me."
-        },
-        "name": ""
-    },
-    {
-        "id": "8100",
-        "line": {
-            "en": "'Yeah!'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8500",
-        "line": {
-            "en": "Ageha, who had a defeated expression on her face,\\nsmiled once again."
-        },
-        "name": ""
-    },
-    {
-        "id": "8900",
-        "line": {
-            "en": "'Alright!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8d00",
-        "line": {
-            "en": "A giant thunderhead was floating in the clear\\nblue sky."
-        },
-        "name": ""
-    },
-    {
-        "id": "9100",
-        "line": {
-            "en": "It is said that such clouds often go beyond the\\nstratosphere."
-        },
-        "name": ""
-    },
-    {
-        "id": "9500",
-        "line": {
-            "en": "Which means that the upward drafts go all the way\\nup there."
-        },
-        "name": ""
-    },
-    {
-        "id": "9900",
-        "line": {
-            "en": "Our dream isn't over yet."
-        },
-        "name": ""
-    },
-    {
-        "id": "9d00",
-        "line": {
-            "en": "This is the beginning."
-        },
-        "name": ""
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane puts her bag on her shoulder.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩が、カバンを肩にかける。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She staggers slightly under the weight.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その重さで、軽くよろける。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll walk you to the bus stop.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「バス停まで送ります」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, thanks.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ああ、頼む」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She gives a smile, as crisp and sunny as the\\nsummer sky, to the garage, then leaves it behind.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩は、この夏空のようにカラッと晴れた笑顔で返すと、ガレージを後にした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The garage where she spent so many years shut\\naway inside.",
+                "name": ""
+            },
+            "jp": {
+                "line": "長年、こもり続けてきたガレージを。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ha ha... It really was the most fun summer\\never.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ふふ……最高に楽しい夏休みだったなぁ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The next day...",
+                "name": ""
+            },
+            "jp": {
+                "line": "翌日――",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The first day of the new school term.",
+                "name": ""
+            },
+            "jp": {
+                "line": "新学期初日。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "What are we gonna do now that we don't have\\nenough members?",
+                "name": ""
+            },
+            "jp": {
+                "line": "足りなくなった部員数はどうしようか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We can't ask An-chan to help every time we want\\nto do a flight, so what should we do about\\ntransporting the glider?",
+                "name": ""
+            },
+            "jp": {
+                "line": "フライトのたびにあんちゃんの手を借りるわけにもいかないので、グライダーの移動をどうしようか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "What should I do about getting my pilot's\\nlicense?",
+                "name": ""
+            },
+            "jp": {
+                "line": "パイロットの資格を取るにはどうすればいいのか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "While feeling downhearted and a sense of loss now\\nthat Amane had left, we discussed our plans for\\nclub on the way to the school in the morning.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩がいなくなった喪失感に意気消沈しながらも、俺たちは今後の活動計画を話し合いながら、朝の通学路を歩いていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When it comes to continuing the activities of the\\nSoaring Club, Kotori, Ageha and I are all of the\\nsame opinion.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ソアリング部の活動を続けていくことで、俺も小鳥もあげはも、気持ちは一つになっている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Next, time, we'll definitely fly there. To the\\npassage of clouds...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「次こそ、必ず飛ぶんだ。\\n　あの雲の廻廊を――」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Our dream that we were so close to, but had not\\nyet achieved.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あと少しのところで、届かなかった俺たちの夢。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "However, it was there, right at my fingertips.",
+                "name": ""
+            },
+            "jp": {
+                "line": "けれど、指先は掛かっていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "With that sense of reality, the dream was no\\nlonger just a dream.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その実感が、夢を夢じゃなくさせた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Now we all had a clear goal in mind.",
+                "name": ""
+            },
+            "jp": {
+                "line": "いま俺たちが抱いているそれは、明確な目標。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "All three of this had clearly envisioned this in\\nour minds.",
+                "name": ""
+            },
+            "jp": {
+                "line": "三人それぞれの脳裏に、はっきりとイメージできていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That's why we don't have time to feel down.",
+                "name": ""
+            },
+            "jp": {
+                "line": "だから、落ち込んでいる暇なんてない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The thing that awaited us was...",
+                "name": ""
+            },
+            "jp": {
+                "line": "そんな俺たちを待ち受けていたのは……",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...an unbelievable spectacle.",
+                "name": ""
+            },
+            "jp": {
+                "line": "信じられない光景だった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What... is this...?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「なに……これ……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "No entry' was written on the signboard, and on\\nthe other side, heavy machinery had made a hole\\nin the wall of the garage, and had smashed in the\\nroof.",
+                "name": ""
+            },
+            "jp": {
+                "line": "“立ち入り禁止”の立て札の向こうで、重機がガレージの壁に穴を空け、屋根をひしゃぐように押し壊していた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No way, what's going on...?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「うそ、なんでよ……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori and Ageha are lost for words before this\\nhorrific spectacle.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その恐ろしい光景に、小鳥もあげはも言葉を失う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I stood there, stunned, and desperately tried to\\nthink of what could have happened.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は呆然と立ち尽くし、そこで何が起こっているのか必死に考えた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But there's no way I could comprehend it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "けど、理解なんてできるはずない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The place that until yesterday, where we would\\ngather and spend time together every day, had\\nsuddenly been destroyed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "昨日まで俺たちが、毎日のように集まって過ごしたこの場所が、突然壊されてしまうなんて。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Our garage...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「私たちのガレージが……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "My knees where shaking.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ひざがガクガクと震えた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I felt like all the strength had left my body,\\nand then, intense rage burned inside me...",
+                "name": ""
+            },
+            "jp": {
+                "line": "力が抜けていくような、それでいて体内に強烈な怒りが渦巻くような……",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What the hell is this all about!!?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「どういうことだよ、これっ！！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I approach the person who seems to be the\\nforeman, he just looks back at me with a troubled\\nlook on his face.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そこにいた現場監督らしき人に詰め寄るが、困った顔をされるばかり。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Of course. These people have been asked to do\\nthis, they're just here to do demolition work.",
+                "name": ""
+            },
+            "jp": {
+                "line": "当然だ。この人たちは誰かに依頼されて、取り壊し作業をしているだけなのだから。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But I had no other outlet for my emotions.",
+                "name": ""
+            },
+            "jp": {
+                "line": "けど、他に気持ちのやり場がなかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why are you doing this!?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんでこんなことしてんだよっ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I had no choice. This is what was promised from\\nthe beginning.'",
+                "name": "Tobioka"
+            },
+            "jp": {
+                "line": "「どうもこうもないだろう。\\n　最初からそういう約束だったはずだぞ」",
+                "name": "飛岡"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...!!?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ッ――！！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Tobioka...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「飛岡……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Tobioka just glared at me like I was being\\nunreasonable towards the workers.",
+                "name": ""
+            },
+            "jp": {
+                "line": "飛岡は、作業員に言うのは筋違いだと言わんばかりに俺を睨む。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Meaning, if I have any complaints, then I should\\ntalk to him about it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "つまり、文句があるなら自分に言え、ということだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Oh, I'll talk to him about it, alright.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ああ、なら言ってやる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What is this all about...?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「どういうことっすか、これ……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I've told you before. After the summer holiday\\nis over, the Soaring Club is over. This place was\\nplanned to be demolished.'",
+                "name": "Tobioka"
+            },
+            "jp": {
+                "line": "「さっき言った通りだ。\\n　夏休みが終われば、ソアリング部は廃部。\\n　ここは取り壊される予定だった」",
+                "name": "飛岡"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Even though we're still here!?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「まだ私たちがいるのに！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You don't have enough members to be recognized\\nas a club. We have tolerated you until now, but\\nwill not allow it any longer.'",
+                "name": "Tobioka"
+            },
+            "jp": {
+                "line": "「部活動と認められるには人数が足りんだろう。\\n　今まで大目に見てやってたんだ、もう容赦はせん」",
+                "name": "飛岡"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's a form of oppression! It was accepted\\nthat we have the freedom to carry out our club's\\nactivities!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そんなの横暴です！\\n　わたしたちには、部活動をする自由が\\n　認められてるはずです！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If you want to carry out your activities, feel\\nfree. But it will be as a society.'",
+                "name": "Tobioka"
+            },
+            "jp": {
+                "line": "「活動したければ、勝手にやれ。\\n　同好会としてな」",
+                "name": "飛岡"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Tobioka... you son of a...!!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「飛岡……てめぇっ！！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「碧！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Without thinking, I was about to go nuts, but\\nAgeha stopped me at the last moment.",
+                "name": ""
+            },
+            "jp": {
+                "line": "思わず掴みかかりそうになる俺を、あげはが寸前で止める。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi... you mustn't.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「碧……ダメだよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She shakes her head in frustration.",
+                "name": ""
+            },
+            "jp": {
+                "line": "悔しげに首を振る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmph. Don't get in the way of their work.\\nBesides, you're already too late.'",
+                "name": "Tobioka"
+            },
+            "jp": {
+                "line": "「ふんっ、工事の邪魔はするなよ。\\n　もっとも、もう手遅れだろうがな」",
+                "name": "飛岡"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "With those his parting words, Tobioka turns to\\nleave.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そんな言葉を残して、飛岡は去っていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We stare dumbfounded at the demolition works.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺たちは、呆然と取り壊し工事を眺める。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Like he said, we were already too late.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あいつの言う通り、もう何もかも手遅れだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I finally found something that I want to do, and\\nnow...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「やっとやりたい事が見つかったのに……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...I've never had anything like this before.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……こんなのないよ、あんまりよ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Yeah.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……うん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha hardly says anything as she quietly watches\\nthe demolition.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはは言葉にせず、ただ黙って取り壊されるガレージを見つめていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0041": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As for me...",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0042": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0043": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0044": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Aoi!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ちょっと、碧くんっ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0045": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I climbed over the 'No entry' fence and walked\\ninto the garage.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、立ち入り禁止の柵を乗り越えて、ガレージへと歩いていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0046": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey you! Whadya doin'? This place is dangerous!'",
+                "name": "Foreman"
+            },
+            "jp": {
+                "line": "「ちょっとキミ！\\n　なにしてるの、危ないよっ！！」",
+                "name": "現場監督"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0047": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The foreman from before hurriedly rushes over.",
+                "name": ""
+            },
+            "jp": {
+                "line": "さっきの現場監督が慌てて駆けつけてくるのを、",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0048": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sorry, this won't take long.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「すいません、少しだけ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0049": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I say as I push past him.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そう言って押しのける。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then I step inside the half-destroyed garage.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして、半壊したガレージへと踏み込んでいった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Panicking, the foreman stops the machinery.",
+                "name": ""
+            },
+            "jp": {
+                "line": "現場監督が、慌てて重機を止めさせる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「碧くん……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「碧……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The inside of the garage was also badly crushed,\\nsmashed to smithereens along with all our\\nmemories.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ガレージの中はぐしゃぐしゃで、俺たちの想い出ごとこっぱみじんに壊されていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Emotionless, I rummage through it, and pick out\\nthe things I was looking for.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は無感情にその中を探り、目的の物を拾い出す。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0050": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sorry about that. It's OK now.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「すいませんでした、もう大丈夫です」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0051": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I lower my head in a bow of apology to the\\nworkers, and step outside the 'No entry' boards.",
+                "name": ""
+            },
+            "jp": {
+                "line": "作業員に頭を下げると、俺は立ち入り禁止の看板の外へと出た。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0052": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Let's go.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いこう」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0053": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「碧くん」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0054": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0055": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Is that...?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「それは……？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0056": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...These are the designs that Amane drew. She\\nsaid that she had completed them yesterday.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……天音先輩が描いた設計図だ。\\n　昨日、完成させたって言ってた」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0057": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Amane's designs...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「天音ちゃんの設計図……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0058": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then there was the photo frame from Amane's desk.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして、先輩の机に飾ってあった写真立て。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0059": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Inside it was the photo that had stirred us all\\ninto action.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その中には、俺たちを突き動かした一枚の写真が収められている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's not over yet.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「まだ終わっちゃいないさ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh...?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「え……？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I smiled at them, with empty bravado, with a\\nsmile as bright as the mid-summer sun.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、精一杯の空元気で、二人に真夏の太陽のような笑顔を向けた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I can't let it end like this. We will definitely\\nfly, in our glider!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「こんなことで終わらせてたまるか。\\n　絶対に飛ばそうな、俺たちのグライダー！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori, looking like she was going to cry, smiled\\nat me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "泣きそうだった小鳥が、笑顔を浮かべる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0060": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0061": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha, who had a defeated expression on her face,\\nsmiled once again.",
+                "name": ""
+            },
+            "jp": {
+                "line": "沈んでいたあげはの表情に、笑顔が戻る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0062": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Alright!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ええ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0063": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A giant thunderhead was floating in the clear\\nblue sky.",
+                "name": ""
+            },
+            "jp": {
+                "line": "抜けるような青空に、もくもくと巨大な入道雲が浮かんでいる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0064": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It is said that such clouds often go beyond the\\nstratosphere.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その雲頂は、時に成層圏をも越えるという。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0065": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Which means that the upward drafts go all the way\\nup there.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そこまで、上昇気流が達しているってことだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0066": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Our dream isn't over yet.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺たちの夢はまだ終わっちゃいない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0067": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This is the beginning.",
+                "name": ""
+            },
+            "jp": {
+                "line": "始まるんだ、ここから。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
     }
-]
+}

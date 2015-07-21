@@ -1,933 +1,2396 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "The old garage was built in a hidden part of the\\nschool grounds."
-        },
-        "name": ""
-    },
-    {
-        "id": "0400",
-        "line": {
-            "en": "It seems like no one uses it and it's seen by\\nalmost no one."
-        },
-        "name": ""
-    },
-    {
-        "id": "0800",
-        "line": {
-            "en": "I thought there might be something interesting in\\nthere, so I sneaked inside."
-        },
-        "name": ""
-    },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "The first time I saw it, I just thought, 'There's\\nsome weird object in here' and I wasn't too\\ninterested in it."
-        },
-        "name": ""
-    },
-    {
-        "id": "1000",
-        "line": {
-            "en": "The thing that changed everything... was finding\\nthat photo."
-        },
-        "name": ""
-    },
-    {
-        "id": "1400",
-        "line": {
-            "en": "Hidden carefully inside a notebook, there was an\\nincredibly beautiful photograph of the clouds."
-        },
-        "name": ""
-    },
-    {
-        "id": "1800",
-        "line": {
-            "en": "Could such a beautiful sky really exist!?"
-        },
-        "name": ""
-    },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "It was so amazing that I felt myself asking that."
-        },
-        "name": ""
-    },
-    {
-        "id": "2000",
-        "line": {
-            "en": "But, it's strange."
-        },
-        "name": ""
-    },
-    {
-        "id": "2400",
-        "line": {
-            "en": "What's with this photo...?"
-        },
-        "name": ""
-    },
-    {
-        "id": "2800",
-        "line": {
-            "en": "Ah, I got it!!"
-        },
-        "name": ""
-    },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "Yes, this photo was taken from above the clouds."
-        },
-        "name": ""
-    },
-    {
-        "id": "3000",
-        "line": {
-            "en": "That is what was written on the pages between\\nwhich it was placed."
-        },
-        "name": ""
-    },
-    {
-        "id": "3400",
-        "line": {
-            "en": "'We're so lucky! We, by pure chance, flew on the\\nMorning Glory that suddenly appeared above\\nKazegaura!'"
-        },
-        "name": ""
-    },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'This could be considered a miracle. It was an\\nunbelievable experience.'"
-        },
-        "name": ""
-    },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "Morning Glory? They flew?"
-        },
-        "name": ""
-    },
-    {
-        "id": "4000",
-        "line": {
-            "en": "As I continued to read through the notebook... or\\nrather, flight log, I became more and more\\ninterested."
-        },
-        "name": ""
-    },
-    {
-        "id": "4400",
-        "line": {
-            "en": "This photo of the clouds, was taken by the same\\npeople who used this garage. They flew above the\\nclouds in an aircraft called a glider."
-        },
-        "name": ""
-    },
-    {
-        "id": "4800",
-        "line": {
-            "en": "This glider has no engine, and it flies by riding\\nthe wind..."
-        },
-        "name": ""
-    },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "How does that feel, to ride on the wind and fly\\nthrough the sky?"
-        },
-        "name": ""
-    },
-    {
-        "id": "5000",
-        "line": {
-            "en": "To soar through that beautiful field of clouds..."
-        },
-        "name": ""
-    },
-    {
-        "id": "5400",
-        "line": {
-            "en": "When I pondered on that thought, my mind had been\\nmade up."
-        },
-        "name": ""
-    },
-    {
-        "id": "5800",
-        "line": {
-            "en": "I would repair the abandoned glider, and aim for\\nthe distant clouds."
-        },
-        "name": ""
-    },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "The next day, I immediately revealed my great\\nplan to my best friend."
-        },
-        "name": ""
-    },
-    {
-        "id": "6000",
-        "line": {
-            "en": "'The sun's starting to set. Do you wanna call it\\na day?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6400",
-        "line": {
-            "en": "Ageha said that as I was taking a break after\\nreturning from a flight."
-        },
-        "name": ""
-    },
-    {
-        "id": "6800",
-        "line": {
-            "en": "'We can go one more time, can't we?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "We still have a bit of time before the sun\\ncompletely sets."
-        },
-        "name": ""
-    },
-    {
-        "id": "7000",
-        "line": {
-            "en": "'There are no street lights around here, so it'll\\nbe pretty dark before the sun completely sets.\\nThat will make landing dangerous.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7400",
-        "line": {
-            "en": "She's right."
-        },
-        "name": ""
-    },
-    {
-        "id": "7800",
-        "line": {
-            "en": "Just now when we came back, it was hard to see\\nthe runway and my depth of perception was messed\\nup."
-        },
-        "name": ""
-    },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'So that's why we've finished today. Kotori,\\nlet's get going.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8000",
-        "line": {
-            "en": "Ageha called Kotori on her cell-phone. Currently,\\nKotori is by the winch."
-        },
-        "name": ""
-    },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'Are we done for today...?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'Yeah. Though the perfect wind for training has\\njust started blowing.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'Nothing we can do about that... We don't want to\\nhave any accidents.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "9000",
-        "line": {
-            "en": "Amane looks towards the eastern sky as she\\nspeaks."
-        },
-        "name": ""
-    },
-    {
-        "id": "9400",
-        "line": {
-            "en": "There, as always, is the same orange glow of\\nsunset."
-        },
-        "name": ""
-    },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'Looks like the 'sign' didn't appear again...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "a000",
-        "line": {
-            "en": "The sky indicated that nothing would happen the\\nfollowing morning."
-        },
-        "name": ""
-    },
-    {
-        "id": "a400",
-        "line": {
-            "en": "I watched her from the side while she looked to\\nthe sky, and her face seemed filled with\\nimpatience."
-        },
-        "name": ""
-    },
-    {
-        "id": "a800",
-        "line": {
-            "en": "Since the winch came back, we've been doing as\\nmany test flights as possible, every day."
-        },
-        "name": ""
-    },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "There are adjustments to be made to the glider,\\nbut the main objective is for Amane and I to do\\nflight training."
-        },
-        "name": ""
-    },
-    {
-        "id": "b000",
-        "line": {
-            "en": "'You were able to fly quite high today. How high\\nwas it, roughly?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "b400",
-        "line": {
-            "en": "'Around 600 meters.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "b800",
-        "line": {
-            "en": "'Oh, that's the highest so far. You're really\\ngetting the hang of this, aren't you?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'Yeah. But it's still hard to ride the thermals.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c000",
-        "line": {
-            "en": "Thermals are vertical drafts formed by air heated\\nby the earth's surface."
-        },
-        "name": ""
-    },
-    {
-        "id": "c400",
-        "line": {
-            "en": "They occur more easily in areas where the\\ntemperature above the ground rises easily, like\\nsoil or asphalt."
-        },
-        "name": ""
-    },
-    {
-        "id": "c800",
-        "line": {
-            "en": "By catching these thermals, we can fly to higher\\naltitudes."
-        },
-        "name": ""
-    },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "However, the thing we're chasing is the wind,\\nwhich is invisible. It's not easy to catch."
-        },
-        "name": ""
-    },
-    {
-        "id": "d000",
-        "line": {
-            "en": "Even after riding it well, the wind is\\nunpredictable. The wind's flow and strength is\\nnot stable -- it may disappear at a moment's\\nnotice."
-        },
-        "name": ""
-    },
-    {
-        "id": "d400",
-        "line": {
-            "en": "But if we don't get good at riding it, we won't\\nbe able to fly high enough to reach the passage\\nof clouds."
-        },
-        "name": ""
-    },
-    {
-        "id": "d800",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "Amane looks down with a blank expression, and\\nwithout even attempting to eat it, plays with her\\npasta with her fork."
-        },
-        "name": ""
-    },
-    {
-        "id": "e000",
-        "line": {
-            "en": "'You didn't like it?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "e400",
-        "line": {
-            "en": "'Huh...? No, ah... it's not that.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "e800",
-        "line": {
-            "en": "'I've been doing some thinking...'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "She gave a faint smile and prodded at her pasta."
-        },
-        "name": ""
-    },
-    {
-        "id": "f000",
-        "line": {
-            "en": "I look towards Ageha and shrug."
-        },
-        "name": ""
-    },
-    {
-        "id": "f400",
-        "line": {
-            "en": "Kotori was next to Amane, absorbed in reading the\\nbook that she had borrowed from the library."
-        },
-        "name": ""
-    },
-    {
-        "id": "f800",
-        "line": {
-            "en": "'Why don't you do that after you've finished\\neating?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "fc00",
-        "line": {
-            "en": "'Sure...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "0100",
-        "line": {
-            "en": "It's no good. She's not listening."
-        },
-        "name": ""
-    },
-    {
-        "id": "0500",
-        "line": {
-            "en": "Kotori, for a long time, has been finding out\\nabout Morning Glory."
-        },
-        "name": ""
-    },
-    {
-        "id": "0900",
-        "line": {
-            "en": "Since we started the test flights, Kotori, being\\ndisabled, has had nothing to do except operate\\nthe winch."
-        },
-        "name": ""
-    },
-    {
-        "id": "0d00",
-        "line": {
-            "en": "That's why she seems to be thinking 'I'm\\nuseless!'."
-        },
-        "name": ""
-    },
-    {
-        "id": "1100",
-        "line": {
-            "en": "She was really involved in the construction of\\nthe main wings too, so that's not true at all."
-        },
-        "name": ""
-    },
-    {
-        "id": "1500",
-        "line": {
-            "en": "But because of this, we found out about something\\nimportant."
-        },
-        "name": ""
-    },
-    {
-        "id": "1900",
-        "line": {
-            "en": "A few days ago, after the farewell party..."
-        },
-        "name": ""
-    },
-    {
-        "id": "1d00",
-        "line": {
-            "en": "'Hmm... This is about the natural phenomenon that\\noccurs in Burketown, Australia.'"
-        },
-        "name": "Hibari"
-    },
-    {
-        "id": "2100",
-        "line": {
-            "en": "Hibari translated from the book written in\\nEnglish, after being pestered by Kotori."
-        },
-        "name": ""
-    },
-    {
-        "id": "2500",
-        "line": {
-            "en": "It's a book about Morning Glory."
-        },
-        "name": ""
-    },
-    {
-        "id": "2900",
-        "line": {
-            "en": "According to this, the clouds that appear above\\nAustralia can have a total length of\\napproximately 1000 kilometers."
-        },
-        "name": ""
-    },
-    {
-        "id": "2d00",
-        "line": {
-            "en": "It's not just one cloud that appears, it can be\\nmany at the same time."
-        },
-        "name": ""
-    },
-    {
-        "id": "3100",
-        "line": {
-            "en": "When the sun comes up, the temperature increases\\nand the clouds disappear. There is only about two\\nhours before that happens."
-        },
-        "name": ""
-    },
-    {
-        "id": "3500",
-        "line": {
-            "en": "For the local people, this is a sign of rain, and\\nraging winds blow beneath the clouds."
-        },
-        "name": ""
-    },
-    {
-        "id": "3900",
-        "line": {
-            "en": "The altitude of the clouds is about one or two\\nkilometers. If you can ride the vertical drafts\\nwell, it is possible to reach those altitudes."
-        },
-        "name": ""
-    },
-    {
-        "id": "3d00",
-        "line": {
-            "en": "'It says that this is caused by a collision of\\nthe sea breeze and the land breeze.'"
-        },
-        "name": "Hibari"
-    },
-    {
-        "id": "4100",
-        "line": {
-            "en": "'At night, the air cools and wind speed drops,\\nand the inversion layer...'"
-        },
-        "name": "Hibari"
-    },
-    {
-        "id": "4500",
-        "line": {
-            "en": "'If we can understand the mechanisms of it all,\\nthen it's easy to predict. But, Kazegaura has\\nvastly different terrain and weather conditions\\nto Australia...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4900",
-        "line": {
-            "en": "'Aren't there are any other signs that are easier\\nto understand?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4d00",
-        "line": {
-            "en": "'It has something like that written here.'"
-        },
-        "name": "Hibari"
-    },
-    {
-        "id": "5100",
-        "line": {
-            "en": "Hibari translates as she reads."
-        },
-        "name": ""
-    },
-    {
-        "id": "5500",
-        "line": {
-            "en": "'Warm winds blow from the north, and at dusk, the\\neastern sky becomes purple.'"
-        },
-        "name": "Hibari"
-    },
-    {
-        "id": "5900",
-        "line": {
-            "en": "'It says that if water droplets appear in the\\nfridge at the pub, it will occur.'"
-        },
-        "name": "Hibari"
-    },
-    {
-        "id": "5d00",
-        "line": {
-            "en": "'There might be a pub around here!'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6100",
-        "line": {
-            "en": "'Calm down, this is talking about Australia.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6500",
-        "line": {
-            "en": "'It says... That on mornings when the air\\ntemperature is low, but the overall temperature\\nis high, it often occurs...'"
-        },
-        "name": "Hibari"
-    },
-    {
-        "id": "6900",
-        "line": {
-            "en": "'The air temperature is low but the overall\\ntemperature is high, and at dusk on the evening\\nbefore, the eastern sky is purple...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6d00",
-        "line": {
-            "en": "'Wait a second!'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7100",
-        "line": {
-            "en": "Kotori excitedly opens a page in the old\\nnotebook."
-        },
-        "name": ""
-    },
-    {
-        "id": "7500",
-        "line": {
-            "en": "It's a flight log written by one of the old\\nmembers."
-        },
-        "name": ""
-    },
-    {
-        "id": "7900",
-        "line": {
-            "en": "'Hey, look at this.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7d00",
-        "line": {
-            "en": "Kotori opened it to the page that explained the\\nsigns that were seen on the day the photograph\\nwas taken. In other words, the day that the\\nMorning Glory had occurred."
-        },
-        "name": ""
-    },
-    {
-        "id": "8100",
-        "line": {
-            "en": "It seems that they did a test on that day, and\\nthere was detailed information on the weather\\nconditions written in the flight log."
-        },
-        "name": ""
-    },
-    {
-        "id": "8500",
-        "line": {
-            "en": "'When they did the test at around 4 PM, the air\\ntemperature was 23 degrees centigrade... That's\\npretty low for the height of the summer.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8900",
-        "line": {
-            "en": "'It says 'After that, a strong wind blew from the\\ndirection of the sunset, and it was chilly.''"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8d00",
-        "line": {
-            "en": "This was written in the remarks column. They went\\nto the effort of writing it, so that must mean\\nthat there was quite a big change in air\\ntemperature."
-        },
-        "name": ""
-    },
-    {
-        "id": "9100",
-        "line": {
-            "en": "'As for the color of the sky... it doesn't say.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9500",
-        "line": {
-            "en": "The important thing is, the log was written\\nwithout the knowledge that 'Today, Morning Glory\\nwill occur'."
-        },
-        "name": ""
-    },
-    {
-        "id": "9900",
-        "line": {
-            "en": "They wrote this without realizing that this was a\\nsign of the Morning Glory."
-        },
-        "name": ""
-    },
-    {
-        "id": "9d00",
-        "line": {
-            "en": "'This is a pretty big hint, isn't it?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "a100",
-        "line": {
-            "en": "'Yeah! Thanks, Hibari!'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "a500",
-        "line": {
-            "en": "'Hee hee, don't mention it!'"
-        },
-        "name": "Hibari"
-    },
-    {
-        "id": "a900",
-        "line": {
-            "en": "Since then, Kotori has been checking the weather\\nforecast every night, and reading books about\\nweather, like she's trying to become a weather\\nforecaster or something."
-        },
-        "name": ""
-    },
-    {
-        "id": "ad00",
-        "line": {
-            "en": "So, the three signs that indicate the coming of a\\nMorning Glory are as follows:"
-        },
-        "name": ""
-    },
-    {
-        "id": "b100",
-        "line": {
-            "en": "1: The day before, a warm, strong wind blows, and\\nthe temperature is high enough to cause water\\ndroplets to appear on a fridge in a pub."
-        },
-        "name": ""
-    },
-    {
-        "id": "b500",
-        "line": {
-            "en": "2: At dusk, on the day before, the eastern sky is\\npurple."
-        },
-        "name": ""
-    },
-    {
-        "id": "b900",
-        "line": {
-            "en": "3: It's much colder than most summer days."
-        },
-        "name": ""
-    },
-    {
-        "id": "bd00",
-        "line": {
-            "en": "Perhaps this information isn't just nonsense, and\\nthis is all we had to go on."
-        },
-        "name": ""
-    },
-    {
-        "id": "c100",
-        "line": {
-            "en": "'Hey, Aoi. Whose turn is it today?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "c500",
-        "line": {
-            "en": "'I'm not sure.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c900",
-        "line": {
-            "en": "Every day, we take it in turns to wake up before\\ndawn, to see whether or not those clouds have\\nappeared."
-        },
-        "name": ""
-    },
-    {
-        "id": "cd00",
-        "line": {
-            "en": "Even if there are no signs the day before."
-        },
-        "name": ""
-    },
-    {
-        "id": "d100",
-        "line": {
-            "en": "Whose turn is it today...? <! P>%K\u0000\u0004FLAG_CHECK\u0000\u000f\u0004u\u0000Kotori\u0000\u0000y\u0000\u0006vU\u0000\u0000v\u0000Ageha\u0000\u0000z\u0000\u0006\u00a0X\u0000\u0000w\u0000Amane\u0000\u0000{\u0000\u0006<Z\u0000\u0000x\u0000Me\u0000\u0000|\u0000\u0006\u00a9]\u0000\u0000\u0006<Z\u0000\u0000\u0006gU\u0000\u0000\u0006vU\u0000\u0000\u0006\u00a0X\u0000\u0000\u0006<Z\u0000\u0000\u0006\u00a9]\u0000\u0000\u0006vU\u0000\u0000\u0006\u00a0X\u0000\u0000\u0006\u00a9]\u0000\u0000\t\u00002\u0000\u0000\u0000\u0000\u0000\u0014y\u0000\u0000\u0000\u0000%P\u0000\u0015%LCAoi\u0000\u0014z\u0000\u0000\u0000char\u0000'Isn't it Kotori?'"
-        },
-        "name": ""
-    },
-    {
-        "id": "ed00",
-        "line": {
-            "en": "Kotori lifts her head as I say that."
-        },
-        "name": ""
-    },
-    {
-        "id": "f100",
-        "line": {
-            "en": "'Yes, it is.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "f900",
-        "line": {
-            "en": "'It's you, isn't it, Ageha?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "fd00",
-        "line": {
-            "en": "'Huh, is it?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0200",
-        "line": {
-            "en": "'Hey, don't try to play dumb.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0a00",
-        "line": {
-            "en": "'Isn't it Amane?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0e00",
-        "line": {
-            "en": "'Hmm? Yeah, that's right. It's me.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "1200",
-        "line": {
-            "en": "'I see. We'll leave it to you, Amane.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1a00",
-        "line": {
-            "en": "'It's me.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1e00",
-        "line": {
-            "en": "'I see, so it's you, Aoi?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2200",
-        "line": {
-            "en": "'Well then, I'd better quickly have a bath and go\\nto bed.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2600",
-        "line": {
-            "en": "If the Morning Glory does come, we have to fly\\nright away."
-        },
-        "name": ""
-    },
-    {
-        "id": "2a00",
-        "line": {
-            "en": "That's why we covered the glider on the runway\\nand just covered it up with a sheet."
-        },
-        "name": ""
-    },
-    {
-        "id": "2e00",
-        "line": {
-            "en": "Even if it doesn't occur, we can still start\\ndoing test flights from early in the morning."
-        },
-        "name": ""
-    },
-    {
-        "id": "3200",
-        "line": {
-            "en": "It's a little rough but it doesn't look like it's\\ngoing to rain, so there isn't much we can do."
-        },
-        "name": ""
-    },
-    {
-        "id": "3600",
-        "line": {
-            "en": "There's no way we can let this one in a million\\nchance pass us by."
-        },
-        "name": ""
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The old garage was built in a hidden part of the\\nschool grounds.",
+                "name": ""
+            },
+            "jp": {
+                "line": "校舎裏にひっそりと建つ古びたガレージ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It seems like no one uses it and it's seen by\\nalmost no one.",
+                "name": ""
+            },
+            "jp": {
+                "line": "誰かが使っている様子はなく、誰からも見向きもされていない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I thought there might be something interesting in\\nthere, so I sneaked inside.",
+                "name": ""
+            },
+            "jp": {
+                "line": "何か面白い物があるかもと、こっそり中に忍び込んでみた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The first time I saw it, I just thought, 'There's\\nsome weird object in here' and I wasn't too\\ninterested in it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "初めてアレを見た時は、「なんかヘンな物があるなぁ」って程度で、たいして興味もなかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The thing that changed everything... was finding\\nthat photo.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それが１８０度変わったのは――あの写真を見つけてから。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Hidden carefully inside a notebook, there was an\\nincredibly beautiful photograph of the clouds.",
+                "name": ""
+            },
+            "jp": {
+                "line": "一冊のノートに大事に挟んであったそれは、とても綺麗な雲の写真。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Could such a beautiful sky really exist!?",
+                "name": ""
+            },
+            "jp": {
+                "line": "こんな美しい空があってもいいの！？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It was so amazing that I felt myself asking that.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ってくらいグレートな空。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But, it's strange.",
+                "name": ""
+            },
+            "jp": {
+                "line": "けど、なんかヘンだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "What's with this photo...?",
+                "name": ""
+            },
+            "jp": {
+                "line": "なんでだろう、この写真……",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ah, I got it!!",
+                "name": ""
+            },
+            "jp": {
+                "line": "あ、わかった！！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Yes, this photo was taken from above the clouds.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そう、その写真は、“雲の上から”撮影されていたのだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That is what was written on the pages between\\nwhich it was placed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "挟んであったノートのページには、こう書かれてあった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We're so lucky! We, by pure chance, flew on the\\nMorning Glory that suddenly appeared above\\nKazegaura!'",
+                "name": ""
+            },
+            "jp": {
+                "line": "『なんという幸運だろう！\\n　我々は、風ヶ浦に突如出現したモーニンググローリーを、\\n　偶然にも飛ぶことができた！』",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This could be considered a miracle. It was an\\nunbelievable experience.'",
+                "name": ""
+            },
+            "jp": {
+                "line": "『それはもう奇跡と言ってもいい、素晴らしい体験だった』",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Morning Glory? They flew?",
+                "name": ""
+            },
+            "jp": {
+                "line": "モーニンググローリー？\\n飛んだ？？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I continued to read through the notebook... or\\nrather, flight log, I became more and more\\ninterested.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そのノート――航行日誌を読み進めるうちに、ぼくは、どんどんのめり込んでいった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This photo of the clouds, was taken by the same\\npeople who used this garage. They flew above the\\nclouds in an aircraft called a glider.",
+                "name": ""
+            },
+            "jp": {
+                "line": "雲の写真は、このガレージを使っていた人たちが、グライダーという飛行機に乗って空の上から撮影したもので、",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This glider has no engine, and it flies by riding\\nthe wind...",
+                "name": ""
+            },
+            "jp": {
+                "line": "そのグライダーにはエンジンはついてなくて、風に乗って雲の上まで飛ぶんだという……",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "How does that feel, to ride on the wind and fly\\nthrough the sky?",
+                "name": ""
+            },
+            "jp": {
+                "line": "いったいどんな気分だろう、風に乗って空を飛ぶのは。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "To soar through that beautiful field of clouds...",
+                "name": ""
+            },
+            "jp": {
+                "line": "あの美しい雲の廻廊を渡るのは……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When I pondered on that thought, my mind had been\\nmade up.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そうして想いを巡らせた時、もうぼくの心は決まっていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I would repair the abandoned glider, and aim for\\nthe distant clouds.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そこに打ち{棄:す}てられたグライダーを修復し、雲の{彼方:かなた}を目指そうと。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The next day, I immediately revealed my great\\nplan to my best friend.",
+                "name": ""
+            },
+            "jp": {
+                "line": "次の日ぼくは、早速その{偉大:グレート}な計画を親友に打ち明けた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The sun's starting to set. Do you wanna call it\\na day?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「陽も暮れてきたし、\\n　今日はこのへんにしときますか」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha said that as I was taking a break after\\nreturning from a flight.",
+                "name": ""
+            },
+            "jp": {
+                "line": "フライトから戻って来て一息ついていると、あげはが言った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We can go one more time, can't we?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「もう１回飛べるんじゃないか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We still have a bit of time before the sun\\ncompletely sets.",
+                "name": ""
+            },
+            "jp": {
+                "line": "完全に陽が暮れるまで、まだもう少しある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There are no street lights around here, so it'll\\nbe pretty dark before the sun completely sets.\\nThat will make landing dangerous.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「この辺り街灯なんてないし、\\n　陽が落ちる前でもかなり暗くなるよ？\\n　そしたら着陸の時危ないじゃん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She's right.",
+                "name": ""
+            },
+            "jp": {
+                "line": "たしかにそうだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Just now when we came back, it was hard to see\\nthe runway and my depth of perception was messed\\nup.",
+                "name": ""
+            },
+            "jp": {
+                "line": "さっき戻ってくる時も、滑走路が見えづらくて距離感が狂いそうになった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So that's why we've finished today. Kotori,\\nlet's get going.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「というわけで、今日はもうおしまい。\\n　小鳥ー、撤収するよー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha called Kotori on her cell-phone. Currently,\\nKotori is by the winch.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはが携帯電話で小鳥に呼びかける。\\n小鳥は今、ウインチのところにいる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Are we done for today...?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「今日はもうおわりか……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah. Though the perfect wind for training has\\njust started blowing.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ええ。\\n　訓練にはちょうどいい風が出てたんですけどね」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Nothing we can do about that... We don't want to\\nhave any accidents.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「しょうがない。\\n　……事故を起こすわけにはいかないからな」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane looks towards the eastern sky as she\\nspeaks.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そう言いつつ、先輩は東の空を見上げる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "There, as always, is the same orange glow of\\nsunset.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そこには、いつもと変わらぬオレンジ色の夕焼けが。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Looks like the 'sign' didn't appear again...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「来てないですね、{予兆:・・}」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The sky indicated that nothing would happen the\\nfollowing morning.",
+                "name": ""
+            },
+            "jp": {
+                "line": "明日の朝に、何も起こらない事を示す空。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I watched her from the side while she looked to\\nthe sky, and her face seemed filled with\\nimpatience.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それを見つめる先輩の横顔には、焦りの色が{滲:にじ}んでいるように見えた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Since the winch came back, we've been doing as\\nmany test flights as possible, every day.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ウインチが戻ってきてから、毎日、可能な限りのテストを重ねていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "There are adjustments to be made to the glider,\\nbut the main objective is for Amane and I to do\\nflight training.",
+                "name": ""
+            },
+            "jp": {
+                "line": "機体の調整もあるが、一番の目的は天音先輩と俺のフライト訓練だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You were able to fly quite high today. How high\\nwas it, roughly?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「今日、かなり高くまで上がってたね。\\n　どのくらいいった？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Around 600 meters.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「６００ｍってとこだな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, that's the highest so far. You're really\\ngetting the hang of this, aren't you?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ほう、記録更新だねー。\\n　だいぶ掴めてきたんじゃない？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah. But it's still hard to ride the thermals.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ああ。\\n　でも、まだサーマルに乗るのは難しいよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Thermals are vertical drafts formed by air heated\\nby the earth's surface.",
+                "name": ""
+            },
+            "jp": {
+                "line": "サーマルとは、地表によって暖められた空気が形成する上昇気流のことだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "They occur more easily in areas where the\\ntemperature above the ground rises easily, like\\nsoil or asphalt.",
+                "name": ""
+            },
+            "jp": {
+                "line": "周囲より温度が高くなりやすい土の上や、アスファルトの上に発生しやすい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "By catching these thermals, we can fly to higher\\naltitudes.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そのサーマルを捕まえ、それに乗って高度を上げる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "However, the thing we're chasing is the wind,\\nwhich is invisible. It's not easy to catch.",
+                "name": ""
+            },
+            "jp": {
+                "line": "しかし、なにせ相手は目に見えない風。\\n簡単には捕まえられない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even after riding it well, the wind is\\nunpredictable. The wind's flow and strength is\\nnot stable -- it may disappear at a moment's\\nnotice.",
+                "name": ""
+            },
+            "jp": {
+                "line": "上手く乗った後も、やはり風は気まぐれだ。\\n流れや強さは一定じゃなく、突然消えてしまったりもする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But if we don't get good at riding it, we won't\\nbe able to fly high enough to reach the passage\\nof clouds.",
+                "name": ""
+            },
+            "jp": {
+                "line": "しかし、それを乗りこなせなければ、天高く延びる雲の廻廊には届かない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane looks down with a blank expression, and\\nwithout even attempting to eat it, plays with her\\npasta with her fork.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩が無表情に俯いて、フォークでパスタを食べるでもなくつついている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You didn't like it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「口に合いませんでしたか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh...? No, ah... it's not that.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「え……？\\n　ああ、いや、そうじゃないんだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I've been doing some thinking...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ちょっと考え事をしてただけだ……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She gave a faint smile and prodded at her pasta.",
+                "name": ""
+            },
+            "jp": {
+                "line": "弱々しく笑うと、またパスタをつついた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I look towards Ageha and shrug.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺はあげはと顔を見合わせ、肩をすくめる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori was next to Amane, absorbed in reading the\\nbook that she had borrowed from the library.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥はというと、先輩の隣で図書館から借りてきた本を開いて読み耽っていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why don't you do that after you've finished\\neating?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「飯食い終わってからにしたらどうだ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sure...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's no good. She's not listening.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ダメだ、聞こえてない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0041": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori, for a long time, has been finding out\\nabout Morning Glory.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥はずっとこの調子で、モーニンググローリーについて調べてくれていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0042": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Since we started the test flights, Kotori, being\\ndisabled, has had nothing to do except operate\\nthe winch.",
+                "name": ""
+            },
+            "jp": {
+                "line": "テストが始まってから、足の不自由な小鳥はウインチ操作くらいしかやることがない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0043": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That's why she seems to be thinking 'I'm\\nuseless!'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "どうもそのせいで「私ってば役立たず！」とか考えているらしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0044": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She was really involved in the construction of\\nthe main wings too, so that's not true at all.",
+                "name": ""
+            },
+            "jp": {
+                "line": "主翼造りではあんなに活躍してくれたし、そんなことはまったくないんだが。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0045": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But because of this, we found out about something\\nimportant.",
+                "name": ""
+            },
+            "jp": {
+                "line": "でも、そのおかげで重要なことが解った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0046": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A few days ago, after the farewell party...",
+                "name": ""
+            },
+            "jp": {
+                "line": "先日の送別会が終わった後のこと……",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0047": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm... This is about the natural phenomenon that\\noccurs in Burketown, Australia.'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「うーんと……オーストラリアのバークタウンで起こる\\n　気象現象について書いてあるわね」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0048": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Hibari translated from the book written in\\nEnglish, after being pestered by Kotori.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥にせがまれ、ひばりさんが英語の本を訳してくれた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0049": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's a book about Morning Glory.",
+                "name": ""
+            },
+            "jp": {
+                "line": "モーニンググローリーについて書かれた本だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "According to this, the clouds that appear above\\nAustralia can have a total length of\\napproximately 1000 kilometers.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それによると、オーストラリアで発生するその雲は、全長およそ１０００キロにも及ぶという。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's not just one cloud that appears, it can be\\nmany at the same time.",
+                "name": ""
+            },
+            "jp": {
+                "line": "発生する雲は１本とは限らず、何本もできることがある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When the sun comes up, the temperature increases\\nand the clouds disappear. There is only about two\\nhours before that happens.",
+                "name": ""
+            },
+            "jp": {
+                "line": "陽が昇り、気温が上昇していくと雲は消える。\\nそれまで、わずか２時間程度。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "For the local people, this is a sign of rain, and\\nraging winds blow beneath the clouds.",
+                "name": ""
+            },
+            "jp": {
+                "line": "地元の人たちにとっては雨の前触れであり、雲の下には暴風が吹き荒れているという。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The altitude of the clouds is about one or two\\nkilometers. If you can ride the vertical drafts\\nwell, it is possible to reach those altitudes.",
+                "name": ""
+            },
+            "jp": {
+                "line": "雲の高さは１〜２キロ。\\n上手く上昇気流に乗れれば、充分手の届く高さだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It says that this is caused by a collision of\\nthe sea breeze and the land breeze.'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「海風と陸風が衝突してできる前線が\\n　発生の原因なんですって」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0050": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'At night, the air cools and wind speed drops,\\nand the inversion layer...'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「夜になると気流が冷えて下降し、逆転層が……」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0051": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If we can understand the mechanisms of it all,\\nthen it's easy to predict. But, Kazegaura has\\nvastly different terrain and weather conditions\\nto Australia...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「メカニズムが解れば、予想は立てやすくなるけど、\\n　風ヶ浦とオーストラリアじゃ地形も気象も\\n　違いすぎるわね……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0052": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aren't there are any other signs that are easier\\nto understand?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「もっとこうわかりやすい前兆とかないのかしら」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0053": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It has something like that written here.'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「ここに、それらしいことが書いてあるわ」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0054": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Hibari translates as she reads.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ひばりさんが訳しながら読み上げる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0055": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Warm winds blow from the north, and at dusk, the\\neastern sky becomes purple.'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「北から湿った強い風が吹き、\\n　夕暮れ時、東の空が紫色になる」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0056": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It says that if water droplets appear in the\\nfridge at the pub, it will occur.'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「パブの冷蔵庫に水滴ができたら、\\n　翌日起こるんですって」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0057": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There might be a pub around here!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「この辺りにパブってあったかしら！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0058": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Calm down, this is talking about Australia.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「落ち着け、これはオーストラリアの話だ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0059": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It says... That on mornings when the air\\ntemperature is low, but the overall temperature\\nis high, it often occurs...'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「気温が低く、湿度が高い早朝に発生することが多い……\\n　ですって」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The air temperature is low but the overall\\ntemperature is high, and at dusk on the evening\\nbefore, the eastern sky is purple...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「気温が低く湿度は高く、\\n　前日の夕方、東の空が紫色に、か……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wait a second!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ちょっと待って！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori excitedly opens a page in the old\\nnotebook.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥が興奮した様子で、一冊の古いノートを開く。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's a flight log written by one of the old\\nmembers.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それはＯＢの航行日誌だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, look at this.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ほら、ここ見て」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori opened it to the page that explained the\\nsigns that were seen on the day the photograph\\nwas taken. In other words, the day that the\\nMorning Glory had occurred.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あの写真が撮影された日、つまり、この風ヶ浦でモーニンググローリーが発生した日の{前日の:・・・}日誌を、小鳥は開いていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0060": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It seems that they did a test on that day, and\\nthere was detailed information on the weather\\nconditions written in the flight log.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その日もテストをしたらしく、航行日誌には、その日の気象データなどが詳細に記録されていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0061": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When they did the test at around 4 PM, the air\\ntemperature was 23 degrees centigrade... That's\\npretty low for the height of the summer.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「テストをした１６時頃の気温は２３度……\\n　真夏の日中にしちゃ随分低いわね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0062": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It says 'After that, a strong wind blew from the\\ndirection of the sunset, and it was chilly.''",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「“その後、日暮れから強い風が吹いて、\\n　肌寒いくらいだった”って書いてあるわ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0063": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This was written in the remarks column. They went\\nto the effort of writing it, so that must mean\\nthat there was quite a big change in air\\ntemperature.",
+                "name": ""
+            },
+            "jp": {
+                "line": "備考欄にそう記されていた。わざわざ書くくらいだから、よほど大きな気温の変化があったんだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0064": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'As for the color of the sky... it doesn't say.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「空の色については……書いてないな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0065": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The important thing is, the log was written\\nwithout the knowledge that 'Today, Morning Glory\\nwill occur'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "重要なのは、この日誌が、\\n“翌日モーニンググローリーが発生する”\\nとは知らずに書かれたことだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0066": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "They wrote this without realizing that this was a\\nsign of the Morning Glory.",
+                "name": ""
+            },
+            "jp": {
+                "line": "彼らは、それが予兆であるとは気付かずに、これを記していたことになる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0067": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This is a pretty big hint, isn't it?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「これはかなりのヒントなんじゃない？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0068": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah! Thanks, Hibari!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん！\\n　ありがとう、お姉ちゃんっ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0069": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hee hee, don't mention it!'",
+                "name": "Hibari"
+            },
+            "jp": {
+                "line": "「うふふ、どういたしまして♪」",
+                "name": "ひばり"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Since then, Kotori has been checking the weather\\nforecast every night, and reading books about\\nweather, like she's trying to become a weather\\nforecaster or something.",
+                "name": ""
+            },
+            "jp": {
+                "line": "以来、小鳥は毎日朝夕の天気予報をチェックし、気象予報士にでもなるつもりかってくらい、気象に関する本を読み漁っていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "So, the three signs that indicate the coming of a\\nMorning Glory are as follows:",
+                "name": ""
+            },
+            "jp": {
+                "line": "というわけで、モーニンググローリーが発生する前兆らしきものは以下の３つ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "1: The day before, a warm, strong wind blows, and\\nthe temperature is high enough to cause water\\ndroplets to appear on a fridge in a pub.",
+                "name": ""
+            },
+            "jp": {
+                "line": "１：前日、湿った強い風が吹き、パブの冷蔵庫に水滴ができるくらい湿度が高くなる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "2: At dusk, on the day before, the eastern sky is\\npurple.",
+                "name": ""
+            },
+            "jp": {
+                "line": "２：前日の夕暮れ、東の空が紫色になる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "3: It's much colder than most summer days.",
+                "name": ""
+            },
+            "jp": {
+                "line": "３：夏とは思えないほど冷え込む。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Perhaps this information isn't just nonsense, and\\nthis is all we had to go on.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もしかすると、全然でたらめかもしれないが、俺たちがすがれる情報はこれだけだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0070": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Aoi. Whose turn is it today?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ねえ、碧。\\n　今日の当番って誰だっけ？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0071": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm not sure.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「誰だっけな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0072": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Every day, we take it in turns to wake up before\\ndawn, to see whether or not those clouds have\\nappeared.",
+                "name": ""
+            },
+            "jp": {
+                "line": "毎日交代で夜明け前に起きて、空にそれらしい雲ができていないか見張ることにしている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0073": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even if there are no signs the day before.",
+                "name": ""
+            },
+            "jp": {
+                "line": "前日に予兆がなくてもだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0074": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Whose turn is it today...? <! P>%K\u0000\u0004FLAG_CHECK\u0000\u000f\u0004u\u0000Kotori\u0000\u0000y\u0000\u0006vU\u0000\u0000v\u0000Ageha\u0000\u0000z\u0000\u0006X\u0000\u0000w\u0000Amane\u0000\u0000{\u0000\u0006<Z\u0000\u0000x\u0000Me\u0000\u0000|\u0000\u0006ｩ]\u0000\u0000\u0006<Z\u0000\u0000\u0006gU\u0000\u0000\u0006vU\u0000\u0000\u0006X\u0000\u0000\u0006<Z\u0000\u0000\u0006ｩ]\u0000\u0000\u0006vU\u0000\u0000\u0006X\u0000\u0000\u0006ｩ]\u0000\u0000\t\u00002\u0000\u0000\u0000\u0000\u0000\u0014y\u0000\u0000\u0000\u0000%P\u0000\u0015%LCAoi\u0000\u0014z\u0000\u0000\u0000char\u0000'Isn't it Kotori?'",
+                "name": ""
+            },
+            "jp": {
+                "line": "その今日の当番は誰だったか……%K\u0000\u0004FLAG_CHECK\u0000\u000f\u0004u\u0000小鳥\u0000\u0000y\u0000\u0006)N\u0000\u0000v\u0000あげは\u0000\u0000z\u0000\u0006SQ\u0000\u0000w\u0000天音先輩\u0000\u0000{\u0000\u0006R\u0000\u0000x\u0000俺\u0000\u0000|\u0000\u0006eV\u0000\u0000\u0006R\u0000\u0000\u0006\u001aN\u0000\u0000\u0006)N\u0000\u0000\u0006SQ\u0000\u0000\u0006R\u0000\u0000\u0006eV\u0000\u0000\u0006)N\u0000\u0000\u0006SQ\u0000\u0000\u0006eV\u0000\u0000\t\u00002\u0000\u0000\u0000\u0000\u0000\u0014y\u0000\u0000\u0000\u0000%P\u0000\u0015%LC碧\u0000\u0014z\u0000\u0000\u0000char\u0000「小鳥じゃなかったか？」",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori lifts her head as I say that.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺が言うと、小鳥が顔をあげた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yes, it is.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん、そうよ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's you, isn't it, Ageha?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おまえだろ、あげは」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh, is it?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あれ、そうだっけ？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0080": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, don't try to play dumb.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おいおい、ボケてんのかよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0082": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Isn't it Amane?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「天音先輩じゃなかったか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0083": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm? Yeah, that's right. It's me.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ん？　あぁ、そうだ、私だ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0084": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see. We'll leave it to you, Amane.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そっか。\\n　先輩、よろしくお願いしますね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0086": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's me.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺だ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0087": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see, so it's you, Aoi?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そっか、碧か」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0088": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well then, I'd better quickly have a bath and go\\nto bed.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「さてと、さっさと風呂入って寝るか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0089": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If the Morning Glory does come, we have to fly\\nright away.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もしモーニンググローリーが来たら、すぐに飛ばなければいけない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That's why we covered the glider on the runway\\nand just covered it up with a sheet.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そのために、機体はシートをかけて滑走路においたままにしてある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even if it doesn't occur, we can still start\\ndoing test flights from early in the morning.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もし発生しなくても、そのまま朝からテストフライトできるって寸法だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's a little rough but it doesn't look like it's\\ngoing to rain, so there isn't much we can do.",
+                "name": ""
+            },
+            "jp": {
+                "line": "少々手荒ではあるが、しばらく雨は降らなさそうだし仕方がない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "There's no way we can let this one in a million\\nchance pass us by.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺たちは、万に一つのチャンスも逃すわけにはいかないのだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
     }
-]
+}

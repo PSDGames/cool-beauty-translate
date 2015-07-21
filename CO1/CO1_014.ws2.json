@@ -1,1808 +1,4646 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "'Wow, what's this?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "0400",
-        "line": {
-            "en": "After school, we went to the garage and saw large\\namounts of cardboard boxes and tin cans piled up."
-        },
-        "name": ""
-    },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'Oh, it's you guys!'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'What is all this?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'Ah, it finally arrived!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1400",
-        "line": {
-            "en": "Before Amane answers, Ageha comes in after us and\\nher eyes sparkle as she looks on."
-        },
-        "name": ""
-    },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'These are the materials for making the main\\nwings. There are still some outside, so could you\\ngive me a hand carrying them?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "Then, with a great deal of effort, we carry the\\nmaterials."
-        },
-        "name": ""
-    },
-    {
-        "id": "2000",
-        "line": {
-            "en": "Ageha goes to check them off against the purchase\\norder."
-        },
-        "name": ""
-    },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'OK, it's all here.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'Great.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'Hee hee hee! With this, we can finally make the\\nwings!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3000",
-        "line": {
-            "en": "Ageha is extremely enthusiastic."
-        },
-        "name": ""
-    },
-    {
-        "id": "3400",
-        "line": {
-            "en": "'What's this big thing here?? It's huge but\\nreally light.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'It's Styrofoam. We use it to make the shape.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "'The length of a single wing is about eight\\nmeters. We need quite a large amount to make the\\nshape.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4000",
-        "line": {
-            "en": "That must be why there are such large amounts of\\nthe other materials too."
-        },
-        "name": ""
-    },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'Once they're complete, it will be able to fly,\\nright? OK, let's start making them right away.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4800",
-        "line": {
-            "en": "Kotori is also keen to start, but it's not like\\nshe knows how to make them."
-        },
-        "name": ""
-    },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "'How do we make them? Is it something that we can\\ndo here?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5000",
-        "line": {
-            "en": "'It's made from FRP, fiber-reinforced plastic, so\\nI think that we probably won't need any special\\nequipment. The question is whether we have enough\\nspace or not.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'Isn't that right, Amane?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'Yeah. They were made here last time too.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'But what is that... FRP stuff?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6000",
-        "line": {
-            "en": "I'm not familiar with that term."
-        },
-        "name": ""
-    },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'It's strengthened plastic. The main wings are\\nbuilt from this material.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "6800",
-        "line": {
-            "en": "'Strengthened plastic...?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "Even as I say it, it still doesn't make sense."
-        },
-        "name": ""
-    },
-    {
-        "id": "7000",
-        "line": {
-            "en": "The broken wings are propped against the wall."
-        },
-        "name": ""
-    },
-    {
-        "id": "7400",
-        "line": {
-            "en": "They are smooth and hard to the touch."
-        },
-        "name": ""
-    },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'I thought it would be made from aluminum or\\nsomething.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'Wouldn't the plastic crack, though?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8000",
-        "line": {
-            "en": "asks Kotori as she looks at the broken pieces."
-        },
-        "name": ""
-    },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'It's OK. As long as they are properly made.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'It's strange. I thought I did make them\\nproperly.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "Amane goes deep into thought as she too looks at\\nthe broken pieces next to Kotori."
-        },
-        "name": ""
-    },
-    {
-        "id": "9000",
-        "line": {
-            "en": "'FRP is really sturdy.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'It's plastic mixed with fiberglass which\\nincreases the strength and is based on the same\\nidea as reinforced concrete.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'Reinforced concrete??'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'Well, that's where they put reinforcing iron\\nbars through the concrete.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'Concrete is strong but it weakens if it is\\npulled or bent. The iron bars compensate for this\\nweakness.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'FRP is the same. Plastic is strong but lacks\\nflexibility and is strengthened by being mixed\\nwith fiberglass.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "a800",
-        "line": {
-            "en": "'I see.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "I'll just go along with it for now."
-        },
-        "name": ""
-    },
-    {
-        "id": "b000",
-        "line": {
-            "en": "I'm not sure if I understand or not."
-        },
-        "name": ""
-    },
-    {
-        "id": "b400",
-        "line": {
-            "en": "As for the finer details, we'll probably learn\\nthose in class sooner or later. That's the kind\\nof school it is."
-        },
-        "name": ""
-    },
-    {
-        "id": "b800",
-        "line": {
-            "en": "'Why is FRP used instead of iron or aluminum?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'There are several advantages but when it comes\\nto making gliders, it must be the most suitable\\nmaterial.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'That's right. At present, FRP is a common\\nmaterial used to make gliders.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "c400",
-        "line": {
-            "en": "'Of course, metal is strong but making it from\\nplastic reduces the weight.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "c800",
-        "line": {
-            "en": "'It's easy to process, cheap, it can be repaired\\nlater and does not corrode.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "Amane agrees with each point with a nod."
-        },
-        "name": ""
-    },
-    {
-        "id": "d000",
-        "line": {
-            "en": "'By the way, you might be surprised that FRP is\\nalso used in some things that are very familiar.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "d400",
-        "line": {
-            "en": "'Hmm... what could those be?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "d800",
-        "line": {
-            "en": "'The bumpers of cars, and the hull of fishing\\nboats, apparently.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "'The pedal boats at the park, and also the\\nColonel statue outside that Kentucky shop.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "e000",
-        "line": {
-            "en": "As she mentions the Colonel, Kotori and I nod in\\nagreement."
-        },
-        "name": ""
-    },
-    {
-        "id": "e400",
-        "line": {
-            "en": "I've touched the Colonel statue many times and\\nalso had silly photos taken next to it with my\\nfriends from the Cycle Racing Club."
-        },
-        "name": ""
-    },
-    {
-        "id": "e800",
-        "line": {
-            "en": "So that's FRP, huh?"
-        },
-        "name": ""
-    },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "'So the glider is made from the same material as\\nthe Colonel...?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "f000",
-        "line": {
-            "en": "Kotori murmured but I wasn't sure if she was\\nhappy because she felt the glider was somehow\\nmore familiar than she realized, or because her\\ndream was shattered just a little."
-        },
-        "name": ""
-    },
-    {
-        "id": "f400",
-        "line": {
-            "en": "'How exactly do we make them?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f800",
-        "line": {
-            "en": "'Oh, yes. To explain it simply...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "fc00",
-        "line": {
-            "en": "'First, you make the shape of the wings. Then,\\nit's covered with FRP.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0100",
-        "line": {
-            "en": "'We begin with this...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0500",
-        "line": {
-            "en": "Ageha opens one of the boxes that had just\\narrived, and pulls out some sort of cloth."
-        },
-        "name": ""
-    },
-    {
-        "id": "0900",
-        "line": {
-            "en": "'We line it with this glass mat. This is the\\nfiberglass we were talking about just now.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0d00",
-        "line": {
-            "en": "'Then, the resin is spread on top of it, then\\nanother layer of fiberglass is laid out, then we\\nspread more resin... and repeat that a few\\ntimes.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1100",
-        "line": {
-            "en": "'After that, we wait for it to dry, then take it\\noff...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1500",
-        "line": {
-            "en": "'And it's complete?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1900",
-        "line": {
-            "en": "'No, not yet. Once the surface has been polished\\nand painted, it's finished.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1d00",
-        "line": {
-            "en": "'Sounds easy.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "2100",
-        "line": {
-            "en": "'Well that's because that's how it is in a\\nnutshell.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2500",
-        "line": {
-            "en": "'Actually, there are many more steps.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "2900",
-        "line": {
-            "en": "'When making something this big, there are cases\\nwhere the usual methods don't work.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "2d00",
-        "line": {
-            "en": "'Well, let's take it one step at a time. Amane,\\ncould you show me the plans?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3100",
-        "line": {
-            "en": "As Ageha takes a look at the plans, she and Amane\\nstart discussing something."
-        },
-        "name": ""
-    },
-    {
-        "id": "3500",
-        "line": {
-            "en": "'Hmm, hmm... I see... It looks like we have no\\nchoice but to split it here and then join it\\nlater...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3900",
-        "line": {
-            "en": "'But if we do that, we'll have problems with the\\nweight. If it's too heavy...'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "3d00",
-        "line": {
-            "en": "The conversation moves on to things that we don't\\nunderstand."
-        },
-        "name": ""
-    },
-    {
-        "id": "4100",
-        "line": {
-            "en": "'Amane, when it comes to making the main wings,\\ndo you think you could leave it to me?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4500",
-        "line": {
-            "en": "'Sure, I don't mind.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "4900",
-        "line": {
-            "en": "'...It would be better than me making it, right?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "4d00",
-        "line": {
-            "en": "'Thank you! Kotori...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5100",
-        "line": {
-            "en": "Kotori is surprised to hear her name called out\\nall of a sudden."
-        },
-        "name": ""
-    },
-    {
-        "id": "5500",
-        "line": {
-            "en": "I think it's about time for them to start being\\nmore friendly towards each other but..."
-        },
-        "name": ""
-    },
-    {
-        "id": "5900",
-        "line": {
-            "en": "'Y...yes, what is it?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "5d00",
-        "line": {
-            "en": "'You can help too, Kotori.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6100",
-        "line": {
-            "en": "'Of course, that's what I was planning to do.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6500",
-        "line": {
-            "en": "'I'll help too.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6900",
-        "line": {
-            "en": "'Hmm...we only really need you when we need an\\nextra pair of hands. You should make the\\nsimulator your priority.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6d00",
-        "line": {
-            "en": "Kotori gives me an uneasy glance."
-        },
-        "name": ""
-    },
-    {
-        "id": "7100",
-        "line": {
-            "en": "'I'll leave it to you two then.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7500",
-        "line": {
-            "en": "'Oh...yes, leave it to us.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7900",
-        "line": {
-            "en": "With that, Ageha became the one in charge of\\nmaking the main wings, and then got to work on\\nmaking them."
-        },
-        "name": ""
-    },
-    {
-        "id": "7d00",
-        "line": {
-            "en": "'OK, let's do this the way we were taught.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8100",
-        "line": {
-            "en": "'First...make the shape using the Styrofoam...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8500",
-        "line": {
-            "en": "'However, the polyester resin melts the\\nStyrofoam, so before we use that, it needs to be\\ncoated...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8900",
-        "line": {
-            "en": "Until just now, Kotori had been taking Ageha's\\nimpromptu FRP course."
-        },
-        "name": ""
-    },
-    {
-        "id": "8d00",
-        "line": {
-            "en": "She had been seriously taking notes, and reads\\nthem back as they proceed with the work."
-        },
-        "name": ""
-    },
-    {
-        "id": "9100",
-        "line": {
-            "en": "By the way, for now, it's just practice, so they\\nare trying to make something not related to the\\nmain wings."
-        },
-        "name": ""
-    },
-    {
-        "id": "9500",
-        "line": {
-            "en": "'We begin with laying out the fiberglass, and\\napply the polyester resin with a roller...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "9900",
-        "line": {
-            "en": "'Oh, that's no good. You have to roll it in more\\nfirmly.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9d00",
-        "line": {
-            "en": "'I...I am.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "a100",
-        "line": {
-            "en": "'When you get to the corner, use a brush. Don't\\napply too much resin.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "a500",
-        "line": {
-            "en": "'I know that, geez, shut up...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "a900",
-        "line": {
-            "en": "'If we leave bubbles, it will create cavities,\\nand that will cause it to become weaker.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "ad00",
-        "line": {
-            "en": "'If that happens, they will break, again.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "b100",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "b500",
-        "line": {
-            "en": "As Amane stood beside me, teaching me about\\npiloting, she seemed to have a hurt expression on\\nher face."
-        },
-        "name": ""
-    },
-    {
-        "id": "b900",
-        "line": {
-            "en": "'...Are you OK, Amane?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "bd00",
-        "line": {
-            "en": "'Yeah, I'm fine...'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "c100",
-        "line": {
-            "en": "she answered, still with that hurt look about\\nher."
-        },
-        "name": ""
-    },
-    {
-        "id": "c500",
-        "line": {
-            "en": "It seems like Amane has a complex about her lack\\nof dexterity."
-        },
-        "name": ""
-    },
-    {
-        "id": "c900",
-        "line": {
-            "en": "Amane and I were doing pilot training using the\\nsimulator."
-        },
-        "name": ""
-    },
-    {
-        "id": "cd00",
-        "line": {
-            "en": "'When turning, if the steering on the rudder is\\nreduced, or the timing is too slow, it can cause\\nit to slip in.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "d100",
-        "line": {
-            "en": "'On the other hand, if you use the rudder too\\nmuch, or the timing is too fast, it can slip\\nout.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "d500",
-        "line": {
-            "en": "Slipping in or slipping out are the terms used to\\nrefer to diagonal movement of the glider."
-        },
-        "name": ""
-    },
-    {
-        "id": "d900",
-        "line": {
-            "en": "This is caused when you are trying to turn but\\nthe nose is not pointing in the right direction."
-        },
-        "name": ""
-    },
-    {
-        "id": "dd00",
-        "line": {
-            "en": "'With slipping in or out, the glider no longer\\nfaces in the direction of the relative wind,\\nwhich causes a reduction in lift.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "e100",
-        "line": {
-            "en": "That means that if the glider is moving through\\nthe air at a decent speed, even if there is no\\nwind at all, it is still the same as if it were\\ntaking wind from the direction in which it is\\nmoving."
-        },
-        "name": ""
-    },
-    {
-        "id": "e500",
-        "line": {
-            "en": "That is what is known as 'relative wind'."
-        },
-        "name": ""
-    },
-    {
-        "id": "e900",
-        "line": {
-            "en": "So, if the glider is moving diagonally, the wind\\nhits it diagonally too."
-        },
-        "name": ""
-    },
-    {
-        "id": "ed00",
-        "line": {
-            "en": "This means, if the glider takes the wind from the\\nfront, the functions of that aircraft are\\nmaximized."
-        },
-        "name": ""
-    },
-    {
-        "id": "f100",
-        "line": {
-            "en": "When Amane says that there will be a 'reduction\\nin lift', it's because it cannot take the wind\\ndirectly from the front."
-        },
-        "name": ""
-    },
-    {
-        "id": "f500",
-        "line": {
-            "en": "'Even without that, lift is reduced when turning\\nanyway, so if it slips in or out, you lose a lot\\nof speed.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "f900",
-        "line": {
-            "en": "'Excuse me.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "fd00",
-        "line": {
-            "en": "Akari Kumoi, the vice president of the student\\ncouncil entered the garage."
-        },
-        "name": ""
-    },
-    {
-        "id": "0200",
-        "line": {
-            "en": "'Hi, vice president.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "0600",
-        "line": {
-            "en": "'Hello Mochizuki-senpai. Also...'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "0a00",
-        "line": {
-            "en": "'Hi.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0e00",
-        "line": {
-            "en": "Our eyes meet, so I lower my head in a bow."
-        },
-        "name": ""
-    },
-    {
-        "id": "1200",
-        "line": {
-            "en": "'Hello, Aoi.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "1600",
-        "line": {
-            "en": "Akari looks around the garage and nods with\\napproval."
-        },
-        "name": ""
-    },
-    {
-        "id": "1a00",
-        "line": {
-            "en": "'It looks like you are working hard.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "1e00",
-        "line": {
-            "en": "'Yeah. Just like real club activities.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "2200",
-        "line": {
-            "en": "she says with pride, because these are club\\nactivities after all."
-        },
-        "name": ""
-    },
-    {
-        "id": "2600",
-        "line": {
-            "en": "'Anyway, do you need something?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "2a00",
-        "line": {
-            "en": "'I just came to see how things are going. Things\\nweren't too great last time.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "2e00",
-        "line": {
-            "en": "'As you can see, we are doing very well.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3200",
-        "line": {
-            "en": "'Yes, I can see that...'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "3600",
-        "line": {
-            "en": "..."
-        },
-        "name": ""
-    },
-    {
-        "id": "3a00",
-        "line": {
-            "en": "For some reason, I feel that she has a bit of a\\nsharp tongue when talking to me."
-        },
-        "name": ""
-    },
-    {
-        "id": "3e00",
-        "line": {
-            "en": "It seems like vice president Akari Kumoi is\\nlooking at me like she's assessing me."
-        },
-        "name": ""
-    },
-    {
-        "id": "4200",
-        "line": {
-            "en": "'(He really does have a trusting face. He doesn't\\nseem like a bad guy... but I'd better be\\ncareful.)'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "4600",
-        "line": {
-            "en": "'...What is it?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4a00",
-        "line": {
-            "en": "'No, it's nothing.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "4e00",
-        "line": {
-            "en": "Does she have a problem with me?"
-        },
-        "name": ""
-    },
-    {
-        "id": "5200",
-        "line": {
-            "en": "Akari heads over to the other two working at the\\nback of the garage."
-        },
-        "name": ""
-    },
-    {
-        "id": "5600",
-        "line": {
-            "en": "'May I take a look at that?'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "5a00",
-        "line": {
-            "en": "'Oh, Akari. Go ahead.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5e00",
-        "line": {
-            "en": "'...How about this one?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6200",
-        "line": {
-            "en": "'Yes, that looks good.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6600",
-        "line": {
-            "en": "'That's FRP, isn't it? What are you making?'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "6a00",
-        "line": {
-            "en": "'A dish.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6e00",
-        "line": {
-            "en": "'A dish?'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "7200",
-        "line": {
-            "en": "'We're practicing. We want to make the wings of a\\nglider but we can't start doing that straight\\naway because if we mess it up, there'll be\\nproblems.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7600",
-        "line": {
-            "en": "'Now we have to wait for it to harden. Then, we\\npolish it, then add the color...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7a00",
-        "line": {
-            "en": "Kotori mumbled to herself as she checked her\\nnotes."
-        },
-        "name": ""
-    },
-    {
-        "id": "7e00",
-        "line": {
-            "en": "'Kotori, once you've finished using the roller\\nand the brush, you should wash them quickly.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "8200",
-        "line": {
-            "en": "'The resin will harden, and you won't be able to\\nuse them anymore.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "8600",
-        "line": {
-            "en": "'Oh, really?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8a00",
-        "line": {
-            "en": "Kotori hurriedly goes to wash them."
-        },
-        "name": ""
-    },
-    {
-        "id": "8e00",
-        "line": {
-            "en": "That was a close one, she almost ruined some of\\nthe equipment we had just bought."
-        },
-        "name": ""
-    },
-    {
-        "id": "9200",
-        "line": {
-            "en": "'Also, the resin mixed with curing agent dries\\nmore easily at high temperatures so the container\\nshould be put in a cool place in the shade.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "9600",
-        "line": {
-            "en": "'Hmm...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "9a00",
-        "line": {
-            "en": "Kotori wiped her wet hands on her skirt, and made\\na note of Akari's advice."
-        },
-        "name": ""
-    },
-    {
-        "id": "9e00",
-        "line": {
-            "en": "'It will take a long time to make the main wings,\\nso we have to think about things like that...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "a200",
-        "line": {
-            "en": "Ageha also looks like she's thinking seriously."
-        },
-        "name": ""
-    },
-    {
-        "id": "a600",
-        "line": {
-            "en": "After confirming that the other two were doing\\nproper club activities, relieved, she came back\\nover to us."
-        },
-        "name": ""
-    },
-    {
-        "id": "aa00",
-        "line": {
-            "en": "'It's going well, isn't it?'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "ae00",
-        "line": {
-            "en": "'Yeah.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "b200",
-        "line": {
-            "en": "Amane answered proudly. She looked happy to be\\npraised like that."
-        },
-        "name": ""
-    },
-    {
-        "id": "b600",
-        "line": {
-            "en": "'Anyway, there was actually one other reason I\\ncame here.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "ba00",
-        "line": {
-            "en": "'?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "be00",
-        "line": {
-            "en": "'Have you decided a person to be second in\\ncharge?'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "c200",
-        "line": {
-            "en": "'Second in charge?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c600",
-        "line": {
-            "en": "The other two working at the back of the garage\\nstop and turn their attention this way."
-        },
-        "name": ""
-    },
-    {
-        "id": "ca00",
-        "line": {
-            "en": "'Yes.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "ce00",
-        "line": {
-            "en": "'Mochizuki-senpai, you are very talented but...\\nthere may be times when you can't do all of the\\nwork yourself, correct?'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "d200",
-        "line": {
-            "en": "'At those times, it's extremely helpful to have\\nsomeone like that around.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "d600",
-        "line": {
-            "en": "Apart from Amane, everyone made a face that\\nseemed to say 'Oh, I see'."
-        },
-        "name": ""
-    },
-    {
-        "id": "da00",
-        "line": {
-            "en": "It's probably not just Akari, but all the other\\nstudent council members in the past would also\\nhave had trouble with Amane."
-        },
-        "name": ""
-    },
-    {
-        "id": "de00",
-        "line": {
-            "en": "She's very... unique, so sometimes she expresses\\nideas that differ from the general social norms."
-        },
-        "name": ""
-    },
-    {
-        "id": "e200",
-        "line": {
-            "en": "There was the issue with the club losing its\\nstatus the other day, and the fact that she keeps\\nrepeating the year is a prime example of her\\nuniqueness."
-        },
-        "name": ""
-    },
-    {
-        "id": "e600",
-        "line": {
-            "en": "She's trying to say that she would like someone\\nto act as a middle-man, to keep things running\\nsmoothly, like a manager."
-        },
-        "name": ""
-    },
-    {
-        "id": "ea00",
-        "line": {
-            "en": "'(But what you really mean, is that you need\\nsomeone to act as a mediator, right?)'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ee00",
-        "line": {
-            "en": "From the few days that I have spent with Amane,\\nit seems that she isn't suited to being any sort\\nof mediator."
-        },
-        "name": ""
-    },
-    {
-        "id": "f200",
-        "line": {
-            "en": "She decides the club's principles and therefore,\\nthe reason for it to exist, whereas the second in\\ncharge is needed to bring everyone together to\\ncarry that out."
-        },
-        "name": ""
-    },
-    {
-        "id": "f600",
-        "line": {
-            "en": "'OK, I understand. I will choose someone.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "fa00",
-        "line": {
-            "en": "'That would be helpful.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "fe00",
-        "line": {
-            "en": "Akari seemed relieved as she nodded, and then\\nglanced at me."
-        },
-        "name": ""
-    },
-    {
-        "id": "0300",
-        "line": {
-            "en": "'(...As I thought, she may choose Aoi Minase.)'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "0700",
-        "line": {
-            "en": "'(According to Kanako, he's popular, good at\\ntaking action...not bad looking...)'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "0b00",
-        "line": {
-            "en": "'(...Oh, what am I thinking!?)'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "0f00",
-        "line": {
-            "en": "'Umm...what were you talking about there?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1300",
-        "line": {
-            "en": "'Huh?'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "1700",
-        "line": {
-            "en": "'You were saying something about me, and looked\\nlike you were glancing over at me...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1b00",
-        "line": {
-            "en": "'I wasn't looking at you! You're too\\nself-conscious, Aoi!'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "1f00",
-        "line": {
-            "en": "'I was just looking at the Soaring Club's\\nactivities, that's all.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "2300",
-        "line": {
-            "en": "'Oh, I see... Sorry.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2700",
-        "line": {
-            "en": "So, actually, she wasn't just glancing at me, she\\nwas staring..."
-        },
-        "name": ""
-    },
-    {
-        "id": "2b00",
-        "line": {
-            "en": "'Well, that's all for now.'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "2f00",
-        "line": {
-            "en": "Now that she had finished what she had come to\\ndo, Akari left in a hurry..."
-        },
-        "name": ""
-    },
-    {
-        "id": "3300",
-        "line": {
-            "en": "'EEK!'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "3700",
-        "line": {
-            "en": "On the way out, she tripped over a cardboard box."
-        },
-        "name": ""
-    },
-    {
-        "id": "3b00",
-        "line": {
-            "en": "'Geez, what's this box doing here!?'"
-        },
-        "name": "Akari"
-    },
-    {
-        "id": "3f00",
-        "line": {
-            "en": "Once more, she went to leave."
-        },
-        "name": ""
-    },
-    {
-        "id": "4300",
-        "line": {
-            "en": "'What was that all about?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4700",
-        "line": {
-            "en": "'I dunno. Maybe she has a thing for Aoi?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4b00",
-        "line": {
-            "en": "'Huh!?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4f00",
-        "line": {
-            "en": "'Ohhhh.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "5300",
-        "line": {
-            "en": "'Why are you saying that all of a sudden?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5700",
-        "line": {
-            "en": "'The vice president was looking at you the whole\\ntime.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "5b00",
-        "line": {
-            "en": "'I thought she was looking!'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "5f00",
-        "line": {
-            "en": "'So there's something going on?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6300",
-        "line": {
-            "en": "'No, there isn't, really! C'mon, let's all get\\nback to work!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6700",
-        "line": {
-            "en": "I try to get them to drop it, then Ageha and\\nKotori return to their work."
-        },
-        "name": ""
-    },
-    {
-        "id": "6b00",
-        "line": {
-            "en": "'He's blushing a little, isn't he?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6f00",
-        "line": {
-            "en": "'He is. Akari is pretty though.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7300",
-        "line": {
-            "en": "I can hear you..."
-        },
-        "name": ""
-    },
-    {
-        "id": "7700",
-        "line": {
-            "en": "'Amane, what are you going to do about that thing\\nthe vice president was talking about just now?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7b00",
-        "line": {
-            "en": "'I'm not sure. Is there anyone who wants to do\\nit?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "7f00",
-        "line": {
-            "en": "The two other girls look at each other for some\\nreason, then look at me."
-        },
-        "name": ""
-    },
-    {
-        "id": "8300",
-        "line": {
-            "en": "'Hmm.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "8700",
-        "line": {
-            "en": "'Me!?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8b00",
-        "line": {
-            "en": "'That's what it looks like.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8f00",
-        "line": {
-            "en": "'That's what it looks like.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9300",
-        "line": {
-            "en": "'You can't decide something like that by saying\\n'That's what it looks like'! Let's think about\\nthis, Amane!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9700",
-        "line": {
-            "en": "'OK, I will.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "9b00",
-        "line": {
-            "en": "she said as I try to reach a resolution to the\\nproblem that I had brought up."
-        },
-        "name": ""
-    },
-    {
-        "id": "9f00",
-        "line": {
-            "en": "'What I mean is that everyone should keep\\nmumbling to themselves to a minimum and\\nconcentrate on the task at hand.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a300",
-        "line": {
-            "en": "'...You sound like the second in charge already.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "a700",
-        "line": {
-            "en": "'He's surprisingly motivated, isn't he?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "ab00",
-        "line": {
-            "en": "'I think that we should choose Aoi.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "af00",
-        "line": {
-            "en": "Everyone was muttering to themselves as they got\\nback to work."
-        },
-        "name": ""
-    },
-    {
-        "id": "b300",
-        "line": {
-            "en": "'It's about time for us to leave.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "b700",
-        "line": {
-            "en": "'I would've liked to have done a bit more work\\nthough. The quicker we complete this, the quicker\\nwe can fly it.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "bb00",
-        "line": {
-            "en": "Kotori murmured quietly to herself."
-        },
-        "name": ""
-    },
-    {
-        "id": "bf00",
-        "line": {
-            "en": "The school closes at 6:30 PM, and if you wish to\\nstay longer, you need to submit a notice of\\nextension of club activities."
-        },
-        "name": ""
-    },
-    {
-        "id": "c300",
-        "line": {
-            "en": "However, I have my dorm mother work to do, Kotori\\nhas to help me with dinner, so we have to leave\\nat the usual time."
-        },
-        "name": ""
-    },
-    {
-        "id": "c700",
-        "line": {
-            "en": "'Tomorrow, while continuing with the dish that we\\nwere trying out today, we can start making the\\nshape for the main wings!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "cb00",
-        "line": {
-            "en": "'We'll soon be starting the real thing!'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "cf00",
-        "line": {
-            "en": "'If we rush it, it will snap again, which will be\\na big problem. Let's work on it with all due\\ncare.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "d300",
-        "line": {
-            "en": "'Yeah.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "d700",
-        "line": {
-            "en": "Today, at lunchtime, things still seemed awkward\\nbetween them, but after only half a day has\\npassed, they've really opened up to each other."
-        },
-        "name": ""
-    },
-    {
-        "id": "db00",
-        "line": {
-            "en": "'By the way, Aoi, what do you think of Akari?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "df00",
-        "line": {
-            "en": "'Huh?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "e300",
-        "line": {
-            "en": "'Oh, that's right! I was thinking before that we\\nshould cross-examine you about this once club\\nactivities had finished!'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "e700",
-        "line": {
-            "en": "'What's this all about? I don't care, you don't\\nneed to cross-examine me.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "eb00",
-        "line": {
-            "en": "'In that case, tell us about it!'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "ef00",
-        "line": {
-            "en": "'Yeah, tell us!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "f300",
-        "line": {
-            "en": "I can't believe these two..."
-        },
-        "name": ""
-    },
-    {
-        "id": "f700",
-        "line": {
-            "en": "'OK, let's make a dash back home! All the\\nboarders are waiting with empty stomachs!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "fb00",
-        "line": {
-            "en": "I ran as I pushed Kotori's wheelchair."
-        },
-        "name": ""
-    },
-    {
-        "id": "ff00",
-        "line": {
-            "en": "'Hey, wait!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0004",
-        "line": {
-            "en": "'Why are you covering it up!?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "0404",
-        "line": {
-            "en": "I thought that somehow, these two might just get\\nalong really well."
-        },
-        "name": ""
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wow, what's this?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「わっ、なにこれっ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "After school, we went to the garage and saw large\\namounts of cardboard boxes and tin cans piled up.",
+                "name": ""
+            },
+            "jp": {
+                "line": "放課後、ガレージへ来てみると、大量の段ボールやらブリキ缶やらが積まれていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, it's you guys!'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「やあ、キミたち」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What is all this?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんですかこれ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah, it finally arrived!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「おっ、ついに届いたのね！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Before Amane answers, Ageha comes in after us and\\nher eyes sparkle as she looks on.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩が答える前に、遅れて入ってきたあげはが、それを見て目を輝かせる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'These are the materials for making the main\\nwings. There are still some outside, so could you\\ngive me a hand carrying them?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「主翼を製作するための資材だ。\\n　外にまだあるから、運ぶのを手伝ってくれないか」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, with a great deal of effort, we carry the\\nmaterials.",
+                "name": ""
+            },
+            "jp": {
+                "line": "というわけで、えっちらおっちらと資材を運び込む。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha goes to check them off against the purchase\\norder.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはがそれらと発注書とを見比べて確認していく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, it's all here.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ＯＫ、全部きてまーす」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Great.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「よし」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hee hee hee! With this, we can finally make the\\nwings!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ふっふっふー、\\n　これでようやく翼が造れる〜〜♪」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha is extremely enthusiastic.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはがやけに張りきっている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What's this big thing here?? It's huge but\\nreally light.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「この大きなのはなに？？\\n　でっかいわりに、やたら軽いけど」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's Styrofoam. We use it to make the shape.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「発泡スチロールだ。\\n　型を造るのに使う」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The length of a single wing is about eight\\nmeters. We need quite a large amount to make the\\nshape.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「片翼の長さは約８ｍ。\\n　その型を取るんだから、かなりの量必要になるのよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That must be why there are such large amounts of\\nthe other materials too.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その他の資材も大量に必要になるってわけか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Once they're complete, it will be able to fly,\\nright? OK, let's start making them right away.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「それが完成すれば飛べるようになるのよね？\\n　じゃあ、早く造りましょ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori is also keen to start, but it's not like\\nshe knows how to make them.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥もはりきるが、やり方を知っているわけではない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'How do we make them? Is it something that we can\\ndo here?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「どうやって造るんだ？\\n　ここでできるものなのか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's made from FRP, fiber-reinforced plastic, so\\nI think that we probably won't need any special\\nequipment. The question is whether we have enough\\nspace or not.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ＦＲＰで造るから、\\n　たぶん、特殊な機材はほとんどいらないと思う。\\n　広さ的にも問題ないんじゃないかな」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Isn't that right, Amane?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ですよね、天音先輩」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah. They were made here last time too.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ああ。\\n　前もここで造ったしな」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But what is that... FRP stuff?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「しかし、なんだその……ＦＲＰって？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I'm not familiar with that term.",
+                "name": ""
+            },
+            "jp": {
+                "line": "聞き慣れない単語だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's strengthened plastic. The main wings are\\nbuilt from this material.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「強化プラスチックのことだ。\\n　主翼を造るための素材になる」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Strengthened plastic...?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「強化プラスチック……？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even as I say it, it still doesn't make sense.",
+                "name": ""
+            },
+            "jp": {
+                "line": "と言われても、まだピンとこない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The broken wings are propped against the wall.",
+                "name": ""
+            },
+            "jp": {
+                "line": "壁際に、折れた翼が立てかけてある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "They are smooth and hard to the touch.",
+                "name": ""
+            },
+            "jp": {
+                "line": "触ってみるとつるつるしてて硬い。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I thought it would be made from aluminum or\\nsomething.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「これ、アルミかなんかだと思ってました」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wouldn't the plastic crack, though?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「プラスチックなんかで、\\n　割れちゃったりしないの？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "asks Kotori as she looks at the broken pieces.",
+                "name": ""
+            },
+            "jp": {
+                "line": "と、小鳥が、折れた部分をのぞき込みながら聞く。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's OK. As long as they are properly made.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「それは大丈夫。\\n　ちゃんと造ればね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's strange. I thought I did make them\\nproperly.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「おかしいなぁ、\\n　ちゃんと造ったのになぁ……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane goes deep into thought as she too looks at\\nthe broken pieces next to Kotori.",
+                "name": ""
+            },
+            "jp": {
+                "line": "と、天音先輩も小鳥の横で折れた部分をのぞき込み、考えこんでしまう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'FRP is really sturdy.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ＦＲＰってすんごい頑丈なの」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's plastic mixed with fiberglass which\\nincreases the strength and is based on the same\\nidea as reinforced concrete.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「プラスチックにガラス繊維を混ぜて\\n　強度を上げたものなんだけど、\\n　考え方は鉄筋コンクリートと同じかな」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Reinforced concrete??'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「鉄筋コンクリート？？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, that's where they put reinforcing iron\\nbars through the concrete.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ほら、あれってコンクリートの中に、\\n　鉄筋を通すじゃない？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Concrete is strong but it weakens if it is\\npulled or bent. The iron bars compensate for this\\nweakness.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「コンクリートは硬いけど、\\n　引っ張られたり曲げられたりする力に弱いの。\\n　鉄筋を通すことで、その弱点を補ってるわけ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'FRP is the same. Plastic is strong but lacks\\nflexibility and is strengthened by being mixed\\nwith fiberglass.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ＦＲＰも同じで、\\n　硬いけど弾性率が低いプラスチックに、\\n　ガラス繊維を混ぜることで強化するの」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なるほど」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I'll just go along with it for now.",
+                "name": ""
+            },
+            "jp": {
+                "line": "と、とりあえず言っておく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I'm not sure if I understand or not.",
+                "name": ""
+            },
+            "jp": {
+                "line": "なんとなく、わかるようなわからないようなといった感じだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As for the finer details, we'll probably learn\\nthose in class sooner or later. That's the kind\\nof school it is.",
+                "name": ""
+            },
+            "jp": {
+                "line": "細かい理屈なんかは、またそのうち授業で習ったりするんだろう。ここはそういう学校だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why is FRP used instead of iron or aluminum?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「どうして鉄やアルミじゃなく、\\n　そのＦＲＰっていうのを使うの？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There are several advantages but when it comes\\nto making gliders, it must be the most suitable\\nmaterial.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いくつか利点があるんだけど、\\n　たぶんグライダー製作には、\\n　最も適した素材なんじゃないかなぁ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's right. At present, FRP is a common\\nmaterial used to make gliders.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「そうだな。現在、グライダーの素材としては、\\n　ＦＲＰがメジャーだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Of course, metal is strong but making it from\\nplastic reduces the weight.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「強度はもちろんのこと、\\n　プラスチックなので、金属で造るよりも軽量化できる」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's easy to process, cheap, it can be repaired\\nlater and does not corrode.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「加工が簡単でコストも安め、\\n　後から補修もできるし、腐食もしない」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane agrees with each point with a nod.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩が、いちいち頷いて肯定する。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'By the way, you might be surprised that FRP is\\nalso used in some things that are very familiar.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ちなみに、ＦＲＰは\\n　意外と身近な物にも使われてるのよ？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm... what could those be?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「へぇ、何に使われてるんだ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The bumpers of cars, and the hull of fishing\\nboats, apparently.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「車のバンパーや、\\n　漁船の船体などがそうだな」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The pedal boats at the park, and also the\\nColonel statue outside that Kentucky shop.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「公園のスワンボートとかぁ、\\n　あとあれ、ケンタの店先に立ってるカーネルおじさん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As she mentions the Colonel, Kotori and I nod in\\nagreement.",
+                "name": ""
+            },
+            "jp": {
+                "line": "カーネルおじさんで、俺と小鳥が「あー」と頷く。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I've touched the Colonel statue many times and\\nalso had silly photos taken next to it with my\\nfriends from the Cycle Racing Club.",
+                "name": ""
+            },
+            "jp": {
+                "line": "カーネルおじさんなら、何度もぺたぺた触ったし、自転車部の仲間とふざけて一緒に記念写真を撮ったこともある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "So that's FRP, huh?",
+                "name": ""
+            },
+            "jp": {
+                "line": "そうか、あれがＦＲＰか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So the glider is made from the same material as\\nthe Colonel...?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「カーネルおじさんと同じ素材で、\\n　グライダーもできてるのか……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori murmured but I wasn't sure if she was\\nhappy because she felt the glider was somehow\\nmore familiar than she realized, or because her\\ndream was shattered just a little.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥のつぶやきは、グライダーをより身近に感じられるようになった喜びからなのか、ちょっとだけ夢が壊れた哀しさからなのか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'How exactly do we make them?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「具体的には、\\n　どうやって造るんだ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, yes. To explain it simply...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そうね、簡単に説明すると……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'First, you make the shape of the wings. Then,\\nit's covered with FRP.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「まず、型を作るでしょ、翼の。\\n　それにＦＲＰの素材を塗っていくんだけど」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We begin with this...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「まずはこっちの……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0041": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha opens one of the boxes that had just\\narrived, and pulls out some sort of cloth.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはが、届いたばかりの段ボールを開けて、中から布のようなものを引っ張り出す。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0042": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We line it with this glass mat. This is the\\nfiberglass we were talking about just now.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「このガラスマットを敷くのね。\\n　これが、さっき言ったガラス繊維」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0043": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Then, the resin is spread on top of it, then\\nanother layer of fiberglass is laid out, then we\\nspread more resin... and repeat that a few\\ntimes.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「その上から樹脂を塗り、\\n　またガラスマットを敷いて、\\n　また塗って……って繰り返すの」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0044": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'After that, we wait for it to dry, then take it\\noff...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あとはそれが固まるのを待って、\\n　取り外して……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0045": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'And it's complete?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「完成？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0046": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, not yet. Once the surface has been polished\\nand painted, it's finished.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ううん、まだよ。\\n　表面をぴかぴかに磨いて、塗装すれば完成」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0047": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sounds easy.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「簡単そうね」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0048": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well that's because that's how it is in a\\nnutshell.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「今説明したのは、\\n　あくまでかいつまんで、だからね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0049": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Actually, there are many more steps.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「実際は、もっと手順が多い」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When making something this big, there are cases\\nwhere the usual methods don't work.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「これだけ大きな物を造るとなると、\\n　普通のやり方じゃ通用しない場面もでてくる」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, let's take it one step at a time. Amane,\\ncould you show me the plans?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ま、いっこずつ進めていきましょ。\\n　先輩、設計図見せてもらっていいですか？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As Ageha takes a look at the plans, she and Amane\\nstart discussing something.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはが設計図を見ながら、天音先輩となにやら打ち合わせを始めた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm, hmm... I see... It looks like we have no\\nchoice but to split it here and then join it\\nlater...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ふむふむ、なるほど……\\n　ここは分割して、後から接合するしか\\n　なさそうですね……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But if we do that, we'll have problems with the\\nweight. If it's too heavy...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「しかし、そうすると重量の問題が出てくる。\\n　あまり重くすると……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The conversation moves on to things that we don't\\nunderstand.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺たちにはわからない会話が展開されている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0050": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Amane, when it comes to making the main wings,\\ndo you think you could leave it to me?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「先輩。主翼造りなんですけど、\\n　わたしに任せてもらえませんか？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0051": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sure, I don't mind.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ああ、かまわないぞ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0052": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...It would be better than me making it, right?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……私がやるよりいいだろうからな」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0053": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Thank you! Kotori...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ありがとうございます！\\n　羽々音さん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0054": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori is surprised to hear her name called out\\nall of a sudden.",
+                "name": ""
+            },
+            "jp": {
+                "line": "いきなり名前を呼ばれて、小鳥がビクッとする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0055": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I think it's about time for them to start being\\nmore friendly towards each other but...",
+                "name": ""
+            },
+            "jp": {
+                "line": "そろそろ慣れてもいい頃だと思うんだが……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0056": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Y...yes, what is it?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「な、なにかしら？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0057": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You can help too, Kotori.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「羽々音さんも手伝ってね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0058": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Of course, that's what I was planning to do.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「もちろん、そのつもりよ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0059": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll help too.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺も手伝うぞ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm...we only really need you when we need an\\nextra pair of hands. You should make the\\nsimulator your priority.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「んー……碧はいいや、手が足りない時だけで。\\n　シミュレータの方、優先して」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori gives me an uneasy glance.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥が不安そうにチラッと俺を見る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll leave it to you two then.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「まかせた」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh...yes, leave it to us.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「お、おお、任された」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "With that, Ageha became the one in charge of\\nmaking the main wings, and then got to work on\\nmaking them.",
+                "name": ""
+            },
+            "jp": {
+                "line": "というわけで、あげはが現場監督になり、主翼製作がスタートした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, let's do this the way we were taught.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「じゃあ、教えた通りやってみよっか」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0060": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'First...make the shape using the Styrofoam...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「まず……発泡スチロールで型を作る……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0061": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'However, the polyester resin melts the\\nStyrofoam, so before we use that, it needs to be\\ncoated...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「けど、ポリエステル樹脂が\\n　発泡スチロールを溶かすから\\n　先に上からコーティング……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0062": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Until just now, Kotori had been taking Ageha's\\nimpromptu FRP course.",
+                "name": ""
+            },
+            "jp": {
+                "line": "さっきまで小鳥は、あげはの即席ＦＲＰ講座を受けていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0063": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She had been seriously taking notes, and reads\\nthem back as they proceed with the work.",
+                "name": ""
+            },
+            "jp": {
+                "line": "生真面目な小鳥はそれを全部ノートにとっていて、それを読み返しながら作業を進めていく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0064": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "By the way, for now, it's just practice, so they\\nare trying to make something not related to the\\nmain wings.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ちなみに、今はまだ練習なので、主翼とは関係のない物を試しに造ってみているところだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0065": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We begin with laying out the fiberglass, and\\napply the polyester resin with a roller...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「先にガラスマットを敷いて、\\n　その上からポリエステル樹脂を\\n　ローラーでコロコロと……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0066": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, that's no good. You have to roll it in more\\nfirmly.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あー、ダメダメ。\\n　もっとしっかり塗り込まないと」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0067": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I...I am.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「や、やってるわよ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0068": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When you get to the corner, use a brush. Don't\\napply too much resin.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「隅っこの方は{刷毛:はけ}を使って。\\n　樹脂をつけすぎないで」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0069": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I know that, geez, shut up...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「わかってるわよ、\\n　うるさいなぁ……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If we leave bubbles, it will create cavities,\\nand that will cause it to become weaker.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「気泡が残ってると空洞ができて、\\n　そこだけ強度が弱くなっちゃう」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If that happens, they will break, again.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そしたら、{また:・・}折れちゃうんだから」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As Amane stood beside me, teaching me about\\npiloting, she seemed to have a hurt expression on\\nher face.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺の横で操縦について教えてくれていた天音先輩が、そこはかとなく傷付いた顔をする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Are you OK, Amane?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……大丈夫ですか、先輩？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, I'm fine...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「うん、平気だ……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0070": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "she answered, still with that hurt look about\\nher.",
+                "name": ""
+            },
+            "jp": {
+                "line": "と、やっぱり傷付いた顔で答える。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0071": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It seems like Amane has a complex about her lack\\nof dexterity.",
+                "name": ""
+            },
+            "jp": {
+                "line": "手先の不器用さは天音先輩のコンプレックスらしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0072": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane and I were doing pilot training using the\\nsimulator.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺と天音先輩は、シミュレータで操縦の訓練をしていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0073": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When turning, if the steering on the rudder is\\nreduced, or the timing is too slow, it can cause\\nit to slip in.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「旋回中、ラダーの操舵量が少なかったり\\n　タイミングが遅いと、内滑りを起こす」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0074": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'On the other hand, if you use the rudder too\\nmuch, or the timing is too fast, it can slip\\nout.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「逆にラダーを使いすぎたりタイミングが早いと、\\n　外滑りする」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0075": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Slipping in or slipping out are the terms used to\\nrefer to diagonal movement of the glider.",
+                "name": ""
+            },
+            "jp": {
+                "line": "内滑りや外滑りは、グライダーが斜めに移動しているような状態を言う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0076": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This is caused when you are trying to turn but\\nthe nose is not pointing in the right direction.",
+                "name": ""
+            },
+            "jp": {
+                "line": "旋回しようとしているのに、頭がちゃんとそっちに向いていないと起こる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0077": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'With slipping in or out, the glider no longer\\nfaces in the direction of the relative wind,\\nwhich causes a reduction in lift.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「内滑りも外滑りも、\\n　相対風に対してグライダーの向きがずれるから、\\n　揚力の低下が発生してしまう」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0078": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That means that if the glider is moving through\\nthe air at a decent speed, even if there is no\\nwind at all, it is still the same as if it were\\ntaking wind from the direction in which it is\\nmoving.",
+                "name": ""
+            },
+            "jp": {
+                "line": "グライダーはそれなりの速度で空気中を移動しているので、仮に完全な無風状態でも、進行方向から風を受けているのと同じことになる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0079": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That is what is known as 'relative wind'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "これを相対風と言う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "So, if the glider is moving diagonally, the wind\\nhits it diagonally too.",
+                "name": ""
+            },
+            "jp": {
+                "line": "グライダーが斜めに移動するということは、風を斜めに受けることになるわけだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This means, if the glider takes the wind from the\\nfront, the functions of that aircraft are\\nmaximized.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして、グライダーは正面から風を受けた時、その機能を最大限に発揮するようにできている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When Amane says that there will be a 'reduction\\nin lift', it's because it cannot take the wind\\ndirectly from the front.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩の言う“揚力の低下”は、風を正面から受けられないことで発生してしまうのだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Even without that, lift is reduced when turning\\nanyway, so if it slips in or out, you lose a lot\\nof speed.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「旋回中はそうでなくても揚力が低下するから、\\n　内滑りや外滑りをすると、\\n　かなりの高度をロスすることに……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Excuse me.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「失礼します」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Akari Kumoi, the vice president of the student\\ncouncil entered the garage.",
+                "name": ""
+            },
+            "jp": {
+                "line": "副会長の雲居朱莉さんが、ガレージに入ってきた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0080": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hi, vice president.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「やあ、副会長」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0081": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hello Mochizuki-senpai. Also...'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「こんにちは、望月先輩。\\n　それから……」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0082": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hi.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ども」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0083": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Our eyes meet, so I lower my head in a bow.",
+                "name": ""
+            },
+            "jp": {
+                "line": "目が合ったので、ぺこりと頭を下げる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0084": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hello, Aoi.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「こんにちは、水瀬くん」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0085": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Akari looks around the garage and nods with\\napproval.",
+                "name": ""
+            },
+            "jp": {
+                "line": "朱莉さんはガレージ内を見渡すと、満足げに頷く。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0086": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It looks like you are working hard.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「ちゃんと活動なさっているようですね」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0087": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah. Just like real club activities.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ああ。\\n　まるで部活のようだろう」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0088": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "she says with pride, because these are club\\nactivities after all.",
+                "name": ""
+            },
+            "jp": {
+                "line": "自慢げに言うが、ようだもなにもこれは部活だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0089": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Anyway, do you need something?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ところで、なにか用かい？」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I just came to see how things are going. Things\\nweren't too great last time.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「少し様子を見に来たんです。\\n　あの時は、状況が状況だったので」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'As you can see, we are doing very well.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「この通り、上手くやってますよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yes, I can see that...'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「ええ、見ればわかるわ」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...",
+                "name": ""
+            },
+            "jp": {
+                "line": "…………。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "For some reason, I feel that she has a bit of a\\nsharp tongue when talking to me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "なんかこの人、俺に対してだけ言葉に刺がある気が……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It seems like vice president Akari Kumoi is\\nlooking at me like she's assessing me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "雲居朱莉副会長様は、俺のことをじっと観察するように見る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0090": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'(He really does have a trusting face. He doesn't\\nseem like a bad guy... but I'd better be\\ncareful.)'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「（たしかにお人好しそうな顔してるわね。\\n　悪人ではなさそうだけど……油断ならないわ）」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0091": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...What is it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……なにか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0092": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, it's nothing.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「いえ、なんでも」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0093": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Does she have a problem with me?",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺、なんか嫌われるようなことしたかな？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0094": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Akari heads over to the other two working at the\\nback of the garage.",
+                "name": ""
+            },
+            "jp": {
+                "line": "朱莉さんは、ガレージの奥で作業していた二人のところへ足を向ける。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0095": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'May I take a look at that?'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「少し、見せてもらってもいいかしら」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0096": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, Akari. Go ahead.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「朱莉さん。\\n　どうぞどうぞ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0097": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...How about this one?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……こんなもんでどうかしら」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0098": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yes, that looks good.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「うん、いいんじゃないかな」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0099": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's FRP, isn't it? What are you making?'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「これはＦＲＰね。\\n　何を作っているの？」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'A dish.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「お皿よ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'A dish?'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「お皿？」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We're practicing. We want to make the wings of a\\nglider but we can't start doing that straight\\naway because if we mess it up, there'll be\\nproblems.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「練習してるんです。\\n　グライダーの翼を造るんですけど、\\n　いきなり本番じゃ失敗した時困るんで」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Now we have to wait for it to harden. Then, we\\npolish it, then add the color...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「あとはこれが固まるのを待つのよね。\\n　そしたら、磨いて、色を塗って……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori mumbled to herself as she checked her\\nnotes.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥がメモしたノートを確認しながらつぶやく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Kotori, once you've finished using the roller\\nand the brush, you should wash them quickly.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「羽々音さん。\\n　使い終わったローラーや{刷毛:はけ}は、\\n　すぐ洗い流した方がいいわ」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The resin will harden, and you won't be able to\\nuse them anymore.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「樹脂が固まってしまうと、\\n　使えなくなってしまうから」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, really?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「そうだったっ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori hurriedly goes to wash them.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥が慌てて洗いに行く。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That was a close one, she almost ruined some of\\nthe equipment we had just bought.",
+                "name": ""
+            },
+            "jp": {
+                "line": "危うく、買ったばかりの部の備品をダメにするところだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Also, the resin mixed with curing agent dries\\nmore easily at high temperatures so the container\\nshould be put in a cool place in the shade.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「それから、硬化剤を混ぜた樹脂は\\n　温度が高いほど固まりやすいから、\\n　容器はなるべく日陰か涼しい場所におくといいわ」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ふむふむ……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori wiped her wet hands on her skirt, and made\\na note of Akari's advice.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥は、濡れた手をお行儀悪くスカートで拭いて、朱莉さんのアドバイスをノートにメモする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It will take a long time to make the main wings,\\nso we have to think about things like that...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「主翼造りは長丁場になるから、\\n　そういうことも考えておかないといけないんだね……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha also looks like she's thinking seriously.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはも真面目な顔して考えこむ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "After confirming that the other two were doing\\nproper club activities, relieved, she came back\\nover to us.",
+                "name": ""
+            },
+            "jp": {
+                "line": "二人がちゃんと部活らしい活動をしてるのを確認した朱莉さんは、安心した様子でこっちへ戻ってきた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00aa": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's going well, isn't it?'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「上手くいっているようですね」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ab": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ああ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ac": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane answered proudly. She looked happy to be\\npraised like that.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩が自慢げに答える。\\n褒められて嬉しい、って顔だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ad": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Anyway, there was actually one other reason I\\ncame here.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「ところで、実はもう一つ用件があるんです」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ae": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「？」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00af": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Have you decided a person to be second in\\ncharge?'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「副部長を決めていただけないでしょうか？」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Second in charge?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「副部長？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The other two working at the back of the garage\\nstop and turn their attention this way.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ガレージの反対側で作業していた二人も、手を止めてこっちに注目する。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yes.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「ええ」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Mochizuki-senpai, you are very talented but...\\nthere may be times when you can't do all of the\\nwork yourself, correct?'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「望月先輩はとても有能な方ですが……\\n　お一人では手が回らない場合もあるでしょう？」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'At those times, it's extremely helpful to have\\nsomeone like that around.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「そんな時、どなたかいていただいた方が、\\n　こちらとしても助かります。非常に」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Apart from Amane, everyone made a face that\\nseemed to say 'Oh, I see'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩以外、みんなして「あー」と納得顔になる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's probably not just Akari, but all the other\\nstudent council members in the past would also\\nhave had trouble with Amane.",
+                "name": ""
+            },
+            "jp": {
+                "line": "恐らく朱莉さんをはじめ、歴代の生徒会執行部の方たちは、天音先輩相手に手を焼いてきたのだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She's very... unique, so sometimes she expresses\\nideas that differ from the general social norms.",
+                "name": ""
+            },
+            "jp": {
+                "line": "この人はとても……ユニーク……な人なので、時々、一般社会通念から逸脱した考えを示すことがある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "There was the issue with the club losing its\\nstatus the other day, and the fact that she keeps\\nrepeating the year is a prime example of her\\nuniqueness.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先日の廃部騒ぎの時もそうだったし、超留年してることなんて、その最たる例だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She's trying to say that she would like someone\\nto act as a middle-man, to keep things running\\nsmoothly, like a manager.",
+                "name": ""
+            },
+            "jp": {
+                "line": "間に立って円滑に物事を進める、いわばマネージャがいてくれるとありがたい、ってことだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ba": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'(But what you really mean, is that you need\\nsomeone to act as a mediator, right?)'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「（でもそれって、\\n　実質的なまとめ役だよな）」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "From the few days that I have spent with Amane,\\nit seems that she isn't suited to being any sort\\nof mediator.",
+                "name": ""
+            },
+            "jp": {
+                "line": "数日一緒に過ごしてみてわかったのは、天音先輩はまとめ役には、たぶん向いてないってことだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She decides the club's principles and therefore,\\nthe reason for it to exist, whereas the second in\\ncharge is needed to bring everyone together to\\ncarry that out.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩が活動方針や、さらにはこの部の存在意義を決める人だとして、それを実行するためにみんなをまとめる役目が、副部長には求められるだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, I understand. I will choose someone.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ああ、わかった。\\n　決めておくよ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00be": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That would be helpful.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「助かります」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bf": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Akari seemed relieved as she nodded, and then\\nglanced at me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ホッとした様子で頷いてから、朱莉さんはまた俺をチラッと見た。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'(...As I thought, she may choose Aoi Minase.)'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「（……やはり、この水瀬碧が、\\n　選ばれてしまうのかしら）」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'(According to Kanako, he's popular, good at\\ntaking action...not bad looking...)'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「（佳奈子さんの話では人望はあるようだし、\\n　行動力にも富んでいる……ルックスも悪くは……）」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'(...Oh, what am I thinking!?)'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「（って、何を考えているの私はっ！）」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Umm...what were you talking about there?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あのぉ……さっきから、なんですか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh?'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「え？」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You were saying something about me, and looked\\nlike you were glancing over at me...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんか俺のこと、\\n　チラチラ見てるみたいだったから……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I wasn't looking at you! You're too\\nself-conscious, Aoi!'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「み、見てないわ！\\n　自意識過剰よ、水瀬くんっ」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I was just looking at the Soaring Club's\\nactivities, that's all.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「私は、ソアリング部の活動状況を、\\n　見ていただけです」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, I see... Sorry.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そ、そうですか……すみません」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "So, actually, she wasn't just glancing at me, she\\nwas staring...",
+                "name": ""
+            },
+            "jp": {
+                "line": "実際はチラチラどころじゃなく、ジロジロ見られてたんだけどなぁ……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ca": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, that's all for now.'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「では、私はこれで」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Now that she had finished what she had come to\\ndo, Akari left in a hurry...",
+                "name": ""
+            },
+            "jp": {
+                "line": "用件を済ませた朱莉さんは、そそくさと退散して……",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'EEK!'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「キャッ！？」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "On the way out, she tripped over a cardboard box.",
+                "name": ""
+            },
+            "jp": {
+                "line": "途中、段ボールに{蹴躓:けつまづ}いて、",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ce": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Geez, what's this box doing here!?'",
+                "name": "Akari"
+            },
+            "jp": {
+                "line": "「もぉ、なによこの段ボールっ」",
+                "name": "朱莉"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cf": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Once more, she went to leave.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今度こそ退散していった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What was that all about?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「なにあれ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I dunno. Maybe she has a thing for Aoi?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「さあ。\\n　碧に気があるんじゃない？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh!?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「えっ！？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ohhhh.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ほう」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why are you saying that all of a sudden?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いきなり何言い出すんだっ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The vice president was looking at you the whole\\ntime.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「だから副会長は、\\n　碧くんのことをずっと見てたのか」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I thought she was looking!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「やっぱり見てたんだ！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So there's something going on?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「これはあるね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, there isn't, really! C'mon, let's all get\\nback to work!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ないない！\\n　ほら、さっさと続きしろよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I try to get them to drop it, then Ageha and\\nKotori return to their work.",
+                "name": ""
+            },
+            "jp": {
+                "line": "適当に追い散らすと、あげはたちは作業場に戻っていく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00da": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'He's blushing a little, isn't he?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「あいつ、ちょっと赤くなってない？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00db": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'He is. Akari is pretty though.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「だね。\\n　朱莉さん、キレイだもん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00dc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I can hear you...",
+                "name": ""
+            },
+            "jp": {
+                "line": "聞こえてるよ……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00dd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Amane, what are you going to do about that thing\\nthe vice president was talking about just now?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「先輩、さっき言ってた副部長の件は、\\n　どうするんですか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00de": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm not sure. Is there anyone who wants to do\\nit?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「どうしようかなぁ。\\n　誰かやりたい人はいるかい？」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00df": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The two other girls look at each other for some\\nreason, then look at me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "女子二人はなんとなくお互いを見た後、俺に視線を向けた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ふむ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Me!?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's what it looks like.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「なんとなく」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's what it looks like.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「なんとなく」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You can't decide something like that by saying\\n'That's what it looks like'! Let's think about\\nthis, Amane!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんとなくで決めることじゃないだろっ。\\n　もっとじっくり考えましょう、先輩」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, I will.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「うん、わかった」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "she said as I try to reach a resolution to the\\nproblem that I had brought up.",
+                "name": ""
+            },
+            "jp": {
+                "line": "と、自分で振った話題を自分で収束させる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What I mean is that everyone should keep\\nmumbling to themselves to a minimum and\\nconcentrate on the task at hand.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「というわけだから、\\n　各自、私語はほどほどにして、\\n　作業に専念すること」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...You sound like the second in charge already.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……もう副部長ヅラしてる」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'He's surprisingly motivated, isn't he?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あれは意外にやる気まんまんだね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ea": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I think that we should choose Aoi.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「碧くんでいいと思うんだけどなぁ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00eb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Everyone was muttering to themselves as they got\\nback to work.",
+                "name": ""
+            },
+            "jp": {
+                "line": "みんなぶつくさ言いながら、自分の作業へと戻っていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ec": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's about time for us to leave.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「もう帰らなきゃいけないのかぁ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ed": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I would've liked to have done a bit more work\\nthough. The quicker we complete this, the quicker\\nwe can fly it.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「もっと残って作業できればいいのに。\\n　そしたら、早く完成して早く飛べるのにな」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ee": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori murmured quietly to herself.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥がぶつくさとぼやく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ef": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The school closes at 6:30 PM, and if you wish to\\nstay longer, you need to submit a notice of\\nextension of club activities.",
+                "name": ""
+            },
+            "jp": {
+                "line": "夕方６時半が下校時間とされており、それ以降学校に残るには、部活の延長届けを出さなければならない決まりだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "However, I have my dorm mother work to do, Kotori\\nhas to help me with dinner, so we have to leave\\nat the usual time.",
+                "name": ""
+            },
+            "jp": {
+                "line": "しかし、俺には寮母の仕事があり、小鳥も夕飯作りの手伝いがあるので、通常の下校時間には帰らないといけない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Tomorrow, while continuing with the dish that we\\nwere trying out today, we can start making the\\nshape for the main wings!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「明日は、今日試しに作ったお皿の仕上げをしつつ、\\n　主翼の型作りに入ろう」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We'll soon be starting the real thing!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「いよいよ本番ってわけね！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If we rush it, it will snap again, which will be\\na big problem. Let's work on it with all due\\ncare.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「焦ってまた折れちゃったら困るから、\\n　慎重に作業を進めましょ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ええ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Today, at lunchtime, things still seemed awkward\\nbetween them, but after only half a day has\\npassed, they've really opened up to each other.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今日の昼頃は、まだぎこちない感じだった二人だけど、半日と経たずに打ち解けてしまったようだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'By the way, Aoi, what do you think of Akari?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ところで碧、\\n　朱莉さんのことどう思ってるの？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「は？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, that's right! I was thinking before that we\\nshould cross-examine you about this once club\\nactivities had finished!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「そうだった！\\n　部活終わったら問い詰めなきゃって思ってたのよ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What's this all about? I don't care, you don't\\nneed to cross-examine me.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんでだよっ、\\n　いいだろ別に問い詰めなくても！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fa": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'In that case, tell us about it!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「いいから聞かせなさいよ！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, tell us!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そーだそーだ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I can't believe these two...",
+                "name": ""
+            },
+            "jp": {
+                "line": "こいつら……",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, let's make a dash back home! All the\\nboarders are waiting with empty stomachs!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「さあ、ダッシュで帰るぞ！\\n　寮のみんながお腹を空かせて待ってる！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fe": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I ran as I pushed Kotori's wheelchair.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は小鳥の車椅子を押して走り出した。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ff": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, wait!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あ、待ちなさーい！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0100": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why are you covering it up!?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「なんでごまかすか！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0101": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I thought that somehow, these two might just get\\nalong really well.",
+                "name": ""
+            },
+            "jp": {
+                "line": "どうやら、この二人にあんまり仲良くなられるのも、考え物のようだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
     }
-]
+}

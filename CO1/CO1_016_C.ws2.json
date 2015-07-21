@@ -1,44 +1,110 @@
-[
-    {
-        "id": "0400",
-        "line": {
-            "en": "'No, I don't.'"
+{
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, I don't.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ちがいます」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "Without thinking, I bluntly reply and Amane seems\\na little hurt."
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Without thinking, I bluntly reply and Amane seems\\na little hurt.",
+                "name": ""
+            },
+            "jp": {
+                "line": "思わずきっぱりと答えると、先輩がちょっぴり傷付いたような顔をする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'Ah... Well I don't 'like' you in that way, I\\nmean!'"
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah... Well I don't 'like' you in that way, I\\nmean!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あっ、だから、そういう意味の\\n　“好き”じゃないってことで！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'I like being around you, and I like you in that\\nsense!'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I like being around you, and I like you in that\\nsense!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺、先輩と一緒にいて楽しいし、\\n　普通の意味では好きですよ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "As I hastily try to clarify things, Amane looks\\nlike she's relieved."
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I hastily try to clarify things, Amane looks\\nlike she's relieved.",
+                "name": ""
+            },
+            "jp": {
+                "line": "慌ててフォローすると、先輩はほっとしたような顔をする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'Me too. I like you, Aoi, and everyone else too.'"
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Me too. I like you, Aoi, and everyone else too.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「私もだ。碧くんも、みんなのことも好きだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     }
-]
+}

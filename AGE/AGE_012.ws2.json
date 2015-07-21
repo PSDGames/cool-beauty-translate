@@ -1,562 +1,1442 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "And then... in the evening of that day."
-        },
-        "name": ""
-    },
-    {
-        "id": "0400",
-        "line": {
-            "en": "'Well, I guess it's about time.'"
-        },
-        "name": "Ageha's mother"
-    },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'Yeah it is... ah, there it is!'"
-        },
-        "name": "Hotaru"
-    },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'Now for the local news.'"
-        },
-        "name": "Anchorwoman"
-    },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'This morning, local students succeeded in taking\\npictures of an extremely rare cloud.'"
-        },
-        "name": "Anchorwoman"
-    },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'This is the picture they took.'"
-        },
-        "name": "Anchorwoman"
-    },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'Why aren't Ageha and Aoi in it?'"
-        },
-        "name": "Ageha's mother"
-    },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'After that...'"
-        },
-        "name": "Hotaru"
-    },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'This is so amazing.'"
-        },
-        "name": "Anchorwoman"
-    },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'This long, horizontal cloud is known as the\\n\"Morning Glory\", and while it's been known to\\nappear in Australia, it's appearance in Japan\\ncomes as quite rare.'"
-        },
-        "name": "Meteorologist"
-    },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'Enough with the explanation, show our kids\\nalready!'"
-        },
-        "name": "Ageha's mother"
-    },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'Quiet mother!'"
-        },
-        "name": "Hotaru"
-    },
-    {
-        "id": "3000",
-        "line": {
-            "en": "'This is an extremely valuable picture.'"
-        },
-        "name": "Meteorologist"
-    },
-    {
-        "id": "3400",
-        "line": {
-            "en": "'It's said that the students who took this\\npicture flew on a glider that they made\\nthemselves.'"
-        },
-        "name": "Anchorwoman"
-    },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'Also, the glider's pilot is disabled and\\nnormally has to get around in a wheel chair.'"
-        },
-        "name": "Anchorwoman"
-    },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "'I guess that's Kotori. What a lovely child. Oh,\\nand there's Aoi in the back! Look! That's\\ndefinitely Aoi!'"
-        },
-        "name": "Ageha's mother"
-    },
-    {
-        "id": "4000",
-        "line": {
-            "en": "'No matter how you see it, he's one handsome guy\\nthat'll make a great husband someday. I'm looking\\nforward to that day. I wonder if he'll marry\\nright after graduating?'"
-        },
-        "name": "Ageha's mother"
-    },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'I told you to be quiet mom!'"
-        },
-        "name": "Hotaru"
-    },
-    {
-        "id": "4800",
-        "line": {
-            "en": "'... I still haven't given up hope yet.'"
-        },
-        "name": "Hotaru"
-    },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "... The hot summer began to cool and a new school\\nterm began."
-        },
-        "name": ""
-    },
-    {
-        "id": "5000",
-        "line": {
-            "en": "'I saw the news! How does it feel to be a big TV\\ncelebrity, Habane?'"
-        },
-        "name": "Girl in class A"
-    },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'You're a famous member of the Soaring Club!'"
-        },
-        "name": "Class girl B"
-    },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'Oh... thanks.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'What? Is something wrong?'"
-        },
-        "name": "Girl in class A"
-    },
-    {
-        "id": "6000",
-        "line": {
-            "en": "'What can I say... I guess I'm a bit burned\\nout... I feel kind of sluggish...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'Ah hah.'"
-        },
-        "name": "Class girl B"
-    },
-    {
-        "id": "6800",
-        "line": {
-            "en": "'And... I just feel as if the life's been sucked\\nout of me...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "'... It's those guys.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7000",
-        "line": {
-            "en": "'Heeey! Long time no see! I saw the news!'"
-        },
-        "name": "Boy in class A"
-    },
-    {
-        "id": "7400",
-        "line": {
-            "en": "'The Soaring Club sure is something!'"
-        },
-        "name": "Boy in class B"
-    },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'Nah, it's nothing special really.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'I saw Himegi on the news too!'"
-        },
-        "name": "Boy in class A"
-    },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'It was nothing, don't mention it.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'So, I heard you and Minase are close.'"
-        },
-        "name": "Boy in class B"
-    },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'Ugh, you're one lucky son of a bitch, Aoi!'"
-        },
-        "name": "Boy in class A"
-    },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'Nah, ahaha.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9000",
-        "line": {
-            "en": "'Well, I guess that means I've got a boyfriend.\\nThank you!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'Hey hey, don't say that so loud!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'Whatever, you know you like it.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'... This is too sweet. I think I'm getting a\\nheartburn.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'Uhh...'"
-        },
-        "name": "Girl in class A"
-    },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'You look great together. Maybe I'll try to find\\na boyfriend too.'"
-        },
-        "name": "Class girl B"
-    },
-    {
-        "id": "a800",
-        "line": {
-            "en": "'The Soaring Club has flying practice every\\nSaturday! Anybody interested should check it out!\\nWe're always looking for new members!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'... A firecracker as always.'"
-        },
-        "name": "Girl in class A"
-    },
-    {
-        "id": "b000",
-        "line": {
-            "en": "'What did you call me!? But yeah! No shortage of\\nenergy here!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "b400",
-        "line": {
-            "en": "'Oh, this is just the beginning! We're going to\\nbe flying for a long time! Listen up, everyone!\\nThe sky is wonderful!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "b800",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'How about that gap in level of enthusiasm?'"
-        },
-        "name": "Class girl B"
-    },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'It's nothing. It's just that he has a new goal,\\nthat's all.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "c400",
-        "line": {
-            "en": "'Right Ageha... so when is it going to be?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c800",
-        "line": {
-            "en": "'Here we go again...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "'What are you talking about?'"
-        },
-        "name": "Girl in class A"
-    },
-    {
-        "id": "d000",
-        "line": {
-            "en": "'Just listen to this. No matter how long I wait,\\nshe refuses to tell me that she likes me.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "d400",
-        "line": {
-            "en": "'At this point, I feel like saying it would mean\\nadmitting defeat.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "d800",
-        "line": {
-            "en": "'... Eh!? Does that mean you're still not going\\nto say it?'"
-        },
-        "name": "Class girl B"
-    },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "'Ridiculous! You have to at least give him that!'"
-        },
-        "name": "Girl in class A"
-    },
-    {
-        "id": "e000",
-        "line": {
-            "en": "'Ooo... Ageha...'"
-        },
-        "name": "Ageha's father"
-    },
-    {
-        "id": "e400",
-        "line": {
-            "en": "'You're always watching her. It's all you do.'"
-        },
-        "name": "Ageha's mother"
-    },
-    {
-        "id": "e800",
-        "line": {
-            "en": "'Am I supposed to just sit by and watch as\\nsomeone takes my daughter away?'"
-        },
-        "name": "Ageha's father"
-    },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "'At least it's Aoi and not some weirdo.'"
-        },
-        "name": "Ageha's mother"
-    },
-    {
-        "id": "f000",
-        "line": {
-            "en": "'This glider was improved thanks to the help of\\neveryone in the Keifuu Academy...'"
-        },
-        "name": "Anchorwoman"
-    },
-    {
-        "id": "f400",
-        "line": {
-            "en": "'Oh... this! This!'"
-        },
-        "name": "Meteorologist"
-    },
-    {
-        "id": "f800",
-        "line": {
-            "en": "'It's like a scene from a movie.'"
-        },
-        "name": "Anchorwoman"
-    },
-    {
-        "id": "fc00",
-        "line": {
-            "en": "'It's way too late to be showing something this\\ngreat on TV!'"
-        },
-        "name": "Boy in class A"
-    },
-    {
-        "id": "0100",
-        "line": {
-            "en": "'It'll blow you all away!'"
-        },
-        "name": "Boy in class B"
-    },
-    {
-        "id": "0500",
-        "line": {
-            "en": "'Ageha! Say it!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0900",
-        "line": {
-            "en": "'I'll say it when the world only has one day\\nleft.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0d00",
-        "line": {
-            "en": "'No, now! Say it right now!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1100",
-        "line": {
-            "en": "'...Aoi, I li...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1500",
-        "line": {
-            "en": "'Li!?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1900",
-        "line": {
-            "en": "'Li...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1d00",
-        "line": {
-            "en": "'Li...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2100",
-        "line": {
-            "en": "'Licked a toad when I was younger. I felt really\\nweird afterward.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2500",
-        "line": {
-            "en": "'Argh! How cruel can you be!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2900",
-        "line": {
-            "en": "'Hehehe. You're cute when you make that face.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2d00",
-        "line": {
-            "en": "'So, don't say that. L and I and K!!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3100",
-        "line": {
-            "en": "'L- Lithium and I- Iodine, K- Kalium and E-\\nEthanol...like the periodic table'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3500",
-        "line": {
-            "en": "'Sigh! At least I can say it. You know, that I\\nlove you. I can say it anytime and anywhere...!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3900",
-        "line": {
-            "en": "'Ahaha! We'll be together forever!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3d00",
-        "line": {
-            "en": "'Give me a break you two!!'"
-        },
-        "name": "Kotori"
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "And then... in the evening of that day.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして――その日の、夕方。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, I guess it's about time.'",
+                "name": "Ageha's mother"
+            },
+            "jp": {
+                "line": "「さあて、そろそろかな」",
+                "name": "姫城母"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah it is... ah, there it is!'",
+                "name": "Hotaru"
+            },
+            "jp": {
+                "line": "「そろそろ……あっ、出た！」",
+                "name": "ほたる"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Now for the local news.'",
+                "name": "Anchorwoman"
+            },
+            "jp": {
+                "line": "「では、地域のニュースです」",
+                "name": "女性キャスター"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This morning, local students succeeded in taking\\npictures of an extremely rare cloud.'",
+                "name": "Anchorwoman"
+            },
+            "jp": {
+                "line": "「今朝、地元の学生たちが、\\n　きわめて珍しい雲の撮影に成功しました」",
+                "name": "女性キャスター"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This is the picture they took.'",
+                "name": "Anchorwoman"
+            },
+            "jp": {
+                "line": "「これがその映像です」",
+                "name": "女性キャスター"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why aren't Ageha and Aoi in it?'",
+                "name": "Ageha's mother"
+            },
+            "jp": {
+                "line": "「なんだい、あげはや碧くんは映らないのかい」",
+                "name": "姫城母"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'After that...'",
+                "name": "Hotaru"
+            },
+            "jp": {
+                "line": "「このあと」",
+                "name": "ほたる"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This is so amazing.'",
+                "name": "Anchorwoman"
+            },
+            "jp": {
+                "line": "「すごいですね」",
+                "name": "女性キャスター"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This long, horizontal cloud is known as the\\n\"Morning Glory\", and while it's been known to\\nappear in Australia, it's appearance in Japan\\ncomes as quite rare.'",
+                "name": "Meteorologist"
+            },
+            "jp": {
+                "line": "「この横に長い雲は、モーニンググローリーと呼ばれ、\\n　オーストラリアで発生することは知られていましたが、\\n　それがこのように、日本で発生するとは――」",
+                "name": "気象学者"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Enough with the explanation, show our kids\\nalready!'",
+                "name": "Ageha's mother"
+            },
+            "jp": {
+                "line": "「いや、説明はいいからさ、ほらほら、\\n　うちの子たちを映しておくれよ」",
+                "name": "姫城母"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Quiet mother!'",
+                "name": "Hotaru"
+            },
+            "jp": {
+                "line": "「おかーさん、うるさい」",
+                "name": "ほたる"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This is an extremely valuable picture.'",
+                "name": "Meteorologist"
+            },
+            "jp": {
+                "line": "「これは本当に貴重な映像ですよ」",
+                "name": "気象学者"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's said that the students who took this\\npicture flew on a glider that they made\\nthemselves.'",
+                "name": "Anchorwoman"
+            },
+            "jp": {
+                "line": "「これを撮影した学生たちは、自作のグライダーで\\n　飛んだんだそうですよ」",
+                "name": "女性キャスター"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Also, the glider's pilot is disabled and\\nnormally has to get around in a wheel chair.'",
+                "name": "Anchorwoman"
+            },
+            "jp": {
+                "line": "「しかも、そのパイロットの一人は、歩行が不自由で、\\n　日常的に車椅子を使っており――」",
+                "name": "女性キャスター"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I guess that's Kotori. What a lovely child. Oh,\\nand there's Aoi in the back! Look! That's\\ndefinitely Aoi!'",
+                "name": "Ageha's mother"
+            },
+            "jp": {
+                "line": "「映ったと思ったら小鳥ちゃんかあ。あの子美人だもんねえ。\\n　おっ、後ろ、碧くんだよ！　ほらほら間違いない碧くんだ！」",
+                "name": "姫城母"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No matter how you see it, he's one handsome guy\\nthat'll make a great husband someday. I'm looking\\nforward to that day. I wonder if he'll marry\\nright after graduating?'",
+                "name": "Ageha's mother"
+            },
+            "jp": {
+                "line": "「いやあこうして見ても男前だねえいいお婿さんになるよ\\n　その日が楽しみだよ卒業したらすぐかな？」",
+                "name": "姫城母"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I told you to be quiet mom!'",
+                "name": "Hotaru"
+            },
+            "jp": {
+                "line": "「だからおかーさん、うるさい」",
+                "name": "ほたる"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'... I still haven't given up hope yet.'",
+                "name": "Hotaru"
+            },
+            "jp": {
+                "line": "「……わたし、まだあきらめてないからね」",
+                "name": "ほたる"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "... The hot summer began to cool and a new school\\nterm began.",
+                "name": ""
+            },
+            "jp": {
+                "line": "――熱い夏が終わり、新学期が始まった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I saw the news! How does it feel to be a big TV\\ncelebrity, Habane?'",
+                "name": "Girl in class A"
+            },
+            "jp": {
+                "line": "「ニュース見たよ！\\n　すごいね羽々音さん、テレビデビューだよ！」",
+                "name": "クラスの女子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You're a famous member of the Soaring Club!'",
+                "name": "Class girl B"
+            },
+            "jp": {
+                "line": "「ソアリング部、有名人になってるよ」",
+                "name": "クラスの女子Ｂ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh... thanks.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「あー……ありがとう……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What? Is something wrong?'",
+                "name": "Girl in class A"
+            },
+            "jp": {
+                "line": "「なんか、元気ない？」",
+                "name": "クラスの女子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What can I say... I guess I'm a bit burned\\nout... I feel kind of sluggish...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「何というか……燃え尽きちゃったかな……\\n　色々、だるいの……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah hah.'",
+                "name": "Class girl B"
+            },
+            "jp": {
+                "line": "「あらら」",
+                "name": "クラスの女子Ｂ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'And... I just feel as if the life's been sucked\\nout of me...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「それに……どうにも、気力が、吸われて……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'... It's those guys.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……あいつらに」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Heeey! Long time no see! I saw the news!'",
+                "name": "Boy in class A"
+            },
+            "jp": {
+                "line": "「おーっす、久しぶり！　見たぜ、ニュース！」",
+                "name": "クラスの男子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The Soaring Club sure is something!'",
+                "name": "Boy in class B"
+            },
+            "jp": {
+                "line": "「すげーな、ソアリング部！」",
+                "name": "クラスの男子Ｂ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Nah, it's nothing special really.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いやいや、まあまあ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I saw Himegi on the news too!'",
+                "name": "Boy in class A"
+            },
+            "jp": {
+                "line": "「姫城も、映ってたよな！」",
+                "name": "クラスの男子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It was nothing, don't mention it.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いやいや、どもども」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So, I heard you and Minase are close.'",
+                "name": "Boy in class B"
+            },
+            "jp": {
+                "line": "「で、水瀬とくっついた、と」",
+                "name": "クラスの男子Ｂ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ugh, you're one lucky son of a bitch, Aoi!'",
+                "name": "Boy in class A"
+            },
+            "jp": {
+                "line": "「けっ、水瀬このやろうらやましいやつ！」",
+                "name": "クラスの男子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Nah, ahaha.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いやー、あはは」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, I guess that means I've got a boyfriend.\\nThank you!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いやいやー、まあ、そういうことで、彼氏できましたー、\\n　ありがとー！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey hey, don't say that so loud!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「こらこら、そういうことあんまり大声で言うなよこのぉ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Whatever, you know you like it.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「やあん、碧だって、嬉しいくせにぃ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'... This is too sweet. I think I'm getting a\\nheartburn.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……ね。甘すぎて胸焼けが」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Uhh...'",
+                "name": "Girl in class A"
+            },
+            "jp": {
+                "line": "「あー……」",
+                "name": "クラスの女子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You look great together. Maybe I'll try to find\\na boyfriend too.'",
+                "name": "Class girl B"
+            },
+            "jp": {
+                "line": "「なんか、いいなー。あたしも彼氏作るかな」",
+                "name": "クラスの女子Ｂ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The Soaring Club has flying practice every\\nSaturday! Anybody interested should check it out!\\nWe're always looking for new members!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ソアリング部は、毎週土曜日、飛行練習してまーっす！\\n　興味ある人、見に来てね！　入部も歓迎だよ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'... A firecracker as always.'",
+                "name": "Girl in class A"
+            },
+            "jp": {
+                "line": "「……元気よね」",
+                "name": "クラスの女子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What did you call me!? But yeah! No shortage of\\nenergy here!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「お、呼んだ！？\\n　そうなの、元気いっぱいなの！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, this is just the beginning! We're going to\\nbe flying for a long time! Listen up, everyone!\\nThe sky is wonderful!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おう、これからこれから！　まだまだ飛ぶぜ！\\n　みんな、空はいいぞ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「…………」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'How about that gap in level of enthusiasm?'",
+                "name": "Class girl B"
+            },
+            "jp": {
+                "line": "「何なの、このテンションの差？」",
+                "name": "クラスの女子Ｂ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's nothing. It's just that he has a new goal,\\nthat's all.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いやー、新しい目標があるから、かな」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Right Ageha... so when is it going to be?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうだぞあげは、一体いつになったら！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Here we go again...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ま〜た始まった……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What are you talking about?'",
+                "name": "Girl in class A"
+            },
+            "jp": {
+                "line": "「何のこと？」",
+                "name": "クラスの女子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Just listen to this. No matter how long I wait,\\nshe refuses to tell me that she likes me.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いや聞いてくれよ、こいつさ、いつになっても、\\n　俺のこと好きって言ってくれないんだよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'At this point, I feel like saying it would mean\\nadmitting defeat.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ここまできたら、言ったら負けみたいな感じでさー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'... Eh!? Does that mean you're still not going\\nto say it?'",
+                "name": "Class girl B"
+            },
+            "jp": {
+                "line": "「……え！　まだ、言ってないわけ？」",
+                "name": "クラスの女子Ｂ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ridiculous! You have to at least give him that!'",
+                "name": "Girl in class A"
+            },
+            "jp": {
+                "line": "「ありえないよ！　あそこまでしておいて！」",
+                "name": "クラスの女子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ooo... Ageha...'",
+                "name": "Ageha's father"
+            },
+            "jp": {
+                "line": "「うう……あげはぁ……」",
+                "name": "姫城父"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You're always watching her. It's all you do.'",
+                "name": "Ageha's mother"
+            },
+            "jp": {
+                "line": "「お父さん、何回見てるんです、その場面ばっかり」",
+                "name": "姫城母"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Am I supposed to just sit by and watch as\\nsomeone takes my daughter away?'",
+                "name": "Ageha's father"
+            },
+            "jp": {
+                "line": "「娘を持っていかれて、悲しまない父親がいるか！」",
+                "name": "姫城父"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'At least it's Aoi and not some weirdo.'",
+                "name": "Ageha's mother"
+            },
+            "jp": {
+                "line": "「碧くんじゃないの、変な男よりずっといいわよ」",
+                "name": "姫城母"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This glider was improved thanks to the help of\\neveryone in the Keifuu Academy...'",
+                "name": "Anchorwoman"
+            },
+            "jp": {
+                "line": "「このグライダーは、恵風学園ソアリング部のみなさんが、\\n　自分たちで改良したもので……」",
+                "name": "女性キャスター"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh... this! This!'",
+                "name": "Meteorologist"
+            },
+            "jp": {
+                "line": "「おっと、これはこれは」",
+                "name": "気象学者"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's like a scene from a movie.'",
+                "name": "Anchorwoman"
+            },
+            "jp": {
+                "line": "「映画のワンシーンのようですね」",
+                "name": "女性キャスター"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's way too late to be showing something this\\ngreat on TV!'",
+                "name": "Boy in class A"
+            },
+            "jp": {
+                "line": "「あんなとこ、テレビで流されておいて、いまさらかよ！」",
+                "name": "クラスの男子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It'll blow you all away!'",
+                "name": "Boy in class B"
+            },
+            "jp": {
+                "line": "「爆発しやがれお前ら！」",
+                "name": "クラスの男子Ｂ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0041": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ageha! Say it!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あげは！　言ってくれ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0042": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll say it when the world only has one day\\nleft.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「明日で世界が終わる、っていう時になったら言ってあげる」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0043": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, now! Say it right now!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いや、今！　今すぐ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0044": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Aoi, I li...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……碧…………す」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0045": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Li!?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「す！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0046": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Li...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「す……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0047": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Li...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「す……！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0048": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Licked a toad when I was younger. I felt really\\nweird afterward.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「スズの金属特性ってなーんだ？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0049": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Argh! How cruel can you be!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「かーっ！　このいじめっ子！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hehehe. You're cute when you make that face.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「うふふっ。碧のそういう顔、可愛いっ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So, don't say that. L and I and K!!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だから、そうじゃなく！　ＳとＵ！　ＫとＩ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'L- Lithium and I- Iodine, K- Kalium and E-\\nEthanol...like the periodic table'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「硫黄とウラン、カリウムとヨウ素」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sigh! At least I can say it. You know, that I\\nlove you. I can say it anytime and anywhere...!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だーーーっ！　俺は言えるのに、お前のこと愛してるって\\n　いつでもどこでも言えるのにーーー！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ahaha! We'll be together forever!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あはは！　いつまでも、ずーっと、一緒だよ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Give me a break you two!!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「いい加減にしなさいあんたらーーーっ！！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
     }
-]
+}

@@ -1,583 +1,1496 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0400",
-        "line": {
-            "en": "'I opened my eyes.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0800",
-        "line": {
-            "en": "I close my eyes and roll over in bed, but it\\ndoesn't feel like my sleepiness is coming back."
-        },
-        "name": ""
-    },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "I sit up and open the curtains."
-        },
-        "name": ""
-    },
-    {
-        "id": "1000",
-        "line": {
-            "en": "The sky is still dark. I can see the stars\\ntwinkling."
-        },
-        "name": ""
-    },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1800",
-        "line": {
-            "en": "I take a look outside, and I see Kotori staring\\nup at the sky in the middle of the garden."
-        },
-        "name": ""
-    },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'How is it?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'Aoi... Oh, it doesn't look like anything's going\\nto happen.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'I see.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2800",
-        "line": {
-            "en": "I take a look at the sky."
-        },
-        "name": ""
-    },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "All I can see is the shining stars, with no sign\\nof the clouds we are looking for."
-        },
-        "name": ""
-    },
-    {
-        "id": "3000",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3400",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "3800",
-        "line": {
-            "en": "It was quiet."
-        },
-        "name": ""
-    },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "So quiet that it feels like we can hear the stars\\ntwinkling."
-        },
-        "name": ""
-    },
-    {
-        "id": "4000",
-        "line": {
-            "en": "'...Do you think it will happen?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'I don't know, but maybe.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4800",
-        "line": {
-            "en": "'If it really happens, this would be the best\\nsummer holiday ever.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "'Yeah.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5000",
-        "line": {
-            "en": "'But even if it were not to happen, it would\\nstill be the best summer holiday ever for me.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5400",
-        "line": {
-            "en": "Summer holidays are always fun, but this was so\\nfun it could be the best ever."
-        },
-        "name": ""
-    },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'Me too... I hadn't felt like this for a long\\ntime.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6000",
-        "line": {
-            "en": "'I'm sad to think that summer holidays will be\\nover...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'Is there anybody who doesn't feel like that?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6800",
-        "line": {
-            "en": "Kotori shakes her head."
-        },
-        "name": ""
-    },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "'Since I injured my legs, the end of summer\\nholidays mean the start of a new school term.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7000",
-        "line": {
-            "en": "'I have to go back to school which I hate so\\nmuch. That's why... I don't want it to end.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7400",
-        "line": {
-            "en": "'...That's the only reason.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'But now, it's different.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'This summer holiday is so fun... too fun, I\\ndon't want it to end.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8000",
-        "line": {
-            "en": "Summer will come again."
-        },
-        "name": ""
-    },
-    {
-        "id": "8400",
-        "line": {
-            "en": "As long as we are alive, dozens times more."
-        },
-        "name": ""
-    },
-    {
-        "id": "8800",
-        "line": {
-            "en": "But this year, the best summer holiday ever, will\\nonly happen once."
-        },
-        "name": ""
-    },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'It's not good, isn't it? For something to be so\\nfun. I think I'm gonna be burned out in the\\nsecond term.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9000",
-        "line": {
-            "en": "As I speak, Kotori giggles."
-        },
-        "name": ""
-    },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'You know, I think of Isuka as my friend too...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'Your friend?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "Kotori nods her head, looking quite embarrassed."
-        },
-        "name": ""
-    },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'Isuka wrote in her flight log '...At some point,\\nI won't be able to stay here', don't you\\nremember?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'Yeah, I remember.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a800",
-        "line": {
-            "en": "The same kind of thing was written several times."
-        },
-        "name": ""
-    },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'When I read that... it reminded me of myself.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "b000",
-        "line": {
-            "en": "'I feel the same way. Sometime, I have to leave\\nhere too...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "b400",
-        "line": {
-            "en": "Kotori, who is disabled, and didn't really fit\\ninto the class was seriously thinking about\\nquitting school around the time I came to the\\ndormitory."
-        },
-        "name": ""
-    },
-    {
-        "id": "b800",
-        "line": {
-            "en": "For a long time she felt like she 'had to get out\\nof there', and she felt the same thing when\\nreading Isuka's flight log."
-        },
-        "name": ""
-    },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'So, you copied her by making that list?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'The 'Things I want to do' list that Isuka wrote,\\nis something she pursue herself."
-        },
-        "name": ""
-    },
-    {
-        "id": "c400",
-        "line": {
-            "en": "'...Yeah.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "c800",
-        "line": {
-            "en": "'At that time, I didn't even have a single\\nfriend. So when I read Isuka's flight log, I\\nthought of her as my friend, and that... helped\\nease my loneliness.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "'Now that I think about it, it's pretty stupid.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "d000",
-        "line": {
-            "en": "'That's not true.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "d400",
-        "line": {
-            "en": "'Because you felt like that, we're here now.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "d800",
-        "line": {
-            "en": "'I guess so...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "'That's why I... Amane is different, but I feel\\nthat Isuka's dream is being fulfilled.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "e000",
-        "line": {
-            "en": "'As her friend...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "e400",
-        "line": {
-            "en": "'Really...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "e800",
-        "line": {
-            "en": "'Right...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "I also have special feelings about Isuka."
-        },
-        "name": ""
-    },
-    {
-        "id": "f000",
-        "line": {
-            "en": "She is Amane's best friend, and she left the\\nglider behind for us."
-        },
-        "name": ""
-    },
-    {
-        "id": "f400",
-        "line": {
-            "en": "Also, now I know that to Kotori, who was once so\\nlonely, She was like an invinsible friend."
-        },
-        "name": ""
-    },
-    {
-        "id": "f800",
-        "line": {
-            "en": "To Amane, Kotori and I, Isuka is a beloved\\nfriend."
-        },
-        "name": ""
-    },
-    {
-        "id": "fc00",
-        "line": {
-            "en": "That's why I feel like I owe a lot to Isuka."
-        },
-        "name": ""
-    },
-    {
-        "id": "0100",
-        "line": {
-            "en": "'Eh heh heh... I just confessed something quite\\nembarrassing.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "0500",
-        "line": {
-            "en": "'Then why do you look so happy?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0900",
-        "line": {
-            "en": "'...I wonder. I couldn't stop myself from telling\\nyou.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "0d00",
-        "line": {
-            "en": "'Isn't that because we're close friends?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1100",
-        "line": {
-            "en": "I said it as a joke, but Kotori, who's sitting in\\nher wheelchair, looks downwards."
-        },
-        "name": ""
-    },
-    {
-        "id": "1500",
-        "line": {
-            "en": "'R...right, maybe... (blushing)'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "1900",
-        "line": {
-            "en": "She looks kind of awkward and embarassed, but\\nhappily accepted me using the phrase 'close\\nfriend'."
-        },
-        "name": ""
-    },
-    {
-        "id": "1d00",
-        "line": {
-            "en": "'But the fact that I'm still here, and having\\nsuch an amazing summer, is all because of you,\\nAoi...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "2100",
-        "line": {
-            "en": "'Thank you...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "2500",
-        "line": {
-            "en": "'Sure.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2900",
-        "line": {
-            "en": "I meekly replied but inside, I answered 'That's\\nmy line'."
-        },
-        "name": ""
-    },
-    {
-        "id": "2d00",
-        "line": {
-            "en": "If it weren't for Kotori, I would never have come\\ninto contact with the glider."
-        },
-        "name": ""
-    },
-    {
-        "id": "3100",
-        "line": {
-            "en": "Even if I had come across it, it wouldn't have as\\nmuch fun."
-        },
-        "name": ""
-    },
-    {
-        "id": "3500",
-        "line": {
-            "en": "'It's dawn.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3900",
-        "line": {
-            "en": "The eastern sky has a kind of hazy brightness."
-        },
-        "name": ""
-    },
-    {
-        "id": "3d00",
-        "line": {
-            "en": "'Shall we get breakfast ready?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4100",
-        "line": {
-            "en": "'OK.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4500",
-        "line": {
-            "en": "Everyone will be getting up soon."
-        },
-        "name": ""
-    },
-    {
-        "id": "4900",
-        "line": {
-            "en": "Then, another busy day will begin."
-        },
-        "name": ""
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「…………」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I opened my eyes.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「目が覚めちまった」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I close my eyes and roll over in bed, but it\\ndoesn't feel like my sleepiness is coming back.",
+                "name": ""
+            },
+            "jp": {
+                "line": "まぶたを閉じてベッドで寝返りをうつけど、眠気が戻ってくる気配はない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I sit up and open the curtains.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は上体を起こして、カーテンに手をかけた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The sky is still dark. I can see the stars\\ntwinkling.",
+                "name": ""
+            },
+            "jp": {
+                "line": "空はまだ暗い。\\n星が瞬いて見えた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I take a look outside, and I see Kotori staring\\nup at the sky in the middle of the garden.",
+                "name": ""
+            },
+            "jp": {
+                "line": "外へ出てみると、庭の真ん中で、小鳥が空を見上げていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'How is it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「どうだ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi... Oh, it doesn't look like anything's going\\nto happen.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「碧くん……。\\n　ううん、なんにもなさそう」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I take a look at the sky.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺も空を見る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "All I can see is the shining stars, with no sign\\nof the clouds we are looking for.",
+                "name": ""
+            },
+            "jp": {
+                "line": "星が{煌:きら}めくばかりで、それらしい雲の影は見えない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It was quiet.",
+                "name": ""
+            },
+            "jp": {
+                "line": "静かだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "So quiet that it feels like we can hear the stars\\ntwinkling.",
+                "name": ""
+            },
+            "jp": {
+                "line": "星々の瞬く音が聞こえてきそうなくらい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Do you think it will happen?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……くると思う？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I don't know, but maybe.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「さあ、どうかな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If it really happens, this would be the best\\nsummer holiday ever.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「きてくれたら、最高の夏休みになるのに」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But even if it were not to happen, it would\\nstill be the best summer holiday ever for me.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「けど、もしこなくても、\\n　最高の夏休みだよ、俺にとっちゃ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Summer holidays are always fun, but this was so\\nfun it could be the best ever.",
+                "name": ""
+            },
+            "jp": {
+                "line": "夏休みってのはいつだって楽しいものだが、今年の夏は最高って言えるくらい楽しかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Me too... I hadn't felt like this for a long\\ntime.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「私も……。\\n　こんな気分になるのは久しぶり」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm sad to think that summer holidays will be\\nover...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「夏休みが終わるのが寂しい……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Is there anybody who doesn't feel like that?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうじゃない奴なんているのか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori shakes her head.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥は首を振る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Since I injured my legs, the end of summer\\nholidays mean the start of a new school term.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「足を怪我してからずっと、\\n　私にとって夏休みの終わりは、\\n　新学期の始まりだった」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I have to go back to school which I hate so\\nmuch. That's why... I don't want it to end.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「また嫌で嫌でしょうがない学校が始まっちゃう。\\n　だから……終わってほしくなかった」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...That's the only reason.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……ただ、それだけ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But now, it's different.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「けど、今は違うの」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This summer holiday is so fun... too fun, I\\ndon't want it to end.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「夏休みが楽しいから……楽しすぎて、\\n　終わってほしくない」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Summer will come again.",
+                "name": ""
+            },
+            "jp": {
+                "line": "夏はまた巡ってくる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As long as we are alive, dozens times more.",
+                "name": ""
+            },
+            "jp": {
+                "line": "生きてる限り、あと何十回と。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But this year, the best summer holiday ever, will\\nonly happen once.",
+                "name": ""
+            },
+            "jp": {
+                "line": "けど今年の、この最高の夏は、一度きりだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's not good, isn't it? For something to be so\\nfun. I think I'm gonna be burned out in the\\nsecond term.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ちょっとやばいよな、楽しすぎて。\\n　俺も２学期になったら燃え尽きてそう」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I speak, Kotori giggles.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺の言いぐさに、小鳥がくすりと笑う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You know, I think of Isuka as my friend too...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「私ね、イスカのこと、\\n　自分の友達みたいに思ってたの……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Your friend?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「友達？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori nods her head, looking quite embarrassed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥が、恥ずかしそうに頷く。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Isuka wrote in her flight log '...At some point,\\nI won't be able to stay here', don't you\\nremember?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「イスカが航行日誌に、\\n　“いつかここからいなくなる”\\n　って書いてたの覚えてる？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, I remember.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ああ、覚えてるよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The same kind of thing was written several times.",
+                "name": ""
+            },
+            "jp": {
+                "line": "何度か似たような記述が出てきていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When I read that... it reminded me of myself.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「私ね、あれを読んで……\\n　自分のことみたいに思ってた」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I feel the same way. Sometime, I have to leave\\nhere too...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「私も同じように感じてたから。\\n　いつか自分はここを去るんだって……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori, who is disabled, and didn't really fit\\ninto the class was seriously thinking about\\nquitting school around the time I came to the\\ndormitory.",
+                "name": ""
+            },
+            "jp": {
+                "line": "足が不自由でクラスで浮いていた小鳥は、俺がこの寮に来た頃、退学することを真剣に考えていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "For a long time she felt like she 'had to get out\\nof there', and she felt the same thing when\\nreading Isuka's flight log.",
+                "name": ""
+            },
+            "jp": {
+                "line": "“去らねばならない予感”を、ずっと感じていた小鳥は、イスカさんの航行日誌を読んで、強く共感したんだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So, you copied her by making that list?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それで、真似してあんなリスト作ったのか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The 'Things I want to do' list that Isuka wrote,\\nis something she pursue herself.",
+                "name": ""
+            },
+            "jp": {
+                "line": "『やっておきたいこと』というイスカさんが書いたリストに、自分も追記していた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Yeah.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……うん」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'At that time, I didn't even have a single\\nfriend. So when I read Isuka's flight log, I\\nthought of her as my friend, and that... helped\\nease my loneliness.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「あの頃、私、友達なんて一人もいなかったから。\\n　イスカの日記を読んで、彼女を友達みたいに思って、\\n　それで……寂しさを紛らわせてたの」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Now that I think about it, it's pretty stupid.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「今思うと、バカみたいよね」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's not true.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうでもないさ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Because you felt like that, we're here now.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「その想いがあったから、\\n　いまここにいるんだから」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I guess so...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's why I... Amane is different, but I feel\\nthat Isuka's dream is being fulfilled.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「だから私……天音ちゃんとはまた別で、\\n　イスカの夢を叶えられたらって思ってる」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'As her friend...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「友達……として」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Really...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そっか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Right...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I also have special feelings about Isuka.",
+                "name": ""
+            },
+            "jp": {
+                "line": "イスカさんへの特別な想いは、俺の中にもある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She is Amane's best friend, and she left the\\nglider behind for us.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩の親友で、俺たちにグライダーを残してくれた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Also, now I know that to Kotori, who was once so\\nlonely, She was like an invinsible friend.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして、今知ったことだが、かつて小鳥の孤独を癒し、目に見えぬ友人となってくれた人。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "To Amane, Kotori and I, Isuka is a beloved\\nfriend.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩も小鳥も、俺にとって大切な親友だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That's why I feel like I owe a lot to Isuka.",
+                "name": ""
+            },
+            "jp": {
+                "line": "だから、イスカさんは俺にとっても恩人みたいなものだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Eh heh heh... I just confessed something quite\\nembarrassing.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「えへへ……\\n　恥ずかしいこと告白しちゃった」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0041": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Then why do you look so happy?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんで嬉しそうなんだよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0042": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...I wonder. I couldn't stop myself from telling\\nyou.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……なんでだろ。\\n　碧くんには、つい話しちゃうんだよね」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0043": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Isn't that because we're close friends?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「親友同士だからじゃないか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0044": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I said it as a joke, but Kotori, who's sitting in\\nher wheelchair, looks downwards.",
+                "name": ""
+            },
+            "jp": {
+                "line": "冗談めかして言うと、小鳥は車椅子の上で俯いてしまった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0045": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'R...right, maybe... (blushing)'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「そ、そうかも……（赤面）」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0046": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She looks kind of awkward and embarassed, but\\nhappily accepted me using the phrase 'close\\nfriend'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そんなに照れられると困るが、“親友”という言葉をすんなり受け入れてくれたのが嬉しかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0047": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But the fact that I'm still here, and having\\nsuch an amazing summer, is all because of you,\\nAoi...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「私がまだここにいて、\\n　こうして素敵な夏を過ごせてるのは、\\n　全部、碧くんのおかげ……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0048": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Thank you...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ありがと……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0049": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sure.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ああ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I meekly replied but inside, I answered 'That's\\nmy line'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "素直に返事しながら、心の中で、\\n「それはこっちのセリフだよ」と返していた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If it weren't for Kotori, I would never have come\\ninto contact with the glider.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥がいなかったら、俺はグライダーとも出会ってなかったと思う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even if I had come across it, it wouldn't have as\\nmuch fun.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もし出会ってても、きっとこんなには楽しくなかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's dawn.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「夜が明けてきたな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The eastern sky has a kind of hazy brightness.",
+                "name": ""
+            },
+            "jp": {
+                "line": "東の空が、薄ぼんやりと明るくなってきていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Shall we get breakfast ready?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「朝飯の用意するか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0050": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0051": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Everyone will be getting up soon.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もうすぐみんな起きてくる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0052": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, another busy day will begin.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そうしたら、またにぎやかな一日の始まりだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
     }
-]
+}

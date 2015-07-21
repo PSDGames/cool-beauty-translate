@@ -1,422 +1,1082 @@
-[
-    {
-        "id": "0400",
-        "line": {
-            "en": "'She said she'd be finished soon, so I'll wait\\nhere.'"
+{
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'She said she'd be finished soon, so I'll wait\\nhere.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「すぐ終わるって言ってるし、\\n　ここで待ってるよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'I see. OK, I'm going on ahead.'"
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see. OK, I'm going on ahead.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「そう。\\n　じゃあ、私は先にいく」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "Kotori seemed a little disgruntled as she said\\nthat and went off without me."
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori seemed a little disgruntled as she said\\nthat and went off without me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "なんとなく不機嫌そうに言うと、小鳥は先にいってしまった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'...So I made her mad, huh?'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...So I made her mad, huh?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……怒らせちまったかな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "Well, that happens all the time."
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Well, that happens all the time.",
+                "name": ""
+            },
+            "jp": {
+                "line": "まあ、いつものことではある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'Sorry to keep you waiting. Huh? Where's Kotori?'"
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sorry to keep you waiting. Huh? Where's Kotori?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「おまたせー。\\n　あれ、羽々音さんは？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'She went on ahead.'"
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'She went on ahead.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「先いくって」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'Oh...'"
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そう……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'Hey, Aoi.'"
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Aoi.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ねえ、碧」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'Yeah?'"
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんだ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'About Kotori...'"
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'About Kotori...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「羽々音さんってさぁ……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "3000",
-        "line": {
-            "en": "'...What does she think of me?'"
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...What does she think of me?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……わたしのこと、どう思ってるのかな？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "3400",
-        "line": {
-            "en": "'Ah...'"
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あー」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "3800",
-        "line": {
-            "en": "I said 'Ah...' without thinking."
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I said 'Ah...' without thinking.",
+                "name": ""
+            },
+            "jp": {
+                "line": "思わず「あー」と言ってしまった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "'Does she really hate me, after all?'"
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Does she really hate me, after all?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「やっぱ、嫌われてる？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "4000",
-        "line": {
-            "en": "'I don't think that's it. She replies when you\\ngreet her.'"
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I don't think that's it. She replies when you\\ngreet her.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「んなことないと思うぞ。\\n　挨拶すりゃ返すし」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "4400",
-        "line": {
-            "en": "In Kotori's case, I'm pretty sure she wouldn't do\\nthat if she hated Ageha."
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In Kotori's case, I'm pretty sure she wouldn't do\\nthat if she hated Ageha.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あの子の場合、嫌ってたらそれすらしない気がする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4800",
-        "line": {
-            "en": "'But she gets along really well with you, right?'"
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But she gets along really well with you, right?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「でも、碧とは超仲良しだよね？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "'Really?'"
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Really?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "5000",
-        "line": {
-            "en": "'Kotori's the one you get along with best.'"
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Kotori's the one you get along with best.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「だってさ、碧が今一番仲いい子って、\\n　羽々音さんじゃん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'Well, we live in the same dorm.'"
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, we live in the same dorm.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「まあ、同じ寮に住んでるからなぁ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'Ryouko lives in Flying Fish Manor too, but you\\nhardly speak to her at school.'"
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ryouko lives in Flying Fish Manor too, but you\\nhardly speak to her at school.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「亮子もトビウオ荘だけど、\\n　学校じゃほとんど話さないじゃん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "Ryouko is one of the boarders and is in the same\\ngrade as us. She's also Ageha's friend."
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ryouko is one of the boarders and is in the same\\ngrade as us. She's also Ageha's friend.",
+                "name": ""
+            },
+            "jp": {
+                "line": "亮子さんはうちの寮生で、俺らと同学年。\\nあげはの友達でもある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6000",
-        "line": {
-            "en": "But I hardly ever speak to her at school."
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But I hardly ever speak to her at school.",
+                "name": ""
+            },
+            "jp": {
+                "line": "でも学校で話したことは、ほとんどない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'See?'"
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'See?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ほら」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "6800",
-        "line": {
-            "en": "'...Yeah, maybe you have a point. But what is\\nthis all of a sudden?'"
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Yeah, maybe you have a point. But what is\\nthis all of a sudden?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……まあ、そうかもな。\\n　でも、なんだよ急に」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "'Nothing really. I just wanted to say it.'"
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Nothing really. I just wanted to say it.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「べっつにー。\\n　言ってみただけ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "7000",
-        "line": {
-            "en": "'...Are you angry about it?'"
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Are you angry about it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……なんか怒ってる？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "7400",
-        "line": {
-            "en": "'I might be.'"
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I might be.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「かもね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'...Is this jealousy or something?'"
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Is this jealousy or something?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……それって、焼き餅みたいなもんか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'What?'"
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「はい？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'Well, you and I are childhood friends, and we've\\nbeen close ever since we were kids.'"
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, you and I are childhood friends, and we've\\nbeen close ever since we were kids.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いや、俺とおまえって、幼なじみで、\\n　ガキの頃からすげー仲よかったじゃん」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'I think of you as one of my best friends.'"
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I think of you as one of my best friends.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺、おまえのこと親友だって思ってたし」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "8800",
-        "line": {
-            "en": "If we're talking about when we were kids, Ageha\\nwas my very best friend."
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If we're talking about when we were kids, Ageha\\nwas my very best friend.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ガキの頃、俺にとって一番の親友と言えば、あげはだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "Even if there was a blank of five years, that\\nshouldn't have changed."
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even if there was a blank of five years, that\\nshouldn't have changed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "５年のブランクがある今でも、それは変わらないつもりだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9000",
-        "line": {
-            "en": "But in Ageha's eyes, recently, Kotori has been my\\nclosest friend."
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But in Ageha's eyes, recently, Kotori has been my\\nclosest friend.",
+                "name": ""
+            },
+            "jp": {
+                "line": "けど、あげはから見れば、俺は最近小鳥と一番仲が良いらしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9400",
-        "line": {
-            "en": "Sure, we do spend a lot of time together."
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Sure, we do spend a lot of time together.",
+                "name": ""
+            },
+            "jp": {
+                "line": "たしかに、一緒にいることが多い。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9800",
-        "line": {
-            "en": "That must be why she's feeling jealous."
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That must be why she's feeling jealous.",
+                "name": ""
+            },
+            "jp": {
+                "line": "だから焼き餅妬いてるんじゃないだろうか、と思ったわけだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'You're so full of it!'"
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You're so full of it!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「自惚れすぎ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'...is what I want to say, but maybe it's also\\nbecause...'"
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...is what I want to say, but maybe it's also\\nbecause...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……って言いたいところだけど、\\n　それもあるかなぁ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'It feels like Kotori is taking you away from\\nme,'"
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It feels like Kotori is taking you away from\\nme,'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「碧を羽々音さんにとられちゃった気分」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "a800",
-        "line": {
-            "en": "she says miserably."
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "she says miserably.",
+                "name": ""
+            },
+            "jp": {
+                "line": "情けなさそうに言う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'That's not really how I see it. I still think of\\nyou as my very best friend.'"
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's not really how I see it. I still think of\\nyou as my very best friend.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺、別にそんなつもりないぞ。\\n　おまえの事は、今でも一番の親友だって思ってるし」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "b000",
-        "line": {
-            "en": "'I'll help you when you're in trouble, the same\\nway you do for me.'"
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll help you when you're in trouble, the same\\nway you do for me.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺が困ってる時におまえが助けてくれたみたいに、\\n　おまえが困ってる時は俺が助ける」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "b400",
-        "line": {
-            "en": "'I want you to trust me a little more.'"
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I want you to trust me a little more.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そこんとこ、もうちょい信用しろ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "b800",
-        "line": {
-            "en": "Ageha looks at me like, 'How come we started\\ntalking about this?"
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha looks at me like, 'How come we started\\ntalking about this?",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはは、「いつの間にそんな話になったんだ？」って顔をしつつ、",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'Ah ha ha ha! What are you talking about?'"
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah ha ha ha! What are you talking about?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あははは、なに言い出すのよあんたはっ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'Geez, you're full of enthusiasm as always! Yep,\\nthat's cheered me up!'"
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Geez, you're full of enthusiasm as always! Yep,\\nthat's cheered me up!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いやー、相変わらず熱い子だねぇ碧は。\\n　うん、今ので元気出た♪」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "c400",
-        "line": {
-            "en": "'Oh, yeah? I'm glad.'"
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, yeah? I'm glad.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうか。\\n　ならよかった」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "c800",
-        "line": {
-            "en": "'But when you say I'm jealous, you might be\\nright.'"
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But when you say I'm jealous, you might be\\nright.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「でもさ、焼き餅と言われればその通りかもしれない」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "'I'm jealous of you.'"
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm jealous of you.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「わたし、碧に焼き餅妬いてんだ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "d000",
-        "line": {
-            "en": "'Me?'"
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Me?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺に？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "d400",
-        "line": {
-            "en": "'My plan to win Kotori over failed but she's\\ngetting along really well with you.'"
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'My plan to win Kotori over failed but she's\\ngetting along really well with you.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「だって、わたしの羽々音さん懐柔作戦は失敗したのに、\\n　碧とはあっさり仲良くなっちゃって」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "d800",
-        "line": {
-            "en": "'Maybe I lack charm...'"
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Maybe I lack charm...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「わたしって魅力ないのかなぁ〜」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "'Yeah, sometimes.'"
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, sometimes.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「たまたまだろ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "e000",
-        "line": {
-            "en": "'Aoi, you have the kind of charm that attracts\\npeople...'"
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi, you have the kind of charm that attracts\\npeople...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「碧には、人を惹き付ける魅力があるのよ……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "e400",
-        "line": {
-            "en": "'Just kidding!'"
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Just kidding!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「なんつって♪」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "e800",
-        "line": {
-            "en": "'What the hell?'"
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What the hell?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんだそりゃ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "'How can I get along with Kotori better?'"
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'How can I get along with Kotori better?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「どうすりゃ羽々音さんと仲良くなれるんだろ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "f000",
-        "line": {
-            "en": "Ageha put her hands on top of her head and let\\nout a sigh."
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha put her hands on top of her head and let\\nout a sigh.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはは頭の上で腕を組みながら、ため息混じりにうなった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     }
-]
+}

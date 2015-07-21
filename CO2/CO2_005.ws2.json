@@ -1,387 +1,992 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "Asa had become a member, so one of Akari's\\nconditions had been met, which meant there were\\ntwo left to fulfill."
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Asa had become a member, so one of Akari's\\nconditions had been met, which meant there were\\ntwo left to fulfill.",
+                "name": ""
+            },
+            "jp": {
+                "line": "亜紗ちゃんが仲間になったことで、朱莉さんから出された条件のうち、足りないものは残り２つとなった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0400",
-        "line": {
-            "en": "The lack of a teacher to act as advisor, and the\\nlack of qualified personnel."
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The lack of a teacher to act as advisor, and the\\nlack of qualified personnel.",
+                "name": ""
+            },
+            "jp": {
+                "line": "顧問の先生と、有資格者の不在。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "If the advisor is someone who has the\\nqualifications, that would fulfill both at the\\nsame time, but..."
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If the advisor is someone who has the\\nqualifications, that would fulfill both at the\\nsame time, but...",
+                "name": ""
+            },
+            "jp": {
+                "line": "有資格者の顧問がいれば、同時にクリアできるのだが……",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "That would be just too good to be true."
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That would be just too good to be true.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そんな都合よくいくわけもなく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'I'm sorry, I understand how you feel but I'm\\nalready advisor to the Drama Club.'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm sorry, I understand how you feel but I'm\\nalready advisor to the Drama Club.'",
+                "name": "Teacher"
+            },
+            "jp": {
+                "line": "「すまんなぁ、おまえたちの気持ちはわかるんだが、\\n　俺もう演劇部の顧問やってるから」",
+                "name": "先生"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Teacher"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'But you're not suited for drama!'"
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But you're not suited for drama!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「先生が演劇なんて似合わない！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'Yeah, she's right!'"
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, she's right!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そーだそーだ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'Alright, pipe down. Now, I'm a Keifuu Academy\\nteacher, but I really wanted to be involved in\\nthe arts.'"
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Alright, pipe down. Now, I'm a Keifuu Academy\\nteacher, but I really wanted to be involved in\\nthe arts.'",
+                "name": "Teacher"
+            },
+            "jp": {
+                "line": "「うるさいよ。\\n　俺は今でこそ恵風学園で教師やってるが、\\n　本当は芸術家志望だったんだ」",
+                "name": "先生"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Teacher"
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'The arts are great, you know. You guys should\\nstop making gliders and join the Drama Club.'"
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The arts are great, you know. You guys should\\nstop making gliders and join the Drama Club.'",
+                "name": "Teacher"
+            },
+            "jp": {
+                "line": "「芸術はいいぞー。\\n　おまえらもグライダーなんかやめて、\\n　演劇部に入れ」",
+                "name": "先生"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Teacher"
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'No way!'"
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No way!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「嫌です！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'I refuse!'"
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I refuse!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「お断りです！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'...I must say I'm a little hurt.'"
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...I must say I'm a little hurt.'",
+                "name": "Teacher"
+            },
+            "jp": {
+                "line": "「……先生ちょっと傷付いたぞ」",
+                "name": "先生"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Teacher"
+        "state": 0
     },
-    {
-        "id": "3000",
-        "line": {
-            "en": "The teacher left, hurt, and we all slouched\\nforward, dejected."
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The teacher left, hurt, and we all slouched\\nforward, dejected.",
+                "name": ""
+            },
+            "jp": {
+                "line": "傷付いた先生が去っていくと、俺たちは肩を落とした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3400",
-        "line": {
-            "en": "By the way, that was our homeroom teacher."
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "By the way, that was our homeroom teacher.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ちなみに今のは、俺たちの担任だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'So it's no good, after all.'"
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So it's no good, after all.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「やっぱダメかぁ〜」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "'This isn't going very well.'"
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This isn't going very well.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なかなか上手くいかないな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "4000",
-        "line": {
-            "en": "'All of the teachers, are already involved with a\\nclub.'"
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'All of the teachers, are already involved with a\\nclub.'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「どの先生も、もうどこかの部活を\\n　受け持っているんですね」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Asa"
+        "state": 0
     },
-    {
-        "id": "4400",
-        "line": {
-            "en": "said Asa as she looked at the list."
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "said Asa as she looked at the list.",
+                "name": ""
+            },
+            "jp": {
+                "line": "亜紗ちゃんが、リストを見ながら言う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4800",
-        "line": {
-            "en": "That is a list of teachers at Keifuu Academy that\\nAgeha had made."
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That is a list of teachers at Keifuu Academy that\\nAgeha had made.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それは、あげはが作ってきた恵風学園の先生のリストだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "It has information on their homeroom class, clubs\\nto which they are advisor, and whether or not\\nthey are on Tobioka-sensei's side."
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It has information on their homeroom class, clubs\\nto which they are advisor, and whether or not\\nthey are on Tobioka-sensei's side.",
+                "name": ""
+            },
+            "jp": {
+                "line": "担任してるクラス、顧問を受け持っているクラブ、そして飛岡派かそうじゃないかが書かれてある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5000",
-        "line": {
-            "en": "Today, using that list, we've been going around\\nand asking all the teachers who seem like they\\nmight cooperate with us."
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Today, using that list, we've been going around\\nand asking all the teachers who seem like they\\nmight cooperate with us.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今日はこのリストを元に、協力してくれそうな先生に声をかけてまわっていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'But you did really well to get all of this\\ninformation.'"
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But you did really well to get all of this\\ninformation.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「しかし、こんなのよく調べたな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'Don't underestimate my intelligence network!'"
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Don't underestimate my intelligence network!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あげはちゃんの情報網を甘くみないでよね♪」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'All we've got left is Yamanobe-sensei...'"
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'All we've got left is Yamanobe-sensei...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「あとは山野辺先生くらいか……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "6000",
-        "line": {
-            "en": "'We can't ask him. Even more of his hair will go\\nwhite!'"
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We can't ask him. Even more of his hair will go\\nwhite!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あの先生は無理だろ。\\n　また白髪が増えるぞ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'If that happens, he's in danger of his new wife\\ndivorcing him!'"
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If that happens, he's in danger of his new wife\\ndivorcing him!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そしたら、今度こそ新妻と離婚の危機に！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "6800",
-        "line": {
-            "en": "'Oh no...'"
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh no...'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「あわわ……」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Asa"
+        "state": 0
     },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "Our advisor last year, Yamanobe-sensei, is young\\nbut he's married."
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Our advisor last year, Yamanobe-sensei, is young\\nbut he's married.",
+                "name": ""
+            },
+            "jp": {
+                "line": "去年まで顧問をしてくれていた山野辺先生は、若いが結婚している。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7000",
-        "line": {
-            "en": "It seems that his wife is a slender, pretty\\nwoman. After seeing her husband, who she'd just\\nmarried, ageing right before her eyes, she\\nscreamed 'This shouldn't be happening!',\\napparently."
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It seems that his wife is a slender, pretty\\nwoman. After seeing her husband, who she'd just\\nmarried, ageing right before her eyes, she\\nscreamed 'This shouldn't be happening!',\\napparently.",
+                "name": ""
+            },
+            "jp": {
+                "line": "奧さんは細身で綺麗な人らしいが、まだ新婚間もない夫がみるみる老け込んでいくのを見て「こんなはずじゃなかった！」と叫んだそうだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7400",
-        "line": {
-            "en": "I guess I can understand how she feels."
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I guess I can understand how she feels.",
+                "name": ""
+            },
+            "jp": {
+                "line": "気持ちはわからないでもない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'She'll just have to accept it then.'"
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'She'll just have to accept it then.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「この際、そこは諦めてもらうしかないわ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'You can't just decide something like that.'"
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You can't just decide something like that.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「勝手に諦めさせるな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'Yeah, don't you feel sorry for her? His wife's\\nsaid to be very beautiful, you know?'"
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, don't you feel sorry for her? His wife's\\nsaid to be very beautiful, you know?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そうだよぉ、可哀想だよぉ。\\n　奧さん、美人だって噂なのに」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'So what are we gonna do?'"
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So what are we gonna do?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「じゃあどうするのよ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'Well...'"
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「それは……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'Hmm... Let's think of another way.'"
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm... Let's think of another way.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うーん……なんか他の方法を考えよう」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "9000",
-        "line": {
-            "en": "It's after school - We're taking a day off from\\nclub activities."
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's after school - We're taking a day off from\\nclub activities.",
+                "name": ""
+            },
+            "jp": {
+                "line": "放課後――今日の部活は休みということになっていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9400",
-        "line": {
-            "en": "The materials we ordered still haven't arrived,\\nso we've stopped working."
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The materials we ordered still haven't arrived,\\nso we've stopped working.",
+                "name": ""
+            },
+            "jp": {
+                "line": "注文した資材がまだ届いておらず、作業がストップしているのだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9800",
-        "line": {
-            "en": "Which is why, for the first time in a while,\\nwe've got nothing to do after school."
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Which is why, for the first time in a while,\\nwe've got nothing to do after school.",
+                "name": ""
+            },
+            "jp": {
+                "line": "というわけで、久しぶりにやることのない放課後。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'Ageha, you don't have any club activities today,\\ndo you? Let's stop by somewhere on the way home.'"
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ageha, you don't have any club activities today,\\ndo you? Let's stop by somewhere on the way home.'",
+                "name": "Girl in class A"
+            },
+            "jp": {
+                "line": "「あげはー、今日部活ないんでしょう？\\n　どっか寄ってこうよ」",
+                "name": "クラスの女子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Girl in class A"
+        "state": 0
     },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'Sorry, there's something I need to do.'"
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sorry, there's something I need to do.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ごめーん、用事あるんだ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "a400",
-        "line": {
-            "en": "Ageha refused the invitation of the girls in the\\nclass and came over to me."
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha refused the invitation of the girls in the\\nclass and came over to me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "クラスの女子たちの誘いを断ったあげはが、俺のところへくる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "a800",
-        "line": {
-            "en": "'Hey, Aoi. You're free now, aren't you? Come\\nshopping with me.'"
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Aoi. You're free now, aren't you? Come\\nshopping with me.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ねえ、碧。\\n　暇でしょ、買い物付き合ってよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'Where do you wanna go?'"
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Where do you wanna go?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「どこいくんだ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "b000",
-        "line": {
-            "en": "'To the underground shopping arcade at Windy.'"
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'To the underground shopping arcade at Windy.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ウィンディの地下街だけど」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "b400",
-        "line": {
-            "en": "'Umm...'"
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Umm...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うーん……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "b800",
-        "line": {
-            "en": "Kotori goes past us as we are talking."
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori goes past us as we are talking.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そんな話をしている横を、小鳥が通り過ぎていく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'Kotori, what are you up to?'"
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Kotori, what are you up to?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「小鳥ー、おまえはどうするんだ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'Me? I'm gonna stop by the secret base on the way\\nback.'"
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Me? I'm gonna stop by the secret base on the way\\nback.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「私？　秘密基地に寄って帰る」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "c400",
-        "line": {
-            "en": "'Huh? Why's that?'"
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh? Why's that?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「？　なんかあるのか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "c800",
-        "line": {
-            "en": "'There's a little something I want to do.'"
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There's a little something I want to do.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ちょっとだけやっときたいことがあるの」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "'I see...'"
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうか……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "d000",
-        "line": {
-            "en": "I wonder what Asa's up to."
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I wonder what Asa's up to.",
+                "name": ""
+            },
+            "jp": {
+                "line": "亜紗ちゃんはどうするんだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "d400",
-        "line": {
-            "en": "We've told her we're taking a day off, so perhaps\\nshe's gone somewhere to hang out with Yoru?"
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We've told her we're taking a day off, so perhaps\\nshe's gone somewhere to hang out with Yoru?",
+                "name": ""
+            },
+            "jp": {
+                "line": "休みとは伝えてあるので、依瑠ちゃんとどこか遊びにいくんだろうか？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "d800",
-        "line": {
-            "en": "'Hey, Aoi, come with me.'"
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Aoi, come with me.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ねえ、碧、付き合ってよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     }
-]
+}

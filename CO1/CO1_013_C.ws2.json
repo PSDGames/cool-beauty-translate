@@ -1,1927 +1,4952 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "'How are we going to do the flight training?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0400",
-        "line": {
-            "en": "Once all of us second-years had gathered, I asked\\nAmane that."
-        },
-        "name": ""
-    },
-    {
-        "id": "0800",
-        "line": {
-            "en": "Amane has been playing around with a bundle of\\ntangled PC cables, so we can only see her from\\nthe other side of the desk."
-        },
-        "name": ""
-    },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'By flying.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'Flying??'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1400",
-        "line": {
-            "en": "I imagined it would be something like... doing\\nweight training to build physical strength."
-        },
-        "name": ""
-    },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'But I still can't fly, can I?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "There's no way we can fly using those broken\\nwings..."
-        },
-        "name": ""
-    },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'Could you move those boxes that are over there\\nby the wall?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "2400",
-        "line": {
-            "en": "As requested, I tidy away the boxes piled up\\nagainst the wall of the garage."
-        },
-        "name": ""
-    },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'Whoa, there are piles of things. But, I don't\\neven know what they are.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "Since before Amane and the others started coming\\nhere, this garage has had many mysterious boxes\\nand antique parts left inside."
-        },
-        "name": ""
-    },
-    {
-        "id": "3000",
-        "line": {
-            "en": "'What's this? Why are a sword and spear in a\\nplace like this?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "3400",
-        "line": {
-            "en": "'There are some nunchucks over here.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'There's a broken toy gun too...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "Of course, the sword and the spear are well made\\nreplicas."
-        },
-        "name": ""
-    },
-    {
-        "id": "4000",
-        "line": {
-            "en": "As for the other things, if I had bought them, I\\nwould think"
-        },
-        "name": ""
-    },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'Why the hell did I buy this...?'"
-        },
-        "name": ""
-    },
-    {
-        "id": "4800",
-        "line": {
-            "en": "and would definitely regret buying them. There\\nare also many things that look like souvenirs,\\nthat were bought on school-leaving trips."
-        },
-        "name": ""
-    },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "I could easily tell that the members of long ago\\nmade this garage their own."
-        },
-        "name": ""
-    },
-    {
-        "id": "5000",
-        "line": {
-            "en": "'Finished.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'OK, turn off the lights.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "5800",
-        "line": {
-            "en": "As the lights were turned off, the inside of the\\ngarage became pitch-black."
-        },
-        "name": ""
-    },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "Amane was operating some kind of machine."
-        },
-        "name": ""
-    },
-    {
-        "id": "6000",
-        "line": {
-            "en": "Then, on the wall where all the boxes were\\nbefore, a PC screen appears."
-        },
-        "name": ""
-    },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'It's a projector.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6800",
-        "line": {
-            "en": "'Like in a movie theater...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "Are we going to watch an instructional video?"
-        },
-        "name": ""
-    },
-    {
-        "id": "7000",
-        "line": {
-            "en": "'Aoi, could you come over here?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "7400",
-        "line": {
-            "en": "Sitting down in the chair that Amane had\\nprepared, I was handed a computer game\\ncontroller."
-        },
-        "name": ""
-    },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'What are we doing?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'Like I said, you're going to fly. This is a\\nflight simulator.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'Flight simulator?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8400",
-        "line": {
-            "en": "I've heard of them. But, I'm not exactly sure\\nwhat they are."
-        },
-        "name": ""
-    },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'It's like a computer game. It simulates the\\nexperience of flying.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'Even if you don't actually fly, you can, to some\\nextent, learn the controls and the feeling of\\nflying a glider.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "9000",
-        "line": {
-            "en": "'I don't really understand, but it sounds pretty\\nuseful.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'Is this commercially available?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'No, I made it myself.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'This is the topography of Kazegaura, and is a\\nsimulator specifically for our glider.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "a000",
-        "line": {
-            "en": "At Amane's command, the screen changes."
-        },
-        "name": ""
-    },
-    {
-        "id": "a400",
-        "line": {
-            "en": "Kazegaura, the town that we were all familiar\\nwith, was shown as a landscape. It was projected\\nonto the wall."
-        },
-        "name": ""
-    },
-    {
-        "id": "a800",
-        "line": {
-            "en": "This is shown in pretty CG, which is at least on\\nthe level of the cut scenes from RPGs on the\\nlatest consoles."
-        },
-        "name": ""
-    },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'She really is amazing...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "b000",
-        "line": {
-            "en": "Ageha mumbles, while looking at the screen being\\nprojected."
-        },
-        "name": ""
-    },
-    {
-        "id": "b400",
-        "line": {
-            "en": "'This was updated with the latest data yesterday.\\nYou should be able to get a very realistic sense\\nof flying.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "b800",
-        "line": {
-            "en": "'OK.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "I show that I am impressed with Amane's amazing\\nwork, and get myself fired up."
-        },
-        "name": ""
-    },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'Well then, let's begin.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "c400",
-        "line": {
-            "en": "A glider, modeled in CG appears on the screen."
-        },
-        "name": ""
-    },
-    {
-        "id": "c800",
-        "line": {
-            "en": "'Before you learn the controls, I will explain\\nthe movements of the glider.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "'The glider movements can be explained as\\nrotation on three axes: longitudinal, lateral and\\nvertical.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "d000",
-        "line": {
-            "en": "'First, is rolling.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "d400",
-        "line": {
-            "en": "On the screen, the 'longitudinal axis' that runs\\nalong the length of the fuselage and the movement\\nbased on rotation on that axis were displayed."
-        },
-        "name": ""
-    },
-    {
-        "id": "d800",
-        "line": {
-            "en": "This movement is called rolling."
-        },
-        "name": ""
-    },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "'Next is pitching.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "e000",
-        "line": {
-            "en": "This time, the 'lateral axis', coming out\\nsideways from the fuselage, and the movement\\nbased on rotation on this axis were shown."
-        },
-        "name": ""
-    },
-    {
-        "id": "e400",
-        "line": {
-            "en": "This movement raises, and lowers the nose and is\\nknown as pitching."
-        },
-        "name": ""
-    },
-    {
-        "id": "e800",
-        "line": {
-            "en": "'Then, finally, is yawing.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "Going through the fuselage vertically was the\\n'vertical axis', and the movement based on\\nrotation along this axis was displayed."
-        },
-        "name": ""
-    },
-    {
-        "id": "f000",
-        "line": {
-            "en": "This movement, yawing, moves the nose left and\\nright."
-        },
-        "name": ""
-    },
-    {
-        "id": "f400",
-        "line": {
-            "en": "'These are the three basic movements of the\\nglider. Do you understand?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "f800",
-        "line": {
-            "en": "'Yes, I think so.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "fc00",
-        "line": {
-            "en": "'No matter how complex the maneuvers made by the\\nglider are, the truth is, they are all\\ncombinations of these three movements.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "0100",
-        "line": {
-            "en": "'That's why the pilot only needs to know how to\\noperate these three movements.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "0500",
-        "line": {
-            "en": "'I see... So the basics are quite simple, then?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0900",
-        "line": {
-            "en": "Kotori and Ageha are listening to the\\nconversation and nodding along."
-        },
-        "name": ""
-    },
-    {
-        "id": "0d00",
-        "line": {
-            "en": "'OK, with that in mind, let's try actually\\noperating it.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "1100",
-        "line": {
-            "en": "Amane selects the mode on the PC and the screen\\nchanges again."
-        },
-        "name": ""
-    },
-    {
-        "id": "1500",
-        "line": {
-            "en": "The sky and the horizon are projected across the\\nwall."
-        },
-        "name": ""
-    },
-    {
-        "id": "1900",
-        "line": {
-            "en": "'Is this the view from the cockpit?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1d00",
-        "line": {
-            "en": "'Yes, that's right.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "2100",
-        "line": {
-            "en": "'Wow, so this is what it looks like?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "2500",
-        "line": {
-            "en": "The glider is already flying through the air, but\\nbecause I'm used to video games, this feels\\nincredibly slow."
-        },
-        "name": ""
-    },
-    {
-        "id": "2900",
-        "line": {
-            "en": "It doesn't really feel like it's moving forward\\nat all."
-        },
-        "name": ""
-    },
-    {
-        "id": "2d00",
-        "line": {
-            "en": "'Except for take off and landing, and some other\\nspecial cases, there are two things you need to\\ncontrol.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "3100",
-        "line": {
-            "en": "'The yoke and the rudder pedal.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "3500",
-        "line": {
-            "en": "I've seen the cockpit many times, so I know about\\nthat."
-        },
-        "name": ""
-    },
-    {
-        "id": "3900",
-        "line": {
-            "en": "The yoke is the stick that comes out from between\\nthe pilot's legs."
-        },
-        "name": ""
-    },
-    {
-        "id": "3d00",
-        "line": {
-            "en": "I've seen some scenes in movies where pilots are\\nflying fighter planes, and the yoke is the thing\\nthat they are holding onto."
-        },
-        "name": ""
-    },
-    {
-        "id": "4100",
-        "line": {
-            "en": "It has a button on it, and if you push it, it\\nlaunches missiles. Of course, this glider doesn't\\nhave anything like that."
-        },
-        "name": ""
-    },
-    {
-        "id": "4500",
-        "line": {
-            "en": "It's like the steering wheel of a car."
-        },
-        "name": ""
-    },
-    {
-        "id": "4900",
-        "line": {
-            "en": "Then, there are the left and right rudder pedals,\\none of each. They are are operated by pushing\\nthem with your feet."
-        },
-        "name": ""
-    },
-    {
-        "id": "4d00",
-        "line": {
-            "en": "'The controller corresponds to each one. The left\\nanalog stick is the yoke. The L and R buttons are\\nthe rudder pedals.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "5100",
-        "line": {
-            "en": "I try the analog stick, and the L and R buttons\\non the game pad."
-        },
-        "name": ""
-    },
-    {
-        "id": "5500",
-        "line": {
-            "en": "It's a little slow but the field of vision in the\\ncenter of the screen swings round."
-        },
-        "name": ""
-    },
-    {
-        "id": "5900",
-        "line": {
-            "en": "'Whoa!!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5d00",
-        "line": {
-            "en": "'If you get careless, it will stall and fall to\\nthe ground, so watch out.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "6100",
-        "line": {
-            "en": "'O...OK.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6500",
-        "line": {
-            "en": "'First is the yoke. This controls two of the\\nthree movements that I explained just now:\\nrolling and pitching.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "6900",
-        "line": {
-            "en": "'If you move it left and right, the fuselage will\\nroll in that direction.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "6d00",
-        "line": {
-            "en": "I move the analog stick, in other words, the\\nyoke, slowly to the left."
-        },
-        "name": ""
-    },
-    {
-        "id": "7100",
-        "line": {
-            "en": "It's a little slow but the aircraft responds."
-        },
-        "name": ""
-    },
-    {
-        "id": "7500",
-        "line": {
-            "en": "The horizon in the middle of the screen leans to\\nthe right."
-        },
-        "name": ""
-    },
-    {
-        "id": "7900",
-        "line": {
-            "en": "'What makes the aircraft lean when you move the\\nyoke?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7d00",
-        "line": {
-            "en": "'Good question. That is because the yoke controls\\nthe ailerons.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "8100",
-        "line": {
-            "en": "'Ailerons??'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8500",
-        "line": {
-            "en": "It's like Kotori has a big question mark on her\\nface as she hears that unfamiliar word."
-        },
-        "name": ""
-    },
-    {
-        "id": "8900",
-        "line": {
-            "en": "'They are wings fitted to the main wings.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "8d00",
-        "line": {
-            "en": "'They are attached to the outside rear of the\\nmain wings. If you move the yoke left, then the\\nleft wing's aileron is raised, and the right\\nwing's aileron is lowered.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "9100",
-        "line": {
-            "en": "'When that happens, the lift on the left wing is\\nreduced, while the lift on the right wing is\\nincreased: the aircraft banks. In other words, it\\nleans by rotating to the left.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "9500",
-        "line": {
-            "en": "'Leaning and turning, huh? It's the same as a\\nbicycle.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9900",
-        "line": {
-            "en": "A bicycle has a handlebar, but you don't turn by\\nmoving it left and right. You turn by leaning\\nagainst the bike."
-        },
-        "name": ""
-    },
-    {
-        "id": "9d00",
-        "line": {
-            "en": "'There is one more movement that can be made with\\nthe yoke, and that is pitching.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "a100",
-        "line": {
-            "en": "'Pitching is, in short, moving the nose up and\\ndown.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "a500",
-        "line": {
-            "en": "'If you pull the yoke back, the nose goes up, and\\npushing it forward makes it go down.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "a900",
-        "line": {
-            "en": "I tried pushing the yoke forward."
-        },
-        "name": ""
-    },
-    {
-        "id": "ad00",
-        "line": {
-            "en": "'Whoa!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "b100",
-        "line": {
-            "en": "The screen moves, and the percentage of the\\nscreen filled with the ground increases."
-        },
-        "name": ""
-    },
-    {
-        "id": "b500",
-        "line": {
-            "en": "The aircraft points downwards, and I feel a much\\ngreater sense of speed."
-        },
-        "name": ""
-    },
-    {
-        "id": "b900",
-        "line": {
-            "en": "'By pointing the nose down, the aircraft drops\\nbut the speed also increases.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "bd00",
-        "line": {
-            "en": "'I see...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c100",
-        "line": {
-            "en": "I imagine it sliding down on the air."
-        },
-        "name": ""
-    },
-    {
-        "id": "c500",
-        "line": {
-            "en": "This time, I tried pulling the yoke back."
-        },
-        "name": ""
-    },
-    {
-        "id": "c900",
-        "line": {
-            "en": "I was no longer able to see the horizon."
-        },
-        "name": ""
-    },
-    {
-        "id": "cd00",
-        "line": {
-            "en": "It felt like it was floating and I realized the\\nspeed was dropping."
-        },
-        "name": ""
-    },
-    {
-        "id": "d100",
-        "line": {
-            "en": "'How is this controlled? With the ailerons you\\ntold us about just now?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "d500",
-        "line": {
-            "en": "'No, it isn't. Before, we did experiments with\\npaper airplanes, didn't we? The thing that\\ncontrols the up and down movements of the\\naircraft is...'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "d900",
-        "line": {
-            "en": "When Kotori was playing around with the tails on\\nthe paper airplanes, she made one do a beautiful\\nloop-the-loop."
-        },
-        "name": ""
-    },
-    {
-        "id": "dd00",
-        "line": {
-            "en": "'Oh, the horizontal tail plane!'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "e100",
-        "line": {
-            "en": "Amane nods her head as if to say 'Well done'."
-        },
-        "name": ""
-    },
-    {
-        "id": "e500",
-        "line": {
-            "en": "'Pitching. In other words, the up-and-down\\nmovements are controlled with a rudder called an\\nelevator attached to the horizontal tailplane.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "e900",
-        "line": {
-            "en": "Of course, we've heard of an elevator before.\\nBut, this was different to the type that goes up\\nand down in buildings."
-        },
-        "name": ""
-    },
-    {
-        "id": "ed00",
-        "line": {
-            "en": "'Usually, raising the nose increases lift.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "f100",
-        "line": {
-            "en": "In other words, the aircraft will rise."
-        },
-        "name": ""
-    },
-    {
-        "id": "f500",
-        "line": {
-            "en": "'However, if it is raised too much, it will lose\\nlift instead.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "f900",
-        "line": {
-            "en": "'The airflow will no longer be able to move along\\nthe wings, and it will break away.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "fd00",
-        "line": {
-            "en": "'This phenomenon is known as a stall. I don't\\nneed to explain what happens if you lose lift.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "0200",
-        "line": {
-            "en": "You can't fly if there's no lift, and it will\\ninevitably fall."
-        },
-        "name": ""
-    },
-    {
-        "id": "0600",
-        "line": {
-            "en": "'If that happens, is there nothing to do but\\nfall?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0a00",
-        "line": {
-            "en": "'No, it's possible to straighten it out.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "0e00",
-        "line": {
-            "en": "'A stall can occur at any time, so it's necessary\\nto undergo stall recovery training.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "1200",
-        "line": {
-            "en": "'OK.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1600",
-        "line": {
-            "en": "When it is suggested that falling is a\\npossibility, I find it hard to breathe."
-        },
-        "name": ""
-    },
-    {
-        "id": "1a00",
-        "line": {
-            "en": "When you're flying through the air, even a tiny\\nmistake can cost you your life."
-        },
-        "name": ""
-    },
-    {
-        "id": "1e00",
-        "line": {
-            "en": "'Shall we try dropping?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "2200",
-        "line": {
-            "en": "'Huh?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2600",
-        "line": {
-            "en": "Amane pulls back hard on the analog stick."
-        },
-        "name": ""
-    },
-    {
-        "id": "2a00",
-        "line": {
-            "en": "The nose points further and further upwards, and\\nthen..."
-        },
-        "name": ""
-    },
-    {
-        "id": "2e00",
-        "line": {
-            "en": "'It has exceeded the critical angle. It's\\nstalled.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "3200",
-        "line": {
-            "en": "The aircraft stopped moving as if it was\\nfloating. Then, the screen started spinning like\\ncrazy as it began hurtling towards the ground."
-        },
-        "name": ""
-    },
-    {
-        "id": "3600",
-        "line": {
-            "en": "GAME OVER"
-        },
-        "name": ""
-    },
-    {
-        "id": "3a00",
-        "line": {
-            "en": "'It said game over...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3e00",
-        "line": {
-            "en": "'Well, that's what it's like. In training, stalls\\nand spins are caused on purpose, then recoveries\\nare practiced.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "4200",
-        "line": {
-            "en": "'Actually doing that in the air is really scary.\\nYou'll think that you are going to die.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "4600",
-        "line": {
-            "en": "If you're scared of heights, maybe that really is\\ntrue..."
-        },
-        "name": ""
-    },
-    {
-        "id": "4a00",
-        "line": {
-            "en": "Because of how well the simulation is made, I got\\na powerful enough impression just from the\\ngraphics."
-        },
-        "name": ""
-    },
-    {
-        "id": "4e00",
-        "line": {
-            "en": "Amane selects the mode, and once again, we start\\nflying."
-        },
-        "name": ""
-    },
-    {
-        "id": "5200",
-        "line": {
-            "en": "'OK, next is the rudder pedal.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "5600",
-        "line": {
-            "en": "In the simulator, this is controlled with the L\\nand R buttons."
-        },
-        "name": ""
-    },
-    {
-        "id": "5a00",
-        "line": {
-            "en": "'These operate the rudder, which is also known as\\nthe directional rudder. It is attached to the\\nvertical tailplane.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "5e00",
-        "line": {
-            "en": "'If you press the right pedal, it moves right. If\\nyou push the left pedal, it moves left. This\\ncontrols yawing.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "6200",
-        "line": {
-            "en": "'This turns it sideways? But when you turn, you\\nuse the ailerons on the wings, right?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6600",
-        "line": {
-            "en": "'If you just use the ailerons, the aircraft still\\nfaces forwards, and moves like it's slipping\\nalong the side it banks on.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "6a00",
-        "line": {
-            "en": "'What does that mean?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "6e00",
-        "line": {
-            "en": "'If it's still facing forward, it would move\\ndiagonally, wouldn't it?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7200",
-        "line": {
-            "en": "Amane nods."
-        },
-        "name": ""
-    },
-    {
-        "id": "7600",
-        "line": {
-            "en": "'By operating the rudder at the same time, you\\ncan turn the nose in the direction you want to\\nface.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "7a00",
-        "line": {
-            "en": "'Like the handlebars on a bicycle?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7e00",
-        "line": {
-            "en": "While leaning the bike, you turn the handlebars\\nin that direction. If you don't, you won't be to\\nturn well."
-        },
-        "name": ""
-    },
-    {
-        "id": "8200",
-        "line": {
-            "en": "Using bicycles as an example, leaning the bike\\nleft or right is like the ailerons, and the\\nhandlebars are like the rudder."
-        },
-        "name": ""
-    },
-    {
-        "id": "8600",
-        "line": {
-            "en": "'I see... When you want to turn, you must use the\\nailerons and the rudder.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8a00",
-        "line": {
-            "en": "'That's right. However, that alone is not\\nenough.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "8e00",
-        "line": {
-            "en": "'When turning, leaning the aircraft causes a drop\\nin lift, and the aircraft will drop down quite a\\nlot.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "9200",
-        "line": {
-            "en": "'To keep as much speed as possible when turning,\\nyou need to move the yoke sideways, and also back\\na little.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "9600",
-        "line": {
-            "en": "'When you turn, you must use all of the axes at\\nthe same time.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9a00",
-        "line": {
-            "en": "Using what and when looks like it's quite\\nintuitive."
-        },
-        "name": ""
-    },
-    {
-        "id": "9e00",
-        "line": {
-            "en": "'That's all. Those are the only controls you need\\nwhen flying.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "a200",
-        "line": {
-            "en": "After ending her explanation, Amane turned on the\\nlights."
-        },
-        "name": ""
-    },
-    {
-        "id": "a600",
-        "line": {
-            "en": "'It's pretty simple, isn't it?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "aa00",
-        "line": {
-            "en": "'Yeah, it is.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "ae00",
-        "line": {
-            "en": "When I heard unfamiliar words like 'aileron' and\\n'rudder', it sounded complicated, but once I\\ntried it, it was quite easy."
-        },
-        "name": ""
-    },
-    {
-        "id": "b200",
-        "line": {
-            "en": "Moving the yoke backwards, forwards, left and\\nright, and pressing the left and right pedals.\\nThat's all there is to it."
-        },
-        "name": ""
-    },
-    {
-        "id": "b600",
-        "line": {
-            "en": "'As long as you don't try any aerial acrobatics,\\nthere are almost no difficult controls.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "ba00",
-        "line": {
-            "en": "'The thing you need to ride the glider, is the\\npower to find the wind.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "be00",
-        "line": {
-            "en": "'Find the wind...?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c200",
-        "line": {
-            "en": "'Where and what kind of wind is blowing. Where\\nthe vertical drafts are.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "c600",
-        "line": {
-            "en": "'Finding the the wind like that, determines\\nwhether you can fly it well or not.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "ca00",
-        "line": {
-            "en": "'So you mean you need, knowledge, experience and\\nintuition.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ce00",
-        "line": {
-            "en": "'Yes, that's correct.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "d200",
-        "line": {
-            "en": "'For you to learn how to read the instruments,\\nfirst, you have to get used to them.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "d600",
-        "line": {
-            "en": "'Next, you can practice by looking at the\\ncomputer screen.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "da00",
-        "line": {
-            "en": "'Ok, got it.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "de00",
-        "line": {
-            "en": "I sat down in front of the PC and started\\npracticing immediately."
-        },
-        "name": ""
-    },
-    {
-        "id": "e200",
-        "line": {
-            "en": "Club activities have finished, and we're on the\\nway home."
-        },
-        "name": ""
-    },
-    {
-        "id": "e600",
-        "line": {
-            "en": "'It's so hot...'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "ea00",
-        "line": {
-            "en": "Ageha is fanning the chest of her sweat-drenched\\nuniform."
-        },
-        "name": ""
-    },
-    {
-        "id": "ee00",
-        "line": {
-            "en": "She sees me looking."
-        },
-        "name": ""
-    },
-    {
-        "id": "f200",
-        "line": {
-            "en": "'Huh? What are you looking at?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "f600",
-        "line": {
-            "en": "She senses me looking at her chest, and asks\\ncheerfully."
-        },
-        "name": ""
-    },
-    {
-        "id": "fa00",
-        "line": {
-            "en": "'You know, you should try to be a little more\\nladylike.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "fe00",
-        "line": {
-            "en": "'I can't help it. My chest is the sweatiest\\nplace.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0300",
-        "line": {
-            "en": "'That's ladylike, isn't it?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0700",
-        "line": {
-            "en": "she asks as she carries on fanning herself."
-        },
-        "name": ""
-    },
-    {
-        "id": "0b00",
-        "line": {
-            "en": "I get a slight feeling that she's trying to show\\nme."
-        },
-        "name": ""
-    },
-    {
-        "id": "0f00",
-        "line": {
-            "en": "'The air conditioning in the garage is pretty\\nweak, isn't it? My butt gets really hot.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "1300",
-        "line": {
-            "en": "says Kotori as she wriggles her backside around."
-        },
-        "name": ""
-    },
-    {
-        "id": "1700",
-        "line": {
-            "en": "When it comes to these two..."
-        },
-        "name": ""
-    },
-    {
-        "id": "1b00",
-        "line": {
-            "en": "'It's spacious, and there's no effect of heat\\ninsulation from the ceiling.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1f00",
-        "line": {
-            "en": "It's like a prefabricated building. There's no\\nattic, and the heat from the sun transfers\\ndirectly to the inside."
-        },
-        "name": ""
-    },
-    {
-        "id": "2300",
-        "line": {
-            "en": "Even if we turn on the air conditioning, it only\\nhas half the effect."
-        },
-        "name": ""
-    },
-    {
-        "id": "2700",
-        "line": {
-            "en": "'It's better than at the Robotics Club though.\\nThere are a lot of people, so it gets really\\nhumid... from the sweat.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2b00",
-        "line": {
-            "en": "Listening to Ageha's story, Kotori makes a face\\nthat says 'Ewww!"
-        },
-        "name": ""
-    },
-    {
-        "id": "2f00",
-        "line": {
-            "en": "'Alright, I'm going this way.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3300",
-        "line": {
-            "en": "We get to the usual fork in the road, where Ageha\\nleaves us to go in the other direction."
-        },
-        "name": ""
-    },
-    {
-        "id": "3700",
-        "line": {
-            "en": "'See ya.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3b00",
-        "line": {
-            "en": "'Hey, Ageha.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3f00",
-        "line": {
-            "en": "'?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4300",
-        "line": {
-            "en": "'Do you wanna get some ice cream from the\\nconvenience store?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4700",
-        "line": {
-            "en": "'Yeah sure... but why all of a sudden?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4b00",
-        "line": {
-            "en": "'You two were saying how hot it is, and I\\nsuddenly felt like eating one.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4f00",
-        "line": {
-            "en": "'You wanna eat one too, Kotori?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5300",
-        "line": {
-            "en": "'Huh? Y-...Yeah OK.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "5700",
-        "line": {
-            "en": "Kotori seems to be thinking about Ageha being\\nthere when she answers."
-        },
-        "name": ""
-    },
-    {
-        "id": "5b00",
-        "line": {
-            "en": "'OK, let's go.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5f00",
-        "line": {
-            "en": "I start walking ahead."
-        },
-        "name": ""
-    },
-    {
-        "id": "6300",
-        "line": {
-            "en": "In the convenience store parking lot, I bite into\\nthe ice cream that I had bought."
-        },
-        "name": ""
-    },
-    {
-        "id": "6700",
-        "line": {
-            "en": "Hanging out in front of the convenience store is\\none of the privileges of being a high school\\nstudent."
-        },
-        "name": ""
-    },
-    {
-        "id": "6b00",
-        "line": {
-            "en": "Ageha got watermelon flavor, Kotori got chocolate\\nchip, and I chose Vanilla Monaka."
-        },
-        "name": ""
-    },
-    {
-        "id": "6f00",
-        "line": {
-            "en": "'So, you prefer the ones sold in cups, Kotori?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7300",
-        "line": {
-            "en": "'...Ice cream on a stick melts halfway through,\\nand it makes your hands sticky. So, I don't\\nreally like it.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "7700",
-        "line": {
-            "en": "Seems like everyone has their own preferences\\nwhen it comes to ice cream."
-        },
-        "name": ""
-    },
-    {
-        "id": "7b00",
-        "line": {
-            "en": "'Hey, Aoi. How was the simulator?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7f00",
-        "line": {
-            "en": "'Hmm... I still don't really understand it. It\\nwas pretty tricky.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8300",
-        "line": {
-            "en": "'Which part was difficult?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "8700",
-        "line": {
-            "en": "'It just feels kind of inconvenient, you know?\\nWhen I think about doing something, I'm not able\\nto do it quickly...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8b00",
-        "line": {
-            "en": "'The feeling I get when I move it, and the speed.\\nIt's quite easy to steer though.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8f00",
-        "line": {
-            "en": "'If there's no wind, the ailerons, rudder, and\\nelevator have no effect though.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9300",
-        "line": {
-            "en": "'That's right.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9700",
-        "line": {
-            "en": "Using the power of the wind to control the\\nposition of the aircraft."
-        },
-        "name": ""
-    },
-    {
-        "id": "9b00",
-        "line": {
-            "en": "Of course, if the wind is strong, small movements\\nof the controls have a big effect, and vice\\nversa."
-        },
-        "name": ""
-    },
-    {
-        "id": "9f00",
-        "line": {
-            "en": "However, the glider doesn't have an engine."
-        },
-        "name": ""
-    },
-    {
-        "id": "a300",
-        "line": {
-            "en": "You can't easily speed up or slow down."
-        },
-        "name": ""
-    },
-    {
-        "id": "a700",
-        "line": {
-            "en": "'If you do one thing, it affects everything else,\\nand that's what makes it difficult.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ab00",
-        "line": {
-            "en": "You can't just think about the current situation,\\nyou have to act according to what will happen\\nnext."
-        },
-        "name": ""
-    },
-    {
-        "id": "af00",
-        "line": {
-            "en": "It means that experience is needed to ride this\\nthing."
-        },
-        "name": ""
-    },
-    {
-        "id": "b300",
-        "line": {
-            "en": "'Hmmm... Did it feel good to fly it?'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "b700",
-        "line": {
-            "en": "'Well, to be honest, the simulator didn't feel\\nthat good at all... You were watching the screen,\\nright?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "bb00",
-        "line": {
-            "en": "'Yeah. How should I say... It looked really\\nfrustrating.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "bf00",
-        "line": {
-            "en": "'Compared to 3D simulator games, it was nowhere\\nnear as exhilarating.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "c300",
-        "line": {
-            "en": "'Yeah, that's true.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c700",
-        "line": {
-            "en": "'It must be a lot different to actually fly\\nthough...'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "cb00",
-        "line": {
-            "en": "'I think so. I can imagine that somehow.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "cf00",
-        "line": {
-            "en": "How would it feel to fly through the sky in that\\nthing, I wonder?"
-        },
-        "name": ""
-    },
-    {
-        "id": "d300",
-        "line": {
-            "en": "It still feels a bit unclear."
-        },
-        "name": ""
-    },
-    {
-        "id": "d700",
-        "line": {
-            "en": "'...It's nice isn't it? I wanna fly too.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "db00",
-        "line": {
-            "en": "'Why don't you give the simulator a try?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "df00",
-        "line": {
-            "en": "You can control everything with your hands."
-        },
-        "name": ""
-    },
-    {
-        "id": "e300",
-        "line": {
-            "en": "'No, I'm OK. Now is the time for you to do it,\\nAoi.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "e700",
-        "line": {
-            "en": "I'll be patient for now... that's what it seemed\\nshe was saying."
-        },
-        "name": ""
-    },
-    {
-        "id": "eb00",
-        "line": {
-            "en": "Without thinking, Ageha and I look at each other."
-        },
-        "name": ""
-    },
-    {
-        "id": "ef00",
-        "line": {
-            "en": "'OK, let's hurry up and make the wings, so that\\nwe can actually fly it.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "f300",
-        "line": {
-            "en": "'Yeah.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f700",
-        "line": {
-            "en": "If I can quickly become able to fly by myself, I\\ncan take Kotori with me."
-        },
-        "name": ""
-    },
-    {
-        "id": "fb00",
-        "line": {
-            "en": "I might be getting ahead of myself, but it's good\\nto have a target."
-        },
-        "name": ""
-    },
-    {
-        "id": "ff00",
-        "line": {
-            "en": "'Tsk. I didn't win a prize. Pity.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0004",
-        "line": {
-            "en": "Ageha finished eating her ice cream, and threw\\nthe stick into the trash can."
-        },
-        "name": ""
-    },
-    {
-        "id": "0404",
-        "line": {
-            "en": "I've finished eating too, so I throw my Monaka\\nwrapper into the trash can."
-        },
-        "name": ""
-    },
-    {
-        "id": "0804",
-        "line": {
-            "en": "'Munch, munch...!'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "0c04",
-        "line": {
-            "en": "Kotori was still eating, and hurriedly ate the\\nlast of her chocolate chip ice cream."
-        },
-        "name": ""
-    },
-    {
-        "id": "1004",
-        "line": {
-            "en": "It wasn't as bad as Amane, but, the way she ate\\nkind of ruined her 'pretty girl' image."
-        },
-        "name": ""
-    },
-    {
-        "id": "1404",
-        "line": {
-            "en": "Then, she rushed over in her wheelchair and came\\nto throw the cup into the trash can."
-        },
-        "name": ""
-    },
-    {
-        "id": "1804",
-        "line": {
-            "en": "Does she think that if she doesn't do it quickly,\\nwe'll leave her behind?"
-        },
-        "name": ""
-    },
-    {
-        "id": "1c04",
-        "line": {
-            "en": "While we were away from Kotori, Ageha had come up\\nbeside me."
-        },
-        "name": ""
-    },
-    {
-        "id": "2004",
-        "line": {
-            "en": "'Thank you for being so considerate.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2404",
-        "line": {
-            "en": "'Whadya mean?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2804",
-        "line": {
-            "en": "'For playing dumb. You invited Kotori and I here\\nfor our sakes didn't you?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2c04",
-        "line": {
-            "en": "'...I dunno, did I?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3004",
-        "line": {
-            "en": "Looking at me as I quietly play dumb, Ageha\\nsmiled cheerfully."
-        },
-        "name": ""
-    },
-    {
-        "id": "3404",
-        "line": {
-            "en": "'Oh, sorry to keep you waiting.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "3804",
-        "line": {
-            "en": "'...You didn't need to rush like that.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3c04",
-        "line": {
-            "en": "'OK, I'm off now. See you tomorrow!'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4004",
-        "line": {
-            "en": "'Yeah, see ya.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4404",
-        "line": {
-            "en": "'B-Bye.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "4804",
-        "line": {
-            "en": "We see Ageha off as she waves goodbye. Then, I\\npush Kotori's wheelchair along the road back to\\nthe dormitory."
-        },
-        "name": ""
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'How are we going to do the flight training?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「飛行訓練って、\\n　どうやってやるんですか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Once all of us second-years had gathered, I asked\\nAmane that.",
+                "name": ""
+            },
+            "jp": {
+                "line": "２年が全員集合したところで、俺は天音先輩に尋ねた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane has been playing around with a bundle of\\ntangled PC cables, so we can only see her from\\nthe other side of the desk.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩はさっきからゴチャゴチャしたパソコンの配線を弄っていて、机の向こうに頭頂部だけが見える。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'By flying.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「飛ぶんだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Flying??'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「飛ぶ？？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I imagined it would be something like... doing\\nweight training to build physical strength.",
+                "name": ""
+            },
+            "jp": {
+                "line": "筋トレやって基礎体力つけて……ってんじゃないのは想像してたけど。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But I still can't fly, can I?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「でもまだ飛べないんですよね？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "There's no way we can fly using those broken\\nwings...",
+                "name": ""
+            },
+            "jp": {
+                "line": "まさか、折れた翼で飛ぶわけじゃ……",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Could you move those boxes that are over there\\nby the wall?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「そこの壁際の荷物をどかせてくれ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As requested, I tidy away the boxes piled up\\nagainst the wall of the garage.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺たちは言われた通りに、ガレージの壁際に積まれた荷物を片付ける。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Whoa, there are piles of things. But, I don't\\neven know what they are.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「うわぁ、なんだかよくわかんない物が\\n　山盛りだねぇ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Since before Amane and the others started coming\\nhere, this garage has had many mysterious boxes\\nand antique parts left inside.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ここのガレージには、天音先輩たちが来る以前からあるという、謎の段ボールやら年代物のパーツやらが放置されている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What's this? Why are a sword and spear in a\\nplace like this?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「なにこれ、\\n　なんでこんなところに剣とか槍があるの？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There are some nunchucks over here.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「こっちにヌンチャクあるよー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There's a broken toy gun too...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「壊れたモデルガンとかもあるな……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Of course, the sword and the spear are well made\\nreplicas.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もちろん、剣や槍はよくできたレプリカだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As for the other things, if I had bought them, I\\nwould think",
+                "name": ""
+            },
+            "jp": {
+                "line": "他にも、もし俺なら買って帰った後、",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why the hell did I buy this...?'",
+                "name": ""
+            },
+            "jp": {
+                "line": "『なんでこんなもん買ったんだ……』",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "and would definitely regret buying them. There\\nare also many things that look like souvenirs,\\nthat were bought on school-leaving trips.",
+                "name": ""
+            },
+            "jp": {
+                "line": "と確実に後悔しそうな、いわゆる修学旅行のお土産的な物が沢山あった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I could easily tell that the members of long ago\\nmade this garage their own.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ずーっと昔の先輩たちが、このガレージを私物化していたことがよくわかる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Finished.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「できたわよ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, turn off the lights.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「よし、じゃあ電気を消してくれ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As the lights were turned off, the inside of the\\ngarage became pitch-black.",
+                "name": ""
+            },
+            "jp": {
+                "line": "電気を消すと、ガレージ内は真っ暗になった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane was operating some kind of machine.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩が何かの機械を操作する。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, on the wall where all the boxes were\\nbefore, a PC screen appears.",
+                "name": ""
+            },
+            "jp": {
+                "line": "すると、さっき荷物をどけた壁に、パソコンの画面が映し出された。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's a projector.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「プロジェクターだ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Like in a movie theater...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「映画館みたい……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Are we going to watch an instructional video?",
+                "name": ""
+            },
+            "jp": {
+                "line": "教則ビデオでも観るんだろうか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi, could you come over here?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「碧くん、こっちへきてくれ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Sitting down in the chair that Amane had\\nprepared, I was handed a computer game\\ncontroller.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩が用意した椅子に座ると、ゲーム用のコントローラを渡された。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What are we doing?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なにするんですか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Like I said, you're going to fly. This is a\\nflight simulator.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「だから、飛ぶんだよ。\\n　これはフライトシミュレータだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Flight simulator?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「フライトシミュレータ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I've heard of them. But, I'm not exactly sure\\nwhat they are.",
+                "name": ""
+            },
+            "jp": {
+                "line": "聞いた事ある言葉だけど、正確な意味は知らない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's like a computer game. It simulates the\\nexperience of flying.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ゲームみたいなものだ。\\n　フライトを疑似体験できる」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Even if you don't actually fly, you can, to some\\nextent, learn the controls and the feeling of\\nflying a glider.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「実際に飛ばなくても、\\n　操作方法やグライダーで飛ぶ感覚は、\\n　ある程度身に付けられるはずだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I don't really understand, but it sounds pretty\\nuseful.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「よくわかんないけど、\\n　なんだか凄そうね」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Is this commercially available?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「市販のやつですか？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, I made it myself.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「いや、自分で作った」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This is the topography of Kazegaura, and is a\\nsimulator specifically for our glider.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「これは風ヶ浦の地形と、\\n　我々のグライダーに特化したシミュレータだからな」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "At Amane's command, the screen changes.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩の操作で、映像が切り替わった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kazegaura, the town that we were all familiar\\nwith, was shown as a landscape. It was projected\\nonto the wall.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺たちのよく知る町並み――風ヶ浦を上空から見下ろす景観が、壁一面に映し出された。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This is shown in pretty CG, which is at least on\\nthe level of the cut scenes from RPGs on the\\nlatest consoles.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それは、少なくとも最新ゲーム機のＲＰＧのデモムービー並に綺麗なＣＧだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'She really is amazing...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「やっぱすごいよこの人……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha mumbles, while looking at the screen being\\nprojected.",
+                "name": ""
+            },
+            "jp": {
+                "line": "プロジェクターが映しだした画面を見ながらあげはがうなる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This was updated with the latest data yesterday.\\nYou should be able to get a very realistic sense\\nof flying.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「昨日のうちにデータは最新のものにしておいたから。\\n　よりリアルな感覚で飛べるはずだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「はい」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I show that I am impressed with Amane's amazing\\nwork, and get myself fired up.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩のスゴイところをサラッと見せられ、俺も気合いが入る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well then, let's begin.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「では始めるぞ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A glider, modeled in CG appears on the screen.",
+                "name": ""
+            },
+            "jp": {
+                "line": "画面に、ＣＧでモデリングされたグライダーが映し出された。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Before you learn the controls, I will explain\\nthe movements of the glider.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「操作を覚える前に、\\n　グライダーの動きについて説明するぞ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The glider movements can be explained as\\nrotation on three axes: longitudinal, lateral and\\nvertical.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「グライダーの運動は、縦軸・横軸・垂直軸、\\n　この３つの軸を回転する動きで説明できる」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'First, is rolling.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「まずはローリング」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "On the screen, the 'longitudinal axis' that runs\\nalong the length of the fuselage and the movement\\nbased on rotation on that axis were displayed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "画面に、機体の中心を進行方向に貫く“縦軸”と、それを軸とした回転の動きが表示された。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This movement is called rolling.",
+                "name": ""
+            },
+            "jp": {
+                "line": "これがローリングという動きだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Next is pitching.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「次にピッチング」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This time, the 'lateral axis', coming out\\nsideways from the fuselage, and the movement\\nbased on rotation on this axis were shown.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今度は、機体を横に向かって貫く“横軸”と、それを軸とした回転の動きが表示された。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This movement raises, and lowers the nose and is\\nknown as pitching.",
+                "name": ""
+            },
+            "jp": {
+                "line": "この機首を上げ下げする動きがピッチングだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Then, finally, is yawing.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「そして最後はヨーイング」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Going through the fuselage vertically was the\\n'vertical axis', and the movement based on\\nrotation along this axis was displayed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "機体の中心を垂直に貫く“垂直軸”と、それを軸とした回転方向の動きが表示された。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This movement, yawing, moves the nose left and\\nright.",
+                "name": ""
+            },
+            "jp": {
+                "line": "この、首を左右に振るような動きがヨーイング。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'These are the three basic movements of the\\nglider. Do you understand?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「この３つがグライダーの基本的な動きだ。\\n　わかるか？」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yes, I think so.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「はい、なんとなく」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No matter how complex the maneuvers made by the\\nglider are, the truth is, they are all\\ncombinations of these three movements.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「グライダーがどんなに複雑な\\n　{機動:マニューバ}を描いてるように見えても、実は、\\n　この３つの動作の組み合わせによるものなんだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's why the pilot only needs to know how to\\noperate these three movements.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「だから、パイロットは、\\n　この３つの動きを操作するだけでいい」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0041": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see... So the basics are quite simple, then?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なるほど……\\n　基本は単純だってことか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0042": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori and Ageha are listening to the\\nconversation and nodding along.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥とあげはも、俺の後ろで話を聞いて、うんうん頷いている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0043": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, with that in mind, let's try actually\\noperating it.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「じゃあ、それを踏まえた上で、\\n　実際に操縦してみよう」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0044": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane selects the mode on the PC and the screen\\nchanges again.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩がパソコン上でモード選択をすると、画面が切り替わった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0045": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The sky and the horizon are projected across the\\nwall.",
+                "name": ""
+            },
+            "jp": {
+                "line": "空と地平線が壁一杯に映し出されている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0046": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Is this the view from the cockpit?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「これはコックピットから見た映像ですか？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0047": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yes, that's right.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ああ、そうだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0048": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wow, so this is what it looks like?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「へぇ、こんな風に見えるんだ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0049": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The glider is already flying through the air, but\\nbecause I'm used to video games, this feels\\nincredibly slow.",
+                "name": ""
+            },
+            "jp": {
+                "line": "すでにグライダーは空を飛んでいる状態だが、ゲームなんかでこういうのに慣れていると、すごく遅く感じる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It doesn't really feel like it's moving forward\\nat all.",
+                "name": ""
+            },
+            "jp": {
+                "line": "前に進んでいる感じがほとんどしない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Except for take off and landing, and some other\\nspecial cases, there are two things you need to\\ncontrol.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「離陸と着陸、特殊な状況を除いて、\\n　キミが操作する物は２つ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The yoke and the rudder pedal.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「{操縦桿:そうじゅうかん}とラダーペダルだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I've seen the cockpit many times, so I know about\\nthat.",
+                "name": ""
+            },
+            "jp": {
+                "line": "コックピットは何度か見ているので知っている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The yoke is the stick that comes out from between\\nthe pilot's legs.",
+                "name": ""
+            },
+            "jp": {
+                "line": "操縦桿というのは、パイロットの足の間から出てる棒のことだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I've seen some scenes in movies where pilots are\\nflying fighter planes, and the yoke is the thing\\nthat they are holding onto.",
+                "name": ""
+            },
+            "jp": {
+                "line": "戦闘機のパイロットが操縦している場面を映画なんかで観たことあるが、彼らが握っているのがこの操縦桿。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0050": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It has a button on it, and if you push it, it\\nlaunches missiles. Of course, this glider doesn't\\nhave anything like that.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ボタンがついてて、押せばミサイルが発射されたりするアレ。もちろん、グライダーにそんなもの付いていないが。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0051": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's like the steering wheel of a car.",
+                "name": ""
+            },
+            "jp": {
+                "line": "車でいうハンドルのようなものだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0052": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, there are the left and right rudder pedals,\\none of each. They are are operated by pushing\\nthem with your feet.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして、ラダーペダルは左右に一つずつ、足で踏んで操作できるようになっていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0053": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The controller corresponds to each one. The left\\nanalog stick is the yoke. The L and R buttons are\\nthe rudder pedals.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「それぞれ、コントローラに対応している。\\n　左のアナログスティックが操縦桿。\\n　Ｌ・Ｒボタンがラダーペダルだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0054": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I try the analog stick, and the L and R buttons\\non the game pad.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、ゲームパッドのアナログスティックとＬボタン、Ｒボタンを操作してみた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0055": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's a little slow but the field of vision in the\\ncenter of the screen swings round.",
+                "name": ""
+            },
+            "jp": {
+                "line": "少し遅れて、画面の中の視界がぐわっと動いた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0056": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Whoa!!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おおっと！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0057": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If you get careless, it will stall and fall to\\nthe ground, so watch out.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「無茶をすると{失速:ストール}して墜落するから気をつけろ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0058": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'O...OK.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「は、はい」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0059": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'First is the yoke. This controls two of the\\nthree movements that I explained just now:\\nrolling and pitching.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「操縦桿だが。\\n　これは、さっき説明した３つのうち２つ、\\n　ローリングとピッチングを操作できる」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If you move it left and right, the fuselage will\\nroll in that direction.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「左右に倒せば、\\n　その方向に機体がロールする」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I move the analog stick, in other words, the\\nyoke, slowly to the left.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺はアナログスティック――すなわち操縦桿を、左にゆっくりと傾けていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's a little slow but the aircraft responds.",
+                "name": ""
+            },
+            "jp": {
+                "line": "少し遅れて機体が反応する。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The horizon in the middle of the screen leans to\\nthe right.",
+                "name": ""
+            },
+            "jp": {
+                "line": "映像の中の地平線が、右に傾いていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What makes the aircraft lean when you move the\\nyoke?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「操縦桿を倒すと、\\n　どうして機体が傾くの？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Good question. That is because the yoke controls\\nthe ailerons.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「いい質問だ。\\n　それは、操縦桿でエルロンを操作しているからだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0060": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ailerons??'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「エルロン？？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0061": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's like Kotori has a big question mark on her\\nface as she hears that unfamiliar word.",
+                "name": ""
+            },
+            "jp": {
+                "line": "聞き慣れない言葉に、小鳥の頭に「？」が浮かぶ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0062": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'They are wings fitted to the main wings.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「主翼についている補助翼のことだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0063": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'They are attached to the outside rear of the\\nmain wings. If you move the yoke left, then the\\nleft wing's aileron is raised, and the right\\nwing's aileron is lowered.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「主翼の外側の後ろについていて、\\n　操縦桿を左に倒せば、左翼のエルロンが上がり、\\n　右翼のエルロンが下がる」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0064": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When that happens, the lift on the left wing is\\nreduced, while the lift on the right wing is\\nincreased: the aircraft banks. In other words, it\\nleans by rotating to the left.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「そうすると、左翼の揚力は減少、\\n　逆に右翼の揚力は増大するから、\\n　機体は左にバンク、つまり傾いて旋回をする」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0065": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Leaning and turning, huh? It's the same as a\\nbicycle.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「傾けることで曲がるのか。\\n　自転車と同じだな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0066": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A bicycle has a handlebar, but you don't turn by\\nmoving it left and right. You turn by leaning\\nagainst the bike.",
+                "name": ""
+            },
+            "jp": {
+                "line": "自転車もハンドルはついているが、それを左右に動かして曲がるわけじゃない。車体を傾けることで曲がる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0067": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There is one more movement that can be made with\\nthe yoke, and that is pitching.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「操縦桿を使ったもう一つの操作、\\n　ピッチングについてだが」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0068": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Pitching is, in short, moving the nose up and\\ndown.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ピッチングとは、\\n　ようは機首を上げ下げする動きのことだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0069": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If you pull the yoke back, the nose goes up, and\\npushing it forward makes it go down.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「操縦桿を後ろに引けば頭が上がり、\\n　前に倒せば下がる」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I tried pushing the yoke forward.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、試しに操縦桿を前に倒してみた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Whoa!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おおっ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The screen moves, and the percentage of the\\nscreen filled with the ground increases.",
+                "name": ""
+            },
+            "jp": {
+                "line": "映像が動いて、地面の比率が多くなる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The aircraft points downwards, and I feel a much\\ngreater sense of speed.",
+                "name": ""
+            },
+            "jp": {
+                "line": "機体が下を向いていて、心なしかスピード感が増している感じがする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'By pointing the nose down, the aircraft drops\\nbut the speed also increases.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「機首を下に向けると機体は下降していくが、\\n　その分速度が増す」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なるほど……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0070": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I imagine it sliding down on the air.",
+                "name": ""
+            },
+            "jp": {
+                "line": "空気の上を滑り落ちていくイメージか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0071": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This time, I tried pulling the yoke back.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今度は、操縦桿を後ろに引いてみた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0072": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I was no longer able to see the horizon.",
+                "name": ""
+            },
+            "jp": {
+                "line": "映像が動いて、空ばかりに。\\n地平線が見えなくなった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0073": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It felt like it was floating and I realized the\\nspeed was dropping.",
+                "name": ""
+            },
+            "jp": {
+                "line": "浮遊感があり、速度が落ちてるのがわかる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0074": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'How is this controlled? With the ailerons you\\ntold us about just now?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「これはどうやって操作しているの？\\n　またさっきのエルロン？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0075": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, it isn't. Before, we did experiments with\\npaper airplanes, didn't we? The thing that\\ncontrols the up and down movements of the\\naircraft is...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「いや、ちがう。\\n　以前、紙飛行機で実験しただろう？\\n　機体の上下の動きを制御していたのは……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0076": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When Kotori was playing around with the tails on\\nthe paper airplanes, she made one do a beautiful\\nloop-the-loop.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥は紙飛行機の翼を弄って、綺麗な宙返りをさせていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0077": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, the horizontal tail plane!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「あ、水平尾翼！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0078": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane nods her head as if to say 'Well done'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩が「よくできました」という顔で頷く。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0079": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Pitching. In other words, the up-and-down\\nmovements are controlled with a rudder called an\\nelevator attached to the horizontal tailplane.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ピッチング――つまり上下の動きは、\\n　水平尾翼についたエレベータという{舵:かじ}で操作する」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Of course, we've heard of an elevator before.\\nBut, this was different to the type that goes up\\nand down in buildings.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今度は聞いたことある言葉だが、ビルを上り下りするあれとは別物だろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Usually, raising the nose increases lift.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「通常、機首を上げれば揚力は高まる」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In other words, the aircraft will rise.",
+                "name": ""
+            },
+            "jp": {
+                "line": "つまり、機体が上昇するってことか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'However, if it is raised too much, it will lose\\nlift instead.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「だが、上げ過ぎると、\\n　逆に揚力を失うことになる」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The airflow will no longer be able to move along\\nthe wings, and it will break away.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「気流が、翼面に沿って流れることができなくなり、\\n　{剥離:はくり}してしまうからだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This phenomenon is known as a stall. I don't\\nneed to explain what happens if you lose lift.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「この現象を“{失速:ストール}”という。\\n　揚力を失うとどうなるかは、説明するまでもないな」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0080": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "You can't fly if there's no lift, and it will\\ninevitably fall.",
+                "name": ""
+            },
+            "jp": {
+                "line": "揚力がないと飛べないんだから、必然的に墜ちることになる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0081": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If that happens, is there nothing to do but\\nfall?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そうなったら、\\n　もう墜ちるしかないんですか？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0082": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, it's possible to straighten it out.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「いや、立て直すことは可能だ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0083": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'A stall can occur at any time, so it's necessary\\nto undergo stall recovery training.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「“{失速:ストール}”はどんな時にも起こりえるから、\\n　失速からの回復訓練はしっかり積んでおく必要がある」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0084": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「はい」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0085": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When it is suggested that falling is a\\npossibility, I find it hard to breathe.",
+                "name": ""
+            },
+            "jp": {
+                "line": "墜落の可能性を示唆されて、気が引き締まる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0086": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When you're flying through the air, even a tiny\\nmistake can cost you your life.",
+                "name": ""
+            },
+            "jp": {
+                "line": "空を飛ぶんだ、どんな些細なミスも命取りになりかねない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0087": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Shall we try dropping?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「試しに一度墜ちてみようか」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0088": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「え？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0089": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane pulls back hard on the analog stick.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩が、アナログスティックをぐぐーっと後ろに倒した。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The nose points further and further upwards, and\\nthen...",
+                "name": ""
+            },
+            "jp": {
+                "line": "機首はどんどん上に向いていき、あるところで……",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It has exceeded the critical angle. It's\\nstalled.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「臨界{迎:むか}え角を超えた。\\n　{失速:ストール}したぞ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The aircraft stopped moving as if it was\\nfloating. Then, the screen started spinning like\\ncrazy as it began hurtling towards the ground.",
+                "name": ""
+            },
+            "jp": {
+                "line": "急にふわっと浮くような感じになって機体は停止、次の瞬間、映像はぐちゃぐちゃに回りながら、ズドーンと地面に落ちた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "GAME OVER",
+                "name": ""
+            },
+            "jp": {
+                "line": "　　　　　　　　　ＧＡＭＥ　　　ＯＶＥＲ",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It said game over...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ゲームオーバーって……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, that's what it's like. In training, stalls\\nand spins are caused on purpose, then recoveries\\nare practiced.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「とまあ、こんな感じだ。\\n　訓練では、わざと{失速:ストール}やスピンを起こして、\\n　そこから回復する練習をするんだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0090": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Actually doing that in the air is really scary.\\nYou'll think that you are going to die.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「実際に空でやると、恐いぞー。\\n　死ぬかと思うぞ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0091": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If you're scared of heights, maybe that really is\\ntrue...",
+                "name": ""
+            },
+            "jp": {
+                "line": "高所恐怖症の人なら、ほんとにそうだろうなぁ……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0092": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Because of how well the simulation is made, I got\\na powerful enough impression just from the\\ngraphics.",
+                "name": ""
+            },
+            "jp": {
+                "line": "シミュレータがよくできているせいか、映像だけでも充分迫力があった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0093": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane selects the mode, and once again, we start\\nflying.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩がモードをセレクトし、再び飛んでいるところから始める。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0094": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, next is the rudder pedal.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「で、次はラダーペダル」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0095": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In the simulator, this is controlled with the L\\nand R buttons.",
+                "name": ""
+            },
+            "jp": {
+                "line": "シミュレータでは、ＬボタンとＲボタンで操作する。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0096": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'These operate the rudder, which is also known as\\nthe directional rudder. It is attached to the\\nvertical tailplane.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「これはラダーを操作するわけだが、\\n　ラダーとは日本語で{方向舵:ほうこうだ}という。\\n　垂直尾翼についている」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0097": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If you press the right pedal, it moves right. If\\nyou push the left pedal, it moves left. This\\ncontrols yawing.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「右を踏めば、機首が右を向き、\\n　左を踏めば、機首が左を向く。\\n　ヨーイングの動きを制御するんだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0098": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This turns it sideways? But when you turn, you\\nuse the ailerons on the wings, right?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「横を向くの？　でも、曲がる時は、\\n　主翼についてるエルロンを使うんでしょう？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0099": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If you just use the ailerons, the aircraft still\\nfaces forwards, and moves like it's slipping\\nalong the side it banks on.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「エルロンだけで旋回した場合、\\n　グライダーは正面を向いたまま、\\n　バンクした内側に滑っていくように移動することになる」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What does that mean?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「どういうこと？？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If it's still facing forward, it would move\\ndiagonally, wouldn't it?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「前を向いたまま、\\n　斜めに進むってことじゃない？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane nods.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩が頷く。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'By operating the rudder at the same time, you\\ncan turn the nose in the direction you want to\\nface.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「そこで、同時にラダーを操作してやり、\\n　旋回したい方向へ頭を向けてやるんだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Like the handlebars on a bicycle?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「自転車のハンドルのようなものか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "While leaning the bike, you turn the handlebars\\nin that direction. If you don't, you won't be to\\nturn well.",
+                "name": ""
+            },
+            "jp": {
+                "line": "自転車も車体を傾けながら、ハンドルをそっちの方向へ曲げる。そうしないと上手く曲がれない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Using bicycles as an example, leaning the bike\\nleft or right is like the ailerons, and the\\nhandlebars are like the rudder.",
+                "name": ""
+            },
+            "jp": {
+                "line": "自転車で例えるなら、車体を左右に傾けるのがエルロン、ハンドルの動きがラダーってとこだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see... When you want to turn, you must use the\\nailerons and the rudder.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「なるほど……\\n　旋回したい時は、エルロンとラダー両方が必要と」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's right. However, that alone is not\\nenough.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「そうだ。\\n　けど、それだけじゃまだ不十分だ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When turning, leaning the aircraft causes a drop\\nin lift, and the aircraft will drop down quite a\\nlot.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「旋回中、機体を傾けると揚力が減るので、\\n　機体が大きく降下してしまう」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'To keep as much speed as possible when turning,\\nyou need to move the yoke sideways, and also back\\na little.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「なるべく高度を保ったまま旋回するには、\\n　操縦桿を横に倒しながら、\\n　少しだけ後ろに引いてやる必要があるんだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When you turn, you must use all of the axes at\\nthe same time.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「旋回する時は、\\n　全ての{舵:かじ}を同時に使用するってことか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Using what and when looks like it's quite\\nintuitive.",
+                "name": ""
+            },
+            "jp": {
+                "line": "何をどれくらい使うか、というのは、かなり感覚的になりそうだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's all. Those are the only controls you need\\nwhen flying.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「以上。\\n　飛んでいる時に必要な操作はこれだけだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "After ending her explanation, Amane turned on the\\nlights.",
+                "name": ""
+            },
+            "jp": {
+                "line": "説明を終えると、先輩はガレージの電気をつけた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's pretty simple, isn't it?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「結構簡単なのね」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00aa": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, it is.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そうだね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ab": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When I heard unfamiliar words like 'aileron' and\\n'rudder', it sounded complicated, but once I\\ntried it, it was quite easy.",
+                "name": ""
+            },
+            "jp": {
+                "line": "エルロンだラダーだと聞き慣れない単語が出てきてややこしいようだが、やることは単純。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ac": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Moving the yoke backwards, forwards, left and\\nright, and pressing the left and right pedals.\\nThat's all there is to it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "操縦桿を前後左右に倒し、左右のペダルを踏む。\\nそれだけだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ad": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'As long as you don't try any aerial acrobatics,\\nthere are almost no difficult controls.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「{曲芸飛行:アクロバット}でもしない限り、\\n　難しい操作はほとんどない」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ae": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The thing you need to ride the glider, is the\\npower to find the wind.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「グライダー乗りに必要なのは、\\n　風を見つける能力なんだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00af": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Find the wind...?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「風を見つける……？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Where and what kind of wind is blowing. Where\\nthe vertical drafts are.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「どこにどんな風が吹いているか。\\n　{上昇気流:サーマル}はどこにあるのか」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Finding the the wind like that, determines\\nwhether you can fly it well or not.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「そうして見つけた風に、\\n　上手に乗ることができるかどうか」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So you mean you need, knowledge, experience and\\nintuition.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「知識や経験、感覚が物を言うってことでしょうか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yes, that's correct.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「そんなところだな」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'For you to learn how to read the instruments,\\nfirst, you have to get used to them.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「計器類の見方はおいおい覚えてもらうとして、\\n　まずは慣れることだな」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Next, you can practice by looking at the\\ncomputer screen.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「あとは、こっちのパソコンの画面で練習してみてくれ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ok, got it.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「わかりました」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I sat down in front of the PC and started\\npracticing immediately.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺はパソコンの前に陣取って、早速練習を開始した。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Club activities have finished, and we're on the\\nway home.",
+                "name": ""
+            },
+            "jp": {
+                "line": "部活が終わって、帰り道。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's so hot...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あづい……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ba": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha is fanning the chest of her sweat-drenched\\nuniform.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはが、汗ばんだ制服の胸元をパタパタさせる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She sees me looking.",
+                "name": ""
+            },
+            "jp": {
+                "line": "のを、つい見てしまう俺。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh? What are you looking at?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「お？　なになに、なに見てんの？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She senses me looking at her chest, and asks\\ncheerfully.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺の視線を胸元に感じて、あげはが嬉しそうに聞いてくる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00be": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You know, you should try to be a little more\\nladylike.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おまえさぁ、\\n　もうちょい女らしくしろよな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bf": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I can't help it. My chest is the sweatiest\\nplace.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「しょーがないじゃーん。\\n　ムネが一番汗かくんだもーん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's ladylike, isn't it?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「これって、女らしいってことじゃない？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "she asks as she carries on fanning herself.",
+                "name": ""
+            },
+            "jp": {
+                "line": "と、またパタパタやる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I get a slight feeling that she's trying to show\\nme.",
+                "name": ""
+            },
+            "jp": {
+                "line": "軽く、俺に見せる感じで。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The air conditioning in the garage is pretty\\nweak, isn't it? My butt gets really hot.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ガレージのエアコン、弱くない？\\n　お尻が蒸れちゃうんだけど」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "says Kotori as she wriggles her backside around.",
+                "name": ""
+            },
+            "jp": {
+                "line": "と、今度は小鳥がお尻をもぞもぞさせる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When it comes to these two...",
+                "name": ""
+            },
+            "jp": {
+                "line": "こいつらときたら……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's spacious, and there's no effect of heat\\ninsulation from the ceiling.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「広いし、天井とか断熱効果ゼロだからなぁ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's like a prefabricated building. There's no\\nattic, and the heat from the sun transfers\\ndirectly to the inside.",
+                "name": ""
+            },
+            "jp": {
+                "line": "プレハブのような建物だ。屋根裏もないし、陽射しの熱がそのまま内部に伝わってくる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even if we turn on the air conditioning, it only\\nhas half the effect.",
+                "name": ""
+            },
+            "jp": {
+                "line": "エアコンをつけてても、効果半減だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00c9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's better than at the Robotics Club though.\\nThere are a lot of people, so it gets really\\nhumid... from the sweat.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ロボット部よりかはましよ。\\n　あっちは人数多いから蒸し蒸しするのよね……汗で」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ca": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Listening to Ageha's story, Kotori makes a face\\nthat says 'Ewww!",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはの話を聞いて、小鳥が「うげぇ」って顔をする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Alright, I'm going this way.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「さてと、わたしこっちだから」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We get to the usual fork in the road, where Ageha\\nleaves us to go in the other direction.",
+                "name": ""
+            },
+            "jp": {
+                "line": "いつもの分かれ道に差し掛かったところで、あげはが俺たちとは違う道へと向きを変える。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'See ya.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「じゃーね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ce": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Ageha.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なあ、あげは」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00cf": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Do you wanna get some ice cream from the\\nconvenience store?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「コンビニでアイス食ってかね？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah sure... but why all of a sudden?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いいけど……なんで急に？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You two were saying how hot it is, and I\\nsuddenly felt like eating one.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おまえらが暑い暑いって言うから、\\n　急に食いたくなったんだよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You wanna eat one too, Kotori?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「小鳥も食べるよな？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh? Y-...Yeah OK.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「え？　い、いいけど……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori seems to be thinking about Ageha being\\nthere when she answers.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥が、なんとなくあげはを意識して答える。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, let's go.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「じゃ、いこうか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I start walking ahead.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は先に立って歩き出した。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In the convenience store parking lot, I bite into\\nthe ice cream that I had bought.",
+                "name": ""
+            },
+            "jp": {
+                "line": "コンビニの駐車場で、買ってきたアイスをかじる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00d9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Hanging out in front of the convenience store is\\none of the privileges of being a high school\\nstudent.",
+                "name": ""
+            },
+            "jp": {
+                "line": "コンビニの前にたむろするのは、俺たち学生の特権だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00da": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha got watermelon flavor, Kotori got chocolate\\nchip, and I chose Vanilla Monaka.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげははスイカ味の棒アイス、小鳥はチョコチップのカップ、俺はバニラモナカを選んでいた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00db": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So, you prefer the ones sold in cups, Kotori?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「羽々音さんはカップ派か」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00dc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Ice cream on a stick melts halfway through,\\nand it makes your hands sticky. So, I don't\\nreally like it.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……棒のアイスは途中で溶けてきて、\\n　手がべとべとするから好きじゃないの」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00dd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Seems like everyone has their own preferences\\nwhen it comes to ice cream.",
+                "name": ""
+            },
+            "jp": {
+                "line": "アイスを食べるにも、それぞれこだわりがあるらしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00de": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Aoi. How was the simulator?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ねえ、碧。\\n　シミュレータ、どうだった？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00df": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm... I still don't really understand it. It\\nwas pretty tricky.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「んー、まだよくわかんねーなぁ。\\n　結構むずかった」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Which part was difficult?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「どこがどう難しいの？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It just feels kind of inconvenient, you know?\\nWhen I think about doing something, I'm not able\\nto do it quickly...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんていうか、不便な乗り物？\\n　何かしようって思った時、\\n　すぐにはどうにもならないっていうか……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The feeling I get when I move it, and the speed.\\nIt's quite easy to steer though.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「動かした感じ、速度がある方が、\\n　操縦が利きやすいみたいなんだけど」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If there's no wind, the ailerons, rudder, and\\nelevator have no effect though.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「エルロンもラダーもエレベータも、\\n　風を受けなきゃ効果ないもんね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's right.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうそう」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Using the power of the wind to control the\\nposition of the aircraft.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それらは、風の力を機体に伝えて姿勢を制御する。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Of course, if the wind is strong, small movements\\nof the controls have a big effect, and vice\\nversa.",
+                "name": ""
+            },
+            "jp": {
+                "line": "当然、受ける風が強ければ、少しの操舵で大きな効果が得られることになる。逆もまた然りだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "However, the glider doesn't have an engine.",
+                "name": ""
+            },
+            "jp": {
+                "line": "しかし、グライダーにはエンジンがない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "You can't easily speed up or slow down.",
+                "name": ""
+            },
+            "jp": {
+                "line": "お手軽に加速したり減速したりできないわけだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00e9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If you do one thing, it affects everything else,\\nand that's what makes it difficult.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「何か一つの事をするのに、\\n　他の全部のことが影響してきて、\\n　それがむずいかなぁ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ea": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "You can't just think about the current situation,\\nyou have to act according to what will happen\\nnext.",
+                "name": ""
+            },
+            "jp": {
+                "line": "現状を把握するだけじゃなく、先のことまで考えて行動しておかなくちゃいけない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00eb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It means that experience is needed to ride this\\nthing.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そういう意味じゃ、やはり経験が物を言う乗り物だと思う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ec": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmmm... Did it feel good to fly it?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ふぅん……\\n　乗ってて気持ちよかった？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ed": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, to be honest, the simulator didn't feel\\nthat good at all... You were watching the screen,\\nright?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いや、正直、シミュレータじゃさっぱり……。\\n　画面見てただろ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ee": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah. How should I say... It looked really\\nfrustrating.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うん。\\n　なんていうか……すごいもどかしい感じだった」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ef": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Compared to 3D simulator games, it was nowhere\\nnear as exhilarating.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「３Ｄのシューティングゲームに比べると、\\n　圧倒的に爽快感がなかったわね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, that's true.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうそう」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It must be a lot different to actually fly\\nthough...'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「実際に飛ぶのとは、\\n　やっぱり違うのかなぁ……」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I think so. I can imagine that somehow.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だと思う。\\n　なんとなく、イメージはできるんだ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "How would it feel to fly through the sky in that\\nthing, I wonder?",
+                "name": ""
+            },
+            "jp": {
+                "line": "あれでほんとに空を飛んだらどんな感じか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It still feels a bit unclear.",
+                "name": ""
+            },
+            "jp": {
+                "line": "まだおぼろげだけど。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...It's nice isn't it? I wanna fly too.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……いいなぁ。\\n　私も飛んでみたい」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why don't you give the simulator a try?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「シミュレータなら、\\n　やってみればいいんじゃない？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "You can control everything with your hands.",
+                "name": ""
+            },
+            "jp": {
+                "line": "すべて手で操作可能だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, I'm OK. Now is the time for you to do it,\\nAoi.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「いい。\\n　今は碧くんがやるべき時だから」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00f9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I'll be patient for now... that's what it seemed\\nshe was saying.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今はガマンするの――そんな調子で言う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fa": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Without thinking, Ageha and I look at each other.",
+                "name": ""
+            },
+            "jp": {
+                "line": "思わず、俺とあげはは顔を見合わせていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, let's hurry up and make the wings, so that\\nwe can actually fly it.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「じゃあ、早いとこ翼を造って、\\n　実際に飛べるようにしないとね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fc": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おお」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fd": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If I can quickly become able to fly by myself, I\\ncan take Kotori with me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "早く一人で飛べるようになって、小鳥を乗せてやろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00fe": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I might be getting ahead of myself, but it's good\\nto have a target.",
+                "name": ""
+            },
+            "jp": {
+                "line": "少し気が早いかもしれないけど、目標がある方ががんばれる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ff": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Tsk. I didn't win a prize. Pity.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ちぇっ、ハズレかぁ。\\n　残念」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0100": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha finished eating her ice cream, and threw\\nthe stick into the trash can.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはが、食べ終わったアイスの棒をゴミ箱に投げ入れた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0101": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I've finished eating too, so I throw my Monaka\\nwrapper into the trash can.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺も食べ終わったので、モナカの袋をゴミ箱に捨てにいく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0102": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Munch, munch...!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「はぐはぐ……！」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0103": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Kotori was still eating, and hurriedly ate the\\nlast of her chocolate chip ice cream.",
+                "name": ""
+            },
+            "jp": {
+                "line": "まだ食べていた小鳥が、慌ててチョコチップアイスをかき込む。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0104": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It wasn't as bad as Amane, but, the way she ate\\nkind of ruined her 'pretty girl' image.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩ほどじゃないが、美人が台無しな感じの食べ方だ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0105": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, she rushed over in her wheelchair and came\\nto throw the cup into the trash can.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それからわたわたと車椅子を走らせ、ゴミ箱へカップを捨てに行った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0106": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Does she think that if she doesn't do it quickly,\\nwe'll leave her behind?",
+                "name": ""
+            },
+            "jp": {
+                "line": "早くしないとおいていかれる、とでも思っているんだろうか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0107": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "While we were away from Kotori, Ageha had come up\\nbeside me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "小鳥が離れている間に、あげはが俺の隣に寄り添ってきた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0108": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Thank you for being so considerate.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「気を遣ってくれてありがと」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0109": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Whadya mean?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんのことだ？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'For playing dumb. You invited Kotori and I here\\nfor our sakes didn't you?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「とぼけちゃって。\\n　わたしと羽々音さんのために、\\n　誘ってくれたんでしょ？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...I dunno, did I?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……さあて、どうだったかな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Looking at me as I quietly play dumb, Ageha\\nsmiled cheerfully.",
+                "name": ""
+            },
+            "jp": {
+                "line": "むっつりととぼける俺を見て、あげはは楽しそうに笑った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, sorry to keep you waiting.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「お、おまたせっ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...You didn't need to rush like that.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……そんな慌てなくていいのに」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "010f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, I'm off now. See you tomorrow!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「それじゃ、帰りますか。\\n　また明日ねー」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0110": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, see ya.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おお、またな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0111": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'B-Bye.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「さ、さようなら」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0112": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We see Ageha off as she waves goodbye. Then, I\\npush Kotori's wheelchair along the road back to\\nthe dormitory.",
+                "name": ""
+            },
+            "jp": {
+                "line": "手を振って帰って行くあげはを見送ると、俺は小鳥の車椅子を押して、寮への道を辿っていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
     }
-]
+}

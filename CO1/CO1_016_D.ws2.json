@@ -1,163 +1,416 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "'...Umm... what made you think that?'"
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Umm... what made you think that?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……あの、どうしてそう思ったんですか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0400",
-        "line": {
-            "en": "Why would she say something like that all of a\\nsudden?"
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Why would she say something like that all of a\\nsudden?",
+                "name": ""
+            },
+            "jp": {
+                "line": "なんで急にそんなこと言い出したんだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'When we were in the bath, that's what Kotori and\\nAgeha said.'"
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'When we were in the bath, that's what Kotori and\\nAgeha said.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「お風呂に入ってる時にな、\\n　小鳥とあげはが言ってたんだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'That the one that you like must be me.'"
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That the one that you like must be me.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「碧くんが好きなのは私じゃないかって」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "What the hell?"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "What the hell?",
+                "name": ""
+            },
+            "jp": {
+                "line": "なんだそれ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'...The way they're talking about it makes it\\nsound like I definitely have a secret crush on\\nsomeone.'"
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...The way they're talking about it makes it\\nsound like I definitely have a secret crush on\\nsomeone.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……まるで、俺が誰かに片思いしている事実は、\\n　確定しているような言い草っすね」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'Is that why you thought you'd ask me about it?'"
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Is that why you thought you'd ask me about it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それで、本人に聞いてみようと思ったわけですか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "Amane has a kind of naive look on her face as she\\nnods deeply."
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane has a kind of naive look on her face as she\\nnods deeply.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩は、素朴な表情を浮かべて、こくんと頷く。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "That's the kind of thing that you don't just go\\nup to someone and ask them."
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That's the kind of thing that you don't just go\\nup to someone and ask them.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それ、聞いちゃいけないだろう、本人に。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'I see...Is that so...?'"
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see...Is that so...?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「そうかぁ、そうなのかぁ……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "Amane starts muttering to herself as she looks\\nback towards the designs."
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane starts muttering to herself as she looks\\nback towards the designs.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩はぶつくさ言いながら、図面へと視線を戻した。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "At that moment, she goes back to her\\n'concentrating face'."
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "At that moment, she goes back to her\\n'concentrating face'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "一瞬でまた、集中した顔になる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3000",
-        "line": {
-            "en": "After I finish drinking my barley tea, I stand up\\nand go to wash the glass."
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "After I finish drinking my barley tea, I stand up\\nand go to wash the glass.",
+                "name": ""
+            },
+            "jp": {
+                "line": "麦茶を飲み終えた俺は、立ち上がって、グラスを流しにおいた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3400",
-        "line": {
-            "en": "'Well then, I'm off to bed now.'"
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well then, I'm off to bed now.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それじゃ俺、もう寝ますんで」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'...'"
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "She can't hear me..."
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She can't hear me...",
+                "name": ""
+            },
+            "jp": {
+                "line": "聞こえちゃいねぇ……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4000",
-        "line": {
-            "en": "I gently turned the electric fan in Amane's\\ndirection, then left the dining hall."
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I gently turned the electric fan in Amane's\\ndirection, then left the dining hall.",
+                "name": ""
+            },
+            "jp": {
+                "line": "扇風機をそっと先輩の方へ向けると、俺は食堂を出た。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'...Phew... I felt so nervous...!'"
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Phew... I felt so nervous...!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……はぁ、ドキドキした〜」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "4800",
-        "line": {
-            "en": "As I close the door behind me with one hand, I\\nput the other on the left side of my chest."
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As I close the door behind me with one hand, I\\nput the other on the left side of my chest.",
+                "name": ""
+            },
+            "jp": {
+                "line": "後ろ手に閉めたドアを背に、左胸に手を当てる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "My heart was still pounding."
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "My heart was still pounding.",
+                "name": ""
+            },
+            "jp": {
+                "line": "まだ心臓がバクバクいってる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5000",
-        "line": {
-            "en": "'To think she'd suddenly ask me a thing like\\nthat...'"
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'To think she'd suddenly ask me a thing like\\nthat...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「急にあんな質問するんだもんな……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "5400",
-        "line": {
-            "en": "Regardless of whether or not I like her, to have\\nsomeone that pretty look me in the eyes and ask\\n'Do you like me?' left me a little flustered."
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Regardless of whether or not I like her, to have\\nsomeone that pretty look me in the eyes and ask\\n'Do you like me?' left me a little flustered.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あんなキレイな人に、面と向かって「好きなのか？」なんて言われたら、好きかどうかなんて関係なく、ちょっとときめいてしまうものがあった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5800",
-        "line": {
-            "en": "I lay down on my bed and it felt like the\\nthrobbing in my heart wouldn't go away for a\\nlittle while."
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I lay down on my bed and it felt like the\\nthrobbing in my heart wouldn't go away for a\\nlittle while.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺はベッドに横になるものの、高鳴る心臓は、しばらく治まってはくれそうになかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     }
-]
+}

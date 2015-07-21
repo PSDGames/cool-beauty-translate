@@ -1,58 +1,146 @@
-[
-    {
-        "id": "0400",
-        "line": {
-            "en": "'... I don't really have a favorite.'"
+{
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'... I don't really have a favorite.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……とくには、ない」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'What the hell?'"
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What the hell?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「なにそれっ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'Huh?'"
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「はぁ？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'...'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "Everyone all started complaining at the same\\ntime."
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Everyone all started complaining at the same\\ntime.",
+                "name": ""
+            },
+            "jp": {
+                "line": "全員から一斉にブーイングがあがった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'No, that's not it! Everyone's swimwear suits\\nthem, so it's hard to say which is the best,\\nthat's all!'"
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, that's not it! Everyone's swimwear suits\\nthem, so it's hard to say which is the best,\\nthat's all!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ち、ちがうって！\\n　みんなそれぞれに似合ってるから、\\n　甲乙付けがたいってだけでっ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'Sorry for asking such a weird question. That\\nquestion was a little too much for you, Aoi.'"
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sorry for asking such a weird question. That\\nquestion was a little too much for you, Aoi.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ごめんね、ヘンな質問して。\\n　碧にはちょっとハイレベルすぎたね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "She said to me, as if pitying me. I feel like I\\nmessed up."
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She said to me, as if pitying me. I feel like I\\nmessed up.",
+                "name": ""
+            },
+            "jp": {
+                "line": "哀れむように言われてしまった。\\nなんか悔しい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     }
-]
+}

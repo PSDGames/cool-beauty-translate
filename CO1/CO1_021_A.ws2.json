@@ -1,352 +1,902 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "She said that, then she hung her bag over her\\nshoulder."
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She said that, then she hung her bag over her\\nshoulder.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そう言って、カバンを肩に掛けようとする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0400",
-        "line": {
-            "en": "'Wait!'"
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wait!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「待ってください！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "The thoughts that I was desperately holding\\ninside started to overflow, and in that moment, I\\ntried to keep them in check."
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The thoughts that I was desperately holding\\ninside started to overflow, and in that moment, I\\ntried to keep them in check.",
+                "name": ""
+            },
+            "jp": {
+                "line": "必死に胸に押し込めようとしていた想いが溢れ出し、俺はとっさに引き留めていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "Amane was really going to leave."
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane was really going to leave.",
+                "name": ""
+            },
+            "jp": {
+                "line": "本当に先輩がいってしまう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "She was going to leave her dreams, her memories,\\neverything, behind."
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She was going to leave her dreams, her memories,\\neverything, behind.",
+                "name": ""
+            },
+            "jp": {
+                "line": "夢も、想い出も、何もかも全部ここに残して。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "I don't want to let her go... My heart trembled\\nwith such strong feelings."
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I don't want to let her go... My heart trembled\\nwith such strong feelings.",
+                "name": ""
+            },
+            "jp": {
+                "line": "いかせたくない――強い気持ちが、心を揺さぶる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "She puts down her bag and turns towards me."
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She puts down her bag and turns towards me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩はカバンをおき、俺の方を向いた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'Aoi?'"
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「碧くん？」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "I walk over to her, then take her hand."
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I walk over to her, then take her hand.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、先輩の方へ歩み寄り、そして手を取った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'Huh...?'"
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh...?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「え――」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "I press my lips against hers."
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I press my lips against hers.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は先輩の唇に、唇を押し付けていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'Mmph...'"
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Mmph...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ン……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "3000",
-        "line": {
-            "en": "Amane is surprised, and her whole body tenses up."
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane is surprised, and her whole body tenses up.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩は驚いて、身体を硬直させる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3400",
-        "line": {
-            "en": "She looks like she doesn't understand what's\\nhappening, and her eyes are open in bewilderment."
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She looks like she doesn't understand what's\\nhappening, and her eyes are open in bewilderment.",
+                "name": ""
+            },
+            "jp": {
+                "line": "何が起こったのか理解がついていかない様子で、きょとんと目を見開いたままだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'Mmmmmph...'"
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Mmmmmph...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ンン……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "But that was only to begin with."
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But that was only to begin with.",
+                "name": ""
+            },
+            "jp": {
+                "line": "けど、それも最初だけ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4000",
-        "line": {
-            "en": "Once she grasped the situation, the tension\\ndisappeared from her rigid shoulders."
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Once she grasped the situation, the tension\\ndisappeared from her rigid shoulders.",
+                "name": ""
+            },
+            "jp": {
+                "line": "理解が追いつくと、強張っていた先輩の両肩から、力が抜けていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4400",
-        "line": {
-            "en": "Amane closed her eyes, and then, entrusting\\nherself to me, pressed her lips back against\\nmine."
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane closed her eyes, and then, entrusting\\nherself to me, pressed her lips back against\\nmine.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩はまぶたを閉じ、そして俺に身を委ねるように、自分から唇を押し当ててきた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4800",
-        "line": {
-            "en": "'Mmm... mmmm...'"
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Mmm... mmmm...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ン……ンン…………」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "Her lips were lush, soft and delicate."
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Her lips were lush, soft and delicate.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩の唇は{瑞々:みずみず}しく、柔らかく、とても繊細だった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5000",
-        "line": {
-            "en": "There was a certain elasticity to them and they\\npushed back against my lips."
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "There was a certain elasticity to them and they\\npushed back against my lips.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それでいて弾力があって、俺の唇をゆるく押し返してくる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5400",
-        "line": {
-            "en": "The feelings of sadness turned to feelings of\\nadoration."
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The feelings of sadness turned to feelings of\\nadoration.",
+                "name": ""
+            },
+            "jp": {
+                "line": "せつなさが、愛おしさへと変わっていく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5800",
-        "line": {
-            "en": "I pulled her hand towards me, and pressed my lips\\nmore strongly against hers."
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I pulled her hand towards me, and pressed my lips\\nmore strongly against hers.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、握っていた手を引いて、より強く唇を求めた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'Mmmmmph...'"
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Mmmmmph...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ンン……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "6000",
-        "line": {
-            "en": "Amane didn't refuse it, she accepted."
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane didn't refuse it, she accepted.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩はそれを拒まず、受け入れてくれた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6400",
-        "line": {
-            "en": "The lushness of her lips spread to every corner\\nof my thoughts."
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The lushness of her lips spread to every corner\\nof my thoughts.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩の唇の{瑞々:みずみず}しさが、俺の思考の隅々にまで行き渡る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6800",
-        "line": {
-            "en": "This was a pleasant sensation that I had never\\nexperienced before."
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This was a pleasant sensation that I had never\\nexperienced before.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それは、今まで経験したことのない心地良さだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "Then, we slowly moved our lips away."
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, we slowly moved our lips away.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして、ゆっくりと唇を離していった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7000",
-        "line": {
-            "en": "It lingered for a moment, then the warmth from\\nthe two of us being so close soon disappeared."
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It lingered for a moment, then the warmth from\\nthe two of us being so close soon disappeared.",
+                "name": ""
+            },
+            "jp": {
+                "line": "一瞬近づき、重なり合った先輩の体温が、またすぐ遠ざかっていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7400",
-        "line": {
-            "en": "'Aoi, this is the sort of thing that you do with\\nthe person that you like...'"
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi, this is the sort of thing that you do with\\nthe person that you like...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「碧くん、こういうことは、好きな相手とするんじゃ……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'...I like you, Amane.'"
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...I like you, Amane.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……俺、先輩のことが好きです」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'Not just as my senpai, but as a girl.'"
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Not just as my senpai, but as a girl.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「先輩としてじゃなく、女の子として」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'Aoi...'"
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「碧くん……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'I don't wanna let you go.'"
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I don't wanna let you go.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「先輩のこと、いかせたくないです」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "8800",
-        "line": {
-            "en": "Amane looks at me with a troubled look on her\\nface."
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane looks at me with a troubled look on her\\nface.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩は、困った顔をして俺を見つめる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'...I can't stay here.'"
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...I can't stay here.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……それはできないんだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "9000",
-        "line": {
-            "en": "'I know. That's why... I at least wanted to let\\nyou know how I feel.'"
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I know. That's why... I at least wanted to let\\nyou know how I feel.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「わかってます。\\n　だから……せめて、俺の気持ちを知っててほしくて」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "9400",
-        "line": {
-            "en": "Amane was going to leave... When I thought of\\nthat, I couldn't bear it, and before I realized,\\nI had kissed her."
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane was going to leave... When I thought of\\nthat, I couldn't bear it, and before I realized,\\nI had kissed her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩がいってしまう――そう思うとたまらなくなって、気が付くとキスしてしまっていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'...Yes, I understand.'"
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Yes, I understand.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……うん、わかった」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "Amane nodded with a kind smile on her face."
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane nodded with a kind smile on her face.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩は、優しい微笑みを浮かべて頷いた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "a000",
-        "line": {
-            "en": "Then, reluctantly, I let go of her hand."
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, reluctantly, I let go of her hand.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして、名残惜しそうに、俺が握っていた手をほどいた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'Thank you, Aoi. Up until the very end, I was\\nable to have many wonderful memories.'"
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Thank you, Aoi. Up until the very end, I was\\nable to have many wonderful memories.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ありがとう、碧くん。\\n　最後の最後で、とびきりの想い出ができた」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "a800",
-        "line": {
-            "en": "She smiles happily and then puts her bag on her\\nshoulder."
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She smiles happily and then puts her bag on her\\nshoulder.",
+                "name": ""
+            },
+            "jp": {
+                "line": "にっこり笑って言うと、先輩はカバンを肩にかけた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'Amane.'"
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Amane.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「先輩」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "b000",
-        "line": {
-            "en": "I withdraw my hand which was held out."
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I withdraw my hand which was held out.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、のばしかけた手を押さえる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "b400",
-        "line": {
-            "en": "'Can I walk you to the bus stop?'"
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Can I walk you to the bus stop?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「バス停まで送っていってもいいですか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "b800",
-        "line": {
-            "en": "'Sure.'"
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sure.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「うん」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "Then, after many years here, Amane left the\\ngarage."
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then, after many years here, Amane left the\\ngarage.",
+                "name": ""
+            },
+            "jp": {
+                "line": "天音先輩は、長年こもり続けたガレージを後にした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "c000",
-        "line": {
-            "en": "She had no more regrets."
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She had no more regrets.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もう名残を惜しむこともなかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "c400",
-        "line": {
-            "en": "With that, our short summer together was over."
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "With that, our short summer together was over.",
+                "name": ""
+            },
+            "jp": {
+                "line": "こうして、俺と先輩の短い夏は終わった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     }
-]
+}

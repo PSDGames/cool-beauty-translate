@@ -272,9 +272,7 @@
         "state": 1
     },
     "000f": {
-        "comments": [
-            "Не совсем понятно, о каком времени он говорит."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "That's how it should've been...",
@@ -346,9 +344,7 @@
         "state": 1
     },
     "0013": {
-        "comments": [
-            "Надо ли тире перед «это»?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "However, to directly express the emotion I felt\\nat that time, 'taken' is the word that fits best.",
@@ -366,9 +362,7 @@
         "state": 1
     },
     "0014": {
-        "comments": [
-            "Криво."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "...So, there was one thing that I learned. Life\\nisn't all about having fun!",
@@ -401,7 +395,7 @@
                 "name": ""
             }
         },
-        "state": 1
+        "state": 2
     },
     "0016": {
         "comments": [],
@@ -549,7 +543,7 @@
     },
     "001e": {
         "comments": [
-            "Wind turbine — ветрогенератор."
+            "«wind turbine» — ветрогенератор."
         ],
         "data": {
             "en": {
@@ -743,11 +737,11 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«Сообщение от Ан-чан»",
+                "line": "«Сообщение от Ан-чан...»",
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "0029": {
         "comments": [],
@@ -765,10 +759,12 @@
                 "name": ""
             }
         },
-        "state": 1
+        "state": 2
     },
     "002a": {
-        "comments": [],
+        "comments": [
+            "Проверить пунктуацию."
+        ],
         "data": {
             "en": {
                 "line": "My name is written using a Chinese character read\\nas 'Aoi'.",
@@ -783,11 +779,11 @@
                 "name": ""
             }
         },
-        "state": 1
+        "state": 2
     },
     "002b": {
         "comments": [
-            "Имя главного героя записывается иероглифом 碧, кунное чтение: みどり (midori)."
+            "Имя главного героя записывается иероглифом 碧; кунное чтение: みどり (midori)."
         ],
         "data": {
             "en": {
@@ -799,11 +795,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Это сложный иероглиф и его часто\\nчитают «Мидори».",
+                "line": "Это сложный иероглиф, который по ошибке\\nможно прочитать как «Мидори».",
                 "name": ""
             }
         },
-        "state": 1
+        "state": 2
     },
     "002c": {
         "comments": [],
@@ -817,11 +813,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Но будь то «Аои» или «Мидори», моё имя часто\\nпринимают за женское, что доставляет неудобства.",
+                "line": "Но будь то «Аои» или «Мидори», моё имя нередко\\nпринимают за женское, что доставляет неудобства.",
                 "name": ""
             }
         },
-        "state": 1
+        "state": 2
     },
     "002d": {
         "comments": [],
@@ -842,9 +838,7 @@
         "state": 2
     },
     "002e": {
-        "comments": [
-            "Не уверен насчёт «сенсорный ввод»"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I hardly ever text, so I find the key-touch\\nawkward to use.",
@@ -1024,9 +1018,7 @@
         "state": 1
     },
     "0038": {
-        "comments": [
-            "[Одновременно и прошлое и будущее открывал этот вид] Как нормально сказать?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "The view expresses both the past and the future\\nat the same time.",
@@ -1116,9 +1108,7 @@
         "state": 2
     },
     "003d": {
-        "comments": [
-            "«to look for it» вообще-то «искать», но по контексту не подходит."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I got up and headed down the slope to look for\\nit.",
@@ -1511,7 +1501,7 @@
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "0053": {
         "comments": [],
@@ -1637,7 +1627,7 @@
                 "name": "Девушка"
             }
         },
-        "state": 1
+        "state": 2
     },
     "005a": {
         "comments": [],
@@ -1676,9 +1666,7 @@
         "state": 1
     },
     "005c": {
-        "comments": [
-            "«delicate eyes» нежные глаза? оО"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Suddenly, tears appeared in those delicate eyes.",
@@ -1711,12 +1699,10 @@
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "005e": {
-        "comments": [
-            "Таки «навернувшиеся», сначала они появились, потом достигли критической массы и рухнули вниз"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "The tears that had welled up in the corners of\\nher eyes came running straight down.",
@@ -1781,11 +1767,11 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«Что? А... Эй!»",
+                "line": "«Что? А... эй!»",
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "0062": {
         "comments": [],
@@ -1839,7 +1825,7 @@
                 "name": "Девушка"
             }
         },
-        "state": 1
+        "state": 2
     },
     "0065": {
         "comments": [],
@@ -1950,9 +1936,7 @@
         "state": 1
     },
     "006b": {
-        "comments": [
-            "Суть в том, что главный герой не знает как себя вести"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I didn't even know what the situation was.",
@@ -2582,9 +2566,7 @@
         "state": 1
     },
     "008e": {
-        "comments": [
-            "Вероятно так."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "She answered, dismayed.",
@@ -2746,9 +2728,7 @@
         "state": 1
     },
     "0097": {
-        "comments": [
-            "Немного не соответствует оригиналу, но сути не меняет."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "The bag at my feet rustled as I rummaged around\\ninside it.",
@@ -2867,7 +2847,7 @@
                 "name": "少女"
             },
             "ru": {
-                "line": "«В-верно, но... Эм...»",
+                "line": "«В-верно, но... Эмм...»",
                 "name": "Девушка"
             }
         },
@@ -2964,9 +2944,7 @@
         "state": 2
     },
     "00a3": {
-        "comments": [
-            "Чую, с пунктуацией что-то нет так."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "From the methods I'd seen on TV, the care workers\\ndo it by embracing them from the front.",
@@ -3031,11 +3009,11 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«Прощу меня извинить».",
+                "line": "«Прошу меня извинить».",
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "00a7": {
         "comments": [],
@@ -3053,7 +3031,7 @@
                 "name": "Девушка"
             }
         },
-        "state": 1
+        "state": 2
     },
     "00a8": {
         "comments": [],
@@ -3121,16 +3099,14 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«(Ух! Такая лёгкая...!)»",
+                "line": "«(Ух ты! Такая лёгкая...!)»",
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "00ac": {
-        "comments": [
-            "Оставлю без всяких «моментумов»."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Because she was much lighter than I had expected,\\nthere was a bit too much momentum.",
@@ -3310,9 +3286,7 @@
         "state": 1
     },
     "00b6": {
-        "comments": [
-            "Нужно ли тире?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Is this duck your pet?'",
@@ -3323,11 +3297,11 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«Этот селезень твой питомец?»",
+                "line": "«Этот селезень — твой питомец?»",
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "00b7": {
         "comments": [],
@@ -3341,11 +3315,11 @@
                 "name": "少女"
             },
             "ru": {
-                "line": "«Нет. Он скорее сожитель».",
+                "line": "«Нет. Мы с ним сожители».",
                 "name": "Девушка"
             }
         },
-        "state": 1
+        "state": 2
     },
     "00b8": {
         "comments": [],
@@ -3359,11 +3333,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Сожитель...??",
+                "line": "Сожители...??",
                 "name": ""
             }
         },
-        "state": 1
+        "state": 2
     },
     "00b9": {
         "comments": [],
@@ -3384,9 +3358,7 @@
         "state": 1
     },
     "00ba": {
-        "comments": [
-            "Вторую часть не понял."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Hat, don't go too far. You'll get left behind.'",
@@ -3419,7 +3391,7 @@
                 "name": "Хат"
             }
         },
-        "state": 1
+        "state": 2
     },
     "00bc": {
         "comments": [],
@@ -4249,7 +4221,7 @@
                 "name": "Девушка"
             }
         },
-        "state": 1
+        "state": 2
     },
     "00ea": {
         "comments": [],
@@ -5080,9 +5052,7 @@
         "state": 1
     },
     "0118": {
-        "comments": [
-            "Не силён я в эпитетах."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Coupled with her cute and dainty appearance, was\\nher lovely smile.",
@@ -5259,7 +5229,7 @@
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "0122": {
         "comments": [],
@@ -5334,9 +5304,7 @@
         "state": 1
     },
     "0126": {
-        "comments": [
-            "Вроде норм"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "A little lady with a duck? It was an odd\\ncombination but they seemed strangely familiar\\nwith each other.",
@@ -5408,9 +5376,7 @@
         "state": 1
     },
     "012a": {
-        "comments": [
-            "Не знаю, чем заменить «пологой»"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "While walking along the gently sloping street, I\\nlook up at the clouds moving above.",
@@ -5736,9 +5702,7 @@
         "state": 1
     },
     "013c": {
-        "comments": [
-            "В оригинале «не могу просто так стоять в шоке», но как-то не звучит."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'...I can't just stand here in shock.\\nWhew...Haaaah...OK.'",
@@ -5749,7 +5713,7 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«...Я должен отойти от шока. Вух... Ох...\\nЛадно.»",
+                "line": "«...Я должен отойти от шока. Вух... Ох...\\nЛадно».",
                 "name": "Аои"
             }
         },
@@ -5846,9 +5810,7 @@
         "state": 2
     },
     "0142": {
-        "comments": [
-            "В игре она не в трусах и лифчике, а в неглиже."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Suddenly a girl in her underwear appeared before\\nme, and the expression that I had tried so hard\\nto straighten out crumbled instantly.",
@@ -5939,7 +5901,7 @@
     },
     "0147": {
         "comments": [
-            "door-to-door sales — продажи вразнос (сам в ахуе)."
+            "«door-to-door sales» — продажи вразнос."
         ],
         "data": {
             "en": {
@@ -5987,7 +5949,7 @@
                 "name": "下着のお姉さん"
             },
             "ru": {
-                "line": "«Нуу... похоже, у нас гость.»",
+                "line": "«Нуу... похоже, у нас гость».",
                 "name": "Девушка в нижнем белье"
             }
         },
@@ -6174,9 +6136,7 @@
         "state": 2
     },
     "0154": {
-        "comments": [
-            "Вроде так не говорят, типа антоним «на мою беду»."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Just like receiving salvation from god, my cell\\nphone rang.",
@@ -6223,16 +6183,14 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«Прошу меня простить!!»",
+                "line": "«Прошу меня извинить!!»",
                 "name": "Аои"
             }
         },
         "state": 2
     },
     "0157": {
-        "comments": [
-            "Проверьте пунктуацию кто-нибудь Т_Т"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I quickly pressed the button to answer the call\\nwhile swiftly escaping outside.",
@@ -6304,9 +6262,7 @@
         "state": 1
     },
     "015b": {
-        "comments": [
-            ""
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "And I saw one in her underwear!",
@@ -6720,9 +6676,7 @@
         "state": 1
     },
     "0172": {
-        "comments": [
-            "Хочется добавить «и следили за мной» (будто дикие животные), но пока оставил так."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "While I was explaining the situation, the\\nboarding students, apart from the girl in her\\nunderwear (who was putting on some clothes)\\nsurrounded me but kept their distance, and\\nwatched me.",
@@ -6794,9 +6748,7 @@
         "state": 1
     },
     "0176": {
-        "comments": [
-            "Я так понял, что им срочно нужна замена."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'If nobody comes here, that will be a bigger\\nproblem.'",
@@ -6868,9 +6820,7 @@
         "state": 1
     },
     "017a": {
-        "comments": [
-            "Про «на год младше» не получается воткнуть."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "She was kind of timid and looked to be the same\\nage, or maybe a year younger than me.",
@@ -7216,9 +7166,7 @@
         "state": 1
     },
     "018d": {
-        "comments": [
-            "Речь идёт о его комнате"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'The caretaker's room is at the end of the\\ncorridor on the first floor.'",
@@ -7434,9 +7382,7 @@
         "state": 1
     },
     "0199": {
-        "comments": [
-            "И так сойдёт."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Whew... I've worked up a sweat so I'm gonna take\\nanother bath.'",
@@ -7519,11 +7465,11 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«А? Что ты такое говоришь, мам!!?»",
+                "line": "«Ч-что ты такое говоришь, мам!!?»",
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "019e": {
         "comments": [],
@@ -7670,9 +7616,7 @@
         "state": 2
     },
     "01a6": {
-        "comments": [
-            "Нужна ли запятая после «следом»?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Something big and white came flying down the\\nhallway, and behind it, at breakneck speed...",
@@ -7719,11 +7663,11 @@
                 "name": "少女"
             },
             "ru": {
-                "line": "«Остановись, глупый селезень! Верни мне\\nмои трусики...!!»",
+                "line": "«Стой, глупый селезень! Верни мне\\nмои трусики...!!»",
                 "name": "Девушка"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01a9": {
         "comments": [],
@@ -7741,7 +7685,7 @@
                 "name": "Хат"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01aa": {
         "comments": [],
@@ -7813,7 +7757,7 @@
                 "name": "Девушка"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01ae": {
         "comments": [],
@@ -8083,7 +8027,7 @@
                 "name": "Мама"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01bd": {
         "comments": [],
@@ -8097,11 +8041,11 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«Эмм, да. О чём ты?»",
+                "line": "«Ах да. На чём мы остановились?»",
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01be": {
         "comments": [],
@@ -8225,11 +8169,11 @@
                 "name": "佳奈子"
             },
             "ru": {
-                "line": "«Котори-чан, это наша новая горничная».",
+                "line": "«Это наша новая горничная, Котори-чан».",
                 "name": "Канако"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01c5": {
         "comments": [],
@@ -8261,11 +8205,11 @@
                 "name": "小鳥"
             },
             "ru": {
-                "line": "«Ты шутишь? Кто так решил? Я впервые об этом\\nслышу!!»",
+                "line": "«Ты шутишь? Что ты имеешь в виду? Я впервые об этом слышу!!»",
                 "name": "Котори"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01c7": {
         "comments": [],
@@ -8297,11 +8241,11 @@
                 "name": "小鳥"
             },
             "ru": {
-                "line": "«Ты хочешь сказать, что новая горничная —\\nпарень!!!?»",
+                "line": "«Ты хочешь сказать, что новая горничная — вот этот парень!!!?»",
                 "name": "Котори"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01c9": {
         "comments": [],
@@ -8405,11 +8349,11 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«Аои Минасе, новая горничная общежития».",
+                "line": "«Аои Минасе — новая горничная этого общежития».",
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01cf": {
         "comments": [],
@@ -8441,7 +8385,7 @@
                 "name": ""
             },
             "ru": {
-                "line": "Котори с неохотой ответила на моё приветствие.",
+                "line": "Котори неохотно ответила на моё приветствие.",
                 "name": ""
             }
         },
@@ -8477,11 +8421,11 @@
                 "name": "小鳥"
             },
             "ru": {
-                "line": "«А это Хат. Но вы уже знакомы.»",
+                "line": "«А это Хат. Но вы уже знакомы».",
                 "name": "Котори"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01d3": {
         "comments": [],
@@ -8643,7 +8587,7 @@
                 "name": "Котори"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01dc": {
         "comments": [],
@@ -8733,12 +8677,10 @@
                 "name": "Котори"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01e1": {
-        "comments": [
-            "Речь о том, что положение её было безвыходным и ей требовалась помощь."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'That I made a careless mistake, and that I\\nstarted crying!!'",
@@ -8792,9 +8734,7 @@
         "state": 1
     },
     "01e4": {
-        "comments": [
-            "У них «не так часто», но тогда получается, что видел и уникальность момента теряется."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "To see a girl's tears from so close like that is\\nsomething I don't experience very often.",
@@ -8845,7 +8785,7 @@
                 "name": "Котори"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01e7": {
         "comments": [],
@@ -8863,7 +8803,7 @@
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01e8": {
         "comments": [],
@@ -8881,7 +8821,7 @@
                 "name": "Котори"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01e9": {
         "comments": [],
@@ -8971,7 +8911,7 @@
                 "name": ""
             }
         },
-        "state": 1
+        "state": 2
     },
     "01ee": {
         "comments": [],
@@ -9021,11 +8961,11 @@
                 "name": "小鳥"
             },
             "ru": {
-                "line": "«Разве ты не чувствуешь мою холодную красноту?»",
+                "line": "«Разве ты не ощущаешь мою холодную красноту?»",
                 "name": "Котори"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01f1": {
         "comments": [],
@@ -9043,7 +8983,7 @@
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "01f2": {
         "comments": [],
@@ -9255,11 +9195,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Я не верил своим глазам.",
+                "line": "Я смотрел на это, не веря своим глазам.",
                 "name": ""
             }
         },
-        "state": 1
+        "state": 2
     },
     "01fe": {
         "comments": [],
@@ -9313,7 +9253,7 @@
                 "name": ""
             }
         },
-        "state": 1
+        "state": 2
     },
     "0201": {
         "comments": [],
@@ -9331,7 +9271,7 @@
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "0202": {
         "comments": [],
@@ -9367,7 +9307,7 @@
                 "name": "Аои"
             }
         },
-        "state": 1
+        "state": 2
     },
     "0204": {
         "comments": [],
@@ -9385,7 +9325,7 @@
                 "name": ""
             }
         },
-        "state": 1
+        "state": 2
     },
     "0205": {
         "comments": [],

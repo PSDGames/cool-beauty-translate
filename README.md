@@ -37,31 +37,34 @@
 | На английском | На японском | Вероятный перевод |
 | ------------- | ----------- | ----------------- |
 | **Основные персонажи** | | |
-| Aoi Minase         | 水瀬　碧（みなせ　あおい）　　　 | Аои Минасе      |
-| Kotori Habane      | 羽々音　小鳥（はばね　ことり）　 | Котори Хабане   |
-| Ageha Himegi       | 姫城　あげは（ひめぎ　あげは）　 | Агеха Химеги    |
-| Amane Mochizuki    | 望月　天音（もちづき　あまね）　 | Амане Мотидзуки |
-| Asa Kazato         | 風戸　亜紗（かざと　あさ）　　　 | Аса Кадзато     |
-| Yoru Kazato        | 風戸　依瑠（かざと　よる）　　　 | Ёру Кадзато     |
+| Aoi Minase                               | 水瀬　碧（みなせ　あおい）　　　 | Аои Минасе              |
+| Kotori Habane                            | 羽々音　小鳥（はばね　ことり）　 | Котори Хабане           |
+| Ageha Himegi                             | 姫城　あげは（ひめぎ　あげは）　 | Агеха Химеги            |
+| Amane Mochizuki                          | 望月　天音（もちづき　あまね）　 | Амане Мотидзуки         |
+| Asa Kazato                               | 風戸　亜紗（かざと　あさ）　　　 | Аса Кадзато             |
+| Yoru Kazato                              | 風戸　依瑠（かざと　よる）　　　 | Ёру Кадзато             |
 | **Второстепенные персонажи** | | |
-| Kanako Shigure     | 時雨　佳奈子（しぐれ　かなこ）　 | Канако Сигуре   |
-| Tatsuya Igarasashi | 五十嵐　達也（いがらし　たつや） | Тацуя Игараси   |
-| Hat                | ハット　　　　　　　　　　　　　 | Хат             |
-| Sacchin            | 　　　　　　　　　　　　　　　　 | Саччин          |
+| Kanako Shigure                           | 時雨　佳奈子（しぐれ　かなこ）　 | Канако Сигуре           |
+| Tatsuya Igarasashi                       | 五十嵐　達也（いがらし　たつや） | Тацуя Игараси           |
+| Hat                                      | ハット　　　　　　　　　　　　　 | Хат                     |
+| Sacchin                                  | 　　　　　　　　　　　　　　　　 | Саччин                  |
 | **Имена собственные** | | |
-| Flying Fish Manor      | | поместье «Летучая Рыба» |
-| Witch's Mansion        | | особняк ведьмы |
-| Windmill Hill          | | Холм Ветряков |
+| Flying Fish Manor                        | トビウオ荘　　　　　　　　　　　 | поместье «Летучая Рыба» |
+| Kazegaura                                | 風ヶ浦　　　　　　　　　　　　　 |                         |
+| Keifuu                                   | 恵風（けいふう）　　　　　　　　 | Кеифу                   |
+| Keifuu Academy                           | 恵風学園　　　　　　　　　　　　 | академия Кеифу          |
+| Keifuu Private Academy Student Dormitory | 私立恵風学園の学生寮　　　　　　 |                         |
+| Windmill Hill                            | 風車の丘　　　　　　　　　　　　 | Мельничный холм         |
+| Witch's Mansion                          | 魔女の館　　　　　　　　　　　　 | ведьмин особняк         |
 | Soaring Club           | | Парящий Клуб |
-| Keifuu                 | | Кейфу |
-| Kazegaura              | | Казегаура |
 | Kazami Shopping Street | | Торговый Квартал Казами |
 | **Прочие** | | |
-| cool 'allule' | | холодная краснота |
-| Miss Allule   | | мисс Краснота |
-| dorm mother   | | горничная (temp) |
+| -chan                                    | ちゃん　　　　　　　　　　　　　 | -тян                    |
+| boarding students                        | 寮生　　　　　　　　　　　　　　 |                         |
+| cool 'allule'                            | くーるびゅーちー　　　　　　　　 | холодная крас**н**ота   |
+| dorm mother                              | 寮母　　　　　　　　　　　　　　 | горничная               |
+| glider                                   | グライダー　　　　　　　　　　　 | планёр                  |
+| Miss Allule                              | びゅーちーさん　　　　　　　　　 | красно-сан              |
+| windmill                                 | 風車　　　　　　　　　　　　　　 | ветряк                  |
 | girl          | | девушка |
 | owner-janitor | | **???** |
-| windmill      | | ветряк |
-| glider        | | планёр |
-| -chan         | | -чан |

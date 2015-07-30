@@ -50,18 +50,19 @@
 | Kanako Shigure                           | 時雨　佳奈子（しぐれ　かなこ）　 | Канако Сигуре                                 |
 | Tatsuya Igarasashi                       | 五十嵐　達也（いがらし　たつや） | Тацуя Игараси                                 |
 | Hat                                      | ハット　　　　　　　　　　　　　 | Хат                                           |
-| Sacchin                                  | 　　　　　　　　　　　　　　　　 | Саччин                                        |
+| **Третьестепенные персонажи** | | |
+| Sacchin                                  | さっちん　　　　　　　　　　　　 | Саттин                                        |
 | **Имена собственные** | | |
 | Flying Fish Manor                        | トビウオ荘　　　　　　　　　　　 | поместье «Летучая Рыба»                       |
 | Hargen Darch                             | ハーゲンダッチ　　　　　　　　　 | Haagen-Dazs                                   |
-| Kazegaura                                | 風ヶ浦　　　　　　　　　　　　　 |                                               |
+| Kazami Shopping Street                   | 風見商店街　　　　　　　　　　　 | торговый квартал Кадзами                      |
+| Kazegaura                                | 風ヶ浦　　　　　　　　　　　　　 | Кадзегаура                                    |
 | Keifuu                                   | 恵風（けいふう）　　　　　　　　 | Кеифу                                         |
 | Keifuu Academy                           | 恵風学園　　　　　　　　　　　　 | академия Кеифу                                |
 | Keifuu Private Academy Student Dormitory | 私立恵風学園の学生寮　　　　　　 | частное студенческое общежитие академии Кеифу |
 | Windmill Hill                            | 風車の丘　　　　　　　　　　　　 | Мельничный холм                               |
 | Witch's Mansion                          | 魔女の館　　　　　　　　　　　　 | ведьмин особняк                               |
-| Soaring Club           | | Парящий Клуб |
-| Kazami Shopping Street | | Торговый Квартал Казами |
+| Soaring Club                             | ソアリング部　　　　　　　　　　 | Парящий Клуб |
 | **Прочие** | | |
 | -chan                                    | ちゃん　　　　　　　　　　　　　 | -тян                                          |
 | boarding students                        | 寮生　　　　　　　　　　　　　　 |                                               |
@@ -70,5 +71,6 @@
 | girl                                     | 少女                         | девушка                                       |
 | glider                                   | グライダー　　　　　　　　　　　 | планёр                                        |
 | Miss Allule                              | びゅーちーさん　　　　　　　　　 | красно-сан                                    |
+| owner-caretaker                          | オーナー兼管理人さん　　　　　　 |                                               |
+| owner-janitor                            | オーナー兼管理人さん　　　　　　 | см. owner-caretaker                           |
 | windmill                                 | 風車　　　　　　　　　　　　　　 | ветряк                                        |
-| owner-janitor | | **???** |

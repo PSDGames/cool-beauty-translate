@@ -1,1311 +1,3368 @@
-[
-    {
-        "id": "0400",
-        "line": {
-            "en": "'Sorry, I'll have to pass for today.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'OK, I understand.'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "Ageha didn't really try to pursue it."
-        },
-        "name": ""
-    },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'Kotori, why don't we go part of the way\\ntogether?'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'Sure.'"
-        },
-        "name": "Kotori"
-    },
-    {
-        "id": "1800",
-        "line": {
-            "en": "The two of them leave the classroom together."
-        },
-        "name": ""
-    },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "I see them off, then head to the first grade\\nclassrooms."
-        },
-        "name": ""
-    },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'Where is Asa's classroom?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2400",
-        "line": {
-            "en": "I look around while walking down the hallway\\nwhere the first grade classrooms are."
-        },
-        "name": ""
-    },
-    {
-        "id": "2800",
-        "line": {
-            "en": "I just kind of casually decided to come here, but\\nmaybe I'm a little out of place."
-        },
-        "name": ""
-    },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'Oh, here it is.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3000",
-        "line": {
-            "en": "Umm, where's Asa..."
-        },
-        "name": ""
-    },
-    {
-        "id": "3400",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "3800",
-        "line": {
-            "en": "Ah, there she is."
-        },
-        "name": ""
-    },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "'Hey, Asa.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4000",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'I think you've already heard but we're taking a\\nday off from club activities today, so if you're\\nfree, I thought we could head back together. So,\\nhow about it?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4800",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "?"
-        },
-        "name": ""
-    },
-    {
-        "id": "5000",
-        "line": {
-            "en": "Asa isn't responding to me at all."
-        },
-        "name": ""
-    },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'What's up? Don't you feel well?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'...Geez. You suddenly come into a first grade\\nclassroom, then start to flirt with the girls.\\nYou really are unbelievable.'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "Huh?"
-        },
-        "name": ""
-    },
-    {
-        "id": "6000",
-        "line": {
-            "en": "'To begin with, you've got the wrong person.'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "6400",
-        "line": {
-            "en": "Huh? This isn't Asa..."
-        },
-        "name": ""
-    },
-    {
-        "id": "6800",
-        "line": {
-            "en": "'Oh, Aoi. What are you doing here?'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "'Asa?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7000",
-        "line": {
-            "en": "Asa pokes her head out from the classroom, then\\nruns over to me."
-        },
-        "name": ""
-    },
-    {
-        "id": "7400",
-        "line": {
-            "en": "Which means this is...?"
-        },
-        "name": ""
-    },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'That one's the real one, and this one's a fake?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'Who are you calling a fake?'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'I'm Yoru. How can you get us mixed up when we're\\ntogether so often?'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'But this is Asa's desk...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'Yoru came here because we were planning to go\\nback together, but I had to go to the staff room,\\nso she waited here for me.'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'So that's the situation.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "9000",
-        "line": {
-            "en": "I see. That's why she's here."
-        },
-        "name": ""
-    },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'So, you came to this first grade classroom to\\nflirt with my sister.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'I'm not flirting. I thought that since we live\\nin the same dormitory, and are in the same club,\\nif we've got free time,'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'It's not a club, it's a society.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'Grrrr. It may seem like that on the surface, but\\nto me, it's a club!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'Geez, how lame.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "a800",
-        "line": {
-            "en": "I at least want to think of it as a club."
-        },
-        "name": ""
-    },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "If we don't do that, we won't be able to have it\\nrestored as a club."
-        },
-        "name": ""
-    },
-    {
-        "id": "b000",
-        "line": {
-            "en": "The Soaring Club has been shut down, but Amane\\nfought so desperately to protect it."
-        },
-        "name": ""
-    },
-    {
-        "id": "b400",
-        "line": {
-            "en": "We will make it a club once again."
-        },
-        "name": ""
-    },
-    {
-        "id": "b800",
-        "line": {
-            "en": "'You look like you're thinking about something\\nthat's probably a total hassle.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'No, I'm just enjoying my youth.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'So lame...'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "c400",
-        "line": {
-            "en": "'OK, OK, do you want to go back with us, Aoi?\\nIt's fine by me.'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "c800",
-        "line": {
-            "en": "'Oh, really?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "'Wait, sis! What am I supposed to do!?'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "d000",
-        "line": {
-            "en": "'Well, why don't you come with us?'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "d400",
-        "line": {
-            "en": "'No way, I don't wanna go with him!'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "d800",
-        "line": {
-            "en": "'Whaaaat? Aoi's a good guy! If that's how you\\nfeel, why don't you go home separately?'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "'Uh! Sis, are you choosing him over me?'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "e000",
-        "line": {
-            "en": "'?'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "e400",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "e800",
-        "line": {
-            "en": "'So, in the end, you decided to come with us?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "'I had no choice! Also, I would be scared that he\\nmight try something if I left the two of you\\ntogether!'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "f000",
-        "line": {
-            "en": "'Try something? Ah. Umm... Aoi, you wouldn't...'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "f400",
-        "line": {
-            "en": "'Hey, what are you blushing for, Asa? I wouldn't\\ndo anything like that!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f800",
-        "line": {
-            "en": "'I wonder. You're the type of senior student who\\nintrudes in his junior's class and starts\\nflirting with the girls.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "fc00",
-        "line": {
-            "en": "'I told you, that's not what I was thinking when\\nI came into the classroom. I just want to get to\\nknow Asa, that's all.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0100",
-        "line": {
-            "en": "'In most countries, that's generally considered\\nto be flirting.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "0500",
-        "line": {
-            "en": "'I've... been flirted with...?'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "0900",
-        "line": {
-            "en": "I never intended to flirt with her."
-        },
-        "name": ""
-    },
-    {
-        "id": "0d00",
-        "line": {
-            "en": "But, I guess that to those around us, that it\\nmight seem that way..."
-        },
-        "name": ""
-    },
-    {
-        "id": "1100",
-        "line": {
-            "en": "'The worst ones are those who lack\\nself-awareness.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "1500",
-        "line": {
-            "en": "'I think that Aoi's great. He doesn't hesitate to\\nmeet people halfway, and is good at closing the\\ndistance between himself and others.'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "1900",
-        "line": {
-            "en": "..."
-        },
-        "name": ""
-    },
-    {
-        "id": "1d00",
-        "line": {
-            "en": "'But you really are something.'"
-        },
-        "name": "Boy in class A"
-    },
-    {
-        "id": "2100",
-        "line": {
-            "en": "'What do you mean?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2500",
-        "line": {
-            "en": "'You transferred here, then you suddenly started\\ngetting along with Kotori. You also got close to\\nMochizuki-senpai, right?'"
-        },
-        "name": "Boy in class A"
-    },
-    {
-        "id": "2900",
-        "line": {
-            "en": "The worst ones are those who lack self-awareness."
-        },
-        "name": ""
-    },
-    {
-        "id": "2d00",
-        "line": {
-            "en": "It's true that at that time, I didn't really take\\nin the things that people said to me..."
-        },
-        "name": ""
-    },
-    {
-        "id": "3100",
-        "line": {
-            "en": "'Well, in your case, you're completely tactless,\\nso you simply don't make any distinction between\\nboys and girls when you spend time with them.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "3500",
-        "line": {
-            "en": "'Ah. Oh. Yeah, I guess not.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3900",
-        "line": {
-            "en": "'As a girl, that kind of thing is really\\nirritating.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "3d00",
-        "line": {
-            "en": "'So what should I do?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4100",
-        "line": {
-            "en": "'I'm just telling you to keep your hands off my\\nsister.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "4500",
-        "line": {
-            "en": "'Hey, Yoru. He hasn't done anything like that\\nyet.'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "4900",
-        "line": {
-            "en": "'Asa, don't you think that sounds like I will at\\nsome point?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4d00",
-        "line": {
-            "en": "'If it was Aoi... I wouldn't...'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "5100",
-        "line": {
-            "en": "..."
-        },
-        "name": ""
-    },
-    {
-        "id": "5500",
-        "line": {
-            "en": "'...Stare'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "5900",
-        "line": {
-            "en": "What is with this frosty vibe!"
-        },
-        "name": ""
-    },
-    {
-        "id": "5d00",
-        "line": {
-            "en": "'A...anyway, what shall we do now?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6100",
-        "line": {
-            "en": "'What do you mean? You're the one who brought us\\nwith you.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "6500",
-        "line": {
-            "en": "'Y...yeah... OK, well for now, let's just go\\nshopping!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6900",
-        "line": {
-            "en": "'I... don't mind what we do! If I'm with you,\\nAoi, I'm sure it'll be fun!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "6d00",
-        "line": {
-            "en": "'Thanks, Asa.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7100",
-        "line": {
-            "en": "Asa really is a nice girl. Not like her sister..."
-        },
-        "name": ""
-    },
-    {
-        "id": "7500",
-        "line": {
-            "en": "'Hmph. She's a good girl, not like me.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "7900",
-        "line": {
-            "en": "'What are you, telepathic?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7d00",
-        "line": {
-            "en": "'Oh, Aoi! It's a pet shop! There's a cute\\ndoggie!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "8100",
-        "line": {
-            "en": "Asa stopped all of a sudden, then dashed into the\\npet shop, like it was drawing her in."
-        },
-        "name": ""
-    },
-    {
-        "id": "8500",
-        "line": {
-            "en": "It seems she'd spotted a dog in a cage at the\\nfront of the store."
-        },
-        "name": ""
-    },
-    {
-        "id": "8900",
-        "line": {
-            "en": "'Wow, it's so cute!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "8d00",
-        "line": {
-            "en": "'Does Asa like dogs?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9100",
-        "line": {
-            "en": "'She loves dogs. Even though they're dangerous\\nanimals.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "9500",
-        "line": {
-            "en": "'Dangerous...?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9900",
-        "line": {
-            "en": "'If you get close to dogs, they bark at you, if\\nyou let your guard down, they bite you. You'd\\nhave to be crazy to keep a ferocious animal like\\nthat as a pet.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "9d00",
-        "line": {
-            "en": "'I think that your ideas about dogs are crazy.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a100",
-        "line": {
-            "en": "Could it be that she's scared of them...?"
-        },
-        "name": ""
-    },
-    {
-        "id": "a500",
-        "line": {
-            "en": "'Hmph!'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "a900",
-        "line": {
-            "en": "'Yay, yay! Here, here!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "ad00",
-        "line": {
-            "en": "Asa continues to play with the dog at the front\\nof the store."
-        },
-        "name": ""
-    },
-    {
-        "id": "b100",
-        "line": {
-            "en": "It's quite adorable."
-        },
-        "name": ""
-    },
-    {
-        "id": "b500",
-        "line": {
-            "en": "'Oh, a cat!'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "b900",
-        "line": {
-            "en": "Yoru, who was scared of dogs until just now, saw\\na cat in a cage inside the store, and tottered\\nover to it."
-        },
-        "name": ""
-    },
-    {
-        "id": "bd00",
-        "line": {
-            "en": "So she's scared of dogs, but likes cats."
-        },
-        "name": ""
-    },
-    {
-        "id": "c100",
-        "line": {
-            "en": "'Ooooh! Here kitty, kitty! Meow, meow!'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "c500",
-        "line": {
-            "en": "Hmm. As expected of twins."
-        },
-        "name": ""
-    },
-    {
-        "id": "c900",
-        "line": {
-            "en": "Looks like when they see cute animals, they lose\\nsight of everything else around them."
-        },
-        "name": ""
-    },
-    {
-        "id": "cd00",
-        "line": {
-            "en": "'Here, here, I'll play with you! OK, lift up your\\npaw. Yes, like that... why did you stop?'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "d100",
-        "line": {
-            "en": "'See, like my hand! Yes, lift your paw... Aww...\\nwhy do you stop and pull it back halfway?'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "d500",
-        "line": {
-            "en": "'OK, sit! Yay! See, you can sit! Ok, one more\\ntime. Lift your paw. Yes, this way, this way...'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "d900",
-        "line": {
-            "en": "'A little more, a little more... Aaaah! That's\\nnot it! Don't scratch your head! Hold my hand!\\nHere! This way! Aaaaah!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "dd00",
-        "line": {
-            "en": "'Asa, you're not playing with the dog, the dog's\\nplaying with you.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "e100",
-        "line": {
-            "en": "'Sniff, sniff...'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "e500",
-        "line": {
-            "en": "'Hold out your paw!'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "e900",
-        "line": {
-            "en": "'Meow! (The cat holds out its paw to Yoru's\\nhand)'"
-        },
-        "name": "Cat"
-    },
-    {
-        "id": "ed00",
-        "line": {
-            "en": "'Even though it's a cat, it still did it?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f100",
-        "line": {
-            "en": "'Yoru really is great, isn't she?'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "f500",
-        "line": {
-            "en": "'Today was really fun, Aoi.'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "f900",
-        "line": {
-            "en": "After that, we wandered around the town, then\\nwent down to the underground level."
-        },
-        "name": ""
-    },
-    {
-        "id": "fd00",
-        "line": {
-            "en": "While chatting, we hung out in the stores, to\\nkeep cool."
-        },
-        "name": ""
-    },
-    {
-        "id": "0200",
-        "line": {
-            "en": "So this is window shopping? It might be kind of\\nannoying for the shopkeepers, but I hope they'll\\nlet us off, since we're just students and don't\\nhave much money."
-        },
-        "name": ""
-    },
-    {
-        "id": "0600",
-        "line": {
-            "en": "No one said anything, but we found ourselves\\nheading back to Flying Fish Manor. Then..."
-        },
-        "name": ""
-    },
-    {
-        "id": "0a00",
-        "line": {
-            "en": "'Ah!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "0e00",
-        "line": {
-            "en": "Once again, Asa suddenly stopped, in the street."
-        },
-        "name": ""
-    },
-    {
-        "id": "1200",
-        "line": {
-            "en": "'Ah! There! Look, Aoi!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "1600",
-        "line": {
-            "en": "'Hmm?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1a00",
-        "line": {
-            "en": "The thing that Asa was pointing at was a sign in\\nfront of a stall called 'Super Spicy Habanero\\nKebab'."
-        },
-        "name": ""
-    },
-    {
-        "id": "1e00",
-        "line": {
-            "en": "It somehow seemed like a kind of ominous food\\nstall..."
-        },
-        "name": ""
-    },
-    {
-        "id": "2200",
-        "line": {
-            "en": "'Spicy things again, sis? You really like them,\\ndon't you?'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "2600",
-        "line": {
-            "en": "'Asa, you like spicy things?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2a00",
-        "line": {
-            "en": "'I...I'm just gonna go and buy one!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "2e00",
-        "line": {
-            "en": "Without answering my question, she rushed over to\\nthe stall as fast as she could."
-        },
-        "name": ""
-    },
-    {
-        "id": "3200",
-        "line": {
-            "en": "She really is the type who loses sight of\\neverything when she sees something she likes."
-        },
-        "name": ""
-    },
-    {
-        "id": "3600",
-        "line": {
-            "en": "'Don't you want one too?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3a00",
-        "line": {
-            "en": "'I hate spicy things. Why don't you go and get\\none?'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "3e00",
-        "line": {
-            "en": "'No, I'm OK. It looks like the kind of thing\\nthat'll give you stomachache.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4200",
-        "line": {
-            "en": "'What a wimp.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "4600",
-        "line": {
-            "en": "'I'd prefer it if you called me cautious.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4a00",
-        "line": {
-            "en": "I don't want to make myself sick to make some\\nstupid point."
-        },
-        "name": ""
-    },
-    {
-        "id": "4e00",
-        "line": {
-            "en": "'Including the things at the pet shop, you two\\nhave totally different tastes, despite being\\ntwins.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5200",
-        "line": {
-            "en": "'It would be pretty lame if we did everything the\\nsame, like eating the same food, just because\\nwe're twins.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "5600",
-        "line": {
-            "en": "'Yeah, that's true, but...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5a00",
-        "line": {
-            "en": "'It's always been like this. Her and I are\\ncomplete opposites. The things we like, the\\nthings we hate. Even though our appearance is\\nidentical.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "5e00",
-        "line": {
-            "en": "'She likes dogs. I like cats. She likes spicy\\nthings. I like sweet things. She's OK with bugs.\\nI hate bugs.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "6200",
-        "line": {
-            "en": "'Wow... That's interesting. You really are\\ntotally different'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6600",
-        "line": {
-            "en": "'...Yes. I think that's why I like her so much.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "6a00",
-        "line": {
-            "en": "'?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6e00",
-        "line": {
-            "en": "'No, it's nothing!'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "7200",
-        "line": {
-            "en": "Yoru suddenly gets mad."
-        },
-        "name": ""
-    },
-    {
-        "id": "7600",
-        "line": {
-            "en": "But is she really angry, or is she just lashing\\nout?"
-        },
-        "name": ""
-    },
-    {
-        "id": "7a00",
-        "line": {
-            "en": "She likes her sister this much, so does she think\\nthat I'm going to take her away from her?"
-        },
-        "name": ""
-    },
-    {
-        "id": "7e00",
-        "line": {
-            "en": "'...Ah.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "8200",
-        "line": {
-            "en": "'What is it?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8600",
-        "line": {
-            "en": "'A crepe shop... I'll be right back.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "8a00",
-        "line": {
-            "en": "'Since I forced you to come with us, how about I\\ntreat you?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8e00",
-        "line": {
-            "en": "'I chose to come along because of your\\n'flirting', didn't I? It's fine, I can buy it\\nmyself.'"
-        },
-        "name": "Yoru"
-    },
-    {
-        "id": "9200",
-        "line": {
-            "en": "she said as she dashed towards the crepe shop."
-        },
-        "name": ""
-    },
-    {
-        "id": "9600",
-        "line": {
-            "en": "Why was she smiling?"
-        },
-        "name": ""
-    },
-    {
-        "id": "9a00",
-        "line": {
-            "en": "'I'm back!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "9e00",
-        "line": {
-            "en": "Asa came back as if she were changing places with\\nYoru."
-        },
-        "name": ""
-    },
-    {
-        "id": "a200",
-        "line": {
-            "en": "'Huh? Isn't Yoru here?'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "a600",
-        "line": {
-            "en": "'Just now, she went to buy a crepe, like she was\\nchanging places with you.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "aa00",
-        "line": {
-            "en": "'Oh, is that so? What a shame. I bought one for\\nYoru too.'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "ae00",
-        "line": {
-            "en": "'Oh, yeah. Could you eat Yoru's share? If Yoru\\nwent to buy a crepe, she won't need it, will\\nshe?'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "b200",
-        "line": {
-            "en": "'Huh...?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "b600",
-        "line": {
-            "en": "As she said that, Asa held out a crazy-looking\\nkebab, and the filling in the middle was red."
-        },
-        "name": ""
-    },
-    {
-        "id": "ba00",
-        "line": {
-            "en": "When she held it out to me, the distinctive,\\nspicy smell of stimulants assaulted my nose."
-        },
-        "name": ""
-    },
-    {
-        "id": "be00",
-        "line": {
-            "en": "'Hey, hold on, that's...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "c200",
-        "line": {
-            "en": "'Go ahead! You're a boy, so you could eat two of\\nthese!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "c600",
-        "line": {
-            "en": "'Ah...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ca00",
-        "line": {
-            "en": "'I recommend it!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "ce00",
-        "line": {
-            "en": "Every time she waves it, the smell going up my\\nnostrils makes me sweat."
-        },
-        "name": ""
-    },
-    {
-        "id": "d200",
-        "line": {
-            "en": "Th...this is..."
-        },
-        "name": ""
-    },
-    {
-        "id": "d600",
-        "line": {
-            "en": "'Asa, why don't you...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "da00",
-        "line": {
-            "en": "'I bought three for myself, so I'm OK.'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "de00",
-        "line": {
-            "en": "'Asa, you're a big eater!?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "e200",
-        "line": {
-            "en": "'I have an extra stomach just for spicy things!'"
-        },
-        "name": "Asa"
-    },
-    {
-        "id": "e600",
-        "line": {
-            "en": "..."
-        },
-        "name": ""
-    },
-    {
-        "id": "ea00",
-        "line": {
-            "en": "In the end I gave in and ate it. Even though we\\nwere going to have dinner afterwards..."
-        },
-        "name": ""
-    },
-    {
-        "id": "ee00",
-        "line": {
-            "en": "Needless to say, that evening, I had agonizing\\nstomach pains."
-        },
-        "name": ""
+{
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sorry, I'll have to pass for today.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「わり、今日はちょっとやめとく」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, I understand.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そ、わかった」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha didn't really try to pursue it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげははとくに食い下がることもなく、",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Kotori, why don't we go part of the way\\ntogether?'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「んじゃ小鳥、途中まで一緒に帰ろ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sure.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ええ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The two of them leave the classroom together.",
+                "name": ""
+            },
+            "jp": {
+                "line": "二人で、教室を出ていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I see them off, then head to the first grade\\nclassrooms.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺はそれを見送ってから、１年生の教室へと足を向けた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Where is Asa's classroom?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「亜紗ちゃんのクラス、どこだっけ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I look around while walking down the hallway\\nwhere the first grade classrooms are.",
+                "name": ""
+            },
+            "jp": {
+                "line": "きょろきょろしながら１年の教室が並ぶ廊下をゆく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I just kind of casually decided to come here, but\\nmaybe I'm a little out of place.",
+                "name": ""
+            },
+            "jp": {
+                "line": "軽い気持ちで来てみたけど、やっぱりちょっと場違いだな。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, here it is.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「お、ここだ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Umm, where's Asa...",
+                "name": ""
+            },
+            "jp": {
+                "line": "ええっと、亜紗ちゃんは、と――。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「…………」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ah, there she is.",
+                "name": ""
+            },
+            "jp": {
+                "line": "お、いた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Asa.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おーい、亜紗ちゃん」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「…………」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I think you've already heard but we're taking a\\nday off from club activities today, so if you're\\nfree, I thought we could head back together. So,\\nhow about it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「聞いたと思うけど、今日は部活お休みだからさ、暇なら\\n　たまには一緒に帰らないかと思って来てみたんだけど。\\n　どうかな？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「…………」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "?",
+                "name": ""
+            },
+            "jp": {
+                "line": "？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Asa isn't responding to me at all.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺の言葉に反応してくれない亜紗ちゃん。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What's up? Don't you feel well?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「どうしたの？　具合でも悪いの？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Geez. You suddenly come into a first grade\\nclassroom, then start to flirt with the girls.\\nYou really are unbelievable.'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「……はぁっ。いきなり１年のクラスに侵入してきて\\n　ナンパだなんて。あんたって本当に軽い男ね」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Huh?",
+                "name": ""
+            },
+            "jp": {
+                "line": "え？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'To begin with, you've got the wrong person.'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「そもそも、人違いだし」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Huh? This isn't Asa...",
+                "name": ""
+            },
+            "jp": {
+                "line": "あれ？　こっちは、亜紗ちゃんじゃなくて――。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, Aoi. What are you doing here?'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「あれ、碧先輩。どうしたんですか、こんなところで」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Asa?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「亜紗ちゃん！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Asa pokes her head out from the classroom, then\\nruns over to me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "教室の入り口から亜紗ちゃんが顔を出し、こちらに駆け寄ってくる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Which means this is...?",
+                "name": ""
+            },
+            "jp": {
+                "line": "ということは、こっちは――？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That one's the real one, and this one's a fake?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あっちが本物で、こっちは偽者？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Who are you calling a fake?'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「誰が偽者よ！」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm Yoru. How can you get us mixed up when we're\\ntogether so often?'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「私は依瑠。あれだけ一緒にいるのにどうして\\n　間違えちゃうかな」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But this is Asa's desk...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だってここ、亜紗ちゃんの机じゃ……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yoru came here because we were planning to go\\nback together, but I had to go to the staff room,\\nso she waited here for me.'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「一緒に帰ろうって依瑠ちゃんが来てたんですけど、\\n　わたし職員室に用事があったからここで待って\\n　もらってたんです」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So that's the situation.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「そういうわけよ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I see. That's why she's here.",
+                "name": ""
+            },
+            "jp": {
+                "line": "なるほど。それでここにいたわけか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So, you came to this first grade classroom to\\nflirt with my sister.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「で、あんたは人の姉さんをナンパしに\\n　１年の教室までやって来た、と」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm not flirting. I thought that since we live\\nin the same dormitory, and are in the same club,\\nif we've got free time,'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「べつにナンパってわけじゃないさ。せっかく同じ寮で\\n　同じ部活の仲間なわけだし、暇な時くらい一緒に帰って、\\n　友好を深めようと思ってみただけじゃないか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's not a club, it's a society.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「部活じゃなくて同好会でしょ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Grrrr. It may seem like that on the surface, but\\nto me, it's a club!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ぐっ――。表面上はそうでも、俺の心の中では\\n　部活なんだよ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Geez, how lame.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「なによそれ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I at least want to think of it as a club.",
+                "name": ""
+            },
+            "jp": {
+                "line": "せめて、心構えくらいは部活でありたい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If we don't do that, we won't be able to have it\\nrestored as a club.",
+                "name": ""
+            },
+            "jp": {
+                "line": "でないと、もう二度と部活動として復活させることが出来なくなりそうだから。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The Soaring Club has been shut down, but Amane\\nfought so desperately to protect it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "一度は潰れかけ、でも天音先輩が必死に守っていた\\nソアリング部。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We will make it a club once again.",
+                "name": ""
+            },
+            "jp": {
+                "line": "絶対また、部活にしてみせたい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You look like you're thinking about something\\nthat's probably a total hassle.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「なんっか暑苦しそうなこと考えてそうな顔ね」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, I'm just enjoying my youth.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「青春してるんだよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So lame...'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「なによそれ……」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, OK, do you want to go back with us, Aoi?\\nIt's fine by me.'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「まぁまぁ。で、先輩、一緒に帰るんですか？\\n　私は大丈夫ですよ」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, really?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「お、本当か？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wait, sis! What am I supposed to do!?'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「ちょっと、姉さん！　私はどうなるのよ！」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, why don't you come with us?'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「え、依瑠ちゃんも一緒に帰ればいいんじゃないの？」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No way, I don't wanna go with him!'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「いやよ、なんでこいつなんかと！」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Whaaaat? Aoi's a good guy! If that's how you\\nfeel, why don't you go home separately?'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「えー。碧先輩いい人だよ？　だったら依瑠ちゃん今日は\\n　べつべつに帰る？」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Uh! Sis, are you choosing him over me?'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「うっ。姉さん、あっさりとそいつを取っちゃうんだ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'?'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「？」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「…………」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So, in the end, you decided to come with us?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「で、結局ついてくるのかキミは」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I had no choice! Also, I would be scared that he\\nmight try something if I left the two of you\\ntogether!'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「仕方ないでしょ！　それに、姉さんとあんた\\n　二人きりなんて、なにかの間違いがあったら怖いし！」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Try something? Ah. Umm... Aoi, you wouldn't...'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「間違いって。え。え。碧先輩、私にそんなこと――」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, what are you blushing for, Asa? I wouldn't\\ndo anything like that!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いや、どうして赤くなってるの亜紗ちゃん。\\n　俺はそんなことしないから！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I wonder. You're the type of senior student who\\nintrudes in his junior's class and starts\\nflirting with the girls.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「本当のところはどうだか。いきなり後輩のクラスに\\n　おしかけてナンパするような先輩だし」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I told you, that's not what I was thinking when\\nI came into the classroom. I just want to get to\\nknow Asa, that's all.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だから、べつにそんなことしようと思って\\n　押しかけたわけじゃないっつーの。\\n　ただ、俺は亜紗ちゃんと親睦を深めたかっただけで」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'In most countries, that's generally considered\\nto be flirting.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「世間一般的に、そういうのをナンパってーのよ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0041": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I've... been flirted with...?'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「わ、わたし、ナンパされてたんだ」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0042": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I never intended to flirt with her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ナンパしてたつもりはないんだけど。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0043": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But, I guess that to those around us, that it\\nmight seem that way...",
+                "name": ""
+            },
+            "jp": {
+                "line": "でも、確かに、周囲から見ればそういう風に\\n見える……のか？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0044": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The worst ones are those who lack\\nself-awareness.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「無自覚が一番タチ悪いわよねぇ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0045": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I think that Aoi's great. He doesn't hesitate to\\nmeet people halfway, and is good at closing the\\ndistance between himself and others.'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「わたしは凄いと思いますよ、碧先輩のこと。遠慮なく歩み\\n　寄ってくるというか、距離を詰めるのが上手いというか」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0046": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...",
+                "name": ""
+            },
+            "jp": {
+                "line": "…………",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0047": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'But you really are something.'",
+                "name": "Boy in class A"
+            },
+            "jp": {
+                "line": "「しっかし、おまえすごいよな」",
+                "name": "クラスの男子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0048": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What do you mean?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なんで？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0049": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You transferred here, then you suddenly started\\ngetting along with Kotori. You also got close to\\nMochizuki-senpai, right?'",
+                "name": "Boy in class A"
+            },
+            "jp": {
+                "line": "「転校してきて、\\n　いきなりあの羽々音さんと仲良くなっちゃってさ。\\n　望月先輩ともお近づきになったんだろ？」",
+                "name": "クラスの男子Ａ"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The worst ones are those who lack self-awareness.",
+                "name": ""
+            },
+            "jp": {
+                "line": "無自覚が一番タチが悪い。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's true that at that time, I didn't really take\\nin the things that people said to me...",
+                "name": ""
+            },
+            "jp": {
+                "line": "確かに、そう言われればあの時だって言われてることに\\nあまり実感がなかったな……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, in your case, you're completely tactless,\\nso you simply don't make any distinction between\\nboys and girls when you spend time with them.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「ま、あんたの場合は、デリカシーが無いというか、\\n　単に男女分け隔てなく付き合ってるだけでしょうけど」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah. Oh. Yeah, I guess not.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「え。あ。ああ、うん」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'As a girl, that kind of thing is really\\nirritating.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「それはそれで、女としてはムカツクよね」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So what should I do?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「どうすればいいってんだ！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0050": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm just telling you to keep your hands off my\\nsister.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「うちの姉さんに手を出さなければいいだけの話よ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0051": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, Yoru. He hasn't done anything like that\\nyet.'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「ま、まぁ依瑠ちゃん。まだ手を出されたわけじゃないし」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0052": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Asa, don't you think that sounds like I will at\\nsome point?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「亜紗ちゃん、それだといつか手を出すみたいじゃないか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0053": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If it was Aoi... I wouldn't...'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「私は……碧先輩だったら、べつに……」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0054": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...",
+                "name": ""
+            },
+            "jp": {
+                "line": "…………。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0055": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Stare'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「……じーっ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0056": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "What is with this frosty vibe!",
+                "name": ""
+            },
+            "jp": {
+                "line": "なに、この冷たい空気！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0057": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'A...anyway, what shall we do now?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「と、とにかく、今からどうしよっか」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0058": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What do you mean? You're the one who brought us\\nwith you.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「どうしようって、あんたが連れて来たんでしょ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0059": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Y...yeah... OK, well for now, let's just go\\nshopping!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そ、そうだった……。じゃ、じゃあ、とりあえず適当に\\n　買い物でも！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I... don't mind what we do! If I'm with you,\\nAoi, I'm sure it'll be fun!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「わ、私はなんでもいいですよ！　先輩と一緒、\\n　楽しいですし！」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Thanks, Asa.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ありがとう、亜紗ちゃん」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Asa really is a nice girl. Not like her sister...",
+                "name": ""
+            },
+            "jp": {
+                "line": "ほんと、亜紗ちゃんはいい子だな。……妹と違って。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmph. She's a good girl, not like me.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「ふんっ。姉さんは私と違っていい子よね」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What are you, telepathic?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「テレパスかお前は」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, Aoi! It's a pet shop! There's a cute\\ndoggie!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「あ、碧先輩！　ペットショップ！　かわいいわんちゃんが\\n　いる！」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0060": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Asa stopped all of a sudden, then dashed into the\\npet shop, like it was drawing her in.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ふと亜紗ちゃんが立ち止まり、ペットショップに\\n吸い込まれるようにして駆けていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0061": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It seems she'd spotted a dog in a cage at the\\nfront of the store.",
+                "name": ""
+            },
+            "jp": {
+                "line": "店先にあった、ケージとその中の犬が目当てらしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0062": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wow, it's so cute!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「わ、わ、可愛い〜」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0063": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Does Asa like dogs?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「亜紗ちゃん、犬好きなの？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0064": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'She loves dogs. Even though they're dangerous\\nanimals.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「姉さんは犬が大好きなの。まったく、犬なんて\\n　危ないだけの生き物なのに」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0065": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Dangerous...?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「危ないって……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0066": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'If you get close to dogs, they bark at you, if\\nyou let your guard down, they bite you. You'd\\nhave to be crazy to keep a ferocious animal like\\nthat as a pet.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「だって犬って、近くを通ったら吠えるし、油断すると\\n　噛まれるし。あんな獰猛な動物をペットだなんて、\\n　気がどうかしてるわ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0067": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I think that your ideas about dogs are crazy.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「依瑠ちゃんの犬に対する考え方の方がどうかしてると\\n　思うけど」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0068": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Could it be that she's scared of them...?",
+                "name": ""
+            },
+            "jp": {
+                "line": "もしかして、怖いの……か？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0069": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmph!'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「ふんっ！」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yay, yay! Here, here!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「わ〜、わ〜！　よしよし！」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Asa continues to play with the dog at the front\\nof the store.",
+                "name": ""
+            },
+            "jp": {
+                "line": "店先の犬とじゃれあい続ける亜紗ちゃん。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's quite adorable.",
+                "name": ""
+            },
+            "jp": {
+                "line": "微笑ましいなぁ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, a cat!'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「あ、猫だ！」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Yoru, who was scared of dogs until just now, saw\\na cat in a cage inside the store, and tottered\\nover to it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "さっきまで犬を怖がっていたはずの依瑠ちゃんが、\\n店内に猫のケージを見つけてそちらに小走りで向かう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "006f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "So she's scared of dogs, but likes cats.",
+                "name": ""
+            },
+            "jp": {
+                "line": "犬は嫌いだけど、猫は好きなのか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0070": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ooooh! Here kitty, kitty! Meow, meow!'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「う〜。ねこー、ねこー。にゃー。にゃー」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0071": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Hmm. As expected of twins.",
+                "name": ""
+            },
+            "jp": {
+                "line": "うーむ。さすが双子。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0072": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Looks like when they see cute animals, they lose\\nsight of everything else around them.",
+                "name": ""
+            },
+            "jp": {
+                "line": "かわいい動物を前にすると、周囲のことが見えなくなってしまうらしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0073": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Here, here, I'll play with you! OK, lift up your\\npaw. Yes, like that... why did you stop?'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「よしよし、お姉ちゃんが遊んであげるからね〜！　はい、\\n　お手。そうそう、手を――って、なんで途中で止めるの」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0074": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'See, like my hand! Yes, lift your paw... Aww...\\nwhy do you stop and pull it back halfway?'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「ほら、お手！　そう、そうやって手を――ああ、\\n　だからなんで途中で引っ込めるかなぁ！」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0075": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, sit! Yay! See, you can sit! Ok, one more\\ntime. Lift your paw. Yes, this way, this way...'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「じゃあお座り！　おっ！　よし、お座り出来た！\\n　じゃあもう一回。お手。そう、手をこっちに、こっちに」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0076": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'A little more, a little more... Aaaah! That's\\nnot it! Don't scratch your head! Hold my hand!\\nHere! This way! Aaaaah!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「あと少し、あと少し……って。ああああ！　違う！\\n　頭をかくんじゃなくて！　私の手に持ってくるの！\\n　こっち！　こっちまで！　ああああ！」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0077": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Asa, you're not playing with the dog, the dog's\\nplaying with you.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「亜紗ちゃん、逆に遊ばれてる」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0078": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Sniff, sniff...'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「しくしく……」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0079": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hold out your paw!'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「お手」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Meow! (The cat holds out its paw to Yoru's\\nhand)'",
+                "name": "Cat"
+            },
+            "jp": {
+                "line": "「にゃー！（依瑠に手を差し伸べながら）」",
+                "name": "猫"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Even though it's a cat, it still did it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「猫なのにマジで！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yoru really is great, isn't she?'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「さすが依瑠ちゃん、凄い子……っ！」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Today was really fun, Aoi.'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「今日は楽しかったです、先輩」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "After that, we wandered around the town, then\\nwent down to the underground level.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あの後、俺たちはあてもなく市街を歩き、途中で地下街へ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "007f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "While chatting, we hung out in the stores, to\\nkeep cool.",
+                "name": ""
+            },
+            "jp": {
+                "line": "談笑しながらぶらぶらと店を冷やかしてまわった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0080": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "So this is window shopping? It might be kind of\\nannoying for the shopkeepers, but I hope they'll\\nlet us off, since we're just students and don't\\nhave much money.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ウインドウショッピングってやつだろうか。店員にしてみればいい迷惑行為だろうが、まだお金のない学生だってことで許してやって欲しい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0081": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "No one said anything, but we found ourselves\\nheading back to Flying Fish Manor. Then...",
+                "name": ""
+            },
+            "jp": {
+                "line": "誰が言い出すわけでもなく、自然と足取りがトビウオ荘へと\\n向かっていた、そんな時――。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0082": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「あ」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0083": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Once again, Asa suddenly stopped, in the street.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ふと、再び路上で立ち止まる亜紗ちゃん。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0084": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah! There! Look, Aoi!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「あ！　あれ！　みてください、碧先輩！」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0085": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「うん？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0086": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The thing that Asa was pointing at was a sign in\\nfront of a stall called 'Super Spicy Habanero\\nKebab'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "亜紗ちゃんが指さしたその先には、『激辛ハバネロケバブ』\\nの看板と、その屋台。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0087": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It somehow seemed like a kind of ominous food\\nstall...",
+                "name": ""
+            },
+            "jp": {
+                "line": "なんだか禍々しい食べ物屋台のようだけど……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0088": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Spicy things again, sis? You really like them,\\ndon't you?'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「姉さん、また辛いもの？　ほんっと好きよねぇ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0089": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Asa, you like spicy things?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「亜紗ちゃんって辛いものが好きなの？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I...I'm just gonna go and buy one!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「か、買って来ます！」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Without answering my question, she rushed over to\\nthe stall as fast as she could.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺の質問に答えることなく、一目散に店に向かって\\nダッシュしてしまう亜紗ちゃん。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She really is the type who loses sight of\\neverything when she sees something she likes.",
+                "name": ""
+            },
+            "jp": {
+                "line": "本当に、好きなものを前にすると周囲が見えなくなる\\nタイプなんだな。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Don't you want one too?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「お前はいいのか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I hate spicy things. Why don't you go and get\\none?'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「私、辛いもの嫌いだもの。あんたが行けばいいじゃない」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "008f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, I'm OK. It looks like the kind of thing\\nthat'll give you stomachache.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺も遠慮しとくよ。腹痛おこしそうだし」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0090": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What a wimp.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「根性なし」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0091": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'd prefer it if you called me cautious.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「思慮深いと言ってくれ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0092": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I don't want to make myself sick to make some\\nstupid point.",
+                "name": ""
+            },
+            "jp": {
+                "line": "変な意地を張って身体を壊したくはない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0093": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Including the things at the pet shop, you two\\nhave totally different tastes, despite being\\ntwins.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「しかし、ペットショップでのことといい、\\n　双子なのに趣向が全然違うのな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0094": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It would be pretty lame if we did everything the\\nsame, like eating the same food, just because\\nwe're twins.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「双子だからって食べるものもなにもかも同じだったら\\n　気持ち悪いでしょ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0095": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah, that's true, but...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それはそうだけどさ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0096": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It's always been like this. Her and I are\\ncomplete opposites. The things we like, the\\nthings we hate. Even though our appearance is\\nidentical.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「昔からそう。姉さんと私は、まるで正反対。\\n　好きなものとか、嫌いなものとか。容姿はこんなに\\n　そっくりなのにね」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0097": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'She likes dogs. I like cats. She likes spicy\\nthings. I like sweet things. She's OK with bugs.\\nI hate bugs.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「姉さんは犬が好き。私は猫が好き。姉さんは\\n　辛いものが好き。私は甘いものが好き。\\n　姉さんは虫に強い。私は虫が大嫌い」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0098": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wow... That's interesting. You really are\\ntotally different'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「へぇ〜。面白いな、そこまできっぱり分かれると」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0099": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Yes. I think that's why I like her so much.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「……そうね。だからこそ、わたしは多分、\\n　姉さんのことが好きなんだと思うし」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, it's nothing!'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「なんでもないわよっ！」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Yoru suddenly gets mad.",
+                "name": ""
+            },
+            "jp": {
+                "line": "突然怒る、依瑠ちゃん。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But is she really angry, or is she just lashing\\nout?",
+                "name": ""
+            },
+            "jp": {
+                "line": "しかし、この子は本当に怒りっぽいというか、突っかかってくるというか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She likes her sister this much, so does she think\\nthat I'm going to take her away from her?",
+                "name": ""
+            },
+            "jp": {
+                "line": "それだけ姉のことが好きで、俺に取られたくないとでも思っているのだろうか？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "009f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Ah.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「……あ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'What is it?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「どうした？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'A crepe shop... I'll be right back.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「クレープ屋……ちょっと行ってくるわ」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Since I forced you to come with us, how about I\\ntreat you?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「無理に付き合わせちゃったし、奢ってやろうか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I chose to come along because of your\\n'flirting', didn't I? It's fine, I can buy it\\nmyself.'",
+                "name": "Yoru"
+            },
+            "jp": {
+                "line": "「私が“あなたのナンパ”に勝手についてきただけでしょ？\\n　大丈夫、自分で買ってくるから」",
+                "name": "依瑠"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "she said as she dashed towards the crepe shop.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そういうと、依瑠ちゃんはクレープ屋の方に駆けていった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Why was she smiling?",
+                "name": ""
+            },
+            "jp": {
+                "line": "なんであいつ、笑ってたんだ？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm back!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「ただいまです〜」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Asa came back as if she were changing places with\\nYoru.",
+                "name": ""
+            },
+            "jp": {
+                "line": "入れ替わるように亜紗ちゃんが戻ってくる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh? Isn't Yoru here?'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「あれ？　依瑠ちゃんはいないんですか？」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00a9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Just now, she went to buy a crepe, like she was\\nchanging places with you.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「今、入れ替わるようにしてクレープを買いに行ったよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00aa": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, is that so? What a shame. I bought one for\\nYoru too.'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「あら、そうなんですか。残念。依瑠ちゃんの分も\\n　買ってきたのに」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ab": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh, yeah. Could you eat Yoru's share? If Yoru\\nwent to buy a crepe, she won't need it, will\\nshe?'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「あ、そうだ。だったら碧先輩が依瑠ちゃんの分も食べ\\n　ちゃってください。依瑠ちゃん、クレープ買ったら入ら\\n　ないだろうし」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ac": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh...?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「え……？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ad": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As she said that, Asa held out a crazy-looking\\nkebab, and the filling in the middle was red.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そう言って亜紗ちゃんが差し出してきたのは、中の具が\\n赤く、おどろおどろしいケバブ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ae": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When she held it out to me, the distinctive,\\nspicy smell of stimulants assaulted my nose.",
+                "name": ""
+            },
+            "jp": {
+                "line": "亜紗ちゃんがそれをこちらに差し出しただけで、ツンと、\\n刺激物特有の辛い匂いが鼻に刺さった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00af": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey, hold on, that's...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いや、ちょっと、これ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b0": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Go ahead! You're a boy, so you could eat two of\\nthese!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「どうぞ！　男性ですし、二つくらいいけちゃい\\n　ますよね！」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b1": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ah...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いや……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b2": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I recommend it!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「お勧めです♪」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b3": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Every time she waves it, the smell going up my\\nnostrils makes me sweat.",
+                "name": ""
+            },
+            "jp": {
+                "line": "クイっ、クイっと、亜紗ちゃんがそれらを揺らすたび、\\n鼻孔から侵入する匂いで汗が零れる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b4": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Th...this is...",
+                "name": ""
+            },
+            "jp": {
+                "line": "こ、これは……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b5": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Asa, why don't you...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「亜紗ちゃんは……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b6": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I bought three for myself, so I'm OK.'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「私、自分の分三個買っちゃいましたから、もういいです」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b7": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Asa, you're a big eater!?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「亜紗ちゃん大食い！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b8": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I have an extra stomach just for spicy things!'",
+                "name": "Asa"
+            },
+            "jp": {
+                "line": "「辛いものは別腹です♪」",
+                "name": "亜紗"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00b9": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...",
+                "name": ""
+            },
+            "jp": {
+                "line": "…………。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00ba": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In the end I gave in and ate it. Even though we\\nwere going to have dinner afterwards...",
+                "name": ""
+            },
+            "jp": {
+                "line": "結局俺は観念して、それを食べた。この後夕食も\\nあるというのに……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "00bb": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Needless to say, that evening, I had agonizing\\nstomach pains.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その晩、腹痛に苛まれたのは言うまでもない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
     }
-]
+}

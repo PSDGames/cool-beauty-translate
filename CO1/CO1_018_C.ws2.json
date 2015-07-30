@@ -1,93 +1,236 @@
-[
-    {
-        "id": "0400",
-        "line": {
-            "en": "'I think that... Amane's suits her the best.'"
+{
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I think that... Amane's suits her the best.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「天音先輩が……一番似合ってると思う」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "I go slightly red as I answer, and the other two\\ngirls stare straight at me."
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I go slightly red as I answer, and the other two\\ngirls stare straight at me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺が、若干赤くなりながら答えると、他の二人がじとっと睨んでくる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'Hmph.'"
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmph.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ふぅん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'As I thought.'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'As I thought.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「やっぱりだ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'Wh...what!?'"
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wh...what!?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「な、なんだよ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'You're looking at Amane's boobs! What a perv!'"
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You're looking at Amane's boobs! What a perv!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「いま、天音ちゃんのムネ見てたでしょ！\\n　いやらしいっ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'My boobs?'"
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'My boobs?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「胸？」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'Wha...'"
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wha...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「なっ……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "I can't help it! Looking at a swimsuit means\\nlooking at that area!"
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I can't help it! Looking at a swimsuit means\\nlooking at that area!",
+                "name": ""
+            },
+            "jp": {
+                "line": "しょうがないだろっ！\\n水着を見るってことはそこを見ることなんだからっ！！",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'(...Amane looks great when she takes off her\\nclothes!)'"
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'(...Amane looks great when she takes off her\\nclothes!)'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「（……天音先輩って、脱ぐとスゴイんだな！）」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "Without thinking, I take another look and my eyes\\nmeet with Amane's."
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Without thinking, I take another look and my eyes\\nmeet with Amane's.",
+                "name": ""
+            },
+            "jp": {
+                "line": "思わず二度見してしまったところで先輩と目が合った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3000",
-        "line": {
-            "en": "'Ha ha, thanks. I feel a little embarrassed.'"
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Ha ha, thanks. I feel a little embarrassed.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ふふ、ありがとう。\\n　なんだかくすぐったいな」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "3400",
-        "line": {
-            "en": "She looked back at me with a happy, naive smile,\\nand I felt a little guilty."
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She looked back at me with a happy, naive smile,\\nand I felt a little guilty.",
+                "name": ""
+            },
+            "jp": {
+                "line": "嬉しそうに素朴な笑みを返してこられて、罪悪感に駆られるのだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     }
-]
+}

@@ -1,723 +1,1856 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "'[...Huh?]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0400",
-        "line": {
-            "en": "It's still dark outside my window."
-        },
-        "name": ""
-    },
-    {
-        "id": "0800",
-        "line": {
-            "en": "My alarm isn't ringing either."
-        },
-        "name": ""
-    },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "Even so, I managed to wake up on my own.."
-        },
-        "name": ""
-    },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'[Unnhh...]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1400",
-        "line": {
-            "en": "This feeling's already familiar."
-        },
-        "name": ""
-    },
-    {
-        "id": "1800",
-        "line": {
-            "en": "This often happened the day before a\\ncompetition..."
-        },
-        "name": ""
-    },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "Outside, the eastern sky still hasn't begun to\\nget any brighter."
-        },
-        "name": ""
-    },
-    {
-        "id": "2000",
-        "line": {
-            "en": "Umm... It's Ageha's turn, so she should be awake\\nby now."
-        },
-        "name": ""
-    },
-    {
-        "id": "2400",
-        "line": {
-            "en": "If she's not, I'll give her an ear-bashing."
-        },
-        "name": ""
-    },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'[Oh, there she is.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'[Whoa?!]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3000",
-        "line": {
-            "en": "'[Oh no, did I startle you? Sorry, sorry.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3400",
-        "line": {
-            "en": "I say as Ageha looks at me, she opens her eyes\\neven wider\u0081\\\u0081\\"
-        },
-        "name": ""
-    },
-    {
-        "id": "3800",
-        "line": {
-            "en": "'[EEEEEEEEEEEEEEEEEEEEEEK!!!]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "'[Whooooooaaaaaahhh!!]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4000",
-        "line": {
-            "en": "Her reaction bewildered me."
-        },
-        "name": ""
-    },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'[Wh-why?! Why are you here, Aoi?]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "4800",
-        "line": {
-            "en": "'[Why? Because I'm awake.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "'[Well, I kind of felt tense so I opened my\\neyes.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5000",
-        "line": {
-            "en": "'[This happens a lot before competitions. I try\\nto stay calm, but I'm really always anxious.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'[Oh... Really?]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'[...Uh...Uh...]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'[What's wrong?]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6000",
-        "line": {
-            "en": "'[Nothing... You didn't hear, did you?]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'[Hmm? Were you humming a song or something?]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6800",
-        "line": {
-            "en": "'[No, if you didn't hear, then it's fine.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "'[What are you talking about?]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7000",
-        "line": {
-            "en": "'[As I said, it's no big deal. It's nothing that\\nwould have been a problem had you heard it!]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "7400",
-        "line": {
-            "en": "'[?]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7800",
-        "line": {
-            "en": "What the hell is going on?"
-        },
-        "name": ""
-    },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "I've only just gotten up, and my brain isn't\\nreally working yet, so I can't find the energy to\\ncontinue asking about it."
-        },
-        "name": ""
-    },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'[So, how's the sky?]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'[Right now, it doesn't look like it's going to\\nhappen.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'[Yeah, seems like it.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "I knew as soon as I came outside."
-        },
-        "name": ""
-    },
-    {
-        "id": "9000",
-        "line": {
-            "en": "It's dawn, so the breeze is cool but it's not as\\ncold as the temperature in the readings."
-        },
-        "name": ""
-    },
-    {
-        "id": "9400",
-        "line": {
-            "en": "There's hardly any wind even."
-        },
-        "name": ""
-    },
-    {
-        "id": "9800",
-        "line": {
-            "en": "On a side of the sky... well, actually the whole\\nthing is filled wih stars."
-        },
-        "name": ""
-    },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'[It's pretty... Isn't it?]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'[Sure is.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a400",
-        "line": {
-            "en": "To say that the sky is pretty only means that it\\nlooks like the phenomenon we were hoping for\\nwon't occur."
-        },
-        "name": ""
-    },
-    {
-        "id": "a800",
-        "line": {
-            "en": "'[Seems like it's no good.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'[Don't say that.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "b000",
-        "line": {
-            "en": "'[Yeah, sorry.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "b400",
-        "line": {
-            "en": "It's taboo to talk about losing before a\\ncompetition. She shouldn't have to tell me that/"
-        },
-        "name": ""
-    },
-    {
-        "id": "b800",
-        "line": {
-            "en": "'...Even so...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "Because of the time, the position of the\\ntwinkling stars are quite different."
-        },
-        "name": ""
-    },
-    {
-        "id": "c000",
-        "line": {
-            "en": "The so-called summer constellations are\\ndisappearing into the west. The ones in the sky\\nnow are the fall constellations, the Great Square\\nof Pegasus and the W-Shaped Cassiopeia for\\nexample."
-        },
-        "name": ""
-    },
-    {
-        "id": "c400",
-        "line": {
-            "en": "Maybe on the eastern horizon, the winter\\nconstellation of Orion would just be peeking out."
-        },
-        "name": ""
-    },
-    {
-        "id": "c800",
-        "line": {
-            "en": "'[It's strange to think that these stars would be\\ncoming out as we sleep.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "'[That's true.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "d000",
-        "line": {
-            "en": "Her eyes sparkle as she looks up at the stars."
-        },
-        "name": ""
-    },
-    {
-        "id": "d400",
-        "line": {
-            "en": "Perhaps I'm making the same face as her."
-        },
-        "name": ""
-    },
-    {
-        "id": "d800",
-        "line": {
-            "en": "'[It's really mysterious.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "'[What is?]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "e000",
-        "line": {
-            "en": "'[This and that, lots of things.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "e400",
-        "line": {
-            "en": "'[The stars in the sky, to be here looking at\\nthem at this time, being in this place, with Aoi,\\neverything.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "e800",
-        "line": {
-            "en": "'[I see what you mean...]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "'[How would we tell our past selves that we would\\nend up at the 'Witch's Mansion', looking at the\\nstars at dawn, so that we can fly a glider?]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "f000",
-        "line": {
-            "en": "'[Our past selves wouldn't believe it.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f400",
-        "line": {
-            "en": "'[They wouldn't, would they?]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "f800",
-        "line": {
-            "en": "Back then, we were afraid of this place."
-        },
-        "name": ""
-    },
-    {
-        "id": "fc00",
-        "line": {
-            "en": "We would play at the secret base, and when we got\\ntired from playing, we'd go to the old shopping\\ndistrict and eat ramen at Taiyouken, then go home\\nand collapse in our bed...]"
-        },
-        "name": ""
-    },
-    {
-        "id": "0100",
-        "line": {
-            "en": "We can't go back to those nostalgic days."
-        },
-        "name": ""
-    },
-    {
-        "id": "0500",
-        "line": {
-            "en": "'[Yeah... I mean, I moved away, came back five\\nyears later, got a job at the 'Witch's Mansion',\\nand flew a glider at dawn...]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0900",
-        "line": {
-            "en": "'[When I say it like that, it seems so\\nunbelievable.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0d00",
-        "line": {
-            "en": "'[Haha, I've got to thank you, Aoi.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1100",
-        "line": {
-            "en": "'[Me?]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1500",
-        "line": {
-            "en": "'[Yeah, for coming back and becoming the dorm\\nmother of this place...]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1900",
-        "line": {
-            "en": "'[Because of that, we got to know Amane and got\\ninvolved with the glider.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "1d00",
-        "line": {
-            "en": "'[If that hadn't happened, I would've stayed at\\nthe 'Robot Club' and would've been for the\\ncontest.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2100",
-        "line": {
-            "en": "'[Did I do something wrong?]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2500",
-        "line": {
-            "en": "'[Not at all.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2900",
-        "line": {
-            "en": "'[I've been enjoying myself so much. That's why\\nI'm thanking you, Aoi.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "2d00",
-        "line": {
-            "en": "Ageha made a lovely face as she smiled. Even at\\nthis hour, I can see it clearly."
-        },
-        "name": ""
-    },
-    {
-        "id": "3100",
-        "line": {
-            "en": "She looked back up at the starry sky."
-        },
-        "name": ""
-    },
-    {
-        "id": "3500",
-        "line": {
-            "en": "I traced the lines of her chin and neck."
-        },
-        "name": ""
-    },
-    {
-        "id": "3900",
-        "line": {
-            "en": "It's so different from before... Now, she's\\nreally so feminine."
-        },
-        "name": ""
-    },
-    {
-        "id": "3d00",
-        "line": {
-            "en": "But there are still traces of the past... I need\\nto tell her about how I feel."
-        },
-        "name": ""
-    },
-    {
-        "id": "4100",
-        "line": {
-            "en": "N-no."
-        },
-        "name": ""
-    },
-    {
-        "id": "4500",
-        "line": {
-            "en": "I panic, raising my head."
-        },
-        "name": ""
-    },
-    {
-        "id": "4900",
-        "line": {
-            "en": "I look at the starry sky above."
-        },
-        "name": ""
-    },
-    {
-        "id": "4d00",
-        "line": {
-            "en": "'[...The thing that An-chan made is flying\\nthrough space.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5100",
-        "line": {
-            "en": "'[Yeah. It's incredible, isn't it?]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5500",
-        "line": {
-            "en": "'[When I heard about it, I really liked the sound\\nof it.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "5900",
-        "line": {
-            "en": "'[You mean the glider?]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5d00",
-        "line": {
-            "en": "'[Yeah.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6100",
-        "line": {
-            "en": "'[To think that something you've made yourself\\ncan go to such amazing places and see such\\namazing things that no one before has ever\\nseen.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6500",
-        "line": {
-            "en": "'[I think that's the coolest thing ever.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "6900",
-        "line": {
-            "en": "'[I know, right.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6d00",
-        "line": {
-            "en": "I glance towards the eastern sky."
-        },
-        "name": ""
-    },
-    {
-        "id": "7100",
-        "line": {
-            "en": "Apparently, at this hour, it's possible to see\\nsatellites which are illuminated by the sunlight\\nwith the naked eye."
-        },
-        "name": ""
-    },
-    {
-        "id": "7500",
-        "line": {
-            "en": "That's where the parts that An-chan would be\\nflying through in space..."
-        },
-        "name": ""
-    },
-    {
-        "id": "7900",
-        "line": {
-            "en": "It really is pretty damn cool."
-        },
-        "name": ""
-    },
-    {
-        "id": "7d00",
-        "line": {
-            "en": "'[...We want to fly too, to a sky that no one's\\never seen.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8100",
-        "line": {
-            "en": "'(You can do it. I'm sure of it.]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "8500",
-        "line": {
-            "en": "'[That'd be great.]'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8900",
-        "line": {
-            "en": "We stand beside each other, looking over the\\neastern sky."
-        },
-        "name": ""
-    },
-    {
-        "id": "8d00",
-        "line": {
-            "en": "It seems like it's going over a slight purple\\nhue."
-        },
-        "name": ""
-    },
-    {
-        "id": "9100",
-        "line": {
-            "en": "'[...It's not coming, is it?]'"
-        },
-        "name": "Ageha"
-    },
-    {
-        "id": "9500",
-        "line": {
-            "en": "As always, there are no clouds, and it doesn't\\nlook like the 'Morning Glory' would occur."
-        },
-        "name": ""
-    },
-    {
-        "id": "9900",
-        "line": {
-            "en": "Even so, we're creating other kinds of memories,\\nas continue to look at the sky of dawn...]"
-        },
-        "name": ""
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[...Huh?]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……お？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's still dark outside my window.",
+                "name": ""
+            },
+            "jp": {
+                "line": "まだ、窓の外は暗い。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "My alarm isn't ringing either.",
+                "name": ""
+            },
+            "jp": {
+                "line": "アラームも、鳴ってない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even so, I managed to wake up on my own..",
+                "name": ""
+            },
+            "jp": {
+                "line": "なのに、勝手に目が覚めてしまった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Unnhh...]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「むう……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This feeling's already familiar.",
+                "name": ""
+            },
+            "jp": {
+                "line": "この感覚は、おぼえがある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "This often happened the day before a\\ncompetition...",
+                "name": ""
+            },
+            "jp": {
+                "line": "競技会の前日なんかに、よく経験したもんだ……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Outside, the eastern sky still hasn't begun to\\nget any brighter.",
+                "name": ""
+            },
+            "jp": {
+                "line": "外はまだまだ暗く、東の空もまだ明るくはなっていない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Umm... It's Ageha's turn, so she should be awake\\nby now.",
+                "name": ""
+            },
+            "jp": {
+                "line": "えっと、当番のあげはが起きてるはずだよな。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If she's not, I'll give her an ear-bashing.",
+                "name": ""
+            },
+            "jp": {
+                "line": "起きてなかったらとっちめてやる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Oh, there she is.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「お、いた」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Whoa?!]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「わっ！？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Oh no, did I startle you? Sorry, sorry.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おっと、驚かせたか、悪い悪い」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I say as Ageha looks at me, she opens her eyes\\neven wider――",
+                "name": ""
+            },
+            "jp": {
+                "line": "と、あげはが俺を見て、もともと大きな目をさらに大きくして――。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[EEEEEEEEEEEEEEEEEEEEEEK!!!]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「うきゃああああああああああああああああっ！！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Whooooooaaaaaahhh!!]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「わあああっ！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Her reaction bewildered me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "すごい反応に、こっちも驚いてしまった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Wh-why?! Why are you here, Aoi?]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「な、なんでなんで！　なんで碧が！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Why? Because I'm awake.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「何でって、起きたからだけど」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Well, I kind of felt tense so I opened my\\neyes.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いやー、なんか緊張してるみたいでさ、\\n　目が覚めちまった」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[This happens a lot before competitions. I try\\nto stay calm, but I'm really always anxious.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「大会の前、よくあったよ、こういうの。\\n　落ちついてるつもりだったけど、地味に、\\n　緊張してるみたいで」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Oh... Really?]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そ、そう……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[...Uh...Uh...]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「っ……う……うう……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[What's wrong?]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「どうした？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Nothing... You didn't hear, did you?]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「何も……聞いてないわよね？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Hmm? Were you humming a song or something?]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ん？　鼻歌でも歌ってたとか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[No, if you didn't hear, then it's fine.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いや、聞いてないならいいの、うん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[What are you talking about?]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「何か言ってたのか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[As I said, it's no big deal. It's nothing that\\nwould have been a problem had you heard it!]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いや、何も言ってないからね、別に何も、\\n　聞かれてまずいことなんか何一つ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[?]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "What the hell is going on?",
+                "name": ""
+            },
+            "jp": {
+                "line": "なんなんだ、一体。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I've only just gotten up, and my brain isn't\\nreally working yet, so I can't find the energy to\\ncontinue asking about it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "起き抜けで、頭がまだよく働いてないので、追及する気力が湧かない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[So, how's the sky?]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「で、どうだ、空は？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Right now, it doesn't look like it's going to\\nhappen.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「今んとこ、それっぽい気配なし」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Yeah, seems like it.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だよなあ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I knew as soon as I came outside.",
+                "name": ""
+            },
+            "jp": {
+                "line": "外に出た時からわかっていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's dawn, so the breeze is cool but it's not as\\ncold as the temperature in the readings.",
+                "name": ""
+            },
+            "jp": {
+                "line": "気温が、未明なので涼しくはあるが、記録にあるような寒いくらいの低下は示していない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "There's hardly any wind even.",
+                "name": ""
+            },
+            "jp": {
+                "line": "風もまた、ほとんどなく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "On a side of the sky... well, actually the whole\\nthing is filled wih stars.",
+                "name": ""
+            },
+            "jp": {
+                "line": "空も、一面の――いや満天の星。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[It's pretty... Isn't it?]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「きれい……なんだけどねえ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Sure is.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうだな……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "To say that the sky is pretty only means that it\\nlooks like the phenomenon we were hoping for\\nwon't occur.",
+                "name": ""
+            },
+            "jp": {
+                "line": "空が綺麗ということは、望む現象が起こりそうにないということだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Seems like it's no good.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だめっぽいな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Don't say that.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そういうこと言わない」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Yeah, sorry.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だな。悪い」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's taboo to talk about losing before a\\ncompetition. She shouldn't have to tell me that/",
+                "name": ""
+            },
+            "jp": {
+                "line": "競技が始まる前から負ける話をするのはタブーだもんな。俺が言われてちゃ世話がない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Even so...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……それにしても」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Because of the time, the position of the\\ntwinkling stars are quite different.",
+                "name": ""
+            },
+            "jp": {
+                "line": "空に輝く星々の配置が、こんな時間なので、かなり違う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The so-called summer constellations are\\ndisappearing into the west. The ones in the sky\\nnow are the fall constellations, the Great Square\\nof Pegasus and the W-Shaped Cassiopeia for\\nexample.",
+                "name": ""
+            },
+            "jp": {
+                "line": "いわゆる夏の星座は西に消え去り、空に輝いているのは秋の、ペガサス座の四角形とかカシオペアのＷ字とか、そういうもの。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Maybe on the eastern horizon, the winter\\nconstellation of Orion would just be peeking out.",
+                "name": ""
+            },
+            "jp": {
+                "line": "多分、東の地平線あたりには、冬のオリオン座も、ちらりと姿をのぞかせていることだろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[It's strange to think that these stars would be\\ncoming out as we sleep.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「寝てる間に、こういう星が頭上に出てるなんて、変な感じだよなあ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[That's true.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「だねえ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Her eyes sparkle as she looks up at the stars.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはは、目をきらきらさせて星空を見上げている。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Perhaps I'm making the same face as her.",
+                "name": ""
+            },
+            "jp": {
+                "line": "多分俺も、同じ顔をしているはず。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[It's really mysterious.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「すごい、不思議」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[What is?]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「何が？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[This and that, lots of things.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「色々。何から何まで」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[The stars in the sky, to be here looking at\\nthem at this time, being in this place, with Aoi,\\neverything.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「空の星も、それをこの時間に見ているのも、\\n　この場所にいるのも、碧といるのも、何もかも」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[I see what you mean...]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうだなあ……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[How would we tell our past selves that we would\\nend up at the 'Witch's Mansion', looking at the\\nstars at dawn, so that we can fly a glider?]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「昔のわたしたちに、何年かしたら“魔女の館”で\\n　グライダー飛ばすために明け方の星を見るんだぞ、\\n　なんて言ったらどうだったかな？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Our past selves wouldn't believe it.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「信じないな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[They wouldn't, would they?]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「でしょ？」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Back then, we were afraid of this place.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あの頃は、ここはとにかく怖い場所だった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We would play at the secret base, and when we got\\ntired from playing, we'd go to the old shopping\\ndistrict and eat ramen at Taiyouken, then go home\\nand collapse in our bed...]",
+                "name": ""
+            },
+            "jp": {
+                "line": "秘密基地でいつも遊んで、遊び疲れたら古くさい商店街に戻って、太陽軒でラーメン食って、家に帰ってバタンキュー……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We can't go back to those nostalgic days.",
+                "name": ""
+            },
+            "jp": {
+                "line": "もう戻らない、懐かしい日々。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0041": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Yeah... I mean, I moved away, came back five\\nyears later, got a job at the 'Witch's Mansion',\\nand flew a glider at dawn...]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうだよな……俺が、引っ越して、５年して戻ってきて、\\n　“魔女の館”で仕事して、グライダーで明け方の空を……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0042": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[When I say it like that, it seems so\\nunbelievable.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「口にすると、うそみたいだ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0043": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Haha, I've got to thank you, Aoi.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ふふっ、碧には感謝してるよ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0044": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Me?]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺に？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0045": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Yeah, for coming back and becoming the dorm\\nmother of this place...]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「うん。碧が戻ってきてくれて、ここの寮母になって……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0046": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Because of that, we got to know Amane and got\\ninvolved with the glider.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「だから、天音先輩と知り合いになれて、\\n　グライダーなんてものにも関われた」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0047": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[If that hadn't happened, I would've stayed at\\nthe 'Robot Club' and would've been for the\\ncontest.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「そうでなかったら、普通にロボット部で\\n　大会目指してただろうからね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0048": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Did I do something wrong?]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「悪いことしちゃったか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0049": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Not at all.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「んなわけないっしょ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[I've been enjoying myself so much. That's why\\nI'm thanking you, Aoi.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「自分のこととして、めいっぱい楽しんでるよ。\\n　だから、ありがとね、碧」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha made a lovely face as she smiled. Even at\\nthis hour, I can see it clearly.",
+                "name": ""
+            },
+            "jp": {
+                "line": "いい顔で、あげはは笑った。\\nこんな時間なのに、まぶしく見えるほどに。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She looked back up at the starry sky.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そしてあげはは、あらためて星空を見上げた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I traced the lines of her chin and neck.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、そのあごや喉の線に見入った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's so different from before... Now, she's\\nreally so feminine.",
+                "name": ""
+            },
+            "jp": {
+                "line": "昔と全然違う……その、女らしい丸みを帯びた、白い輪郭。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "004f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But there are still traces of the past... I need\\nto tell her about how I feel.",
+                "name": ""
+            },
+            "jp": {
+                "line": "だけど昔の面影もそのままあって――その姿に、俺は、一度、思いを口にして告げて……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0050": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "N-no.",
+                "name": ""
+            },
+            "jp": {
+                "line": "い、いや。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0051": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I panic, raising my head.",
+                "name": ""
+            },
+            "jp": {
+                "line": "慌てて、俺も顔をあげた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0052": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I look at the starry sky above.",
+                "name": ""
+            },
+            "jp": {
+                "line": "視界一面、星空。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0053": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[...The thing that An-chan made is flying\\nthrough space.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……あんちゃんの作ったものが、この宇宙を飛んでるんだよね」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0054": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Yeah. It's incredible, isn't it?]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ああ。すごいよなあ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0055": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[When I heard about it, I really liked the sound\\nof it.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「あれ聞いてさ、すごく、気合い入ったんだ、わたし」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0056": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[You mean the glider?]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「グライダー？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0057": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[Yeah.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「うん」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0058": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[To think that something you've made yourself\\ncan go to such amazing places and see such\\namazing things that no one before has ever\\nseen.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「自分の作ったものが、誰も見たことのない、\\n　すごい所へ行って、すごいものを見てくる」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0059": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[I think that's the coolest thing ever.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「それって、最高にかっこいいと思うんだ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[I know, right.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そうだな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I glance towards the eastern sky.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺は、東の空に目をこらした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Apparently, at this hour, it's possible to see\\nsatellites which are illuminated by the sunlight\\nwith the naked eye.",
+                "name": ""
+            },
+            "jp": {
+                "line": "この時間帯、地上より先に陽光を浴びた人工衛星が、肉眼でも見えることがたまにあるらしい。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That's where the parts that An-chan would be\\nflying through in space...",
+                "name": ""
+            },
+            "jp": {
+                "line": "そこを、あんちゃんの作ったものが飛んでゆく……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It really is pretty damn cool.",
+                "name": ""
+            },
+            "jp": {
+                "line": "格好いいよなあ、確かに。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "005f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[...We want to fly too, to a sky that no one's\\never seen.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……俺たちも、飛びたいな。誰も見たことのない空を」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0060": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'(You can do it. I'm sure of it.]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「飛べるよ。碧なら、必ず」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0061": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[That'd be great.]'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「だといいな」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0062": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We stand beside each other, looking over the\\neastern sky.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺達は並んで、東の空を見上げ続けた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0063": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It seems like it's going over a slight purple\\nhue.",
+                "name": ""
+            },
+            "jp": {
+                "line": "少しだけ、紫色がにじんできたような気がする。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0064": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'[...It's not coming, is it?]'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「……来ない、かな」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0065": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As always, there are no clouds, and it doesn't\\nlook like the 'Morning Glory' would occur.",
+                "name": ""
+            },
+            "jp": {
+                "line": "相変わらず雲はなく、モーニンググローリーが発生しそうな気配はない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0066": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even so, we're creating other kinds of memories,\\nas continue to look at the sky of dawn...]",
+                "name": ""
+            },
+            "jp": {
+                "line": "それでも俺たちは、色々なものを思い描いて、明け方の空を見上げ続けていた……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
     }
-]
+}

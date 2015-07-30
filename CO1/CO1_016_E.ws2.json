@@ -1,324 +1,830 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "'OK, everyone, for rather a long time, I have\\ncaused you a lot of inconvenience but...'"
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'OK, everyone, for rather a long time, I have\\ncaused you a lot of inconvenience but...'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「えー、みなさま、\\n　長い間、ご迷惑をおかけしておりましたが……」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "0400",
-        "line": {
-            "en": "'As of today, I, Ageha Himegi, will be making a\\nfull return to the Soaring Club!'"
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'As of today, I, Ageha Himegi, will be making a\\nfull return to the Soaring Club!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「わたくし姫城あげは、\\n　本日より、ソアリング部に完全復帰いたします！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "Clap clap clap."
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Clap clap clap.",
+                "name": ""
+            },
+            "jp": {
+                "line": "パチパチパチ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "A small round of applause echoes around the\\ngarage."
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "A small round of applause echoes around the\\ngarage.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ガレージにまばらな拍手が響く。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'You were so close. If you'd won two more\\nmatches, you would've gotten through the\\nprefectural qualifiers.'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You were so close. If you'd won two more\\nmatches, you would've gotten through the\\nprefectural qualifiers.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おしかったな。\\n　あと２回勝てば県予選突破だったのに」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "'No, I think that would be aiming a little too\\nhigh.'"
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, I think that would be aiming a little too\\nhigh.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「いやー、それは高望みってもんでしょ」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "In the local qualifiers of the Robot Contest that\\nwere held yesterday, Ageha and her team of\\njuniors lost in the third match."
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In the local qualifiers of the Robot Contest that\\nwere held yesterday, Ageha and her team of\\njuniors lost in the third match.",
+                "name": ""
+            },
+            "jp": {
+                "line": "昨日開催されたロボットコンクールの地区予選で、あげはたち下級生チームのロボットは３回戦敗退となった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "If a team wins in the fourth match, they gain the\\nright to enter the national championship."
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "If a team wins in the fourth match, they gain the\\nright to enter the national championship.",
+                "name": ""
+            },
+            "jp": {
+                "line": "４回勝てば優勝で全国大会への切符が手に入る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "Losing in the third round is the kind of result\\nthat makes it hard to say whether they came close\\nor not, but in the next match, the team that beat\\nAgeha's team won."
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Losing in the third round is the kind of result\\nthat makes it hard to say whether they came close\\nor not, but in the next match, the team that beat\\nAgeha's team won.",
+                "name": ""
+            },
+            "jp": {
+                "line": "３回戦負けはおしいと言えるかどうか微妙な成績だが、試合は接戦で、なおかつあげはたちを負かしたチームが優勝した。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "'Thanks to Kotori too, for coming to watch us.'"
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Thanks to Kotori too, for coming to watch us.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「小鳥も、応援に来てくれてありがと」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "'Yeah... It really was close.'"
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah... It really was close.'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「うー……すごい悔しかったぁ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "Since Ageha was in two clubs at the same time,\\nwhen we had any time to spare, we would go and\\nhelp the Robot Club."
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Since Ageha was in two clubs at the same time,\\nwhen we had any time to spare, we would go and\\nhelp the Robot Club.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはに掛け持ちさせている手前もあって、俺たちも手の空いた時にロボット部を手伝いにいってた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3000",
-        "line": {
-            "en": "On the day of the contest, we helped carry the\\nequipment and went to the contest venue."
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "On the day of the contest, we helped carry the\\nequipment and went to the contest venue.",
+                "name": ""
+            },
+            "jp": {
+                "line": "試合当日も機材の運び込みなどあって、会場へ足を運んだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3400",
-        "line": {
-            "en": "It was the first time I'd been to see the Robot\\nContest but it was pretty interesting."
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It was the first time I'd been to see the Robot\\nContest but it was pretty interesting.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ロボットコンクールを観戦したのは初めてだけど、なかなか面白かった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3800",
-        "line": {
-            "en": "The teams weren't just there to win, they also\\nwanted to do their best to show their ideas and\\nhow great their robots were."
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The teams weren't just there to win, they also\\nwanted to do their best to show their ideas and\\nhow great their robots were.",
+                "name": ""
+            },
+            "jp": {
+                "line": "どのチームもただ勝利を目指すのではなく、自分たちの理念とその結晶であるロボットの素晴らしさを表現しようと、頑張っていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "Even when they gave a performance that might put\\nthem at a disadvantage in the match, they didn't\\nease up."
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Even when they gave a performance that might put\\nthem at a disadvantage in the match, they didn't\\nease up.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ともすれば勝負に不利になるようなパフォーマンスも、手を抜かない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4000",
-        "line": {
-            "en": "When I saw this, I felt I had begun to understand\\nhow Ageha could become so obsessed with it."
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "When I saw this, I felt I had begun to understand\\nhow Ageha could become so obsessed with it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そういう姿を見ていて、あげはが夢中になる理由が少しわかった気がした。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4400",
-        "line": {
-            "en": "'Also, thank you Amane, for coming to help us.'"
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Also, thank you Amane, for coming to help us.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「それから、天音先輩、\\n　お手伝いしてくださって、ありがとうございました」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "4800",
-        "line": {
-            "en": "'Huh? What did Amane do?'"
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh? What did Amane do?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「あれ？　天音ちゃんも何かしたの？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "'I... I didn't really do anything...!'"
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I... I didn't really do anything...!'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「わ、私は別になにも……！」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "5000",
-        "line": {
-            "en": "'You came to see us on several occasions,\\nimproved the weak points in the design and gave\\nus lots of ideas.'"
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You came to see us on several occasions,\\nimproved the weak points in the design and gave\\nus lots of ideas.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「何度か見に来てくれて、\\n　設計の問題点を改善してくれたり、\\n　アイデアを提供してくれたりしたの」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'Amane, you're amazing! You really do have\\ndifferent ideas!'"
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Amane, you're amazing! You really do have\\ndifferent ideas!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「天音先輩、すごいんだよ！\\n　やっぱ発想が違うっていうかさ！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'Wow, Amane! You did all that and managed to keep\\nit a secret from us!'"
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Wow, Amane! You did all that and managed to keep\\nit a secret from us!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「へー、天音ちゃん、私らに隠れて、\\n　そんなことしてたんだぁ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "I had no idea. When on earth did she do that?"
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I had no idea. When on earth did she do that?",
+                "name": ""
+            },
+            "jp": {
+                "line": "全然知らなかった。\\nいったいいつの間に。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6000",
-        "line": {
-            "en": "'I... I didn't think there was anything I could\\ndo to help...'"
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I... I didn't think there was anything I could\\ndo to help...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「わ、私も何かできることはないかと思ったんだ……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'Everyone was able to make something with you,\\nand they were so happy because it gave us a lot\\nof motivation!'"
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Everyone was able to make something with you,\\nand they were so happy because it gave us a lot\\nof motivation!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「みんな、天音先輩と一緒に物作りができて、\\n　いい刺激になったって喜んでました」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "6800",
-        "line": {
-            "en": "'They all really wanted to win, and said they\\nwere full of confidence and that they would win\\nnext time!'"
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'They all really wanted to win, and said they\\nwere full of confidence and that they would win\\nnext time!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「欲がでちゃったみたいで、\\n　次は優勝するんだって、気合い入りまくりでしたよ♪」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "'Oh... that's good...'"
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Oh... that's good...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「あぅあぅ……それはよかった……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "7000",
-        "line": {
-            "en": "It's good that they want to win. If you don't aim\\nfor the top, you can't win in the matches."
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's good that they want to win. If you don't aim\\nfor the top, you can't win in the matches.",
+                "name": ""
+            },
+            "jp": {
+                "line": "欲がでるのはいいことだ。\\n上を目指したい気持ちがなければ、勝負には勝てない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7400",
-        "line": {
-            "en": "'There is also one other important announcement.'"
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There is also one other important announcement.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「それから、もう一つ重大な報告があります」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "7800",
-        "line": {
-            "en": "Ageha spoke in a formal tone."
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Ageha spoke in a formal tone.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あげはが、改まった調子で言う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'Yesterday, I quit the Robot Club!'"
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yesterday, I quit the Robot Club!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「わたくし、昨日をもって、\\n　ロボット部を退部してまいりましたー！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'Whaaaaat!!?'"
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Whaaaaat!!?'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「ええーーっ！！？」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'Really?'"
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Really?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ほんとなのか？」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Amane"
+        "state": 0
     },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'The truth is, I had already decided it. I like\\nmaking robots but now, I think that building the\\nglider is more fun.'"
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'The truth is, I had already decided it. I like\\nmaking robots but now, I think that building the\\nglider is more fun.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「実は、前から決めてたんです。ロボット造りもいいけど、\\n　今はグライダーの方が楽しいんで」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'Which is why, from now on, I will only be a\\nmember of this club. Let's do our best!'"
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Which is why, from now on, I will only be a\\nmember of this club. Let's do our best!'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「というわけで、今後はこっち一本でいきますので、\\n　よろしく！」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "9000",
-        "line": {
-            "en": "'We all let out a big cheer and the garage was\\nfilled with a much more rapturous applause this\\ntime."
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We all let out a big cheer and the garage was\\nfilled with a much more rapturous applause this\\ntime.",
+                "name": ""
+            },
+            "jp": {
+                "line": "「おー」という歓声と共に、さっきより勢いのある拍手がガレージに響いた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'...So that means we can finally start the last\\nspurt of making the main wings!'"
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...So that means we can finally start the last\\nspurt of making the main wings!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「……てことは、\\n　いよいよ主翼製作ラストスパートね」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'Aoi, please return to your pilot training.'"
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aoi, please return to your pilot training.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「碧はパイロット訓練に戻ってちょうだい」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'No, it's OK, I can help too.'"
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, it's OK, I can help too.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「いいよ、俺も手伝う」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'No no, once the main wings are complete, we will\\nperform a test flight straight away.'"
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No no, once the main wings are complete, we will\\nperform a test flight straight away.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「ダメダメ、主翼が完成したら、\\n　速攻でテストフライトするんだから」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'Before that, you need to learn how pilot it\\nperfectly.'"
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Before that, you need to learn how pilot it\\nperfectly.'",
+                "name": "Ageha"
+            },
+            "jp": {
+                "line": "「それまでに操縦を完璧に覚えること」",
+                "name": "あげは"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Ageha"
+        "state": 0
     },
-    {
-        "id": "a800",
-        "line": {
-            "en": "'I let you be the pilot, so you must carry out\\nyour duties!'"
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I let you be the pilot, so you must carry out\\nyour duties!'",
+                "name": "Kotori"
+            },
+            "jp": {
+                "line": "「パイロット譲ってやったんだから、\\n　ビシッと決めてもらうわよ」",
+                "name": "小鳥"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Kotori"
+        "state": 0
     },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'I will!'"
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I will!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「おう」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "b000",
-        "line": {
-            "en": "I have a role to fulfill."
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I have a role to fulfill.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺には俺の果たすべき役割がある。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "b400",
-        "line": {
-            "en": "Finally, the first test flight is just around the\\ncorner."
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Finally, the first test flight is just around the\\ncorner.",
+                "name": ""
+            },
+            "jp": {
+                "line": "いよいよ、初めてのテストフライトが目前に迫ってきていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     }
-]
+}

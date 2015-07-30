@@ -1,457 +1,1172 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "The last day of the summer holiday."
-        },
-        "name": ""
-    },
-    {
-        "id": "0400",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "0800",
-        "line": {
-            "en": "'Amane.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "'Huh? Hey there, Aoi. Why are you up so early?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'That's my line. You weren't in the dormitory, so\\nI thought you might be here.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "1400",
-        "line": {
-            "en": "I woke up early, but I didn't see Amane anywhere.\\nAll her things in her room were carefully packed\\naway."
-        },
-        "name": ""
-    },
-    {
-        "id": "1800",
-        "line": {
-            "en": "'Yeah. I thought I'd tidy everything up before\\nthe others come back.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "'I'll soon be going to my dad's lab.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "2000",
-        "line": {
-            "en": "'...!?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "2400",
-        "line": {
-            "en": "Today is the last day of the summer holiday."
-        },
-        "name": ""
-    },
-    {
-        "id": "2800",
-        "line": {
-            "en": "In other words, the day that Amane leaves the\\nschool."
-        },
-        "name": ""
-    },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "'We still have one more day, though.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "3000",
-        "line": {
-            "en": "'Hmm. But there's nothing left to do, is there?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "3400",
-        "line": {
-            "en": "Everyone was planning to get up before dawn again\\nand go to the runway."
-        },
-        "name": ""
-    },
-    {
-        "id": "3800",
-        "line": {
-            "en": "We didn't think that a miraculous phenomenon\\nwould occur two days in a row, but even so, we\\nwanted to believe there was a slight chance."
-        },
-        "name": ""
-    },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "However, I knew that we wouldn't be able to do it\\nagain so soon."
-        },
-        "name": ""
-    },
-    {
-        "id": "4000",
-        "line": {
-            "en": "At that time, we were caught in the downdraft,\\nthen forcibly pulling up the aircraft meant it\\nsustained huge G forces, damaging parts of the\\nglider."
-        },
-        "name": ""
-    },
-    {
-        "id": "4400",
-        "line": {
-            "en": "It's possible to fix it, but at the very least,\\nthere was no hope that we'd be able to fly today."
-        },
-        "name": ""
-    },
-    {
-        "id": "4800",
-        "line": {
-            "en": "Amane's objective was to fly to the Morning\\nGlory."
-        },
-        "name": ""
-    },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "Now that goal had been achieved, there was\\nnothing left to do."
-        },
-        "name": ""
-    },
-    {
-        "id": "5000",
-        "line": {
-            "en": "'You haven't seen any of the others, have you?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5400",
-        "line": {
-            "en": "'...No.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "5800",
-        "line": {
-            "en": "'Why not?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "'Because this year's summer holiday was so fun.\\nIt's hard for me... to leave this place.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "6000",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "6400",
-        "line": {
-            "en": "'I'm sorry but could you say something to them\\nfor me? I'm not much of a talker...'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "6800",
-        "line": {
-            "en": "Amane speaks with a really troubled look on her\\nface, and continued to pack all of the things she\\nhad organized into a large travel bag."
-        },
-        "name": ""
-    },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "She's been living here a long time, so she has a\\nlot of personal items."
-        },
-        "name": ""
-    },
-    {
-        "id": "7000",
-        "line": {
-            "en": "'I'll help you carry it.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "7400",
-        "line": {
-            "en": "'No, it's OK. It's mostly things that I don't\\nneed anyway, so I'll just leave behind anything I\\ncan't carry.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "7800",
-        "line": {
-            "en": "Amane speaks while gazing at her desk, which is\\nstill cluttered."
-        },
-        "name": ""
-    },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "As she looks it over, her gaze stops at the photo\\nframe."
-        },
-        "name": ""
-    },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'...'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'Are you leaving his behind too?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'Yeah.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'She smiles as if to say 'Even if I took it with\\nme, I wouldn't know what to do with it'."
-        },
-        "name": ""
-    },
-    {
-        "id": "9000",
-        "line": {
-            "en": "Seeing her sad smile made all the feelings of\\nregret that I'd bottled up come pouring out."
-        },
-        "name": ""
-    },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'I...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'?'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'I'm... gonna continue it.'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'I'll improve, and I will definitely fly to the\\nMorning Glory in the glider that you and the\\nothers have made!'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'...Sure.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "a800",
-        "line": {
-            "en": "Amane nods, and after thinking a moment, puts\\ndown her bag and stands in front of me."
-        },
-        "name": ""
-    },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "She takes my hand and holds it gently."
-        },
-        "name": ""
-    },
-    {
-        "id": "b000",
-        "line": {
-            "en": "In the garage, which doesn't have air\\nconditioning, it's as hot as a sauna."
-        },
-        "name": ""
-    },
-    {
-        "id": "b400",
-        "line": {
-            "en": "My hands are covered in sweat but hers are as\\nsmooth and as soft as freshly washed sheets."
-        },
-        "name": ""
-    },
-    {
-        "id": "b800",
-        "line": {
-            "en": "Then Amane, with eyes like a little kid's... but\\na little more grown-up than yesterday, looks me\\nin the eyes."
-        },
-        "name": ""
-    },
-    {
-        "id": "bc00",
-        "line": {
-            "en": "'...Thank you, Aoi.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "c000",
-        "line": {
-            "en": "'Thanks to you guys, in the end... I was able to\\ngo to that place.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "c400",
-        "line": {
-            "en": "'To the sky that until now, I'd only been able to\\nlook at from below.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "c800",
-        "line": {
-            "en": "As Amane speaks, she has a small, yet fulfilled\\nsmile."
-        },
-        "name": ""
-    },
-    {
-        "id": "cc00",
-        "line": {
-            "en": "'How about Isuka's feelings...?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "d000",
-        "line": {
-            "en": "I wanted to ask her if she understood the reason\\nwhy Isuka had become so obsessed with gliders."
-        },
-        "name": ""
-    },
-    {
-        "id": "d400",
-        "line": {
-            "en": "'To be honest, I still don't really know. But,\\nit's been decided.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "d800",
-        "line": {
-            "en": "'So, thank you.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "dc00",
-        "line": {
-            "en": "Amane shuts her eyes and hugs me gently."
-        },
-        "name": ""
-    },
-    {
-        "id": "e000",
-        "line": {
-            "en": "To tell the truth..."
-        },
-        "name": ""
-    },
-    {
-        "id": "e400",
-        "line": {
-            "en": "...I thought I was gonna cry."
-        },
-        "name": ""
-    },
-    {
-        "id": "e800",
-        "line": {
-            "en": "'Use the things in here however you want, The\\nwinch at the runway is equipment that belongs to\\nthe Soaring Club.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "ec00",
-        "line": {
-            "en": "'...What about these designs?'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "f000",
-        "line": {
-            "en": "The designs had been left on the drawing board."
-        },
-        "name": ""
-    },
-    {
-        "id": "f400",
-        "line": {
-            "en": "'I finished them last night but I don't need them\\nanymore.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "f800",
-        "line": {
-            "en": "'I'm sorry but if you don't need them, just throw\\nthem away.'"
-        },
-        "name": "Amane"
-    },
-    {
-        "id": "fc00",
-        "line": {
-            "en": "'I couldn't do that...'"
-        },
-        "name": "Aoi"
-    },
-    {
-        "id": "0100",
-        "line": {
-            "en": "'Well then, if I don't get going, I'll miss my\\nbus.'"
-        },
-        "name": "Amane"
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The last day of the summer holiday.",
+                "name": ""
+            },
+            "jp": {
+                "line": "夏休み最後の日。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Amane.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「先輩」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Huh? Hey there, Aoi. Why are you up so early?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「？　やあ、碧くん。\\n　どうしたんだ、こんな朝早くから」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's my line. You weren't in the dormitory, so\\nI thought you might be here.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それはこっちのセリフですよ。\\n　寮にいないから、まさかと思って来てみたんです」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I woke up early, but I didn't see Amane anywhere.\\nAll her things in her room were carefully packed\\naway.",
+                "name": ""
+            },
+            "jp": {
+                "line": "朝起きたら、寮に先輩の姿がなく、部屋の荷物も綺麗に片付けられていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah. I thought I'd tidy everything up before\\nthe others come back.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ああ。みんなが来る前に、\\n　片付けておこうと思ってね」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll soon be going to my dad's lab.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「これからすぐ、父のラボへ移るんだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...!?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「――ッ！？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Today is the last day of the summer holiday.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今日は夏休み最後の日。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In other words, the day that Amane leaves the\\nschool.",
+                "name": ""
+            },
+            "jp": {
+                "line": "つまり、天音先輩の引退する日。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'We still have one more day, though.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「まだ一日あるのに」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hmm. But there's nothing left to do, is there?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「んー。でももう、することがないだろう？」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Everyone was planning to get up before dawn again\\nand go to the runway.",
+                "name": ""
+            },
+            "jp": {
+                "line": "みんな、今朝も夜明け前に起きだして、滑走路へ向かうつもりでいた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We didn't think that a miraculous phenomenon\\nwould occur two days in a row, but even so, we\\nwanted to believe there was a slight chance.",
+                "name": ""
+            },
+            "jp": {
+                "line": "二日連続であの奇跡のような現象が起こるとは考えられなかったけど、それでも、わずかな可能性に賭けたかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "However, I knew that we wouldn't be able to do it\\nagain so soon.",
+                "name": ""
+            },
+            "jp": {
+                "line": "けど、すぐにそれはできないことがわかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "At that time, we were caught in the downdraft,\\nthen forcibly pulling up the aircraft meant it\\nsustained huge G forces, damaging parts of the\\nglider.",
+                "name": ""
+            },
+            "jp": {
+                "line": "あの時――下降気流に巻きこまれながら、無理に機体を引き起こした時に受けた強烈なＧによって、機体の一部が損傷していたのだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's possible to fix it, but at the very least,\\nthere was no hope that we'd be able to fly today.",
+                "name": ""
+            },
+            "jp": {
+                "line": "修理は可能だが、少なくとも今日のフライトは絶望的だった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane's objective was to fly to the Morning\\nGlory.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩の目的は、モーニンググローリーを飛ぶこと。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Now that goal had been achieved, there was\\nnothing left to do.",
+                "name": ""
+            },
+            "jp": {
+                "line": "それが{潰:つい}えた今、もう何も残っていない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'You haven't seen any of the others, have you?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「あいつらに会っていかないんですか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...No.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……ああ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Why not?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「どうして」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Because this year's summer holiday was so fun.\\nIt's hard for me... to leave this place.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「今年の夏休みは楽しかったからなぁ。\\n　ここを離れるのが……辛くなってしまう」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm sorry but could you say something to them\\nfor me? I'm not much of a talker...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「すまないが、キミから何か言っておいてくれないか。\\n　私はどうも、言葉にするのが苦手なんだ……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane speaks with a really troubled look on her\\nface, and continued to pack all of the things she\\nhad organized into a large travel bag.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩は本気で困った顔をしてそう言うと、整理した荷物を大きな旅行カバンに詰めていく。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She's been living here a long time, so she has a\\nlot of personal items.",
+                "name": ""
+            },
+            "jp": {
+                "line": "長年ここで生活していただけに、私物の量が多い。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll help you carry it.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「運ぶの手伝います」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'No, it's OK. It's mostly things that I don't\\nneed anyway, so I'll just leave behind anything I\\ncan't carry.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「いや、いい。\\n　どうせいらない物ばかりだ、\\n　持てない分は置いていくよ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane speaks while gazing at her desk, which is\\nstill cluttered.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩は、まだ散らかったままの机の上を眺めて言う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As she looks it over, her gaze stops at the photo\\nframe.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その視線が、写真立てのところで止まった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Are you leaving his behind too?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「それも、置いていくんですか？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yeah.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ああ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'She smiles as if to say 'Even if I took it with\\nme, I wouldn't know what to do with it'.",
+                "name": ""
+            },
+            "jp": {
+                "line": "「持っていてもしょうがないから」とでも言いたげに笑う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Seeing her sad smile made all the feelings of\\nregret that I'd bottled up come pouring out.",
+                "name": ""
+            },
+            "jp": {
+                "line": "その少し寂しげな笑顔を見て、押し込めていた悔しさが湧き上がってくる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'?'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「？」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm... gonna continue it.'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「俺……続けますから」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'll improve, and I will definitely fly to the\\nMorning Glory in the glider that you and the\\nothers have made!'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「もっともっと上手くなって、\\n　先輩たちが造ったあのグライダーで、\\n　必ずモーニンググローリーを飛びますから！」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Sure.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……うん」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane nods, and after thinking a moment, puts\\ndown her bag and stands in front of me.",
+                "name": ""
+            },
+            "jp": {
+                "line": "頷くと先輩は、少しだけ考えてから、荷物を置いて俺の前に立った。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "She takes my hand and holds it gently.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺の手を取り、そっと握る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "In the garage, which doesn't have air\\nconditioning, it's as hot as a sauna.",
+                "name": ""
+            },
+            "jp": {
+                "line": "エアコンが効いていないガレージは、蒸し風呂のように暑い。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "My hands are covered in sweat but hers are as\\nsmooth and as soft as freshly washed sheets.",
+                "name": ""
+            },
+            "jp": {
+                "line": "俺の手は汗ばんでいたけど、先輩の手は洗いたてのシーツのようにすべすべとして柔らかだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Then Amane, with eyes like a little kid's... but\\na little more grown-up than yesterday, looks me\\nin the eyes.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そして先輩は、少年のような――けれど、昨日よりどこか少しだけ大人びた気のする瞳で、真っ直ぐに俺を見据える。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "002f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Thank you, Aoi.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「……ありがとう、碧くん」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0030": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Thanks to you guys, in the end... I was able to\\ngo to that place.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「キミたちのおかげで、最後に……\\n　あの場所へいくことができた」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0031": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'To the sky that until now, I'd only been able to\\nlook at from below.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「見上げることしかできなかった空へ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0032": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As Amane speaks, she has a small, yet fulfilled\\nsmile.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩は、そう言って小さく、けど満足げに微笑む。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0033": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'How about Isuka's feelings...?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「イスカさんの気持ちは……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0034": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I wanted to ask her if she understood the reason\\nwhy Isuka had become so obsessed with gliders.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩は、イスカさんがなぜグライダーに夢中になるのか、それが知りたくて続けてきたと言っていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0035": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'To be honest, I still don't really know. But,\\nit's been decided.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「正直、よくわからないままだ。\\n　けど、踏ん切りはついた」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0036": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'So, thank you.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「だから、ありがとうだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0037": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Amane shuts her eyes and hugs me gently.",
+                "name": ""
+            },
+            "jp": {
+                "line": "先輩は目を閉じて、優しく俺を抱きしめてくれた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0038": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "To tell the truth...",
+                "name": ""
+            },
+            "jp": {
+                "line": "正直、",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0039": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...I thought I was gonna cry.",
+                "name": ""
+            },
+            "jp": {
+                "line": "……涙が出そうになった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Use the things in here however you want, The\\nwinch at the runway is equipment that belongs to\\nthe Soaring Club.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「ここにある物は好きに使ってくれ。\\n　滑走路にあるウインチもソアリング部の備品だ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...What about these designs?'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……この設計図は？」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "The designs had been left on the drawing board.",
+                "name": ""
+            },
+            "jp": {
+                "line": "製図板に、設計図がおかれたままだった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I finished them last night but I don't need them\\nanymore.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「一応、昨晩完成させたんだが、\\n　私にはもう必要のないものだ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm sorry but if you don't need them, just throw\\nthem away.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「すまないが、いらないなら捨てておいてくれ」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "003f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I couldn't do that...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「そんな……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
+    },
+    "0040": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well then, if I don't get going, I'll miss my\\nbus.'",
+                "name": "Amane"
+            },
+            "jp": {
+                "line": "「さてと、そろそろいかないと、\\n　バスの時間に間に合わない」",
+                "name": "天音"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
+        },
+        "state": 0
     }
-]
+}

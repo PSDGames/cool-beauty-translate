@@ -1,317 +1,812 @@
-[
-    {
-        "id": "0000",
-        "line": {
-            "en": "'...Yaaaawn...'"
+{
+    "0000": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Yaaaawn...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「……ふあぁ」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "0400",
-        "line": {
-            "en": "I try to stifle my yawn, as I watch the sky just\\nbefore the break of dawn."
+    "0001": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I try to stifle my yawn, as I watch the sky just\\nbefore the break of dawn.",
+                "name": ""
+            },
+            "jp": {
+                "line": "欠伸を噛み殺しながら、夜明け前の空を見張る。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0800",
-        "line": {
-            "en": "Today, it's my turn to watch it."
+    "0002": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Today, it's my turn to watch it.",
+                "name": ""
+            },
+            "jp": {
+                "line": "今日は俺が見張り当番。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "0c00",
-        "line": {
-            "en": "We have to watch over the sky before dawn, to see\\nwhether or not there are any signs that the\\nMorning Glory will occur."
+    "0003": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "We have to watch over the sky before dawn, to see\\nwhether or not there are any signs that the\\nMorning Glory will occur.",
+                "name": ""
+            },
+            "jp": {
+                "line": "朝を迎える前から空の様子を観測し、モーニンググローリーの予兆がないか確認しなければならない。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1000",
-        "line": {
-            "en": "'Aaaaah...'"
+    "0004": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Aaaaah...'",
+                "name": "Aoi"
+            },
+            "jp": {
+                "line": "「ねむっ……」",
+                "name": "碧"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "Aoi"
+        "state": 0
     },
-    {
-        "id": "1400",
-        "line": {
-            "en": "But last night, I couldn't fall asleep until the\\nusual time, so I didn't get enough sleep. I came\\noutside after what only amounted to a short nap."
+    "0005": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But last night, I couldn't fall asleep until the\\nusual time, so I didn't get enough sleep. I came\\noutside after what only amounted to a short nap.",
+                "name": ""
+            },
+            "jp": {
+                "line": "だが昨晩、いつもの時間まで寝付けなかった俺は十分な睡眠時間を確保出来ず、仮眠を済ませた程度の状態で外に出てきていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1800",
-        "line": {
-            "en": "That's why I'm sleepy."
+    "0006": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "That's why I'm sleepy.",
+                "name": ""
+            },
+            "jp": {
+                "line": "だから、眠い。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "1c00",
-        "line": {
-            "en": "..."
+    "0007": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...",
+                "name": ""
+            },
+            "jp": {
+                "line": "…………。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2000",
-        "line": {
-            "en": "It's no good, if I stay still like this, I'm\\ngonna fall asleep."
+    "0008": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "It's no good, if I stay still like this, I'm\\ngonna fall asleep.",
+                "name": ""
+            },
+            "jp": {
+                "line": "ダメだ、このままじっとしてると眠ってしまいそうだ。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2400",
-        "line": {
-            "en": "I'll try moving my body a little..."
+    "0009": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I'll try moving my body a little...",
+                "name": ""
+            },
+            "jp": {
+                "line": "少し身体を動かそうかな……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2800",
-        "line": {
-            "en": "While going for a stroll, I go as far as the hill\\nwhere the windmills stand."
+    "000a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "While going for a stroll, I go as far as the hill\\nwhere the windmills stand.",
+                "name": ""
+            },
+            "jp": {
+                "line": "散歩がてら、風車の建ち並ぶ丘の方まで出てみる。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "2c00",
-        "line": {
-            "en": "As always, there's nothing unusual about the sky."
+    "000b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "As always, there's nothing unusual about the sky.",
+                "name": ""
+            },
+            "jp": {
+                "line": "相変わらず、空にはなんの異常もなかった。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3000",
-        "line": {
-            "en": "Of course, there's no one on the hill, and the\\nlonely windmills turn."
+    "000c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Of course, there's no one on the hill, and the\\nlonely windmills turn.",
+                "name": ""
+            },
+            "jp": {
+                "line": "当然丘にも人気はなく、物寂しく風車が回っていた。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3400",
-        "line": {
-            "en": "..."
+    "000d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...",
+                "name": ""
+            },
+            "jp": {
+                "line": "…………。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3800",
-        "line": {
-            "en": "I stand there a while, staring blankly at the\\nsky."
+    "000e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "I stand there a while, staring blankly at the\\nsky.",
+                "name": ""
+            },
+            "jp": {
+                "line": "しばらくそこで、ボーっとして空を見て過ごす。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "3c00",
-        "line": {
-            "en": "..."
+    "000f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...",
+                "name": ""
+            },
+            "jp": {
+                "line": "…………。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4000",
-        "line": {
-            "en": "So, it's dawn already...?"
+    "0010": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "So, it's dawn already...?",
+                "name": ""
+            },
+            "jp": {
+                "line": "もうじき夜明けか……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4400",
-        "line": {
-            "en": "Time to go back."
+    "0011": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Time to go back.",
+                "name": ""
+            },
+            "jp": {
+                "line": "そろそろ帰ろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4800",
-        "line": {
-            "en": "Hmm?"
+    "0012": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Hmm?",
+                "name": ""
+            },
+            "jp": {
+                "line": "――ん？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "4c00",
-        "line": {
-            "en": "'...'"
+    "0013": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「…………」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "5000",
-        "line": {
-            "en": "'...'"
+    "0014": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「…………」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "5400",
-        "line": {
-            "en": "Along the way, I pass by two girls."
+    "0015": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Along the way, I pass by two girls.",
+                "name": ""
+            },
+            "jp": {
+                "line": "道中、女の子たち二人とすれ違う。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5800",
-        "line": {
-            "en": "Going for a stroll, this early in the morning?\\nThat's strange..."
+    "0016": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Going for a stroll, this early in the morning?\\nThat's strange...",
+                "name": ""
+            },
+            "jp": {
+                "line": "こんな朝から散歩？　珍しいな……。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "5c00",
-        "line": {
-            "en": "But, I feel like I've seen them before... Is it\\njust my imagination?"
+    "0017": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "But, I feel like I've seen them before... Is it\\njust my imagination?",
+                "name": ""
+            },
+            "jp": {
+                "line": "しかし、どこかで見たような……気のせいだっけ？",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6000",
-        "line": {
-            "en": "..."
+    "0018": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "...",
+                "name": ""
+            },
+            "jp": {
+                "line": "…………",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6400",
-        "line": {
-            "en": "Meh, whatever."
+    "0019": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Meh, whatever.",
+                "name": ""
+            },
+            "jp": {
+                "line": "まぁいいか。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6800",
-        "line": {
-            "en": "Anyway, I'm heading back."
+    "001a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "Anyway, I'm heading back.",
+                "name": ""
+            },
+            "jp": {
+                "line": "とりあえず戻ろう。",
+                "name": ""
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": ""
+        "state": 0
     },
-    {
-        "id": "6c00",
-        "line": {
-            "en": "'It does feel good to go for a stroll in the\\nmorning, after all.'"
+    "001b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'It does feel good to go for a stroll in the\\nmorning, after all.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「やっぱり、朝のお散歩は気持ちいいね」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "7000",
-        "line": {
-            "en": "'Really? We're just walking, so I don't really\\nsee why we have to do it so early in the\\nmorning.'"
+    "001c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Really? We're just walking, so I don't really\\nsee why we have to do it so early in the\\nmorning.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「そう？　ただ歩くだけなら、べつにこんな\\n　朝早くにやらなくてもいいと思うけど」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "7400",
-        "line": {
-            "en": "'Well, you didn't have to come with me.'"
+    "001d": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, you didn't have to come with me.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「だったら付いてこなくても良かったのに」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "7800",
-        "line": {
-            "en": "'Well, if you go out for a stroll in the early\\nmorning and get kidnapped, it'll cause problems\\nfor me.'"
+    "001e": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Well, if you go out for a stroll in the early\\nmorning and get kidnapped, it'll cause problems\\nfor me.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「姉さん一人で早朝散歩なんて、誰かに\\n　誘拐されたら困るじゃない」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "7c00",
-        "line": {
-            "en": "'I'm not that stupid, you know!'"
+    "001f": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I'm not that stupid, you know!'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「わたし、そこまでダメな子じゃないしっ！？」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "8000",
-        "line": {
-            "en": "'Is that so? Hee hee.'"
+    "0020": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Is that so? Hee hee.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「どうでしょ〜。くすくす」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "8400",
-        "line": {
-            "en": "'Uhhh...'"
+    "0021": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Uhhh...'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「うぅぅ〜……」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "8800",
-        "line": {
-            "en": "'A...anyway! It feels nice to go for a stroll in\\nthe morning!'"
+    "0022": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'A...anyway! It feels nice to go for a stroll in\\nthe morning!'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「と、とにかく！　朝の散歩は気持ちがいいの！」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "8c00",
-        "line": {
-            "en": "'There's nobody here, the air is fresh... It's\\nlike stepping into another world.'"
+    "0023": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'There's nobody here, the air is fresh... It's\\nlike stepping into another world.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「人が居なくて、空気が澄んでて――\\n　なんだか別世界にやって来たみたい」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "9000",
-        "line": {
-            "en": "'That's why I like morning strolls.'"
+    "0024": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'That's why I like morning strolls.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「だからわたしは、朝早くのお散歩が好き」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "9400",
-        "line": {
-            "en": "'Hey sis, this is the same world, by the way.'"
+    "0025": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Hey sis, this is the same world, by the way.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「これは同じ世界よ、姉さん」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "9800",
-        "line": {
-            "en": "'I know that! I know but that doesn't matter,\\ndoes it?'"
+    "0026": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I know that! I know but that doesn't matter,\\ndoes it?'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「わかってるもん！　わかってるけど、いいじゃない！」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "9c00",
-        "line": {
-            "en": "'This is why, sometimes, when I feel like I'm\\ngetting lost in myself, I like to go for a\\nmorning stroll and look at the view.'"
+    "0027": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'This is why, sometimes, when I feel like I'm\\ngetting lost in myself, I like to go for a\\nmorning stroll and look at the view.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「だからね、たまに、自分を見失いそうな時は……\\n　こうやって早朝の景色を散歩してみたくなるの」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "a000",
-        "line": {
-            "en": "'I see. That sounds like the kind of thing you'd\\nsay.'"
+    "0028": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'I see. That sounds like the kind of thing you'd\\nsay.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「そっ。実に姉さんらしいわ」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "a400",
-        "line": {
-            "en": "'Yoru, you're joking aren't you?'"
+    "0029": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Yoru, you're joking aren't you?'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「依瑠ちゃん、今日はジョギングはしないの？」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "a800",
-        "line": {
-            "en": "'...I'll come with you on a stroll from time to\\ntime. Well, it's nice to take a break.'"
+    "002a": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...I'll come with you on a stroll from time to\\ntime. Well, it's nice to take a break.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「……たまにはわたしも、姉さんに付き合って\\n　散歩にしとく。ま、お休みも悪くないでしょ」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "ac00",
-        "line": {
-            "en": "'Really?'"
+    "002b": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'Really?'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「そっか」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     },
-    {
-        "id": "b000",
-        "line": {
-            "en": "'...Yeah.'"
+    "002c": {
+        "comments": [],
+        "data": {
+            "en": {
+                "line": "'...Yeah.'",
+                "name": "???"
+            },
+            "jp": {
+                "line": "「……うん」",
+                "name": "？？？"
+            },
+            "ru": {
+                "line": "",
+                "name": ""
+            }
         },
-        "name": "???"
+        "state": 0
     }
-]
+}

@@ -67,6 +67,8 @@
 | Keifuu Academy                           | академия Кеифу                                | 恵風学園 |
 | Keifuu Private Academy Student Dormitory | частное студенческое общежитие академии Кеифу | 私立恵風学園の学生寮 |
 | Windmill Hill                            | Мельничный холм                               | 風車の丘 |
+| Windy                                    | Ветра                                         | ウィンディ |
+| Windy Kazegaura                          | Ветра Кадзегауры                              | ウィンディ風ヶ浦 |
 | Witch's Mansion                          | ведьмин особняк                               | 魔女の館 |
 | Soaring Club                             | Парящий Клуб |
 | **Прочие** | | |

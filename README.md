@@ -59,7 +59,7 @@
 | Taguchi                                  | Такути                                        | 田口 |
 | Yamamoto                                 | Ямамото                                       | 山本 |
 | **Имена собственные** | | |
-| Flying Fish Manor                        | поместье «Летучая Рыба»                       | トビウオ荘 |
+| Flying Fish Manor                        | поместье «Летучая рыба»                       | トビウオ荘 |
 | Hargen Darch                             | Haagen-Dazs                                   | ハーゲンダッチ |
 | Kazami Shopping Street                   | торговый квартал Кадзами                      | 風見商店街 |
 | Kazegaura                                | Кадзегаура                                    | 風ヶ浦 |
@@ -67,8 +67,10 @@
 | Keifuu Academy                           | академия Кеифу                                | 恵風学園 |
 | Keifuu Private Academy Student Dormitory | частное студенческое общежитие академии Кеифу | 私立恵風学園の学生寮 |
 | Windmill Hill                            | Мельничный холм                               | 風車の丘 |
+| Windy                                    | Ветра                                         | ウィンディ |
+| Windy Kazegaura                          | Ветра Кадзегауры                              | ウィンディ風ヶ浦 |
 | Witch's Mansion                          | ведьмин особняк                               | 魔女の館 |
-| Soaring Club                             | Парящий Клуб |
+| Soaring Club                             | Парящий клуб                                  | ソアリング部 |
 | **Прочие** | | |
 | -chan                                    | -тян                                          | ちゃん |
 | boarding students                        |                                               | 寮生 |

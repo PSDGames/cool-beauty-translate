@@ -36,7 +36,9 @@
         "state": 3
     },
     "0002": {
-        "comments": [],
+        "comments": [
+            "Ням-ням (и вообще всякие «кря-кря», «ха-ха» писать через дефис)"
+        ],
         "data": {
             "en": {
                 "line": "'Munch, munch... That's some good eatin'!'",
@@ -270,7 +272,9 @@
         "state": 3
     },
     "000f": {
-        "comments": [],
+        "comments": [
+            "Тут «идиоты» как-то чересчур."
+        ],
         "data": {
             "en": {
                 "line": "'Geez, they're all so naive. They still haven't\\ngotten used to boys.'",
@@ -288,7 +292,9 @@
         "state": 3
     },
     "0010": {
-        "comments": [],
+        "comments": [
+            "Кеифу"
+        ],
         "data": {
             "en": {
                 "line": "'But Keifuu is a coed school, right?'",
@@ -972,7 +978,9 @@
         "state": 3
     },
     "0036": {
-        "comments": [],
+        "comments": [
+            "Кеифу"
+        ],
         "data": {
             "en": {
                 "line": "I'm a dorm mother but also a student of Keifuu\\nAcademy. I mean, this is my real occupation.",
@@ -1044,7 +1052,9 @@
         "state": 3
     },
     "003a": {
-        "comments": [],
+        "comments": [
+            "Кеифу. Используй длинное тире «—» (alt+0151)."
+        ],
         "data": {
             "en": {
                 "line": "Keifuu Academy, the school I'll be going to now,\\nis a coed engineering school and the school\\ntraditions are quite different too.",
@@ -1134,7 +1144,9 @@
         "state": 3
     },
     "003f": {
-        "comments": [],
+        "comments": [
+            "красно-сан"
+        ],
         "data": {
             "en": {
                 "line": "There'll be more weird misunderstandings with\\nMiss 'Allule' too.",
@@ -1188,7 +1200,9 @@
         "state": 3
     },
     "0042": {
-        "comments": [],
+        "comments": [
+            "Ма-бо и Ан-тян"
+        ],
         "data": {
             "en": {
                 "line": "There's Ageha, Ma-bou, Hotaru and An-chan.",
@@ -1206,7 +1220,9 @@
         "state": 3
     },
     "0043": {
-        "comments": [],
+        "comments": [
+            "Ма-бо"
+        ],
         "data": {
             "en": {
                 "line": "Out of that group, Ageha and Ma-bou are the same\\nage as me but...",
@@ -1278,7 +1294,9 @@
         "state": 3
     },
     "0047": {
-        "comments": [],
+        "comments": [
+            "Ан-тян"
+        ],
         "data": {
             "en": {
                 "line": "A lot of things happened, or maybe I'm just lazy,\\nbut I haven't told anyone apart from An-chan that\\nI'm coming back.",
@@ -1386,7 +1404,9 @@
         "state": 3
     },
     "004d": {
-        "comments": [],
+        "comments": [
+            "Кеифу"
+        ],
         "data": {
             "en": {
                 "line": "At the intersection leading to school, there was\\na girl wearing a Keifuu uniform standing there,\\nlooking towards me.",
@@ -1854,7 +1874,9 @@
         "state": 3
     },
     "0067": {
-        "comments": [],
+        "comments": [
+            "Саттин"
+        ],
         "data": {
             "en": {
                 "line": "'This is Aoi Minase. He's a transfer student. You\\nremember him, don't you Sacchin?'",
@@ -1872,7 +1894,9 @@
         "state": 3
     },
     "0068": {
-        "comments": [],
+        "comments": [
+            "Саттин"
+        ],
         "data": {
             "en": {
                 "line": "Sacchin replied 'No way, Aoi?' as she warmly\\nraised her voice in surprise.",
@@ -2016,7 +2040,9 @@
         "state": 3
     },
     "0070": {
-        "comments": [],
+        "comments": [
+            "Это отсылка к первой главе (там Котори говорит то же самое). У меня перевод «Я скажу это ещё раз! Позволь мне сказать это ещё раз!!». Надо обсудить как лучше."
+        ],
         "data": {
             "en": {
                 "line": "I'll say it again! Let me do it again!!",
@@ -2952,7 +2978,9 @@
         "state": 3
     },
     "00a4": {
-        "comments": [],
+        "comments": [
+            "красно-сан"
+        ],
         "data": {
             "en": {
                 "line": "That's right, Miss 'Allule', I mean Kotori,\\nshould be somewhere in this school.",
@@ -3078,7 +3106,9 @@
         "state": 3
     },
     "00ab": {
-        "comments": [],
+        "comments": [
+            "Ан-тян"
+        ],
         "data": {
             "en": {
                 "line": "'If I hadn't heard it from An-chan, I never\\nwould've realized.'",
@@ -3096,7 +3126,9 @@
         "state": 3
     },
     "00ac": {
-        "comments": [],
+        "comments": [
+            "Ан-тян"
+        ],
         "data": {
             "en": {
                 "line": "'You heard it from An-chan?'",
@@ -3204,7 +3236,9 @@
         "state": 3
     },
     "00b2": {
-        "comments": [],
+        "comments": [
+            "Ан-тян"
+        ],
         "data": {
             "en": {
                 "line": "The reason why we call him 'An-chan' isn't\\nbecause he's my older brother.",
@@ -3222,7 +3256,9 @@
         "state": 3
     },
     "00b3": {
-        "comments": [],
+        "comments": [
+            "Ан-тян"
+        ],
         "data": {
             "en": {
                 "line": "He was our childhood friend but he was much older\\nthan us so we nicknamed him 'An-chan'.",
@@ -3276,7 +3312,9 @@
         "state": 3
     },
     "00b6": {
-        "comments": [],
+        "comments": [
+            "Агеха называет приём из реслинга, возможно есть русскоязычный аналог? http://www.youtube.com/watch?v=xXOC6XqeK0A"
+        ],
         "data": {
             "en": {
                 "line": "'The old me would've made you taste the Axe\\nBomber Lariat!'",
@@ -3384,7 +3422,9 @@
         "state": 3
     },
     "00bc": {
-        "comments": [],
+        "comments": [
+            "красно-сан"
+        ],
         "data": {
             "en": {
                 "line": "'Miss Allule... No, I mean, she's called Kotori\\nHabane.'",
@@ -3654,7 +3694,9 @@
         "state": 3
     },
     "00cb": {
-        "comments": [],
+        "comments": [
+            "Мельничный холм"
+        ],
         "data": {
             "en": {
                 "line": "Yesterday, she had went out to Windmill Hill, and\\nthen later she was chasing that duck around the\\nhalls of the dormitory.",
@@ -3762,7 +3804,9 @@
         "state": 3
     },
     "00d1": {
-        "comments": [],
+        "comments": [
+            "Ямамото"
+        ],
         "data": {
             "en": {
                 "line": "'Hey, Yamamoto! Can you lend me your English\\ndictionary?'",
@@ -3834,7 +3878,9 @@
         "state": 3
     },
     "00d5": {
-        "comments": [],
+        "comments": [
+            "Ма-бо"
+        ],
         "data": {
             "en": {
                 "line": "'Hey, Ma-bou!'",
@@ -3870,7 +3916,9 @@
         "state": 3
     },
     "00d7": {
-        "comments": [],
+        "comments": [
+            "Ма-бо"
+        ],
         "data": {
             "en": {
                 "line": "The guy known as Ma-bou came into the classroom.",
@@ -3996,7 +4044,9 @@
         "state": 3
     },
     "00de": {
-        "comments": [],
+        "comments": [
+            "Ма-бо"
+        ],
         "data": {
             "en": {
                 "line": "'Long time, no see, Ma-bou.'",
@@ -4158,7 +4208,9 @@
         "state": 3
     },
     "00e7": {
-        "comments": [],
+        "comments": [
+            "Масацугу Тадзаки, Ма-бо"
+        ],
         "data": {
             "en": {
                 "line": "This slightly superficial guy is Masatsugu\\nTasaki, or Ma-bou as we call him.",
@@ -4248,7 +4300,9 @@
         "state": 3
     },
     "00ec": {
-        "comments": [],
+        "comments": [
+            "Ма-бо"
+        ],
         "data": {
             "en": {
                 "line": "'You seem well, Ma-bou. You've grown pretty big.'",
@@ -4266,7 +4320,9 @@
         "state": 3
     },
     "00ed": {
-        "comments": [],
+        "comments": [
+            "Масацугу"
+        ],
         "data": {
             "en": {
                 "line": "Masatsugu used to be really small but now he was\\nabout the same size as me.",
@@ -4374,7 +4430,9 @@
         "state": 3
     },
     "00f3": {
-        "comments": [],
+        "comments": [
+            "Ма-бо"
+        ],
         "data": {
             "en": {
                 "line": "'Yeah, I'm back, Ma-bou.'",
@@ -4536,7 +4594,9 @@
         "state": 3
     },
     "00fc": {
-        "comments": [],
+        "comments": [
+            "Ма-бо"
+        ],
         "data": {
             "en": {
                 "line": "Ma-bou suddenly backed off and thrust his finger\\nat the end of my nose.",
@@ -4734,7 +4794,9 @@
         "state": 3
     },
     "0107": {
-        "comments": [],
+        "comments": [
+            "Ма-бо"
+        ],
         "data": {
             "en": {
                 "line": "With saliva flying out of his mouth as he\\nemphasized his words, Ma-bou forgot all about\\nborrowing the English dictionary and he stormed\\nout of the classroom.",
@@ -5454,7 +5516,9 @@
         "state": 3
     },
     "012f": {
-        "comments": [],
+        "comments": [
+            "«Театральный» не надо с заглавной"
+        ],
         "data": {
             "en": {
                 "line": "'Film Studies, Theater Club... there's even an\\nR.C. Club.'",
@@ -5724,7 +5788,9 @@
         "state": 3
     },
     "013e": {
-        "comments": [],
+        "comments": [
+            "Минасе"
+        ],
         "data": {
             "en": {
                 "line": "'Hey, Minase! It's you, Minase, isn't it?'",
@@ -5760,7 +5826,9 @@
         "state": 3
     },
     "0140": {
-        "comments": [],
+        "comments": [
+            "Такути"
+        ],
         "data": {
             "en": {
                 "line": "'It's you, Taguchi! It's been a long time!'",
@@ -6858,7 +6926,9 @@
         "state": 3
     },
     "017d": {
-        "comments": [],
+        "comments": [
+            "Ха-ха-ха"
+        ],
         "data": {
             "en": {
                 "line": "'Ha ha ha... There we go!'",
@@ -8154,7 +8224,9 @@
         "state": 3
     },
     "01c5": {
-        "comments": [],
+        "comments": [
+            "Ан-тян"
+        ],
         "data": {
             "en": {
                 "line": "'I got it from An-chan earlier. He gave me your\\ntext address too, so I can bombard you with\\ntexts!'",
@@ -9990,7 +10062,9 @@
         "state": 3
     },
     "022b": {
-        "comments": [],
+        "comments": [
+            "иен"
+        ],
         "data": {
             "en": {
                 "line": "It's the big tub that costs 2500 yen.",
@@ -10206,7 +10280,9 @@
         "state": 3
     },
     "0237": {
-        "comments": [],
+        "comments": [
+            "PERFECT"
+        ],
         "data": {
             "en": {
                 "line": "'Yum yum... Yummy yummy...'",
@@ -10242,7 +10318,9 @@
         "state": 3
     },
     "0239": {
-        "comments": [],
+        "comments": [
+            "Ням-ням"
+        ],
         "data": {
             "en": {
                 "line": "'Yum yum, it's so yummy...!'",
@@ -10386,7 +10464,9 @@
         "state": 3
     },
     "0241": {
-        "comments": [],
+        "comments": [
+            "Кря-кря"
+        ],
         "data": {
             "en": {
                 "line": "'Quack Quack!'",
@@ -10638,7 +10718,9 @@
         "state": 3
     },
     "024f": {
-        "comments": [],
+        "comments": [
+            "Мельничном холме"
+        ],
         "data": {
             "en": {
                 "line": "*Go and see Windmill Hill.",
@@ -11250,7 +11332,9 @@
         "state": 3
     },
     "0271": {
-        "comments": [],
+        "comments": [
+            "Мельничном холме"
+        ],
         "data": {
             "en": {
                 "line": "'Did you go back to the Windmill Hill?'",
@@ -12186,7 +12270,9 @@
         "state": 3
     },
     "02a5": {
-        "comments": [],
+        "comments": [
+            "Мельничный холм"
+        ],
         "data": {
             "en": {
                 "line": "However, she was wearing her own clothes\\nyesterday when she went to Windmill Hill.",
@@ -12294,7 +12380,9 @@
         "state": 3
     },
     "02ab": {
-        "comments": [],
+        "comments": [
+            "об уходе"
+        ],
         "data": {
             "en": {
                 "line": "It was a notice for withdrawal from school.",
@@ -13050,7 +13138,9 @@
         "state": 3
     },
     "02d5": {
-        "comments": [],
+        "comments": [
+            "Кря-кря"
+        ],
         "data": {
             "en": {
                 "line": "'Quack quack!'",

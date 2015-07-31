@@ -54,7 +54,10 @@
 | An-chan                                  | Ан-тян                                        | あんちゃん |
 | Hat                                      | Хат                                           | ハット |
 | **Третьестепенные персонажи** | | |
+| Eri-chan                                 | Эри-тян                                       | えりちゃん |
 | Sacchin                                  | Саттин                                        | さっちん |
+| Taguchi                                  | Такути                                        | 田口 |
+| Yamamoto                                 | Ямамото                                       | 山本 |
 | **Имена собственные** | | |
 | Flying Fish Manor                        | поместье «Летучая Рыба»                       | トビウオ荘 |
 | Hargen Darch                             | Haagen-Dazs                                   | ハーゲンダッチ |
@@ -78,3 +81,4 @@
 | owner-janitor                            | см. owner-caretaker                           | オーナー兼管理人さん |
 | windmill                                 | ветряк                                        | 風車 |
 | withdrawal notice                        | заявление об уходе                            | |
+| yen                                      | иена                                          | |

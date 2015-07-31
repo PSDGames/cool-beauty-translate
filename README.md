@@ -59,7 +59,7 @@
 | Taguchi                                  | Такути                                        | 田口 |
 | Yamamoto                                 | Ямамото                                       | 山本 |
 | **Имена собственные** | | |
-| Flying Fish Manor                        | поместье «Летучая Рыба»                       | トビウオ荘 |
+| Flying Fish Manor                        | поместье «Летучая рыба»                       | トビウオ荘 |
 | Hargen Darch                             | Haagen-Dazs                                   | ハーゲンダッチ |
 | Kazami Shopping Street                   | торговый квартал Кадзами                      | 風見商店街 |
 | Kazegaura                                | Кадзегаура                                    | 風ヶ浦 |

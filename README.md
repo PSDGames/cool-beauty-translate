@@ -70,7 +70,7 @@
 | Windy                                    | Ветра                                         | ウィンディ |
 | Windy Kazegaura                          | Ветра Кадзегауры                              | ウィンディ風ヶ浦 |
 | Witch's Mansion                          | ведьмин особняк                               | 魔女の館 |
-| Soaring Club                             | Парящий Клуб |
+| Soaring Club                             | Парящий клуб                                  | ソアリング部 |
 | **Прочие** | | |
 | -chan                                    | -тян                                          | ちゃん |
 | boarding students                        |                                               | 寮生 |

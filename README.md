@@ -75,6 +75,10 @@
 | Windy Kazegaura                          | Ветра Кадзегауры                              | ウィンディ風ヶ浦 |
 | Witch's Mansion                          | ведьмин особняк                               | 魔女の館 |
 | Soaring Club                             | Парящий клуб                                  | ソアリング部 |
+| **Блюда и ингредиенты** | | |
+| | соус сёгаяки | 生姜焼き |
+| Ginger pork | | 豚の生姜焼き |
+| Neapolitan pasta | | ナポリタン |
 | **Прочие** | | |
 | -chan                                    | -тян                                          | ちゃん |
 | boarding students                        |                                               | 寮生 |

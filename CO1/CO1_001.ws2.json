@@ -288,9 +288,7 @@
         "state": 3
     },
     "0010": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I still didn't have much experience in life at\\nthat time and it was something beyond my\\nimagination.",
@@ -1717,7 +1715,7 @@
     },
     "005f": {
         "comments": [
-            "Оо вут? Переделать как то? Как будто стрела в колено попала. Самолётик его достиг."
+            "Типа метафора."
         ],
         "data": {
             "en": {
@@ -3162,9 +3160,7 @@
         "state": 3
     },
     "00af": {
-        "comments": [
-            "Лол. Краснеет))"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'...(Blushing)'",
@@ -3175,11 +3171,11 @@
                 "name": "少女"
             },
             "ru": {
-                "line": "«...(Краснь)»",
+                "line": "«...(краснеет)»",
                 "name": "Девушка"
             }
         },
-        "state": 3
+        "state": 1
     },
     "00b0": {
         "comments": [],
@@ -3868,9 +3864,7 @@
         "state": 3
     },
     "00d6": {
-        "comments": [
-            "Мб \"вернулся домой\"?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'So, you've come back to your hometown...'",
@@ -4824,9 +4818,7 @@
         "state": 2
     },
     "010b": {
-        "comments": [
-            "\"За то что спас меня\""
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Thank you... Because of you, I was saved.'",
@@ -4837,11 +4829,11 @@
                 "name": "少女"
             },
             "ru": {
-                "line": "«Спасибо... Благодаря тебе, я была спасена...».",
+                "line": "«Спасибо... Если бы не ты, я бы там пропала...».",
                 "name": "Девушка"
             }
         },
-        "state": 2
+        "state": 1
     },
     "010c": {
         "comments": [],
@@ -5705,11 +5697,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Частное студенческое общежитие академии Кеифу.",
+                "line": "Частное студенческое общежитие Академии Кеифу.",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "013c": {
         "comments": [
@@ -5913,8 +5905,7 @@
     },
     "0147": {
         "comments": [
-            "«door-to-door sales» — продажи вразнос.",
-            "вут? Так не говорят. Читатель тоже не поймет. Надо переделать. \"Мы ничего не будем покупать\" или как то так."
+            "«door-to-door sales» — продажи вразнос."
         ],
         "data": {
             "en": {
@@ -5926,11 +5917,11 @@
                 "name": "下着のお姉さん"
             },
             "ru": {
-                "line": "«Нас не интересуют продажи вразнос».",
+                "line": "«Мы не собираемся что-либо покупать».",
                 "name": "Девушка в нижнем белье"
             }
         },
-        "state": 3
+        "state": 1
     },
     "0148": {
         "comments": [],
@@ -6689,9 +6680,7 @@
         "state": 2
     },
     "0172": {
-        "comments": [
-            ">_<"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "While I was explaining the situation, the\\nboarding students, apart from the girl in her\\nunderwear (who was putting on some clothes)\\nsurrounded me but kept their distance, and\\nwatched me.",
@@ -8067,9 +8056,7 @@
         "state": 3
     },
     "01be": {
-        "comments": [
-            "ЛОЛ. В официальных предложениях может и лучше \"маломобильная \", но в разговорах так никто не говорит =\\"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'I was saying there's a disabled girl, so take\\ngood care of her.'",
@@ -8080,11 +8067,11 @@
                 "name": "母"
             },
             "ru": {
-                "line": "«Я только что сказала, что среди них есть\\nмаломобильная девушка. Пожалуйста,\\nпозаботься о ней».",
+                "line": "«Я только что сказала, что среди них есть\\nдевушка прикованная к инвалидному креслу.\\nПожалуйста, позаботься о ней».",
                 "name": "Мама"
             }
         },
-        "state": 2
+        "state": 1
     },
     "01bf": {
         "comments": [],
@@ -9356,9 +9343,7 @@
         "state": 3
     },
     "0205": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "From tomorrow onwards, it looks like things will\\nstart getting interesting. I really felt that\\nprediction would come true.",

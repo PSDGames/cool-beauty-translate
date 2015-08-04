@@ -36,11 +36,7 @@
         "state": 3
     },
     "0002": {
-        "comments": [
-            "Проверить пунктуацию.",
-            "Вкладывать все силы в каждый мускул? Так не говорят по русски. Может \"напрягать до предела каждый мускул\" или что то подобное.",
-            "И я бы переделал структуру предложения. Сначала \"взбираясь на холм\", потом \"ты вынужден\" и всё остальное."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "While putting strain on every muscle in your\\nbody, you have to continue pedaling without any\\nbreaks to climb a steep hill.",
@@ -51,16 +47,14 @@
                 "name": ""
             },
             "ru": {
-                "line": "Вкладывая все силы в каждый мускул своего\\nтела, ты вынужден безостановочно крутить\\nпедали, взбираясь на холм.",
+                "line": "Взбираясь на холм, ты вынужден безостановочно\\nкрутить педали, до предела напрягая каждый\\nмускул своего тела.",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "0003": {
-        "comments": [
-            "Не нравится мне слово \"причитаю\". Как часто ты его в современном мире говоришь?) Но может я просто придираюсь..."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "At that time, I always think",
@@ -71,11 +65,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "В такие моменты я всегда причитаю:",
+                "line": "В такие моменты я всегда думаю:",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "0004": {
         "comments": [],
@@ -114,9 +108,7 @@
         "state": 3
     },
     "0006": {
-        "comments": [
-            "Придирка: суровые тренировки плохо звучит. Может лучше \"тяжелые\"."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I've endured severe training so that I don't put\\nmy feet down halfway through the hill climb.",
@@ -127,16 +119,14 @@
                 "name": ""
             },
             "ru": {
-                "line": "Я прошёл через суровые тренировки, поэтому\\nпросто не могу бросить всё на полпути.",
+                "line": "Я прошёл через тяжёлые тренировки, поэтому\\nпросто не могу бросить всё на полпути.",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "0007": {
-        "comments": [
-            "Придирка: Тут вроде разговор с читателем? Типа он спрашивает нас, а не себя. Зачем я это делаю?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Why do I do that?",
@@ -147,17 +137,14 @@
                 "name": ""
             },
             "ru": {
-                "line": "Ради чего я это делаю?",
+                "line": "Зачем я это делаю?",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "0008": {
-        "comments": [
-            "Придирка: Моя принцесса ждёт меня. Тоже не нравится. Можно выкинуть слово \"моя\". Опираясь на прошлый коммент можно выкинуть \"потому что\".",
-            "My reward с большой буквы почему то. Может есть в этом смысл? Нужно писать \"Награда\"? Надо уточнить в 6й главе."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Because once I finish the hill climb, My reward\\nis waiting for me.",
@@ -168,11 +155,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Потому что на вершине холма меня ждёт\\nмоя награда.",
+                "line": "На вершине холма мои труды будут вознаграждены.",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "0009": {
         "comments": [],
@@ -229,9 +216,7 @@
         "state": 3
     },
     "000c": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "The pain of the hill climb, the strain on every\\nmuscle in my body, and the days of hard practice.",
@@ -249,9 +234,7 @@
         "state": 3
     },
     "000d": {
-        "comments": [
-            "Придирка: не нравится \"Одержу победу\" может лучше \"выиграю\"?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "It's not a matter of whether I win or lose the\\nrace.",
@@ -262,16 +245,14 @@
                 "name": ""
             },
             "ru": {
-                "line": "Не имеет значения одержу я победу или проиграю\\nгонку.",
+                "line": "Не имеет значения выиграю я или проиграю\\nгонку.",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "000e": {
-        "comments": [
-            "Придирка: Согласованность страдает. Может я не прав."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I just enjoy it, and that's why I continue to\\nride.",
@@ -282,11 +263,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Сейчас я просто получаю от этого удовольствие,\\nэто то, что придаёт мне сил.",
+                "line": "Сейчас я просто получаю от этого удовольствие,\\nи это то, что придаёт мне сил.",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "000f": {
         "comments": [],
@@ -399,9 +380,7 @@
         "state": 3
     },
     "0015": {
-        "comments": [
-            "Придирка: Вроде нельзя сказать \"свой жизненный урок\"."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I learned a lesson in life.",
@@ -412,11 +391,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Я получил свой жизненный урок.",
+                "line": "Я усвоил этот жизненный урок.",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "0016": {
         "comments": [],
@@ -437,9 +416,7 @@
         "state": 3
     },
     "0017": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I let myself get depressed about this, but I\\nshould've thought about it a little more.",
@@ -511,10 +488,7 @@
         "state": 3
     },
     "001b": {
-        "comments": [
-            "«было бы разумным это назвать»",
-            "Норм."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "It would not be unreasonable to call it an\\n'encounter'.",
@@ -569,8 +543,7 @@
     },
     "001e": {
         "comments": [
-            "«wind turbine» — ветрогенератор.",
-            "Вариант: Ветер вращал ветряк."
+            "«wind turbine» — ветрогенератор."
         ],
         "data": {
             "en": {
@@ -733,9 +706,7 @@
         "state": 3
     },
     "0027": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "The cell phone in my pocket vibrated to tell me I\\nhad received a text.",
@@ -789,9 +760,7 @@
         "state": 3
     },
     "002a": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "My name is written using a Chinese character read\\nas 'Aoi'.",
@@ -1333,9 +1302,7 @@
         "state": 3
     },
     "0048": {
-        "comments": [
-            "Все уже поняли, что он бумажный, можно не упоминать в каждом предложении."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I chased after the paper airplane and ran up the\\nslope.",
@@ -1346,11 +1313,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Я погнался за бумажным самолётиком вверх\\nпо склону.",
+                "line": "Я погнался за самолётиком вверх по склону.",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "0049": {
         "comments": [],
@@ -1677,9 +1644,7 @@
         "state": 2
     },
     "005b": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "She looks like she's about to cry...",
@@ -1771,10 +1736,7 @@
         "state": 3
     },
     "0060": {
-        "comments": [
-            "Проверить пунктуацию.",
-            "\"крупные слезинки\" плохо-плохо. Слёзы тогда уж."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "As I watched, great big tears came rolling down\\nher cheeks.",
@@ -1785,11 +1747,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Я видел, как крупные слезинки\\nскатывались по её щекам.",
+                "line": "Я видел, как слезы капля за каплей\\nскатывались по её щекам.",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "0061": {
         "comments": [],
@@ -2154,9 +2116,7 @@
         "state": 3
     },
     "0075": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Hat, as it was called, calmed down at her\\ncommand.",
@@ -2192,9 +2152,7 @@
         "state": 3
     },
     "0077": {
-        "comments": [
-            "Как он так быстро пол распознал?) Поэтому у меня и бомбит от селезня. Может в n-главе он девочкой окажется."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Umm... Is it a duck??'",
@@ -2554,9 +2512,7 @@
         "state": 2
     },
     "008b": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Just a mere flat tire, for her is like having her\\nlegs taken away.",
@@ -2718,10 +2674,7 @@
         "state": 3
     },
     "0094": {
-        "comments": [
-            "Проверить пунктуацию.",
-            "Придирка: почувствовала облегчение плохо. Заплакала от радости/облегчения."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "So when someone arrived carrying the paper\\nairplane, she felt relieved and started to cry?",
@@ -2732,11 +2685,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Значит, в тот момент, когда я пришёл сюда,\\nдержа бумажный самолётик в руке, она\\nпочувствовала облегчение и заплакала?",
+                "line": "Значит, в тот момент, когда я пришёл сюда,\\nдержа бумажный самолётик в руке, она\\nзаплакала от облегчения?",
                 "name": ""
             }
         },
-        "state": 2
+        "state": 1
     },
     "0095": {
         "comments": [],
@@ -2991,9 +2944,7 @@
         "state": 3
     },
     "00a3": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "From the methods I'd seen on TV, the care workers\\ndo it by embracing them from the front.",
@@ -3029,9 +2980,7 @@
         "state": 2
     },
     "00a5": {
-        "comments": [
-            "Я справлюсь сама"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'I... I think I'll do it myself.'",
@@ -3042,11 +2991,11 @@
                 "name": "少女"
             },
             "ru": {
-                "line": "«Д... Думаю, я сделаю это самостоятельно».",
+                "line": "«Д... Думаю, я справлюсь сама».",
                 "name": "Девушка"
             }
         },
-        "state": 3
+        "state": 1
     },
     "00a6": {
         "comments": [],
@@ -3195,9 +3144,7 @@
         "state": 3
     },
     "00ae": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Before she could grasp the situation, I put her\\ndown on the soft grass.",
@@ -3361,9 +3308,7 @@
         "state": 3
     },
     "00b7": {
-        "comments": [
-            "Соседи"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'No, he isn't. We're housemates.'",
@@ -3374,11 +3319,11 @@
                 "name": "少女"
             },
             "ru": {
-                "line": "«Нет. Мы с ним сожители».",
+                "line": "«Нет. Он мой сосед».",
                 "name": "Девушка"
             }
         },
-        "state": 3
+        "state": 1
     },
     "00b8": {
         "comments": [],
@@ -3392,11 +3337,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Сожители...??",
+                "line": "Сосед...??",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "00b9": {
         "comments": [],
@@ -3417,10 +3362,7 @@
         "state": 2
     },
     "00ba": {
-        "comments": [
-            "Опустил часть про «get left behind».",
-            "Ты потеряешься?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Hat, don't go too far. You'll get left behind.'",
@@ -3431,11 +3373,11 @@
                 "name": "少女"
             },
             "ru": {
-                "line": "«Хат, не отходи далеко».",
+                "line": "«Хат, не отходи далеко. Ты потеряешься».",
                 "name": "Девушка"
             }
         },
-        "state": 2
+        "state": 1
     },
     "00bb": {
         "comments": [],
@@ -3890,9 +3832,7 @@
         "state": 2
     },
     "00d4": {
-        "comments": [
-            "Придирка: Не похоже на вопросительное предложение."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Oh really...?'",
@@ -3903,11 +3843,11 @@
                 "name": "少女"
             },
             "ru": {
-                "line": "«Вот как...?»",
+                "line": "«Вот как...»",
                 "name": "Девушка"
             }
         },
-        "state": 3
+        "state": 1
     },
     "00d5": {
         "comments": [],
@@ -4128,9 +4068,7 @@
         "state": 3
     },
     "00e1": {
-        "comments": [
-            "Придирка: \"перемещалось\" плохое слово."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "There was something floating in the air.",
@@ -4141,11 +4079,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "По небу действительно что-то перемещалось.",
+                "line": "В небе действительно что-то было.",
                 "name": ""
             }
         },
-        "state": 3
+        "state": 1
     },
     "00e2": {
         "comments": [],
@@ -4454,9 +4392,7 @@
         "state": 2
     },
     "00f3": {
-        "comments": [
-            "«лететь по ветру»?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'To fly on the wind like that...'",
@@ -4467,11 +4403,11 @@
                 "name": "少女"
             },
             "ru": {
-                "line": "«Так свободно лететь по небу...»",
+                "line": "«Так свободно лететь по ветру...»",
                 "name": "Девушка"
             }
         },
-        "state": 2
+        "state": 1
     },
     "00f4": {
         "comments": [],
@@ -4870,9 +4806,7 @@
         "state": 2
     },
     "010a": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "For a girl with a walking disability, just\\nbecause she was shown a little kindness, she\\ncan't just bring some guy she hardly knows back\\nto her house.",
@@ -5127,8 +5061,7 @@
     },
     "0118": {
         "comments": [
-            "Не силён в эпитетах. Совсем.",
-            "Очепятка"
+            "Не силён в эпитетах. Совсем."
         ],
         "data": {
             "en": {
@@ -5140,11 +5073,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Эй так шла её улыбка.",
+                "line": "Ей так шла её улыбка.",
                 "name": ""
             }
         },
-        "state": 2
+        "state": 1
     },
     "0119": {
         "comments": [],
@@ -5471,9 +5404,7 @@
         "state": 2
     },
     "012b": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Floating so freely like that, they reminded me of\\nthe glider.",
@@ -5891,9 +5822,7 @@
         "state": 3
     },
     "0142": {
-        "comments": [
-            "В нижнем белья же. неглиже вроде голая значит))"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Suddenly a girl in her underwear appeared before\\nme, and the expression that I had tried so hard\\nto straighten out crumbled instantly.",
@@ -6274,9 +6203,7 @@
         "state": 3
     },
     "0157": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I quickly pressed the button to answer the call\\nwhile swiftly escaping outside.",
@@ -6348,9 +6275,7 @@
         "state": 2
     },
     "015b": {
-        "comments": [
-            ">_<"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "And I saw one in her underwear!",
@@ -6820,9 +6745,7 @@
         "state": 2
     },
     "0175": {
-        "comments": [
-            ">_<"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "From behind the underwear girl (she was wearing\\nclothes now but they were pretty gaudy) were some\\ngirls who looked like they were hiding but they\\nwere nodding and agreeing.",
@@ -6833,11 +6756,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Другие девушки, стоящие позади неглиже-сан\\n(хоть она и была одета, но всё равно смотрелась\\nвызывающе) будто прячась за ней, закивали,\\nсоглашаясь с ней.",
+                "line": "Другие девушки, стоящие позади неглиже-сан\\n(хоть она и была одета, но всё равно выглядела\\nвызывающе) будто прячась за ней, закивали,\\nсоглашаясь с ней.",
                 "name": ""
             }
         },
-        "state": 2
+        "state": 1
     },
     "0176": {
         "comments": [],
@@ -6930,9 +6853,7 @@
         "state": 2
     },
     "017b": {
-        "comments": [
-            "stare скорее \"глазеть\", \"пялиться\" или \"уставиться\". "
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'(stare...)'",
@@ -6943,11 +6864,11 @@
                 "name": "下着のお姉さん"
             },
             "ru": {
-                "line": "«(взгляд...)»",
+                "line": "«(зырк...)»",
                 "name": "Девушка в нижнем белье"
             }
         },
-        "state": 3
+        "state": 1
     },
     "017c": {
         "comments": [],
@@ -7058,9 +6979,7 @@
         "state": 2
     },
     "0182": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'The person who came to speak to all of you is my\\nmother, and, well, she kind of half-tricked me\\ninto accepting this job as dorm mother...'",
@@ -7788,9 +7707,7 @@
         "state": 3
     },
     "01aa": {
-        "comments": [
-            "Проверить пунктуацию."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "The big white thing... which somehow seemed like\\na duck, was flapping its wings and flew behind\\nme.",
@@ -8280,9 +8197,7 @@
         "state": 3
     },
     "01c5": {
-        "comments": [
-            "who was supposed to - должна была"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Kanako, who was supposed to be taking a bath,\\npoked her head out.",
@@ -8293,11 +8208,11 @@
                 "name": ""
             },
             "ru": {
-                "line": "Канако, которая предположительно принимает\\nванну, высунула голову наружу.",
+                "line": "Канако, которая должна была принимать\\nванну, высунула голову наружу.",
                 "name": ""
             }
         },
-        "state": 2
+        "state": 1
     },
     "01c6": {
         "comments": [],
@@ -8588,9 +8503,7 @@
         "state": 3
     },
     "01d6": {
-        "comments": [
-            "\"этого\" не надо"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Yes, that's right. So you... are against it?'",
@@ -8601,11 +8514,11 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«Да, это правда. Ты... против этого?»",
+                "line": "«Да, это правда. Ты... против?»",
                 "name": "Аои"
             }
         },
-        "state": 3
+        "state": 1
     },
     "01d7": {
         "comments": [],
@@ -8716,9 +8629,7 @@
         "state": 3
     },
     "01dd": {
-        "comments": [
-            "\"Как можно больше\" плохо звучит. Это вроде фразеологизм, означающий \"всё/*полностью\" и его не стоит дословно переводить."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'As much as possible... That's right, if I had to\\nsay...'",
@@ -8729,11 +8640,11 @@
                 "name": "小鳥"
             },
             "ru": {
-                "line": "«Как можно больше... Хорошо, я скажу прямо...»",
+                "line": "«Желательно всё... Хорошо, я скажу прямо...»",
                 "name": "Котори"
             }
         },
-        "state": 3
+        "state": 1
     },
     "01de": {
         "comments": [],
@@ -8970,9 +8881,7 @@
         "state": 3
     },
     "01eb": {
-        "comments": [
-            "Меня заставил \"хнык\" написать)"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Sniff...'",

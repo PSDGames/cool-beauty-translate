@@ -86,7 +86,7 @@
 | dorm mother                              | горничная                                     | 寮母 |
 | girl                                     | девушка                                       | 少女 |
 | glider                                   | планёр                                        | グライダー |
-| Miss Allule                              | красно-сан                                    | びゅーちーさん |
+| Miss Allule                              | Красно-сан                                    | びゅーちーさん |
 | owner-caretaker                          |                                               | オーナー兼管理人さん |
 | owner-janitor                            | см. owner-caretaker                           | オーナー兼管理人さん |
 | windmill                                 | ветряк                                        | 風車 |

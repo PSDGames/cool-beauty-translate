@@ -18,9 +18,7 @@
         "state": 3
     },
     "0001": {
-        "comments": [
-            "Может лучше «для девушек»? Там же нет мужиков"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "That is, to make breakfast for the boarders.",
@@ -38,9 +36,7 @@
         "state": 3
     },
     "0002": {
-        "comments": [
-            "Ням-ням (и вообще всякие «кря-кря», «ха-ха» писать через дефис)"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Munch, munch... That's some good eatin'!'",
@@ -87,7 +83,7 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«Конечно. В большую тарелку, так?»",
+                "line": "«Нужно. В большую тарелку, так?»",
                 "name": "Аои"
             }
         },
@@ -256,9 +252,7 @@
         "state": 3
     },
     "000e": {
-        "comments": [
-            "«посмотрела в сторону». Звучит так будто Канако встала из-за стола, чтобы выглянуть"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Kanako looked towards the hallway, just as the\\noldest boarder Yuka was peeking in before swiftly\\ndashing off.",
@@ -276,9 +270,7 @@
         "state": 3
     },
     "000f": {
-        "comments": [
-            "Тут «идиоты» как-то чересчур."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Geez, they're all so naive. They still haven't\\ngotten used to boys.'",
@@ -296,9 +288,7 @@
         "state": 3
     },
     "0010": {
-        "comments": [
-            "Кеифу"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'But Keifuu is a coed school, right?'",
@@ -316,9 +306,7 @@
         "state": 3
     },
     "0011": {
-        "comments": [
-            "«bed-head» мне кажется в смысле «непричёсанными» (голова после кровати)"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Even if you go to the same school, you won't see\\nthem with their bed-head and faces without\\nmakeup.'",
@@ -354,9 +342,7 @@
         "state": 3
     },
     "0013": {
-        "comments": [
-            "Тут он говорит, что «есть свои сложности/нюансы», «нелегко» не то слово"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "It seems that a guy being the dorm mother of a\\ngirl's dormitory will have its problems after\\nall.",
@@ -374,9 +360,7 @@
         "state": 3
     },
     "0014": {
-        "comments": [
-            "поместье «Летучая рыба»"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "There is a reason why I accepted the job as dorm\\nmother at 'Flying Fish Manor'.",
@@ -412,9 +396,7 @@
         "state": 3
     },
     "0016": {
-        "comments": [
-            "«summer cold» это летняя простуда (вроде даже такое понятие есть). Спину она не застужала"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "It sounds like she was pretty old and in addition\\nto straining her back, she caught a summer cold,\\nwhich worsened.",
@@ -504,9 +486,7 @@
         "state": 3
     },
     "001b": {
-        "comments": [
-            "Я не вижу, чтобы у его матери были обязанности горничной, просто ответственная за общежитие в целом"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "On the documents, my mom is the one responsible\\nfor this place but she got me to carry out the\\npractical duties, in other words, the work of the\\ndorm mother.",
@@ -650,9 +630,7 @@
         "state": 3
     },
     "0023": {
-        "comments": [
-            "Тарелки/посуду"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Kanako stacked up the dishes on the counter and\\nlicked her lips in satisfaction.",
@@ -994,10 +972,7 @@
         "state": 3
     },
     "0036": {
-        "comments": [
-            "Кеифу",
-            "«академия» с маленькой буквы"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I'm a dorm mother but also a student of Keifuu\\nAcademy. I mean, this is my real occupation.",
@@ -1069,9 +1044,7 @@
         "state": 3
     },
     "003a": {
-        "comments": [
-            "Кеифу. Используй длинное тире «—» (alt+0151)."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Keifuu Academy, the school I'll be going to now,\\nis a coed engineering school and the school\\ntraditions are quite different too.",
@@ -1161,9 +1134,7 @@
         "state": 3
     },
     "003f": {
-        "comments": [
-            "красно-сан"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "There'll be more weird misunderstandings with\\nMiss 'Allule' too.",
@@ -1217,9 +1188,7 @@
         "state": 3
     },
     "0042": {
-        "comments": [
-            "Ма-бо и Ан-тян"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "There's Ageha, Ma-bou, Hotaru and An-chan.",
@@ -1237,9 +1206,7 @@
         "state": 3
     },
     "0043": {
-        "comments": [
-            "Ма-бо"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Out of that group, Ageha and Ma-bou are the same\\nage as me but...",
@@ -1311,9 +1278,7 @@
         "state": 3
     },
     "0047": {
-        "comments": [
-            "Ан-тян"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "A lot of things happened, or maybe I'm just lazy,\\nbut I haven't told anyone apart from An-chan that\\nI'm coming back.",
@@ -1349,9 +1314,7 @@
         "state": 3
     },
     "0049": {
-        "comments": [
-            "Внутри используем лапки „“ (ctrl+alt+shift+q в редакторе)"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'With people like Ageha, she'd probably smash my\\nface in! She'd say 'Why didn't you contact\\nme...!!' or something.'",
@@ -1423,9 +1386,7 @@
         "state": 3
     },
     "004d": {
-        "comments": [
-            "Кеифу"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "At the intersection leading to school, there was\\na girl wearing a Keifuu uniform standing there,\\nlooking towards me.",
@@ -1677,9 +1638,7 @@
         "state": 3
     },
     "005b": {
-        "comments": [
-            " :3"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Do I know any girls this cute?",
@@ -1751,9 +1710,7 @@
         "state": 3
     },
     "005f": {
-        "comments": [
-            "Лицо же, типа: «забыл как я выгляжу?» или «ты не узнаешь меня?»"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Yeah, of course, it's me, Ageha! Did you forget\\nmy face?'",
@@ -1897,9 +1854,7 @@
         "state": 3
     },
     "0067": {
-        "comments": [
-            "Саттин"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'This is Aoi Minase. He's a transfer student. You\\nremember him, don't you Sacchin?'",
@@ -1917,9 +1872,7 @@
         "state": 3
     },
     "0068": {
-        "comments": [
-            "Саттин"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Sacchin replied 'No way, Aoi?' as she warmly\\nraised her voice in surprise.",
@@ -2605,9 +2558,7 @@
         "state": 3
     },
     "008e": {
-        "comments": [
-            "Нет-нет"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'No, that's not it! I just... thought that they\\nlooked really grown up, that's all.'",
@@ -2625,9 +2576,7 @@
         "state": 3
     },
     "008f": {
-        "comments": [
-            "Семпаи?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'They're seniors from the fourth and fifth years,\\naren't they?'",
@@ -2717,9 +2666,7 @@
         "state": 3
     },
     "0094": {
-        "comments": [
-            "Лучше «реконструкции»"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'At the time that the school was rebuilt, they\\nmade an effort to accept more girls.'",
@@ -2971,9 +2918,7 @@
         "state": 3
     },
     "00a2": {
-        "comments": [
-            "Первокурсников, доступность для маломобильных групп населения"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'The facilities are first-class too. Air\\nconditioning, full disabled access, so anyone can\\nfeel peace of mind as they spend their school\\ndays here.'",
@@ -2991,9 +2936,7 @@
         "state": 3
     },
     "00a3": {
-        "comments": [
-            "Доступность для маломобильных групп населения"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Disabled access...?'",
@@ -3011,9 +2954,7 @@
         "state": 3
     },
     "00a4": {
-        "comments": [
-            "красно-сан"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "That's right, Miss 'Allule', I mean Kotori,\\nshould be somewhere in this school.",
@@ -3049,9 +2990,7 @@
         "state": 3
     },
     "00a6": {
-        "comments": [
-            "Нууу, не факт что в глаза, они же рядом идут"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Ageha, as she walked by my side, was happily\\nmurmuring as she looked at my face.",
@@ -3123,9 +3062,7 @@
         "state": 3
     },
     "00aa": {
-        "comments": [
-            "«she'd never let it go» скорее припоминала бы ему, что он назвал её миленькой (в таком ключе)"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "If she knew that when we met on the way to school\\nearlier, I thought 'She's pretty cute', she'd\\nnever let it go, so I'd better keep quiet.",
@@ -3143,9 +3080,7 @@
         "state": 3
     },
     "00ab": {
-        "comments": [
-            "Ан-тян, «не могла бы себе вообразить/представить»"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'If I hadn't heard it from An-chan, I never\\nwould've realized.'",
@@ -3163,9 +3098,7 @@
         "state": 3
     },
     "00ac": {
-        "comments": [
-            "Ан-тян"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'You heard it from An-chan?'",
@@ -3273,9 +3206,7 @@
         "state": 3
     },
     "00b2": {
-        "comments": [
-            "Ан-тян"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "The reason why we call him 'An-chan' isn't\\nbecause he's my older brother.",
@@ -3293,9 +3224,7 @@
         "state": 3
     },
     "00b3": {
-        "comments": [
-            "Ан-тян"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "He was our childhood friend but he was much older\\nthan us so we nicknamed him 'An-chan'.",
@@ -3313,9 +3242,7 @@
         "state": 3
     },
     "00b4": {
-        "comments": [
-            "старший брат"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "He's not related by blood but he's just like a\\nreal big brother.",
@@ -3351,9 +3278,7 @@
         "state": 3
     },
     "00b6": {
-        "comments": [
-            "Агеха называет приём из реслинга, возможно есть русскоязычный аналог? http://www.youtube.com/watch?v=xXOC6XqeK0A"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'The old me would've made you taste the Axe\\nBomber Lariat!'",
@@ -3461,9 +3386,7 @@
         "state": 3
     },
     "00bc": {
-        "comments": [
-            "красно-сан"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Miss Allule... No, I mean, she's called Kotori\\nHabane.'",
@@ -3474,7 +3397,7 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«Красно-сан...То есть я хотел сказать Котори Хабане».",
+                "line": "«Красно-сан... То есть я хотел сказать Котори Хабане».",
                 "name": "Аои"
             }
         },
@@ -3607,9 +3530,7 @@
         "state": 3
     },
     "00c4": {
-        "comments": [
-            "«Вот только сегодня тоже её нет» не звучит «снова/опять»?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "After Ageha said that, someone added 'You mean\\n'today either', don't you?",
@@ -3735,9 +3656,7 @@
         "state": 3
     },
     "00cb": {
-        "comments": [
-            "Мельничный холм"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Yesterday, she had went out to Windmill Hill, and\\nthen later she was chasing that duck around the\\nhalls of the dormitory.",
@@ -3845,9 +3764,7 @@
         "state": 3
     },
     "00d1": {
-        "comments": [
-            "Ямамото"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Hey, Yamamoto! Can you lend me your English\\ndictionary?'",
@@ -3919,9 +3836,7 @@
         "state": 3
     },
     "00d5": {
-        "comments": [
-            "Ма-бо"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Hey, Ma-bou!'",
@@ -3957,9 +3872,7 @@
         "state": 3
     },
     "00d7": {
-        "comments": [
-            "Ма-бо"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "The guy known as Ma-bou came into the classroom.",
@@ -4085,9 +3998,7 @@
         "state": 3
     },
     "00de": {
-        "comments": [
-            "Ма-бо"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Long time, no see, Ma-bou.'",
@@ -4249,9 +4160,7 @@
         "state": 3
     },
     "00e7": {
-        "comments": [
-            "Масацугу Тадзаки, Ма-бо"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "This slightly superficial guy is Masatsugu\\nTasaki, or Ma-bou as we call him.",
@@ -4341,9 +4250,7 @@
         "state": 3
     },
     "00ec": {
-        "comments": [
-            "Ма-бо"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'You seem well, Ma-bou. You've grown pretty big.'",
@@ -4361,9 +4268,7 @@
         "state": 3
     },
     "00ed": {
-        "comments": [
-            "Масацугу"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Masatsugu used to be really small but now he was\\nabout the same size as me.",
@@ -4471,9 +4376,7 @@
         "state": 3
     },
     "00f3": {
-        "comments": [
-            "Ма-бо"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Yeah, I'm back, Ma-bou.'",
@@ -4635,9 +4538,7 @@
         "state": 3
     },
     "00fc": {
-        "comments": [
-            "Ма-бо"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Ma-bou suddenly backed off and thrust his finger\\nat the end of my nose.",
@@ -4709,9 +4610,7 @@
         "state": 3
     },
     "0100": {
-        "comments": [
-            "Точка"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'No, no, no. You can't involve me in this!'",
@@ -4837,9 +4736,7 @@
         "state": 3
     },
     "0107": {
-        "comments": [
-            "Ма-бо"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "With saliva flying out of his mouth as he\\nemphasized his words, Ma-bou forgot all about\\nborrowing the English dictionary and he stormed\\nout of the classroom.",
@@ -5055,9 +4952,7 @@
         "state": 3
     },
     "0113": {
-        "comments": [
-            "Пусть будет «звонок на урок» или калька «звонок сигнализирующий об окончании большой перемены»"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "While we carried on talking, the bell to mark the\\nend of lunchtime sounded.",
@@ -5093,9 +4988,7 @@
         "state": 3
     },
     "0115": {
-        "comments": [
-            "Криво, но я понимаю почему... Может обыграть «Агеха собиралась вернуться на своё место...» и следующая фраза «...но на полпути...»"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Ageha went back to her seat.",
@@ -5203,9 +5096,7 @@
         "state": 3
     },
     "011b": {
-        "comments": [
-            "шёпот"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I lowered my voice so that those around us\\ncouldn't hear.",
@@ -5385,9 +5276,7 @@
         "state": 3
     },
     "0125": {
-        "comments": [
-            "не нравится (вроде бы настоящее время)"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "It looked as if she was saying 'I can't believe\\nshe doesn't enjoy school!'.",
@@ -5531,9 +5420,7 @@
         "state": 3
     },
     "012d": {
-        "comments": [
-            "в одиночестве?"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I was alone and was wandering around the school\\nbuilding.",
@@ -5569,9 +5456,7 @@
         "state": 3
     },
     "012f": {
-        "comments": [
-            "«театральный» не надо с заглавной"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Film Studies, Theater Club... there's even an\\nR.C. Club.'",
@@ -5841,9 +5726,7 @@
         "state": 3
     },
     "013e": {
-        "comments": [
-            "Минасе"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Hey, Minase! It's you, Minase, isn't it?'",
@@ -6979,9 +6862,7 @@
         "state": 3
     },
     "017d": {
-        "comments": [
-            "Ха-ха-ха"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Ha ha ha... There we go!'",
@@ -7125,9 +7006,7 @@
         "state": 3
     },
     "0185": {
-        "comments": [
-            "П..."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'H...Hi.'",
@@ -7757,9 +7636,7 @@
         "state": 3
     },
     "01a8": {
-        "comments": [
-            "ха-ха"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'The sugar is going to my brain... haha!'",
@@ -8137,9 +8014,7 @@
         "state": 3
     },
     "01bd": {
-        "comments": [
-            "PERFECT"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Huh? Why!? That defeats the purpose of having a\\ncell phone!'",
@@ -8265,9 +8140,7 @@
         "state": 3
     },
     "01c4": {
-        "comments": [
-            "Кадзегауры"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Five years ago, when I left Kazegaura, I was\\nstill just a kid, so I didn't have a cell phone.",
@@ -8285,9 +8158,7 @@
         "state": 3
     },
     "01c5": {
-        "comments": [
-            "Ан-тян"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'I got it from An-chan earlier. He gave me your\\ntext address too, so I can bombard you with\\ntexts!'",
@@ -9061,9 +8932,7 @@
         "state": 3
     },
     "01f0": {
-        "comments": [
-            "Хе-хе"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Hehehe! That's right!'",
@@ -9189,9 +9058,7 @@
         "state": 3
     },
     "01f7": {
-        "comments": [
-            "Ха-ха"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Haha... See you again tomorrow, old buddy!'",
@@ -9299,9 +9166,7 @@
         "state": 3
     },
     "01fd": {
-        "comments": [
-            "http://ru.urbandictionary.com/define.php?term=dufus"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'...Ouch... you dufus...'",
@@ -9535,9 +9400,7 @@
         "state": 3
     },
     "020a": {
-        "comments": [
-            "красно-сан"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "The automatic doors opened and the one with the\\nself-proclaimed 'cool allure' left the shop.",
@@ -10131,9 +9994,7 @@
         "state": 3
     },
     "022b": {
-        "comments": [
-            "иен"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "It's the big tub that costs 2500 yen.",
@@ -10349,9 +10210,7 @@
         "state": 3
     },
     "0237": {
-        "comments": [
-            "PERFECT"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Yum yum... Yummy yummy...'",
@@ -10369,9 +10228,7 @@
         "state": 3
     },
     "0238": {
-        "comments": [
-            "иен"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Even if it was only a 105 yen ice cream, you'd\\nsavor the flavor more than that.",
@@ -10389,9 +10246,7 @@
         "state": 3
     },
     "0239": {
-        "comments": [
-            "Ням-ням"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Yum yum, it's so yummy...!'",
@@ -10535,9 +10390,7 @@
         "state": 3
     },
     "0241": {
-        "comments": [
-            "Кря-кря"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Quack Quack!'",
@@ -10627,9 +10480,7 @@
         "state": 3
     },
     "0246": {
-        "comments": [
-            "Ха-ха"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Hahaha... Mission complete!'",
@@ -10640,7 +10491,7 @@
                 "name": "小鳥"
             },
             "ru": {
-                "line": "«Ха-ха...Миссия выполнена!»",
+                "line": "«Ха-ха... Миссия выполнена!»",
                 "name": "Котори"
             }
         },
@@ -10791,9 +10642,7 @@
         "state": 3
     },
     "024f": {
-        "comments": [
-            ""
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "*Go and see Windmill Hill.",
@@ -11207,9 +11056,7 @@
         "state": 3
     },
     "0266": {
-        "comments": [
-            "—"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'I'm the dorm mother, you know. I have to make\\nsure the boarding students have the right kind of\\nlifestyle.'",
@@ -11409,9 +11256,7 @@
         "state": 3
     },
     "0271": {
-        "comments": [
-            ""
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Did you go back to the Windmill Hill?'",
@@ -11845,9 +11690,7 @@
         "state": 3
     },
     "0289": {
-        "comments": [
-            "Думаю, это был «Хнык» =)"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Sniff...'",
@@ -11955,9 +11798,7 @@
         "state": 3
     },
     "028f": {
-        "comments": [
-            "Кря-кря"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Quack, quack!'",
@@ -12137,10 +11978,7 @@
         "state": 3
     },
     "0299": {
-        "comments": [
-            "Зачем выбросил «вокруг моего рта»? =)",
-            "Всё лицо? оО Извращенец"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'I'm going to wash my face. It's all sticky\\naround my mouth from where I've been eating ice\\ncream... sniff...'",
@@ -12356,9 +12194,7 @@
         "state": 3
     },
     "02a5": {
-        "comments": [
-            "Мельничный холм"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "However, she was wearing her own clothes\\nyesterday when she went to Windmill Hill.",
@@ -12376,9 +12212,7 @@
         "state": 3
     },
     "02a6": {
-        "comments": [
-            "«собиралась пойти» (прошлое время)"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Could it be that she was actually planning on\\ngoing to school?'",
@@ -12468,9 +12302,7 @@
         "state": 3
     },
     "02ab": {
-        "comments": [
-            "об уходе"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "It was a notice for withdrawal from school.",
@@ -12524,9 +12356,7 @@
         "state": 3
     },
     "02ae": {
-        "comments": [
-            "«никто не доел свой ужин»"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Why...? Why did everyone leave so much uneaten?'",
@@ -12544,9 +12374,7 @@
         "state": 3
     },
     "02af": {
-        "comments": [
-            "Странный ответ. Канако как бы говорит «Ужин же был таким вкусным»"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'It was really tasty though!'",
@@ -12870,9 +12698,7 @@
         "state": 3
     },
     "02c1": {
-        "comments": [
-            "У меня назвала «сожителем», надо обсудить."
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "Kotori also called him a 'housemate'.",
@@ -12890,9 +12716,7 @@
         "state": 3
     },
     "02c2": {
-        "comments": [
-            "Кря-кря"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Quack quack!'",
@@ -13054,9 +12878,7 @@
         "state": 3
     },
     "02cb": {
-        "comments": [
-            "insult  — оскарблять же"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'...Why does everyone have to insult me just\\nbefore they leave?'",
@@ -13067,16 +12889,14 @@
                 "name": "碧"
             },
             "ru": {
-                "line": "«...Почему все так смотрят на меня, прежде чем уйти?»",
+                "line": "«...Почему все стараются обидеть меня, прежде чем уйти?»",
                 "name": "Аои"
             }
         },
         "state": 3
     },
     "02cc": {
-        "comments": [
-            "обиженным"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I felt a little hurt as I cleaned the dishes.",
@@ -13240,9 +13060,7 @@
         "state": 3
     },
     "02d5": {
-        "comments": [
-            "Кря-кря"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "'Quack quack!'",
@@ -13458,9 +13276,7 @@
         "state": 3
     },
     "02e1": {
-        "comments": [
-            "couldn't help — вроде такая конструкция применяется в значении «не мог ничего поделать с тем...»"
-        ],
+        "comments": [],
         "data": {
             "en": {
                 "line": "I couldn't help lying to her.",

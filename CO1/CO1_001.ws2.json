@@ -3890,7 +3890,9 @@
         "state": 2
     },
     "00d4": {
-        "comments": [],
+        "comments": [
+            "Придирка: Не похоже на вопросительное предложение."
+        ],
         "data": {
             "en": {
                 "line": "'Oh really...?'",
@@ -3926,7 +3928,9 @@
         "state": 3
     },
     "00d6": {
-        "comments": [],
+        "comments": [
+            "Мб \"вернулся домой\"?"
+        ],
         "data": {
             "en": {
                 "line": "'So, you've come back to your hometown...'",
@@ -4124,7 +4128,9 @@
         "state": 3
     },
     "00e1": {
-        "comments": [],
+        "comments": [
+            "Придирка: \"перемещалось\" плохое слово."
+        ],
         "data": {
             "en": {
                 "line": "There was something floating in the air.",
@@ -4884,7 +4890,9 @@
         "state": 2
     },
     "010b": {
-        "comments": [],
+        "comments": [
+            "\"За то что спас меня\""
+        ],
         "data": {
             "en": {
                 "line": "'Thank you... Because of you, I was saved.'",
@@ -5119,7 +5127,8 @@
     },
     "0118": {
         "comments": [
-            "Не силён в эпитетах. Совсем."
+            "Не силён в эпитетах. Совсем.",
+            "Очепятка"
         ],
         "data": {
             "en": {
@@ -5772,7 +5781,9 @@
         "state": 3
     },
     "013c": {
-        "comments": [],
+        "comments": [
+            "Успокоится."
+        ],
         "data": {
             "en": {
                 "line": "'...I can't just stand here in shock.\\nWhew...Haaaah...OK.'",
@@ -5880,7 +5891,9 @@
         "state": 3
     },
     "0142": {
-        "comments": [],
+        "comments": [
+            "В нижнем белья же. неглиже вроде голая значит))"
+        ],
         "data": {
             "en": {
                 "line": "Suddenly a girl in her underwear appeared before\\nme, and the expression that I had tried so hard\\nto straighten out crumbled instantly.",
@@ -5971,7 +5984,8 @@
     },
     "0147": {
         "comments": [
-            "«door-to-door sales» — продажи вразнос."
+            "«door-to-door sales» — продажи вразнос.",
+            "вут? Так не говорят. Читатель тоже не поймет. Надо переделать. \"Мы ничего не будем покупать\" или как то так."
         ],
         "data": {
             "en": {
@@ -6334,7 +6348,9 @@
         "state": 2
     },
     "015b": {
-        "comments": [],
+        "comments": [
+            ">_<"
+        ],
         "data": {
             "en": {
                 "line": "And I saw one in her underwear!",
@@ -6748,7 +6764,9 @@
         "state": 2
     },
     "0172": {
-        "comments": [],
+        "comments": [
+            ">_<"
+        ],
         "data": {
             "en": {
                 "line": "While I was explaining the situation, the\\nboarding students, apart from the girl in her\\nunderwear (who was putting on some clothes)\\nsurrounded me but kept their distance, and\\nwatched me.",
@@ -6802,7 +6820,9 @@
         "state": 2
     },
     "0175": {
-        "comments": [],
+        "comments": [
+            ">_<"
+        ],
         "data": {
             "en": {
                 "line": "From behind the underwear girl (she was wearing\\nclothes now but they were pretty gaudy) were some\\ngirls who looked like they were hiding but they\\nwere nodding and agreeing.",
@@ -6910,7 +6930,9 @@
         "state": 2
     },
     "017b": {
-        "comments": [],
+        "comments": [
+            "stare скорее \"глазеть\", \"пялиться\" или \"уставиться\". "
+        ],
         "data": {
             "en": {
                 "line": "'(stare...)'",
@@ -7350,7 +7372,9 @@
         "state": 3
     },
     "0193": {
-        "comments": [],
+        "comments": [
+            "Плохо. На русском так не говорят. Малообщительна, редко выходит, не любит людей. Надо как то переделать."
+        ],
         "data": {
             "en": {
                 "line": "'Ah, well there is one more person but she's what\\nyou might call the reclusive type...'",
@@ -8126,7 +8150,9 @@
         "state": 3
     },
     "01be": {
-        "comments": [],
+        "comments": [
+            "ЛОЛ. В официальных предложениях может и лучше \"маломобильная \", но в разговорах так никто не говорит =\\"
+        ],
         "data": {
             "en": {
                 "line": "'I was saying there's a disabled girl, so take\\ngood care of her.'",
@@ -8254,7 +8280,9 @@
         "state": 3
     },
     "01c5": {
-        "comments": [],
+        "comments": [
+            "who was supposed to - должна была"
+        ],
         "data": {
             "en": {
                 "line": "Kanako, who was supposed to be taking a bath,\\npoked her head out.",
@@ -8560,7 +8588,9 @@
         "state": 3
     },
     "01d6": {
-        "comments": [],
+        "comments": [
+            "\"этого\" не надо"
+        ],
         "data": {
             "en": {
                 "line": "'Yes, that's right. So you... are against it?'",
@@ -8686,7 +8716,9 @@
         "state": 3
     },
     "01dd": {
-        "comments": [],
+        "comments": [
+            "\"Как можно больше\" плохо звучит. Это вроде фразеологизм, означающий \"всё/*полностью\" и его не стоит дословно переводить."
+        ],
         "data": {
             "en": {
                 "line": "'As much as possible... That's right, if I had to\\nsay...'",
@@ -8938,7 +8970,9 @@
         "state": 3
     },
     "01eb": {
-        "comments": [],
+        "comments": [
+            "Меня заставил \"хнык\" написать)"
+        ],
         "data": {
             "en": {
                 "line": "'Sniff...'",
@@ -9303,7 +9337,8 @@
     },
     "01ff": {
         "comments": [
-            "Не понял фразу. Отсебятина."
+            "Не понял фразу. Отсебятина.",
+            "О_О"
         ],
         "data": {
             "en": {

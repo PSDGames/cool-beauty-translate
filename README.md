@@ -86,8 +86,9 @@
 | dorm mother                              | горничная                                 | 寮母 |
 | girl                                     | девушка                                   | 少女 |
 | glider                                   | планёр                                    | グライダー |
+| lunchbox                                 | бенто                                     | 弁当 |
 | Miss Allule                              | Красно-сан                                | びゅーちーさん |
-| owner-caretaker                          |                                           | オーナー兼管理人さん |
+| owner-caretaker                          | хозяйка (хозяйка общежития)               | オーナー兼管理人さん |
 | owner-janitor                            | см. owner-caretaker                       | オーナー兼管理人さん |
 | windmill                                 | ветряк                                    | 風車 |
 | withdrawal notice                        | заявление об уходе                        | |

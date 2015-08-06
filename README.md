@@ -70,18 +70,19 @@
 | Keifuu                                   | Кеифу                                     | 恵風（けいふう） |
 | Keifuu Academy                           | Академия Кеифу                            | 恵風学園 |
 | Keifuu Private Academy Student Dormitory | частное школьное общежитие академии Кеифу | 私立恵風学園の学生寮 |
+| Soaring Club                             | Парящий клуб                              | ソアリング部 |
+| Super Repeat Student                     | *?*                                       | 超留年生 |
 | Windmill Hill                            | Мельничный холм                           | 風車の丘 |
 | Windy                                    | Ветра                                     | ウィンディ |
 | Windy Kazegaura                          | Ветра Кадзегауры                          | ウィンディ風ヶ浦 |
 | Witch's Mansion                          | ведьмин особняк                           | 魔女の館 |
-| Soaring Club                             | Парящий клуб                              | ソアリング部 |
 | **Блюда и ингредиенты** | | |
 |                                          | соус сёгаяки                              | 生姜焼き |
 | ginger pork                              | сёгаяки                                   | 豚の生姜焼き |
 | Neapolitan pasta                         | напоритан                                 | ナポリタン |
 | **Прочие** | | |
 | -chan                                    | -тян                                      | ちゃん |
-| boarding students                        |                                           | 寮生 |
+| boarding students                        | *?*                                       | 寮生 |
 | cool 'allule'                            | холодная крас**н**ота                     | くーるびゅーちー |
 | dorm mother                              | горничная                                 | 寮母 |
 | girl                                     | девушка                                   | 少女 |

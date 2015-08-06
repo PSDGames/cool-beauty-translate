@@ -40,24 +40,24 @@
 | На английском | Вероятный перевод | На японском |
 | ------------- | ----------------- | ----------- |
 | **Основные персонажи** | | |
-| Aoi Minase                               | Аои Минасе                                | 水瀬 碧（みなせ あおい） |
-| Kotori Habane                            | Котори Хабане                             | 羽々音 小鳥（はばね ことり） |
-| Ageha Himegi                             | Агеха Химеги                              | 姫城 あげは（ひめぎ あげは） |
-| Amane Mochizuki                          | Амане Мотидзуки                           | 望月 天音（もちづき あまね） |
-| Asa Kazato                               | Аса Кадзато                               | 風戸 亜紗（かざと あさ） |
-| Yoru Kazato                              | Ёру Кадзато                               | 風戸 依瑠（かざと よる） |
+| Aoi Minase                                               | Аои Минасе                                | 水瀬 碧（みなせ あおい） |
+| [Kotori Habane](http://puu.sh/jrxc2/71c686a12f.png)      | Котори Хабане                             | 羽々音 小鳥（はばね ことり） |
+| [Ageha Himegi](http://puu.sh/jrxc7/e6d6305735.png)       | Агеха Химеги                              | 姫城 あげは（ひめぎ あげは） |
+| [Amane Mochizuki](http://puu.sh/jrxch/0b22c98835.png)    | Амане Мотидзуки                           | 望月 天音（もちづき あまね） |
+| [Asa Kazato](http://puu.sh/jrxct/4b62c18cfd.png)         | Аса Кадзато                               | 風戸 亜紗（かざと あさ） |
+| [Yoru Kazato](http://puu.sh/jrxcx/e60a68cc78.png)        | Ёру Кадзато                               | 風戸 依瑠（かざと よる） |
 | **Сожители** | | |
-| Kanako Shigure                           | Канако Сигуре                             | 時雨 佳奈子（しぐれ かなこ） |
-| Ryouko                                   | Рёко                                      | 亮子（りょうこ） |
-| Sanae                                    | Санае                                     | 早苗（さなえ） |
-| Yuka                                     | Юка                                       | 由佳（ゆか） |
+| [Kanako Shigure](http://puu.sh/jrxcJ/de61ffe585.png)     | Канако Сигуре                             | 時雨 佳奈子（しぐれ かなこ） |
+| [Ryouko](http://puu.sh/jrxd8/45a44ba5fe.png)             | Рёко                                      | 亮子（りょうこ） |
+| [Sanae](http://puu.sh/jrxd4/a9e2338e4d.png)              | Санае                                     | 早苗（さなえ） |
+| [Yuka](http://puu.sh/jrxde/d7c12046dd.png)               | Юка                                       | 由佳（ゆか） |
 | **Второстепенные персонажи** | | |
-| Hat                                      | Хат                                       | ハット |
-| Hotaru Himegi                            | Хотару Химеги                             | 姫城 ほたる（ひめぎ ほたる） |
-| Masatsugu Tasaki                         | Масацугу Тасаки (он же Ма-бо)             | 田崎 柾次（たさき まさつぐ） |
-| Ma-bou                                   | Ма-бо                                     | マー坊 |
-| Tatsuya Igarasashi                       | Тацуя Игараси (он же Ан-тян)              | 五十嵐 達也（いがらし たつや） |
-| An-chan                                  | Ан-тян                                    | あんちゃん |
+| [Hat](http://puu.sh/jrxdh/81e278893f.png)                | Хат                                       | ハット |
+| [Hotaru Himegi](http://puu.sh/jrxcF/39bed8c19b.png)      | Хотару Химеги                             | 姫城 ほたる（ひめぎ ほたる） |
+| [Masatsugu Tasaki](http://puu.sh/jrxcX/0dfbb06ea0.png)   | Масацугу Тасаки (он же Ма-бо)             | 田崎 柾次（たさき まさつぐ） |
+| Ma-bou                                                   | Ма-бо                                     | マー坊 |
+| [Tatsuya Igarasashi](http://puu.sh/jrxcS/c2110205ee.png) | Тацуя Игараси (он же Ан-тян)              | 五十嵐 達也（いがらし たつや） |
+| An-chan                                                  | Ан-тян                                    | あんちゃん |
 | **Третьестепенные персонажи** | | |
 | Eri-chan                                 | Эри-тян                                   | えりちゃん |
 | Sacchin                                  | Саттин                                    | さっちん |

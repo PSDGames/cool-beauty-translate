@@ -81,10 +81,12 @@
 |                                                          | соус сёгаяки                              | 生姜焼き |
 | ginger pork                                              | сёгаяки                                   | 豚の生姜焼き |
 | Neapolitan pasta                                         | напоритан                                 | ナポリタン |
+| tomato sauce                                             | томатный соус                             | トマトソース |
 | **Прочие**                                               |                                           | |
 | -chan                                                    | -тян                                      | ちゃん |
 | boarding students                                        | **?**                                     | 寮生 |
 | cool 'allule'                                            | холодная крас**н**ота                     | くーるびゅーちー |
+| disabled access                                          | **?**                                     | バリアフリー |
 | dorm mother                                              | горничная                                 | 寮母 |
 | girl                                                     | девушка                                   | 少女 |
 | glider                                                   | планёр                                    | グライダー |

@@ -73,6 +73,7 @@
 | Keifuu Private Academy Student Dormitory                 | частное школьное общежитие академии Кеифу | 私立恵風学園の学生寮 |
 | Soaring Club                                             | Парящий клуб                              | ソアリング部 |
 | Super Repeat Student                                     | **?**                                     | 超留年生 |
+| Taiyouken                                                | Таиёкен                                   | 太陽軒 |
 | Windmill Hill                                            | Мельничный холм                           | 風車の丘 |
 | Windy                                                    | Ветра                                     | ウィンディ |
 | Windy Kazegaura                                          | Ветра Кадзегауры                          | ウィンディ風ヶ浦 |
@@ -81,6 +82,7 @@
 |                                                          | соус сёгаяки                              | 生姜焼き |
 | ginger pork                                              | сёгаяки                                   | 豚の生姜焼き |
 | Neapolitan pasta                                         | напоритан                                 | ナポリタン |
+| pork ramen                                               | **?**                                     | とんこつラーメン |
 | tomato sauce                                             | томатный соус                             | トマトソース |
 | **Прочие**                                               |                                           | |
 | -chan                                                    | -тян                                      | ちゃん |

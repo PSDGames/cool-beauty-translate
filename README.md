@@ -82,14 +82,14 @@
 |                                                          | соус сёгаяки                              | 生姜焼き |
 | ginger pork                                              | сёгаяки                                   | 豚の生姜焼き |
 | Neapolitan pasta                                         | напоритан                                 | ナポリタン |
-| pork ramen                                               | свинной рамен                             | とんこつラーメン |
+| pork ramen                                               | **?**                                     | とんこつラーメン |
 | tomato sauce                                             | томатный соус                             | トマトソース |
 | **Терминология**                                         |                                           | |
 | fighter planes                                           | **?**                                     | 戦闘機 |
 | Jumbo jet                                                | **?**                                     | ジャンボジェット |
 | small Cessna                                             | **?**                                     | 小型セスナ |
 | body                                                     | фюзеляж                                   | 胴体 |
-| horizontal tailplane                                     | горизонтальное оперение                   | 水平尾翼 |
+| horizontal tailplane                                     | стабилизатор                              | 水平尾翼 |
 | vertical tailplane                                       | киль                                      | 垂直尾翼 |
 | lift                                                     | подъёмная сила                            | 揚力 |
 | Bernoulli's theorem                                      | закон Бернулли                            | ベルヌイの定理 |

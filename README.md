@@ -1,6 +1,8 @@
 ## cool-beauty-translate
-В репозитории находятся json-файлы, извлечённые из игры. 
-## Format
+В репозитории находятся json-файлы с репликами персонажей.
+Папки **CO1** и **CO2** содержат основные сюжетные ветки. В остальных ветки для конкретных персонажей.
+
+## Формат
 ```json
 {
     "XXXX": {
@@ -26,41 +28,92 @@
     }
 }
 ```
-## Translation
-Переводим текст из **data.en.line**, сверяемся с **data.jp.line** и добавляем в **data.ru.line**. Делать в отдельных ветках и проводить что-то типа review перед мержем.  
-Для удобства перевода можно использовать [тулзу](http://mongolrgata.github.io/mongolrgata-junkbox/trans-ws2json-v2/) (десктопная версия в разработке)  
-(предыдущая версия для редактирования файлов в старом формате [тут](http://mongolrgata.github.io/mongolrgata-junkbox/trans-ws2json/))
+
+## Перевод
+Переводим текст из **data.en.line**, сверяемся с **data.jp.line** и добавляем в **data.ru.line**. Делать в отдельных ветках и проводить что-то типа review перед мержем.
+Для удобства перевода можно использовать это [веб-приложение](http://mongolrgata.github.io/mongolrgata-junkbox/trans-ws2json-v2/).
+
 ## Deploy
-Иногда будем делать сборки (really?). Можно выложить сюда .arc файлы и проверять играбельность.
-## Repository
-Папки **CO1** и **CO2** содержат основные сюжетные ветки. В остальных ветки для конкретных персонажей.
-## Knowing Issues
-| Оригинал | Вероятный перевод | Описание |
-| -------- | ----------------- | -------- |
-| **Имена героев** | | |
-| Aoi Minase | Аои Минасе | главный герой |
-| Kotori Habane | Котори Хабане | |
-| Ageha Himegi | Агеха Химеги | |
-| Amane Mochizuki | Амане Мочизуки | |
-| Asa Kazato | Аса Кадзато | |
-| Yoru Kazato | Ёру Кадзато | |
-| Sacchin | Саччин | Рандомная тян, ненужный персонаж |
-| Kanako Shigure | Канако Сигуре | легко-одетая девушка |
-| Hat | Хат | селезень |
-| **Имена собственные** | | |
-| Flying Fish Manor | поместье Летучей Рыбы | название женского общежития |
-| Witch's Mansion | особняк ведьмы | |
-| Windmill Hill | Холм Ветряков | |
-| Soaring Club | Парящий Клуб |  |
-| Keifuu | Кейфу | 軽風 «лёгкий ветер» |
-| Kazegaura | Казегаура | 風ヶ浦 Город |
-| Kazami Shopping Street | Торговый Квартал Казами | Старый рынок |
-| **Прочие** | | |
-| cool 'allule' | холодная краснота | в оригинале cool beauty |
-| Miss Allule | мисс Краснота | красно-сан? |
-| dorm mother | горничная (temp) | экономка/сестра-хозяйка/комендантша(sic!) |
-| girl | девушка | по отношению к героиням |
-| owner-janitor | **???** | мы верим в Tzapil'а |
-| windmill | ветряк | |
-| glider | планёр | |
-| -chan | -чан | |
+По завершению перевода первых 10 глав (до опенинга), будет выложен патч (будет применим к английской версии игры от MoeNovel).
+
+## Соглашения по переводу
+| На английском                                            | Вероятный перевод                         | На японском |
+| -------------------------------------------------------- | ----------------------------------------- | ----------- |
+| **Основные персонажи**                                   |                                           | |
+| Aoi Minase                                               | Аои Минасе                                | 水瀬 碧（みなせ あおい） |
+| [Kotori Habane](http://puu.sh/jrxc2/71c686a12f.png)      | Котори Хабане                             | 羽々音 小鳥（はばね ことり） |
+| [Ageha Himegi](http://puu.sh/jrxc7/e6d6305735.png)       | Агеха Химеги                              | 姫城 あげは（ひめぎ あげは） |
+| [Amane Mochizuki](http://puu.sh/jrxch/0b22c98835.png)    | Амане Мотидзуки                           | 望月 天音（もちづき あまね） |
+| [Asa Kazato](http://puu.sh/jrxct/4b62c18cfd.png)         | Аса Кадзато                               | 風戸 亜紗（かざと あさ） |
+| [Yoru Kazato](http://puu.sh/jrxcx/e60a68cc78.png)        | Ёру Кадзато                               | 風戸 依瑠（かざと よる） |
+| **Сожители**                                             |                                           | |
+| [Kanako Shigure](http://puu.sh/jrxcJ/de61ffe585.png)     | Канако Сигуре                             | 時雨 佳奈子（しぐれ かなこ） |
+| [Ryouko](http://puu.sh/jrxd8/45a44ba5fe.png)             | Рёко                                      | 亮子（りょうこ） |
+| [Sanae](http://puu.sh/jrxd4/a9e2338e4d.png)              | Санае                                     | 早苗（さなえ） |
+| [Yuka](http://puu.sh/jrxde/d7c12046dd.png)               | Юка                                       | 由佳（ゆか） |
+| **Второстепенные персонажи**                             |                                           | |
+| [Hat](http://puu.sh/jrxdh/81e278893f.png)                | Хат                                       | ハット |
+| [Hotaru Himegi](http://puu.sh/jrxcF/39bed8c19b.png)      | Хотару Химеги                             | 姫城 ほたる（ひめぎ ほたる） |
+| [Masatsugu Tasaki](http://puu.sh/jrxcX/0dfbb06ea0.png)   | Масацугу Тасаки (он же Ма-бо)             | 田崎 柾次（たさき まさつぐ） |
+| Ma-bou                                                   | Ма-бо                                     | マー坊 |
+| [Tatsuya Igarasashi](http://puu.sh/jrxcS/c2110205ee.png) | Тацуя Игараси (он же Ан-тян)              | 五十嵐 達也（いがらし たつや） |
+| An-chan                                                  | Ан-тян                                    | あんちゃん |
+| **Третьестепенные персонажи**                            |                                           | |
+| Eri-chan                                                 | Эри-тян                                   | えりちゃん |
+| Sacchin                                                  | Саттин                                    | さっちん |
+| Taguchi                                                  | Такути                                    | 田口 |
+| Yamamoto                                                 | Ямамото                                   | 山本 |
+| **Имена собственные**                                    |                                           | |
+| Flying Fish Manor                                        | поместье «Летучая рыба»                   | トビウオ荘 |
+| Hargen Darch                                             | Haagen-Dazs                               | ハーゲンダッチ |
+| Kazami Shopping Street                                   | торговый квартал Кадзами                  | 風見商店街 |
+| Kazegaura                                                | Кадзегаура                                | 風ヶ浦 |
+| Keifuu                                                   | Кеифу                                     | 恵風（けいふう） |
+| Keifuu Academy                                           | Академия Кеифу                            | 恵風学園 |
+| Keifuu Private Academy Student Dormitory                 | частное школьное общежитие академии Кеифу | 私立恵風学園の学生寮 |
+| Soaring Club                                             | Парящий клуб                              | ソアリング部 |
+| Super Repeat Student                                     | **?**                                     | 超留年生 |
+| Taiyouken                                                | Таиёкен                                   | 太陽軒 |
+| Windmill Hill                                            | Мельничный холм                           | 風車の丘 |
+| Windy                                                    | Ветра                                     | ウィンディ |
+| Windy Kazegaura                                          | Ветра Кадзегауры                          | ウィンディ風ヶ浦 |
+| Witch's Mansion                                          | ведьмин особняк                           | 魔女の館 |
+| **Блюда и ингредиенты**                                  |                                           | |
+|                                                          | соус сёгаяки                              | 生姜焼き |
+| Basque-style chicken stew                                | курица по-баскски                         | 鶏肉のバスク風煮込み |
+| Cookies and Cream                                        | **?**                                     | クッキー＆クリ―ム |
+| curry                                                    | карри                                     | カレー |
+| fried rice                                               | жаренный рис                              | チャーハン |
+| ginger pork                                              | сёгаяки                                   | 豚の生姜焼き или 豚のショウガ焼き |
+| green pepper                                             | **?**                                     | ピーマン |
+| ground meat                                              | фарш                                      | 挽肉 |
+| Neapolitan pasta                                         | напоритан                                 | ナポリタン |
+| pork ramen                                               | **?**                                     | とんこつラーメン |
+| tomato sauce                                             | томатный соус                             | トマトソース |
+| yakisoba                                                 | якисоба                                   | 焼きそば |
+| **Терминология**                                         |                                           | |
+| fighter planes                                           | **?**                                     | 戦闘機 |
+| Jumbo jet                                                | **?**                                     | ジャンボジェット |
+| small Cessna                                             | **?**                                     | 小型セスナ |
+| body                                                     | фюзеляж                                   | 胴体 |
+| tailplanes                                               | хвостовое оперение                        | 尾翼 |
+| horizontal tailplane                                     | стабилизатор                              | 水平尾翼 |
+| vertical tailplane                                       | киль                                      | 垂直尾翼 |
+| lift                                                     | подъёмная сила                            | 揚力 |
+| Bernoulli's theorem                                      | закон Бернулли                            | ベルヌイの定理 |
+| **Прочие**                                               |                                           | |
+| -chan                                                    | -тян                                      | ちゃん |
+| -senpai                                                  | -семпай                                   | 先輩 |
+| boarding students                                        | **?**                                     | 寮生 |
+| cool 'allule'                                            | холодная крас**н**ота                     | くーるびゅーちー |
+| disabled access                                          | **?**                                     | バリアフリー |
+| dorm mother                                              | горничная                                 | 寮母 |
+| girl                                                     | девушка                                   | 少女 |
+| glider                                                   | планёр                                    | グライダー |
+| lunchbox                                                 | бенто                                     | 弁当 |
+| Miss Allule                                              | Красно-сан                                | びゅーちーさん |
+| owner-caretaker                                          | хозяйка (хозяйка общежития)               | オーナー兼管理人さん |
+| owner-janitor                                            | см. owner-caretaker                       | オーナー兼管理人さん |
+| windmill                                                 | ветряк                                    | 風車 |
+| withdrawal notice                                        | заявление об уходе                        | |
+| yen                                                      | иена                                      | |

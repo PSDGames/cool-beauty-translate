@@ -80,10 +80,17 @@
 | Witch's Mansion                                          | ведьмин особняк                           | 魔女の館 |
 | **Блюда и ингредиенты**                                  |                                           | |
 |                                                          | соус сёгаяки                              | 生姜焼き |
-| ginger pork                                              | сёгаяки                                   | 豚の生姜焼き |
+| Basque-style chicken stew                                | курица по-баскски                         | 鶏肉のバスク風煮込み |
+| Cookies and Cream                                        | **?**                                     | クッキー＆クリ―ム |
+| curry                                                    | карри                                     | カレー |
+| fried rice                                               | жаренный рис                              | チャーハン |
+| ginger pork                                              | сёгаяки                                   | 豚の生姜焼き или 豚のショウガ焼き |
+| green pepper                                             | **?**                                     | ピーマン |
+| ground meat                                              | фарш                                      | 挽肉 |
 | Neapolitan pasta                                         | напоритан                                 | ナポリタン |
 | pork ramen                                               | **?**                                     | とんこつラーメン |
 | tomato sauce                                             | томатный соус                             | トマトソース |
+| yakisoba                                                 | якисоба                                   | 焼きそば |
 | **Терминология**                                         |                                           | |
 | fighter planes                                           | **?**                                     | 戦闘機 |
 | Jumbo jet                                                | **?**                                     | ジャンボジェット |
@@ -96,6 +103,7 @@
 | Bernoulli's theorem                                      | закон Бернулли                            | ベルヌイの定理 |
 | **Прочие**                                               |                                           | |
 | -chan                                                    | -тян                                      | ちゃん |
+| -senpai                                                  | -семпай                                   | 先輩 |
 | boarding students                                        | **?**                                     | 寮生 |
 | cool 'allule'                                            | холодная крас**н**ота                     | くーるびゅーちー |
 | disabled access                                          | **?**                                     | バリアフリー |

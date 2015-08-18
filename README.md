@@ -85,10 +85,10 @@
 | curry                                                    | карри                                     | カレー |
 | fried rice                                               | жаренный рис                              | チャーハン |
 | ginger pork                                              | сёгаяки                                   | 豚の生姜焼き или 豚のショウガ焼き |
-| green pepper                                             | **?**                                     | ピーマン |
+| green pepper                                             | зелёный перец                             | ピーマン |
 | ground meat                                              | фарш                                      | 挽肉 |
 | Neapolitan pasta                                         | напоритан                                 | ナポリタン |
-| pork ramen                                               | **?**                                     | とんこつラーメン |
+| pork ramen                                               | свиной рамен                              | とんこつラーメン |
 | tomato sauce                                             | томатный соус                             | トマトソース |
 | yakisoba                                                 | якисоба                                   | 焼きそば |
 | **Терминология**                                         |                                           | |

@@ -119,6 +119,8 @@
 | Miss Allule                                              | Красно-сан                                | びゅーちーさん |
 | owner-caretaker                                          | хозяйка (хозяйка общежития)               | オーナー兼管理人さん |
 | owner-janitor                                            | см. owner-caretaker                       | オーナー兼管理人さん |
+| shopping mall                                            | торговый центр                            | ショッピングモール |
+| supermarket                                              | супермаркет                               | スーパー |
 | windmill                                                 | ветряк                                    | 風車 |
 | withdrawal notice                                        | заявление об уходе                        | |
-| yen                                                      | иена                                      | |
+| yen                                                      | иена                                      | 円 |

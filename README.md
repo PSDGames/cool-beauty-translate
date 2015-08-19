@@ -82,14 +82,19 @@
 |                                                          | соус сёгаяки                              | 生姜焼き |
 | Basque-style chicken stew                                | курица по-баскски                         | 鶏肉のバスク風煮込み |
 | Cookies and Cream                                        | **?**                                     | クッキー＆クリ―ム |
+| cured ham                                                | ветчина                                   | 生ハム |
 | curry                                                    | карри                                     | カレー |
 | fried rice                                               | жаренный рис                              | チャーハン |
 | ginger pork                                              | сёгаяки                                   | 豚の生姜焼き или 豚のショウガ焼き |
 | green pepper                                             | зелёный перец                             | ピーマン |
 | ground meat                                              | фарш                                      | 挽肉 |
 | Neapolitan pasta                                         | напоритан                                 | ナポリタン |
+| onion                                                    | лук                                       | タマネギ |
+| paprika powder                                           | паприка                                   | パプリカパウダー |
 | pork ramen                                               | свиной рамен                              | とんこつラーメン |
+| red peppers                                              | красный перец                             | パプリカ |
 | tomato sauce                                             | томатный соус                             | トマトソース |
+| whole tomatoes                                           | маринованные томаты                       | ホールトマト |
 | yakisoba                                                 | якисоба                                   | 焼きそば |
 | **Терминология**                                         |                                           | |
 | fighter planes                                           | **?**                                     | 戦闘機 |

@@ -84,6 +84,7 @@
 | Cookies and Cream                                        | **?**                                     | クッキー＆クリ―ム |
 | cured ham                                                | ветчина                                   | 生ハム |
 | curry                                                    | карри                                     | カレー |
+| beef curry                                               | мясное карри                              | ビーフカレー |
 | fried rice                                               | жаренный рис                              | チャーハン |
 | ginger pork                                              | сёгаяки                                   | 豚の生姜焼き или 豚のショウガ焼き |
 | green pepper                                             | зелёный перец                             | ピーマン |

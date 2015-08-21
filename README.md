@@ -126,5 +126,5 @@
 | shopping mall                                            | торговый центр                            | ショッピングモール |
 | supermarket                                              | супермаркет                               | スーパー |
 | windmill                                                 | ветряк                                    | 風車 |
-| withdrawal notice                                        | заявление об уходе                        | |
+| withdrawal notice                                        | заявление об уходе                        | 退学届け |
 | yen                                                      | иена                                      | 円 |

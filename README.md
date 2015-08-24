@@ -80,10 +80,26 @@
 | Witch's Mansion                                          | ведьмин особняк                           | 魔女の館 |
 | **Блюда и ингредиенты**                                  |                                           | |
 |                                                          | соус сёгаяки                              | 生姜焼き |
-| ginger pork                                              | сёгаяки                                   | 豚の生姜焼き |
+| Basque-style chicken stew                                | курица по-баскски                         | 鶏肉のバスク風煮込み |
+| Cookies and Cream                                        | ванильное с кусочками печенья             | クッキー＆クリ―ム |
+| cured ham                                                | ветчина                                   | 生ハム |
+| curry                                                    | карри                                     | カレー |
+| beef curry                                               | карри с мясом                             | ビーフカレー |
+| seafood curry                                            | карри с рыбой                             | シーフードカレー |
+| fried rice                                               | жаренный рис                              | チャーハン |
+| ginger pork                                              | сёгаяки                                   | 豚の生姜焼き или 豚のショウガ焼き |
+| green pepper                                             | зелёный перец                             | ピーマン |
+| ground meat                                              | фарш                                      | 挽肉 |
 | Neapolitan pasta                                         | напоритан                                 | ナポリタン |
-| pork ramen                                               | **?**                                     | とんこつラーメン |
+| onion                                                    | лук                                       | タマネギ |
+| paprika powder                                           | паприка                                   | パプリカパウダー |
+| pork ramen                                               | свиной рамен                              | とんこつラーメン |
+| potato chips                                             | чипсы (картофельные чипсы)                | ポテチ |
+| red peppers                                              | красный перец                             | パプリカ |
+| sukiyaki                                                 | сукияки                                   | すき焼き |
 | tomato sauce                                             | томатный соус                             | トマトソース |
+| whole tomatoes                                           | маринованные томаты                       | ホールトマト |
+| yakisoba                                                 | якисоба                                   | 焼きそば |
 | **Терминология**                                         |                                           | |
 | fighter planes                                           | **?**                                     | 戦闘機 |
 | Jumbo jet                                                | **?**                                     | ジャンボジェット |
@@ -96,6 +112,7 @@
 | Bernoulli's theorem                                      | закон Бернулли                            | ベルヌイの定理 |
 | **Прочие**                                               |                                           | |
 | -chan                                                    | -тян                                      | ちゃん |
+| -senpai                                                  | -семпай                                   | 先輩 |
 | boarding students                                        | **?**                                     | 寮生 |
 | cool 'allule'                                            | холодная крас**н**ота                     | くーるびゅーちー |
 | disabled access                                          | **?**                                     | バリアフリー |
@@ -106,6 +123,8 @@
 | Miss Allule                                              | Красно-сан                                | びゅーちーさん |
 | owner-caretaker                                          | хозяйка (хозяйка общежития)               | オーナー兼管理人さん |
 | owner-janitor                                            | см. owner-caretaker                       | オーナー兼管理人さん |
+| shopping mall                                            | торговый центр                            | ショッピングモール |
+| supermarket                                              | супермаркет                               | スーパー |
 | windmill                                                 | ветряк                                    | 風車 |
-| withdrawal notice                                        | заявление об уходе                        | |
-| yen                                                      | иена                                      | |
+| withdrawal notice                                        | заявление об уходе                        | 退学届け |
+| yen                                                      | иена                                      | 円 |

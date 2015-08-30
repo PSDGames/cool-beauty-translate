@@ -71,6 +71,7 @@
 | Keifuu                                                   | Кеифу                                     | 恵風（けいふう） |
 | Keifuu Academy                                           | Академия Кеифу                            | 恵風学園 |
 | Keifuu Private Academy Student Dormitory                 | частное школьное общежитие академии Кеифу | 私立恵風学園の学生寮 |
+| Seisen Girls High School                                 | Старшая школа для девушек Сейсен          | 清泉（せいせん） |
 | Soaring Club                                             | Парящий клуб                              | ソアリング部 |
 | Super Repeat Student                                     | **?**                                     | 超留年生 |
 | Taiyouken                                                | Таиёкен                                   | 太陽軒 |
@@ -114,6 +115,7 @@
 | -chan                                                    | -тян                                      | ちゃん |
 | -senpai                                                  | -семпай                                   | 先輩 |
 | boarding students                                        | **?**                                     | 寮生 |
+| convenience store                                        | круглосуточный магазин                    | コンビニ |
 | cool 'allule'                                            | холодная крас**н**ота                     | くーるびゅーちー |
 | disabled access                                          | **?**                                     | バリアフリー |
 | dorm mother                                              | горничная                                 | 寮母 |

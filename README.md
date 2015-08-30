@@ -115,6 +115,7 @@
 | -chan                                                    | -тян                                      | ちゃん |
 | -senpai                                                  | -семпай                                   | 先輩 |
 | boarding students                                        | **?**                                     | 寮生 |
+| convenience store                                        | круглосуточный магазин                    | コンビニ |
 | cool 'allule'                                            | холодная крас**н**ота                     | くーるびゅーちー |
 | disabled access                                          | **?**                                     | バリアフリー |
 | dorm mother                                              | горничная                                 | 寮母 |

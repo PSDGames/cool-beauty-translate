@@ -54,6 +54,7 @@
 | **Второстепенные персонажи**                             |                                           | |
 | [Hat](http://puu.sh/jrxdh/81e278893f.png)                | Хат                                       | ハット |
 | [Hotaru Himegi](http://puu.sh/jrxcF/39bed8c19b.png)      | Хотару Химеги                             | 姫城 ほたる（ひめぎ ほたる） |
+| Kumoi Akari                                              | Кумои Акари                               | 雲居 朱莉（くもい あかり） |
 | [Masatsugu Tasaki](http://puu.sh/jrxcX/0dfbb06ea0.png)   | Масацугу Тасаки (он же Ма-бо)             | 田崎 柾次（たさき まさつぐ） |
 | Ma-bou                                                   | Ма-бо                                     | マー坊 |
 | [Tatsuya Igarasashi](http://puu.sh/jrxcS/c2110205ee.png) | Тацуя Игараси (он же Ан-тян)              | 五十嵐 達也（いがらし たつや） |

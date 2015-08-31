@@ -103,9 +103,9 @@
 | whole tomatoes                                           | маринованные томаты                       | ホールトマト |
 | yakisoba                                                 | якисоба                                   | 焼きそば |
 | **Терминология**                                         |                                           | |
-| fighter planes                                           | **?**                                     | 戦闘機 |
-| Jumbo jet                                                | **?**                                     | ジャンボジェット |
-| small Cessna                                             | **?**                                     | 小型セスナ |
+| fighter plane                                            | истребитель                               | 戦闘機 |
+| Jumbo jet                                                | Джамбо Джет                               | ジャンボジェット |
+| Cessna                                                   | Сессна                                    | セスナ |
 | body                                                     | фюзеляж                                   | 胴体 |
 | tailplanes                                               | хвостовое оперение                        | 尾翼 |
 | horizontal tailplane                                     | стабилизатор                              | 水平尾翼 |

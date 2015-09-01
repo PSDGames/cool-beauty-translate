@@ -54,7 +54,7 @@
 | **Второстепенные персонажи**                             |                                           | |
 | [Hat](http://puu.sh/jrxdh/81e278893f.png)                | Хат                                       | ハット |
 | [Hotaru Himegi](http://puu.sh/jrxcF/39bed8c19b.png)      | Хотару Химеги                             | 姫城 ほたる（ひめぎ ほたる） |
-| Kumoi Akari                                              | Кумои Акари                               | 雲居 朱莉（くもい あかり） |
+| [Kumoi Akari](http://puu.sh/jW5f0/ace8f677ae.png)        | Кумои Акари                               | 雲居 朱莉（くもい あかり） |
 | [Masatsugu Tasaki](http://puu.sh/jrxcX/0dfbb06ea0.png)   | Масацугу Тасаки (он же Ма-бо)             | 田崎 柾次（たさき まさつぐ） |
 | Ma-bou                                                   | Ма-бо                                     | マー坊 |
 | [Tatsuya Igarasashi](http://puu.sh/jrxcS/c2110205ee.png) | Тацуя Игараси (он же Ан-тян)              | 五十嵐 達也（いがらし たつや） |
@@ -74,7 +74,7 @@
 | Keifuu Private Academy Student Dormitory                 | частное школьное общежитие академии Кеифу | 私立恵風学園の学生寮 |
 | Seisen Girls High School                                 | Старшая школа для девушек Сейсен          | 清泉（せいせん） |
 | Soaring Club                                             | Парящий клуб                              | ソアリング部 |
-| Super Repeat Student                                     | **?**                                     | 超留年生 |
+| Super Repeat Student                                     | Абсолютный Семпай                         | 超留年生 |
 | Taiyouken                                                | Таиёкен                                   | 太陽軒 |
 | Windmill Hill                                            | Мельничный холм                           | 風車の丘 |
 | Windy                                                    | Ветра                                     | ウィンディ |

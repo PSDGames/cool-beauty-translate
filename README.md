@@ -127,7 +127,9 @@
 | owner-caretaker                                          | хозяйка (хозяйка общежития)               | オーナー兼管理人さん |
 | owner-janitor                                            | см. owner-caretaker                       | オーナー兼管理人さん |
 | shopping mall                                            | торговый центр                            | ショッピングモール |
+| student council                                          | ученический совет                         | 生徒会 |
 | supermarket                                              | супермаркет                               | スーパー |
+| vice president                                           | заместитель президента                    | 副会長 |
 | windmill                                                 | ветряк                                    | 風車 |
 | withdrawal notice                                        | заявление об уходе                        | 退学届け |
 | yen                                                      | иена                                      | 円 |

@@ -73,7 +73,6 @@
 | Keifuu Academy                                           | Академия Кеифу                            | 恵風学園 |
 | Keifuu Private Academy Student Dormitory                 | частное школьное общежитие академии Кеифу | 私立恵風学園の学生寮 |
 | Seisen Girls High School                                 | Старшая школа для девушек Сейсен          | 清泉（せいせん） |
-| Soaring Club                                             | Парящий клуб                              | ソアリング部 |
 | Super Repeat Student                                     | Абсолютный Семпай                         | 超留年生 |
 | Taiyouken                                                | Таиёкен                                   | 太陽軒 |
 | Windmill Hill                                            | Мельничный холм                           | 風車の丘 |
@@ -112,10 +111,14 @@
 | vertical tailplane                                       | киль                                      | 垂直尾翼 |
 | lift                                                     | подъёмная сила                            | 揚力 |
 | Bernoulli's theorem                                      | закон Бернулли                            | ベルヌイの定理 |
+| **Клубы и кружки**                                       |                                           | |
+| Soaring Club                                             | Парящий клуб                              | ソアリング部 |
 | **Прочие**                                               |                                           | |
 | -chan                                                    | -тян                                      | ちゃん |
 | -senpai                                                  | -семпай                                   | 先輩 |
+| abolish, repeal, revoke                                  | **?**                                     | 廃部 |
 | boarding students                                        | **?**                                     | 寮生 |
+| circle                                                   | кружок                                    | サークル |
 | convenience store                                        | круглосуточный магазин                    | コンビニ |
 | cool 'allule'                                            | холодная крас**н**ота                     | くーるびゅーちー |
 | disabled access                                          | **?**                                     | バリアフリー |

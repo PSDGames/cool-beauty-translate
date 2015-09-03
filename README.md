@@ -113,6 +113,7 @@
 | Bernoulli's theorem                                      | закон Бернулли                            | ベルヌイの定理 |
 | **Клубы и кружки**                                       |                                           | |
 | Soaring Club                                             | Парящий клуб                              | ソアリング部 |
+| Taiko Drum Study Society                                 | **?**                                     | |
 | **Прочие**                                               |                                           | |
 | -chan                                                    | -тян                                      | ちゃん |
 | -senpai                                                  | -семпай                                   | 先輩 |

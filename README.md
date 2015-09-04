@@ -114,10 +114,16 @@
 | Bernoulli's theorem                                      | закон Бернулли                            | ベルヌイの定理 |
 | **Клубы и кружки**                                       |                                           | |
 | Soaring Club                                             | Парящий клуб                              | ソアリング部 |
+| Film Studies Group                                       | **?**                                     | 映研 |
+| Light Music Club                                         | клуб лёгкой музыки                        | 軽音部 |
+| Photography Club                                         | **?**                                     | 写真部 |
+| R. C. Club                                               | **?**                                     | ラジコン部 |
+| Robotics Club                                            | клуб робототехники                        | ロボット部 |
 | Taiko Drum Study Society                                 | школьное сообщество барабанщиков тайко    | 和太鼓研究会 |
 | **Прочие**                                               |                                           | |
 | -chan                                                    | -тян                                      | ちゃん |
 | -senpai                                                  | -семпай                                   | 先輩 |
+| -sensei                                                  | -сенсей                                   | 先生 |
 | abolish, repeal, revoke                                  | **?**                                     | 廃部 |
 | boarding students                                        | **?**                                     | 寮生 |
 | circle                                                   | кружок                                    | サークル |

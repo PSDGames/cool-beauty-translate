@@ -52,8 +52,10 @@
 | [Sanae](http://puu.sh/jrxd4/a9e2338e4d.png)              | Санае                                     | 早苗（さなえ） |
 | [Yuka](http://puu.sh/jrxde/d7c12046dd.png)               | Юка                                       | 由佳（ゆか） |
 | **Второстепенные персонажи**                             |                                           | |
+| [Akari Kumoi](http://puu.sh/jW5f0/ace8f677ae.png)        | Акари Кумои                               | 雲居 朱莉（くもい あかり） |
 | [Hat](http://puu.sh/jrxdh/81e278893f.png)                | Хат                                       | ハット |
 | [Hotaru Himegi](http://puu.sh/jrxcF/39bed8c19b.png)      | Хотару Химеги                             | 姫城 ほたる（ひめぎ ほたる） |
+| [Kujira Tobioka](http://puu.sh/jZtDV/d075fdf694.png)     | Кудзира Тобиока                           | 飛岡 鯨 (とびおか くじら) |
 | [Masatsugu Tasaki](http://puu.sh/jrxcX/0dfbb06ea0.png)   | Масацугу Тасаки (он же Ма-бо)             | 田崎 柾次（たさき まさつぐ） |
 | Ma-bou                                                   | Ма-бо                                     | マー坊 |
 | [Tatsuya Igarasashi](http://puu.sh/jrxcS/c2110205ee.png) | Тацуя Игараси (он же Ан-тян)              | 五十嵐 達也（いがらし たつや） |
@@ -72,8 +74,7 @@
 | Keifuu Academy                                           | Академия Кеифу                            | 恵風学園 |
 | Keifuu Private Academy Student Dormitory                 | частное школьное общежитие академии Кеифу | 私立恵風学園の学生寮 |
 | Seisen Girls High School                                 | Старшая школа для девушек Сейсен          | 清泉（せいせん） |
-| Soaring Club                                             | Парящий клуб                              | ソアリング部 |
-| Super Repeat Student                                     | **?**                                     | 超留年生 |
+| Super Repeat Student                                     | Абсолютный Семпай                         | 超留年生 |
 | Taiyouken                                                | Таиёкен                                   | 太陽軒 |
 | Windmill Hill                                            | Мельничный холм                           | 風車の丘 |
 | Windy                                                    | Ветра                                     | ウィンディ |
@@ -102,19 +103,30 @@
 | whole tomatoes                                           | маринованные томаты                       | ホールトマト |
 | yakisoba                                                 | якисоба                                   | 焼きそば |
 | **Терминология**                                         |                                           | |
-| fighter planes                                           | **?**                                     | 戦闘機 |
-| Jumbo jet                                                | **?**                                     | ジャンボジェット |
-| small Cessna                                             | **?**                                     | 小型セスナ |
+| fighter plane                                            | истребитель                               | 戦闘機 |
+| Jumbo jet                                                | Джамбо Джет                               | ジャンボジェット |
+| Cessna                                                   | Сессна                                    | セスナ |
 | body                                                     | фюзеляж                                   | 胴体 |
 | tailplanes                                               | хвостовое оперение                        | 尾翼 |
 | horizontal tailplane                                     | стабилизатор                              | 水平尾翼 |
 | vertical tailplane                                       | киль                                      | 垂直尾翼 |
 | lift                                                     | подъёмная сила                            | 揚力 |
 | Bernoulli's theorem                                      | закон Бернулли                            | ベルヌイの定理 |
+| **Клубы и кружки**                                       |                                           | |
+| Soaring Club                                             | Парящий клуб                              | ソアリング部 |
+| Film Studies Group                                       | **?**                                     | 映研 |
+| Light Music Club                                         | клуб лёгкой музыки                        | 軽音部 |
+| Photography Club                                         | **?**                                     | 写真部 |
+| R. C. Club                                               | **?**                                     | ラジコン部 |
+| Robotics Club                                            | клуб робототехники                        | ロボット部 |
+| Taiko Drum Study Society                                 | школьное сообщество барабанщиков тайко    | 和太鼓研究会 |
 | **Прочие**                                               |                                           | |
 | -chan                                                    | -тян                                      | ちゃん |
 | -senpai                                                  | -семпай                                   | 先輩 |
+| -sensei                                                  | -сенсей                                   | 先生 |
+| abolish, repeal, revoke                                  | **?**                                     | 廃部 |
 | boarding students                                        | **?**                                     | 寮生 |
+| circle                                                   | кружок                                    | サークル |
 | convenience store                                        | круглосуточный магазин                    | コンビニ |
 | cool 'allule'                                            | холодная крас**н**ота                     | くーるびゅーちー |
 | disabled access                                          | **?**                                     | バリアフリー |
@@ -126,7 +138,9 @@
 | owner-caretaker                                          | хозяйка (хозяйка общежития)               | オーナー兼管理人さん |
 | owner-janitor                                            | см. owner-caretaker                       | オーナー兼管理人さん |
 | shopping mall                                            | торговый центр                            | ショッピングモール |
+| student council                                          | ученический совет                         | 生徒会 |
 | supermarket                                              | супермаркет                               | スーパー |
+| vice president                                           | заместитель президента                    | 副会長 |
 | windmill                                                 | ветряк                                    | 風車 |
 | withdrawal notice                                        | заявление об уходе                        | 退学届け |
 | yen                                                      | иена                                      | 円 |

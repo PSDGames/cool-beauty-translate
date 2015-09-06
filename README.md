@@ -52,9 +52,10 @@
 | [Sanae](http://puu.sh/jrxd4/a9e2338e4d.png)              | Санае                                     | 早苗（さなえ） |
 | [Yuka](http://puu.sh/jrxde/d7c12046dd.png)               | Юка                                       | 由佳（ゆか） |
 | **Второстепенные персонажи**                             |                                           | |
+| [Akari Kumoi](http://puu.sh/jW5f0/ace8f677ae.png)        | Акари Кумои                               | 雲居 朱莉（くもい あかり） |
 | [Hat](http://puu.sh/jrxdh/81e278893f.png)                | Хат                                       | ハット |
 | [Hotaru Himegi](http://puu.sh/jrxcF/39bed8c19b.png)      | Хотару Химеги                             | 姫城 ほたる（ひめぎ ほたる） |
-| [Kumoi Akari](http://puu.sh/jW5f0/ace8f677ae.png)        | Кумои Акари                               | 雲居 朱莉（くもい あかり） |
+| [Kujira Tobioka](http://puu.sh/jZtDV/d075fdf694.png)     | Кудзира Тобиока                           | 飛岡 鯨 (とびおか くじら) |
 | [Masatsugu Tasaki](http://puu.sh/jrxcX/0dfbb06ea0.png)   | Масацугу Тасаки (он же Ма-бо)             | 田崎 柾次（たさき まさつぐ） |
 | Ma-bou                                                   | Ма-бо                                     | マー坊 |
 | [Tatsuya Igarasashi](http://puu.sh/jrxcS/c2110205ee.png) | Тацуя Игараси (он же Ан-тян)              | 五十嵐 達也（いがらし たつや） |
@@ -113,10 +114,16 @@
 | Bernoulli's theorem                                      | закон Бернулли                            | ベルヌイの定理 |
 | **Клубы и кружки**                                       |                                           | |
 | Soaring Club                                             | Парящий клуб                              | ソアリング部 |
-| Taiko Drum Study Society                                 | **?**                                     | |
+| Film Studies Group                                       | **?**                                     | 映研 |
+| Light Music Club                                         | клуб лёгкой музыки                        | 軽音部 |
+| Photography Club                                         | **?**                                     | 写真部 |
+| R. C. Club                                               | **?**                                     | ラジコン部 |
+| Robotics Club                                            | клуб робототехники                        | ロボット部 |
+| Taiko Drum Study Society                                 | школьное сообщество барабанщиков тайко    | 和太鼓研究会 |
 | **Прочие**                                               |                                           | |
 | -chan                                                    | -тян                                      | ちゃん |
 | -senpai                                                  | -семпай                                   | 先輩 |
+| -sensei                                                  | -сенсей                                   | 先生 |
 | abolish, repeal, revoke                                  | **?**                                     | 廃部 |
 | boarding students                                        | **?**                                     | 寮生 |
 | circle                                                   | кружок                                    | サークル |

@@ -8,7 +8,7 @@
 | CO1_006   |  478 | 25476 | [Tzapil](https://github.com/Tzapil) | 30.07.2015 |
 | CO1_007   |  329 | 16903 | [mongolrgata](https://github.com/mongolrgata) | 31.08.2015 |
 | CO1_008   |  305 | 16114 | [mongolrgata](https://github.com/mongolrgata) | 04.09.2015 |
-| CO1_009   |  682 | 35084 | | |
+| CO1_009   |  682 | 35084 | [mongolrgata](https://github.com/mongolrgata) | 23.09.2015 |
 | CO1_010   |  188 |  9267 | | |
 | CO1_011   |  309 | 15461 | | |
 | CO1_012   |  421 | 21771 | | |

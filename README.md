@@ -46,7 +46,7 @@
 | [Amane Mochizuki](http://puu.sh/jrxch/0b22c98835.png)    | Амане Мотидзуки                           | 望月 天音（もちづき あまね） |
 | [Asa Kazato](http://puu.sh/jrxct/4b62c18cfd.png)         | Аса Кадзато                               | 風戸 亜紗（かざと あさ） |
 | [Yoru Kazato](http://puu.sh/jrxcx/e60a68cc78.png)        | Ёру Кадзато                               | 風戸 依瑠（かざと よる） |
-| **Сожители**                                             |                                           | |
+| **Соседи**                                             |                                           | |
 | [Kanako Shigure](http://puu.sh/jrxcJ/de61ffe585.png)     | Канако Сигуре                             | 時雨 佳奈子（しぐれ かなこ） |
 | [Ryouko](http://puu.sh/jrxd8/45a44ba5fe.png)             | Рёко                                      | 亮子（りょうこ） |
 | [Sanae](http://puu.sh/jrxd4/a9e2338e4d.png)              | Санае                                     | 早苗（さなえ） |
